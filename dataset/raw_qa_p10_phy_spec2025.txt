@@ -1,0 +1,1755 @@
+Section A
+Question 1(i)
+A moment of couple has a tendency to rotate the body in an anticlockwise direction. Then the moment of couple is taken as :
+
+positive
+negative
+maximum
+zero
+Answer
+
+positive
+
+Reason — Conventionally, if the effect on the body is to turn it anticlockwise, the moment of couple is called anticlockwise moment and it is taken positive, while if the effect on the body is to turn it clockwise, the moment of couple is called clockwise moment and it is taken negative.
+
+Question 1(ii)
+The kinetic energy of a given body depends on the :
+
+position
+centre of gravity of the body.
+momentum
+displacement
+Answer
+
+momentum
+
+Reason — As,
+
+Kinetic Energy
+=
+1
+2
+m
+v
+2
+Kinetic Energy= 
+2
+1
+​
+ mv 
+2
+ 
+
+And,
+
+Momentum (p) = mv
+
+Then,
+
+Kinetic Energy
+=
+1
+2
+m
+m
+2
+v
+2
+=
+p
+2
+2
+m
+Kinetic Energy= 
+2m
+1
+​
+ m 
+2
+ v 
+2
+ = 
+2m
+p 
+2
+ 
+​
+ 
+
+So, the kinetic energy of a given body depends on its momentum.
+
+Question 1(iii)
+For burning of coal in a thermoelectric station, the energy conversion taking place is :
+
+chemical to heat to mechanical
+chemical to heat to mechanical to electrical
+chemical to heat to light
+heat to chemical to mechanical
+Answer
+
+chemical to heat to mechanical to electrical
+
+Reason — For burning of coal in a thermoelectric station, the chemical energy of coal on burning changes into the heat energy of steam then in a steam engine, the heat energy of steam changes into the kinetic energy of the turbine in the form of rotational kinetic energy due to which it rotates the armature of the generator connected to it and thus kinetic energy gets transformed into electrical energy.
+
+Question 1(iv)
+The adjacent diagram shows the movable block of a block and tackle system with effort in a convenient direction. From the diagram we can conclude that the number of pulleys used in the fixed block are ............... .
+
+The adjacent diagram shows the movable block of a block and tackle system with effort in a convenient direction. From the diagram we can conclude that the number of pulleys used in the fixed block are.ICSE 2025 Specimen Physics Solved Question Paper.
+1
+3
+2
+4
+Answer
+
+2
+
+Reason — The diagram shows that the load is supported by two segment of strings, hence the number of pulleys used in the fixed block are two.
+
+Question 1(v)
+White light is dispersed by a prism. Inside the prism, compared to the blue light, the red light
+
+slows down less and refracts more
+slows down more and refracts less
+slows down more and refracts more
+slows down less and refracts less
+Answer
+
+slows down less and refracts less
+
+Reason — In a prism, the refractive index of a given transparent medium decreases with the increase in the wavelength of light. Thus, for visible light the refractive index of the material of a prism is greater for blue colour and minimum for red colour i.e., speed of red colour is greater than speed of blue colour. Consequently, a given prism deviates blue light more as compared to red light.
+
+Question 1(vi)
+An endoscope uses optic fiber to transmit high resolution images of internal organs without loss of information. The principle of light that is used by the optic fiber is based on :
+
+refraction
+reflection
+scattering
+total internal reflection
+Answer
+
+total internal reflection
+
+Reason — Total internal reflection is the principle that allows light to propagate through the core of an optical fiber by continuously reflecting off the inner walls of the fiber due to the angle at which it strikes those walls.
+
+Question 1(vii)
+A convex lens has focal length 12 cm with an object at a distance of 20 cm in front of the lens. He obtains a blurred image on the screen placed at a distance of 23 cm in front of the lens. In order to obtain the clear image, he has to move the screen
+
+towards the lens.
+away from the lens.
+to a position very far away from the lens.
+either towards or away from the lens.
+Answer
+
+away from the lens.
+
+Reason —
+
+Given,
+
+Focal length (f) = +12 cm
+
+Object distance (u) = -20 cm
+
+Blurred image distance (v') = +23 cm
+
+Let, clear image distance be v.
+
+From lens formula,
+
+1
+f
+=
+1
+v
+–
+1
+u
+1
+v
+=
+1
+f
++
+1
+u
+1
+v
+=
+1
+12
++
+1
+(
+−
+20
+)
+1
+v
+=
+1
+12
+−
+1
+20
+1
+v
+=
+5
+−
+3
+60
+=
+2
+60
+v
+=
+60
+2
+=
++
+30
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ – 
+u
+1
+​
+ 
+v
+1
+​
+ = 
+f
+1
+​
+ + 
+u
+1
+​
+ 
+v
+1
+​
+ = 
+12
+1
+​
+ + 
+(−20)
+1
+​
+ 
+v
+1
+​
+ = 
+12
+1
+​
+ − 
+20
+1
+​
+ 
+v
+1
+​
+ = 
+60
+5−3
+​
+ = 
+60
+2
+​
+ 
+v= 
+2
+60
+​
+ =+30 cm
+
+Now,
+
+Clear image distance (v) - Blurred image distance (v') = 30 - 23 = 7 cm
+
+So, in order to obtain the clear image, he has to move the screen 7 cm away from the lens.
+
+Question 1(viii)
+Assertion (A) : Infrared radiations travel long distance through a dense fog and mist.
+
+Reason (R) : Infrared radiations undergo minimal scattering in earth's atmosphere.
+
+both A and R are true and R is the correct explanation of A.
+both A and R are True and R is not the correct explanation of А.
+assertion is false but reason is true.
+assertion is true but reason is false.
+Answer
+
+both A and R are true and R is the correct explanation of A.
+
+Explanation:
+
+Assertion (A) is true : Infrared radiations can travel longer distances through fog and mist because they are less affected by scattering compared to visible light.
+
+Reason (R) is true : Infrared radiations have longer wavelengths, and scattering is inversely proportional to the wavelength. Hence, infrared rays undergo minimal scattering.
+
+Since minimal scattering allows infrared rays to penetrate dense fog and mist more effectively, the reason correctly explains the assertion.
+
+Question 1(ix)
+Two sound waves X and Y have the same amplitude and the same wave pattern but their frequencies are 60 Hz and 120 Hz respectively, then
+
+X will be shriller and Y will be grave
+X will be grave and Y will be shriller
+X will differ in quality than Y
+X is louder than Y
+Answer
+
+X will be grave and Y will be shriller
+
+Reason — The shrillness of a sound wave is directly proportional to its frequency, meaning that higher frequencies result in shriller sounds and lower frequencies result in grave sound.
+
+Question 1(x)
+The graph of voltage vs current for four different materials is shown below.
+
+The graph of voltage vs current for four different materials is shown below. ICSE 2025 Specimen Physics Solved Question Paper.
+Which of these four materials would be used for making filament of a bulb?
+
+Q
+S
+P
+R
+Answer
+
+P
+
+Reason — The filament of a bulb should produce a high heating effect so its resistance should be high. From the graph, slope of line for substance P is the greatest hence, resistance of P is highest. So, substance P is most suitable for making the filament of a bulb.
+
+Question 1(xi)
+According to the old convention, the colour of the earth wire is :
+
+black
+green
+yellow
+red
+Answer
+
+green
+
+Reason — In the old colour convention, green colour is used for earth wire.
+
+Question 1(xii)
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.
+
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Answer
+
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.ICSE 2025 Specimen Physics Solved Question Paper.
+Reason — As current is flowing in clockwise direction in the coil and according to clock rule if the current in wire around that face is in anticlockwise direction, the face has the north polarity, while if the current at that face is in clockwise direction, the face has the south polarity.
+
+Question 1(xiii)
+Heat capacity of a body is the :
+
+energy needed to melt a body without change in its temperature
+energy needed to raise the temperature of a body by 1°C
+increase in volume of the body when its temperature increases by 1°C
+total amount of internal energy that is constant
+Answer
+
+energy needed to raise the temperature of a body by 1°C
+
+Reason — The heat capacity of a body is the amount of heat energy required to raise its temperature by 1°C (or 1 K).
+
+Question 1(xiv)
+The amount of heat energy required to melt a given mass of a substance at its melting point without any rise in its temperature is called as the :
+
+specific heat capacity
+specific latent heat of fusion
+latent heat of fusion
+specific latent heat of freezing
+Answer
+
+latent heat of fusion
+
+Reason — Heat energy absorbed in change of phase that is not externally manifested by any rise in temperature is called the latent heat of fusion.
+
+Question 1(xv)
+A nucleus of an atom consists of 146 neutrons and 95 protons. It decays after emitting an alpha particle. How many protons and neutrons are left in the nucleus after an alpha emission?
+
+protons = 93, neutrons = 142
+protons = 95, neutrons = 144
+protons = 93, neutrons = 144
+protons = 95, neutrons = 142
+Answer
+
+protons = 93, neutrons = 144
+
+Reason — An alpha particle consists of two protons and two neutrons. Emission of alpha particle reduces the number of protons by 2 and also the number of neutrons by 2. Hence, number of protons = 95 - 2 = 93 and number of neutrons = 146 - 2 = 144.
+
+Question 2(i)
+Complete the following by choosing the correct answers from the bracket :
+
+(a) A ............... [class I/class II/Class III] lever will always have M.A. > 1.
+
+(b) In a block and tackle system, increase in the weight of the movable block ............... [decreases/does not affect/increases] the efficiency of the pulley system.
+
+(c) If the mass as well as the velocity of a body is doubled then the kinetic energy of the body ............... [is doubled/becomes eight times/becomes four times] the initial kinetic energy.
+
+(d) Unit of power used in mechanical engineering is ............... . [watt/horse power/erg per second]
+
+(e) Two copper wires can have the different ............... [resistivity/resistance] but will have same ............... .[resistance/resistivity]
+
+Answer
+
+(a) A class II lever will always have M.A. > 1.
+
+(b) In a block and tackle system, increase in the weight of the movable block decreases the efficiency of the pulley system.
+
+(c) If the mass as well as the velocity of a body is doubled then the kinetic energy of the body becomes eight times the initial kinetic energy.
+
+(d) Unit of power used in mechanical engineering is horse power.
+
+(e) Two copper wires can have the different resistance but will have same resistivity.
+
+Question 2(ii)
+Draw a graph of potential energy vs height for a body thrown vertically upwards. [Assume no friction is present.]
+
+Answer
+
+The graph of potential energy vs height for a body thrown vertically upwards is shown below where u(J) represents potential energy in joules and h(m) refers to height in metres.
+
+Draw a graph of potential energy vs height for a body thrown vertically upwards.ICSE 2025 Specimen Physics Solved Question Paper.
+Question 2(iii)
+(a) Name the waves used for echo depth sounding.
+
+(b) Give one reason for their use in the above purpose.
+
+Answer
+
+(a) Ultrasonic waves.
+
+(b) Ultrasonic waves are used for echo depth sounding because they travel long distance without deviation and is not easily absorbed by the medium or can be confined to a narrow beam.
+
+Question 3(i)
+(a) Refer to the diagram given below. A lens with two different refractive indices is shown. If the rays are coming from a distant object, then how many images will be seen?
+
+The adjacent diagram shows the movable block of a block and tackle system with effort in a convenient direction. From the diagram we can conclude that the number of pulleys used in the fixed block are.ICSE 2025 Specimen Physics Solved Question Paper.
+(b) A glass lens always forms a virtual, erect and diminished image of an object kept in front of it. Identify the lens.
+
+Answer
+
+(a) According to the lens maker formula :
+
+1
+f
+=
+(
+μ
+−
+1
+)
+(
+1
+R
+1
+−
+R
+2
+)
+f
+1
+​
+ =(μ−1)( 
+R 
+1
+​
+ −R 
+2
+​
+ 
+1
+​
+ )
+
+Focal length is a function of refractive index, hence for two different refractive indices there will be two different focal lengths.
+
+Two different focal length implies two different images for same object.
+
+Hence, 2 images will be formed.
+
+(b) Concave lens because irrespective of the position of the object, the image formed by a thin concave (or divergent) lens is always virtual, upright, diminished, and it is situated on the side of the object between the focus and the lens.
+
+Question 3(ii)
+If live wire makes an accidental contact with the metal case, which circuit (A or B) in the diagram, illustrating an electric iron, is considered safe for the user (Assuming the fuse is present in the live wire in both circuits)? Justify your answer.
+
+The adjacent diagram shows the movable block of a block and tackle system with effort in a convenient direction. From the diagram we can conclude that the number of pulleys used in the fixed block are.ICSE 2025 Specimen Physics Solved Question Paper.
+Answer
+
+The electric iron, is considered safe for the user in circuit A because in this circuit metal case is earthed so the person won't get an electric shock but in circuit B metal case is not earthed so the circuit will be completed through the body of the person giving him a shock.
+
+Question 3(iii)
+A transformer is used to change a high alternating e.m.f. to a low alternating e.m.f. of the same frequency.
+
+(a) Identify the type of transformer used for the above purpose.
+
+(b) State whether the turns ratio of the above transformer is = 1 or > 1 or < 1.
+
+Answer
+
+(a) Step down transformer since it is used to change a high alternating voltage to a low alternating voltage.
+
+(b) Turns ratio is n < 1, i.e., number of turns in the secondary are less than the number of turns in the primary.
+
+Question 3(iv)
+A solid of mass 60 g at 100°C is placed in 150 g of water at 20°C. The final steady temperature is 25°C. Calculate the heat capacity of solid.
+
+[Specific heat capacity of water = 4.2 Jg⁻¹K⁻¹]
+
+Answer
+
+Given,
+
+Mass of solid (ms) = 60 g
+
+Mass of water (mw) = 150 g
+
+Fall in temperature of solid (△ts) = (100 - 25) = 75°C
+
+Rise in temperature of water (△tw) = (25 - 20) = 5°C
+
+Specific heat capacity of water (cw) = 4.2 Jg⁻¹K⁻¹
+
+Let specific heat capacity of solid be cs.
+
+Then,
+
+Heat energy given by solid = mscs△ts = 60 x c x 75 = 4500 x c …..(1)
+
+Heat energy taken by water = mwcw△tw = 150 × 4.2 × 5 = 3150 …..(2)
+
+Assuming that there is no loss of heat energy,
+
+Heat energy given by solid = Heat energy taken by water.
+
+Equating equations 1 & 2, we get,
+
+4500 × cs = 3150
+
+c
+s
+=
+3150
+4500
+c 
+s
+​
+ = 
+4500
+3150
+​
+ 
+
+cs = 0.7 J g⁻¹ K⁻¹
+
+Now,
+
+Heat capacity of solid = mass x specific heat capacity = 60 x 0.7 = 42 J K⁻¹
+
+Hence, Heat capacity of solid = 42 J K⁻¹.
+
+Question 3(v)
+(a) Name the principle of AC generator.
+
+(b) State its one use.
+
+Answer
+
+(a) Faraday's first law or principle of electromagnetic induction.
+
+(b) It is used as a back-up for the lifts in tall buildings in case of electricity failure.
+
+Question 3(vi)
+(a) Name the radiations that are emitted during the decay of a nucleus, which has highest penetrating power?
+
+(b) Does the emission of the above-mentioned radiation result in a change in the mass number?
+
+Answer
+
+(a) Gamma (γ) radiation.
+
+(b) No, the emission of gamma radiation does not result in a change in the mass number as they are a form of electromagnetic radiation, essentially high-energy photons, and they have no mass or charge. Since they are massless, their emission does not affect the number of protons or neutrons in the nucleus, and therefore the mass number remains unchanged.
+
+Question 3(vii)
+The graph (fig A) illustrates the correlation between the number of protons (x-axis) and the number of neutrons (y-axis) for elements A, В, C, D, and E in the periodic table. These elements are denoted by the letters rather than their conventional symbols. When the element C, depicted in the graph, undergoes radioactive decay, it releases radioactive rays. When these rays are directed into the plane of the paper in the presence of a magnetic field, as indicated in the fig B, they experience deflection, causing them to move upwards.
+
+The graph fig A illustrates the correlation between the number of protons. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) Name the radioactive radiations emitted by the element C.
+
+(b) Identify the daughter element from the graph.
+
+(c) Name the law used to identify the radioactive radiations emitted by the element.
+
+Answer
+
+(a) Beta radiations.
+
+(b) The daughter element is E because emission of beta particle reduces one neutron from C and increases it's one proton so the element with one neutron less than C and one excess proton will be the daughter element which is clearly E as seen from the graph.
+
+(c) Fleming's left hand rule.
+
+Section B
+
+Question 4(i)
+The diagram below shows a fish in the tank and its image seen in the surface of water.
+
+The diagram shows a fish in the tank and its image seen in the surface of water. Name the phenomenon responsible for the formation of this image. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) Name the phenomenon responsible for the formation of this image.
+
+(b) A double convex lens with refractive index μ1 inside two liquids of refractive indices μ2 and μ3 are shown in the diagrams below. The refractive indices are such that μ2 > μ1 and μ1 > μ3
+
+A double convex lens with refractive index μ1 inside two liquids of refractive indices μ2 and μ3 are shown in the diagrams below. ICSE 2025 Specimen Physics Solved Question Paper.
+How would a parallel incident beam of light refract when it comes out of the lens in each of the cases shown above?
+
+(1) in figure a.
+
+(2) in figure b.
+
+Answer
+
+(a) Total internal reflection.
+
+(b) According to the lens maker formula :
+
+1
+f
+∝
+(
+refractive index of 2nd medium
+refractive index of 1st medium
+−
+1
+)
+f
+1
+​
+ ∝( 
+refractive index of 1st medium
+refractive index of 2nd medium
+​
+ −1) ......(i)
+
+(1) In figure a :
+
+Refractive index of 1st medium = μ3
+
+Refractive index of 2nd medium = μ1
+
+Then ,from relation (i)
+
+1
+f
+∝
+(
+μ
+1
+μ
+3
+−
+1
+)
+f
+1
+​
+ ∝( 
+μ 
+3
+​
+ 
+μ 
+1
+​
+ 
+​
+ −1)
+
+As,
+
+μ1 > μ3
+
+⇒
+μ
+1
+μ
+3
+>
+1
+⇒
+1
+f
+>
+0
+⇒
+f
+>
+0
+⇒ 
+μ 
+3
+​
+ 
+μ 
+1
+​
+ 
+​
+ >1
+⇒ 
+f
+1
+​
+ >0
+⇒f>0
+
+Since, the resulting focal length is positive so this lens behaves as a converging lens.
+
+Hence, a parallel incident beam of light converges when it comes out of the lens im figure a.
+
+(2) In figure b :
+
+Refractive index of 1st medium = μ2
+
+Refractive index of 2nd medium = μ1
+
+Then, from relation (i)
+
+1
+f
+∝
+(
+μ
+1
+μ
+2
+−
+1
+)
+f
+1
+​
+ ∝( 
+μ 
+2
+​
+ 
+μ 
+1
+​
+ 
+​
+ −1)
+
+As,
+
+μ1 < μ2
+
+⇒
+μ
+1
+μ
+2
+<
+1
+⇒
+1
+f
+<
+0
+⇒
+f
+<
+0
+⇒ 
+μ 
+2
+​
+ 
+μ 
+1
+​
+ 
+​
+ <1
+⇒ 
+f
+1
+​
+ <0
+⇒f<0
+
+Since, the resulting focal length is negative so this lens behaves as a diverging lens.
+
+Hence, a parallel incident beam of light diverges when it comes out of the lens im figure b.
+
+Question 4(ii)
+The refractive index of water is 1.33 at a certain temperature. When the temperature of water is increased by 40 °C, the refractive index changes to 'x'.
+
+(a) State whether x < 1.33 or x > 1.33.
+
+(b) State two differences between normal reflection and total internal reflection.
+
+Answer
+
+(a) AS, the refractive index of a medium decreases with increase in temperature, so when the temperature of water is increased by 40 °C then it refractive index will decreases and hence new refractive index will be smaller than 1.33.
+
+Hence, X < 1.33.
+
+(b)
+
+ 	Normal reflection	Total internal reflection
+(i)	Takes place in any medium, denser or rarer.	Takes place only in a denser medium.
+(ii)	Takes place for any angle of incidence.	Takes place only when the angle of incidence is greater than critical angle.
+Question 4(iii)
+(a) Mixture of red + blue + green is passed through a convex lens as shown in the diagram below. State whether the ray passes through a single point or through different points on the principal axis after refraction.
+
+Mixture of red + blue + green is passed through a convex lens as shown in the diagram below. State whether the ray passes through a single point or through different points on the principal axis after refraction. ICSE 2025 Specimen Physics Solved Question Paper.
+(b) Name the invisible radiations which are studied using the quartz prism.
+
+(c) State one use of these radiations.
+
+(d) Name one radiation having the wavelength longer than the wavelength of these radiations.
+
+Answer
+
+(a) The ray will pass through different points on principal axis after refraction through the convex lens as the refractive index of a medium decreases with the increase in wavelength so red colour will deviate the least, followed by green and then blue will deviate the most.
+
+(b) Ultraviolet radiations.
+
+(c) Ultraviolet radiations are used for sterilizing air, surgical equipment, etc.
+
+(d) Infrared radiation.
+
+Question 5(i)
+An object is placed at a distance 24 cm in front of a convex lens of focal length 8 cm.
+
+(a) What is the nature of the image so formed?
+
+(b) Calculate the distance of the image from the lens.
+
+Answer
+
+(a) As, the object distance (= 24 cm) is greater than the focal length (= 8 cm) of the convex lens which means the object placed beyond it's focus so the lens will form a real and inverted image.
+
+(b)
+
+Given,
+
+Object distance (u) = - 24 cm
+
+Focal length (f) = +8 cm
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+1
+v
+=
+1
+f
++
+1
+u
+1
+v
+=
+1
+8
++
+1
+(
+−
+24
+)
+[
+1
+e
+m
+]
+1
+v
+=
+1
+8
+−
+1
+24
+1
+v
+=
+3
+−
+1
+24
+1
+v
+=
+2
+24
+v
+=
+24
+2
+v
+=
+12
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+v
+1
+​
+ = 
+f
+1
+​
+ + 
+u
+1
+​
+ 
+v
+1
+​
+ = 
+8
+1
+​
+ + 
+(−24)
+1
+​
+ 
+[1em] 
+v
+1
+​
+ = 
+8
+1
+​
+ − 
+24
+1
+​
+ 
+v
+1
+​
+ = 
+24
+3−1
+​
+ 
+v
+1
+​
+ = 
+24
+2
+​
+ 
+v= 
+2
+24
+​
+ 
+v=12 cm
+
+∴ The image is formed at a distance of 12 cm behind the lens.
+
+Question 5(ii)
+When sunlight passes through water droplets in the atmosphere it gets dispersed into its constituent colours forming a rainbow. A similar phenomenon is observed when white light passes through a prism.
+
+(a) Which colour will show the maximum angle of deviation and which colour will show the minimum angle of deviation?
+
+(b) If Instead of sunlight, a green-coloured ray is passed through a glass prism. What will be the colour of the emergent ray?
+
+Answer
+
+(a) As the angle of deviation depends directly on the refractive index of a given transparent medium which is itself inversely proportional to the wavelength of light so the angle of deviation decreases with the increase in the wavelength of light. Thus, for visible light the angle of deviation of a prism is maximum for violet colour and minimum for red colour.
+
+(b) A green-coloured ray is a single colour light and hence a prism can not split a single light so the emergent ray will be of green colour.
+
+Question 5(iii)
+O is a luminescent particle trapped inside a glass block. A student traces the path of rays coming out of it and reflecting over a plane mirror as shown in the diagram below.
+
+O is a luminescent particle trapped inside a glass block. A student traces the path of rays coming out of it and reflecting over a plane mirror as shown in the diagram below. ICSE 2025 Specimen Physics Solved Question Paper.
+Complete the table, using the labels from the figure. The first label is done for you.
+
+S. No.	Description	Label
+a.	an angle of reflection on the mirror	a
+b.	a partially reflected ray in the glass slab	
+c.	a critical angle	
+d.	a refracted ray	
+e.	an angle of refraction of the ray R	
+Answer
+
+S. No.	Description	Label
+a.	an angle of reflection on the mirror	a
+b.	a partially reflected ray in the glass slab	U
+c.	a critical angle	c
+d.	a refracted ray	Q
+e.	an angle of refraction of the ray R	90° - e
+Question 6(i)
+A metal rod AB of length 80 cm is balanced at 45 cm from the end A with 100 gf weights suspended from the two ends.
+
+A metal rod AB of length 80 cm is balanced at 45 cm from the end A with 100 gf weights suspended from the two ends. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) If this rod is cut at the centre C, then compare the weight of AC to the weight of BC.
+
+(b) Give a reason for your answer in (a)
+
+Answer
+
+Given,
+
+Weight at the end A (WA) = 100 gf
+
+Weight at the end B (WB) = 100 gf
+
+Length of the rod (L) = 80 cm
+
+Distance of A from the fulcrum (lA) = 45 cm
+
+Distance of B from the fulcrum (lB) = 80 cm - 45 cm = 35 cm
+
+Let,
+
+Weight of the rod AC is (WAC) and distance of centre of gravity of the rod AC from the fulcrum is (lAC).
+
+And
+
+Weight of the rod BC is (WBC) and distance of centre of gravity of the rod BC from the fulcrum is (lBC).
+
+Here,
+
+(lAC) = 45 - 20 = 25 cm,
+
+(lBC) = 60 - 45 = 15 cm,
+
+Now,
+
+Anticlockwise moment (due to weight of 100 gf at end A and weight of rod AC) = lA x WA + lAC x WAC = 45 x 100 + 25 x WAC
+
+Clockwise moment (due to weight of 100 gf at end B and weight of rod BC) = lB x WB + lBC x WBC = 35 x 100 + 15 x WBC
+
+As system is balanced then for equilibrium,
+
+Anticlockwise moment of force about the fulcrum = Clockwise moment of force about the fulcrum
+
+45 x 100 + 25 x WAC = 35 x 100 + 15 x WBC
+
+⇒ 4500 + 25WAC = 3500 + 15WBC
+
+⇒ 15WBC - 25WAC = 4500 - 3500 = 1000
+
+⇒ 3WBC - 5WAC = 200
+
+⇒ 3WBC - 5WAC > 0
+
+⇒ 3WBC > 5WAC
+
+⇒
+W
+BC
+W
+AC
+>
+5
+3
+>
+1
+⇒ 
+W 
+AC
+​
+ 
+W 
+BC
+​
+ 
+​
+ > 
+3
+5
+​
+ >1
+
+⇒ WBC > WAC
+
+Hence, weight of AC < weight of BC.
+
+(b) Even though the weights present are the same at both ends and the torque arm of B is less than the torque arm of A. This means the moment of the weight of the rod acts from side B and the C.G. lies beyond 45. Thus, more weight is concentrated between C to B.
+
+Question 6(ii)
+For each of the following scenarios, state whether the work done by gravity is positive, negative, or zero.
+
+(a) a person walks on a levelled road.
+
+(b) a person climbs a ladder.
+
+(c) a car in neutral gear is coming down the slope.
+
+Answer
+
+(a) Zero because when a person walks on a levelled, no work is done against the force of gravity as the displacement of the person is normal to the direction of force of gravity which is vertically downwards.
+
+(b) Negative because when a person climbs a ladder (upward), the displacement covered by the person is opposite to the direction of force of gravity (downwards), so the work done on the person by the force of gravity is negative.
+
+(c) Positive because when a car in neutral gear is coming down the slope, the direction of displacement covered by it is parallel to the direction of force of gravity (downwards), so the work done on the car by the force of gravity is positive.
+
+Question 6(iii)
+The figure below shows a simple pendulum of mass 200 g. It is displaced from the mean position A to the extreme position B. The potential energy at the position A is zero. At the position B the pendulum bob is raised by 5 m.
+
+The figure below shows a simple pendulum of mass 200 g. It is displaced from the mean position A to the extreme position B. The potential energy at the position A is zero. At the position B the pendulum bob is raised by 5 m. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) What is the potential energy of the pendulum at the position В?
+
+(b) What is the total mechanical energy at point C?
+
+(c) What is the speed of the bob at the position A when released from B?
+
+(Take g = 10 ms-2 and given that there is no loss of energy.)
+
+Answer
+
+Given,
+
+h = 5 m,
+
+m = 200 g = 0.2 kg,
+
+g = 10 ms-2
+
+(a) Potential energy UB at B is given by
+
+UB = m x g x h
+
+Substituting the values we get,
+
+UB = 0.2 x 10 x 5
+
+⇒ UB = 10 J
+
+Hence, the potential energy of the pendulum at the position B = 10 J.
+
+(b) Total mechanical energy at point C = 10 J
+
+The total mechanical energy is same at all points of the path due to conservation of mechanical energy.
+
+(c) At A, bob has only kinetic energy which is equal to potential energy at B,
+
+Therefore,
+
+1
+2
+m
+v
+A
+2
+=
+U
+B
+⇒
+0.5
+×
+0.2
+×
+v
+A
+2
+=
+10
+⇒
+v
+A
+2
+=
+10
+0.1
+⇒
+v
+A
+=
+100
+=
+10
+ m
+s
+−
+1
+2
+1
+​
+ mv 
+A
+2
+​
+ =U 
+B
+​
+ 
+⇒0.5×0.2×v 
+A
+2
+​
+ =10
+⇒v 
+A
+2
+​
+ = 
+0.1
+10
+​
+ 
+⇒v 
+A
+​
+ = 
+100
+​
+ =10 ms 
+−1
+ 
+
+Question 7(i)
+A block and tackle system of pulleys has velocity ratio 4.
+
+(a) Draw a labelled diagram of the system indicating clearly, the direction of the load and effort.
+
+(b) Calculate the potential energy of the load 100 kgf lifted by this pulley to a height 5 m. (g = 10 ms-2)
+
+Answer
+
+(a)The labelled diagram of the system indicating clearly, the direction of the load and effort is shown below :
+
+The labelled diagram of the system indicating clearly, the direction of the load and effort is shown below. ICSE 2025 Specimen Physics Solved Question Paper.
+(b) Given,
+
+m = 100 kg
+
+h = 5 m
+
+g = 10 ms-2
+
+Then,
+
+Potential Energy (U) = mgh = 100 × 10 × 5 = 5000 J
+
+Question 7(ii)
+A person standing in front of a cliff fires a gun and hears its echo after 3s. If the speed of sound in air is 336 ms-1.
+
+(a) Calculate the distance of the person from the cliff.
+
+(b) After moving a certain distance from the cliff, he fires the gun again and this time the echo is heard 1.5 s later than the first. Calculate the distance that the person moved.
+
+Answer
+
+(a) Given,
+
+Time taken to hear the echo = 3s
+
+Speed of sound = 336 ms-1
+
+So,
+
+Distance of the person from the cliff
+=
+Speed of sound
+×
+Time taken
+2
+=
+336
+×
+3
+2
+=
+1008
+2
+=
+504
+ m
+Distance of the person from the cliff= 
+2
+Speed of sound×Time taken
+​
+ 
+= 
+2
+336×3
+​
+ = 
+2
+1008
+​
+ 
+=504 m
+
+So, distance of the person from the cliff is 504 m.
+
+(b) Given,
+
+Time taken to hear the new echo = 3 s + 1.5 s = 4.5 s
+
+So,
+
+New distance of the person from the cliff
+=
+Speed of sound
+×
+Time taken
+2
+=
+336
+×
+4.5
+2
+=
+1512
+2
+=
+756
+ m
+New distance of the person from the cliff= 
+2
+Speed of sound×Time taken
+​
+ 
+= 
+2
+336×4.5
+​
+ = 
+2
+1512
+​
+ 
+=756 m
+
+Distance moved by the person = 756 - 504 = 252 m
+
+So, distance moved by the person is 252 m.
+
+Question 7(iii)
+The below picture shows a mother pushing her daughter sitting on a swing. The swing is going through the positions A, B, C where A and C are extreme positions and B is the mean position.
+
+The below picture shows a mother pushing her daughter sitting on a swing. The swing is going through the positions A, B, C where A and C are extreme positions and B is the mean position. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) Which is the right position i.e. at A, B or C, for the mother to give a constant periodic push to the swing every time in the forward direction to increase the amplitude of the swing?
+
+(b) Name the phenomenon involved in this.
+
+(c) Explain with this example how this phenomenon helps to increase the amplitude of the swing.
+
+Answer
+
+(a) At position A, the mother should give a constant periodic push to the swing every time in the forward direction to increase the amplitude of the swing because it is an extreme position where speed of the swing is zero and direction of motion changes from backward direction to forward so at this position direction of motion and direction of push are in parallel while for C it is opposite and B speed is maximum on either direction which can collide with mother and hurt her.
+
+(b) Resonance phenomenon.
+
+(c) The natural frequency of the swing will match the frequency of the force applied by mother this will increase the amplitude.
+
+Question 8(i)
+The circuit depicted in the figure is employed for studying Ohm's Law. Instead of using a standard resistor, a student opts for a glass tube filled with mercury (tube 1), connected to the circuit through two electrodes E1 & E2. He records the readings of the ammeter and voltmeter, thereby calculates the resistance. The student repeats the experiment by substituting tube 1 with tube 2, where the same amount of mercury fills the tube 2.
+
+The circuit depicted in the figure is employed for studying Ohm's Law. ICSE 2025 Specimen Physics Solved Question Paper.
+Neglecting internal resistance of the cell use (> or < or =) to compare
+
+(a) the resistance in both the cases.
+
+(b) the voltmeter readings in both the cases.
+
+(c) the specific resistance in both the cases.
+
+Answer
+
+(a) As the resistance depends directly on length and inversely on area of the resistor and since here tube 2 is thicker and shorter than tube 1 thus, resistance of the tube 2 < resistance of the tube 1.
+
+(b) The voltmeter reading for tube 1 is the same as the voltmeter reading for tube 2 because according to Ohm's law potential difference across a resistor depends only on the current applied not on the resistance of the resistor.
+
+(c) As the specific resistance of a resistor is independent of its dimensions but depends only on the contained material and since here both tubes contain only mercury thus, the specific resistance in both the cases is the same.
+
+Question 8(ii)
+A radioactive nucleus X emits an alpha particle followed by two beta particles to form nucleus Y.
+
+(a) With respect to the element X, where would you position the element Y in the periodic table?
+
+(b) What is the general name of the elements X and Y?
+
+(c) If the atomic number of Y is 80 then what is the atomic number of X?
+
+Answer
+
+(a) 
+Z
+A
+X
+⟶
+Z
+−
+2
+A
+−
+4
+X
+1
++
+2
+4
+He 
+⟶
+Z
+−
+1
+A
+−
+4
+X
+2
++
+−
+1
+0
+e 
+⟶
+Z
+A
+−
+4
+Y
++
+−
+1
+0
+e
+Z
+A
+​
+ X⟶ 
+Z−2
+A−4
+​
+ X 
+1
+​
+ + 
+2
+4
+​
+ He ⟶ 
+Z−1
+A−4
+​
+ X 
+2
+​
+ + 
+−1
+0
+​
+ e ⟶ 
+Z
+A−4
+​
+ Y+ 
+−1
+0
+​
+ e
+
+We can see from the above that X and Y have same atomic number. Hence, X and Y will occupy the same position in the periodic table
+
+(b) Isotope.
+
+(c) When the atomic number of Y is 80 and X and Y are isotopes then atomic number of X will also be 80.
+
+Question 8(iii)
+Observe the given circuit diagram and answer the questions that follow :
+
+Observe the given circuit diagram and answer the questions that follow. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) Calculate the resistance of the circuit when the key K completes the circuit.
+
+(b) Calculate the current through 3 Ω resistance when the circuit is complete.
+
+Answer
+
+(a) 5Ω and 3Ω are in series so their equivalent resistance (Rs) = 5 + 3 = 8Ω
+
+Now 2Ω and Rs are in parallel.
+
+1
+R
+P
+=
+1
+R
+s
++
+1
+2
+⇒
+1
+R
+P
+=
+1
+8
++
+1
+2
+=
+1
++
+4
+8
+⇒
+R
+P
+=
+8
+5
+=
+1.6
+ Ω
+R 
+P
+​
+ 
+1
+​
+ = 
+R 
+s
+​
+ 
+1
+​
+ + 
+2
+1
+​
+ 
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+8
+1
+​
+ + 
+2
+1
+​
+ = 
+8
+1+4
+​
+ 
+⇒R 
+P
+​
+ = 
+5
+8
+​
+ =1.6 Ω
+
+From circuit diagram,
+
+Internal Resistance = 0.4 Ω
+
+Total resistance of circuit = 1.6 + 0.4 = 2 Ω
+
+(b) Current drawn from the battery :
+
+I
+=
+emf
+Total resistance
+⇒
+I
+=
+4
+2
+=
+2
+ A
+I= 
+Total resistance
+emf
+​
+ 
+⇒I= 
+2
+4
+​
+ =2 A
+
+Now, the current I divides in 2 parts.
+
+Let current across 2Ω be I1 and across the series combination of 5Ω and 3Ω be I2.
+
+I = I1 + I2 = 2 A ..............(1)
+
+Terminal Voltage of cell = V = IRp = 2 x 1.6 = 3.2 V
+
+∴ P.d. across 2 Ω resistor = 3.2 V
+
+I1 = 
+3.2
+2
+2
+3.2
+​
+  = 1.6 A
+
+Substituting value of I1 in Eq 1,
+
+2 = 1.6 + I2
+
+⇒ I2 = 2 - 1.6 = 0.4 A
+
+Hence, current across 3Ω = 0.4 A
+
+Question 9(i)
+What mass of ice at 0°C added to 2.1 kg water, will cool it down from 75°C to 25°C? Given Specific heat capacity of water = 4.2 J g⁻¹ °C⁻¹, Specific latent heat of ice = 336 J g⁻¹.
+
+Answer
+
+Given,
+
+For Water
+
+Mass of water (mw) = 2.1 kg = 2100 g
+
+Initial temperature (Ti) = 75°C
+
+Final temperature (Tf) = 25°C
+
+Specific heat capacity of water (cw) = 4.2 J g⁻¹ °C⁻¹
+
+For ice
+
+Initial temperature (Ti) = 0°C
+
+Final temperature (Tf) = 25°C
+
+Specific latent heat of fusion (Li) = 336 J g⁻¹
+
+Let,
+
+Mass of ice = (mi)
+
+Now,
+
+Heat lost by water = mwcw△t
+
+= 2100 × 4.2 × (75 - 25)
+
+= 2100 × 4.2 × 50 = 441000 J = 441 kJ
+
+Heat gained by ice = miLi + micw△t
+
+= mi × 336 + mi × 4.2 × (25-0)
+
+= 336mi + mi × 4.2 × 25
+
+= 336mi + 105mi = 441mi
+
+By principle of calorimetry,
+
+Heat lost by water = Heat gained by ice
+
+⟹ 441000 = 441 mi
+
+⟹ mi = 
+441000
+441
+441
+441000
+​
+  = 1000 g = 1 kg
+
+So, the mass of required ice is 1 kg.
+
+Question 9(ii)
+The diagram below shows a cooling curve for a substance :
+
+The diagram below shows a cooling curve for a substance. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) State the temperatures at which the substance condenses.
+
+(b) The temperature range in which the substance is in liquid state.
+
+(c) Why do we prefer ice to ice-cold water for cooling a drink?
+
+Answer
+
+(a) Substance condenses at 150° C.
+
+(b) 150 to 60°C.
+
+(c) 1 g of ice at 0° C takes 336 J of heat energy from the drink to melt into water at 0° C. Thus, the drink liberates an additional 336 J of heat energy to 1 g ice at 0° C than to 1 g ice-cold water at 0° C. Therefore, cooling produced by 1 g ice at 0° C is much more than that by 1 g water at 0° C.
+
+Question 9(iii)
+The diagram below shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. When current flows through it the iron filings arrange themselves as shown below with the direction of magnetic field.
+
+The diagram below shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) State the polarities of the battery at A and B.
+
+(b) State the effect on the magnetic field if an iron rod is held along the axis of the coil.
+
+(c) State one way to :
+
+Change the polarity of the coil.
+Decrease the strength of the magnetic field around the coil.
+Answer
+
+(a) Polarity of A is positive and B is negative.
+
+Reason — Since at the left side of the loop, the lines of force are anti-clockwise, so, by right hand thumb rule we find that the current is going out of terminal A hence, it is positive. Similarly, at the right side of the loop, the lines of force are clockwise, so, terminal B is negative.
+
+(b) The strength of the magnetic field increases when an iron rod is held along the axis of the coil.
+
+(c)
+
+By reversing the direction of the current.
+By decreasing the current.

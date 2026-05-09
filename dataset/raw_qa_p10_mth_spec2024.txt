@@ -1,0 +1,4813 @@
+SECTION A
+Question 1(i)
+If A = 
+[
+−
+1
+2
+]
+ and 
+B
+=
+[
+1
+−
+2
+0
+3
+]
+[ 
+−1
+​
+  
+2
+​
+ ] and B=[ 
+1
+0
+​
+  
+−2
+3
+​
+ ]. Which of the following operations is possible ?
+
+A - B
+
+A + B
+
+AB
+
+BA
+
+Answer
+
+Order of A : 1 × 2 and order of B : 2 × 2
+
+Since, no. of columns in A is same as the no. of rows in B.
+
+∴ AB is possible.
+
+Hence, Option 3 is the correct option.
+
+Question 1(ii)
+If x2 + kx + 6 = (x - 2)(x - 3) for all values of x, then the value of k is :
+
+-5
+
+-3
+
+-2
+
+5
+
+Answer
+
+Given,
+
+⇒ x2 + kx + 6 = (x - 2)(x - 3)
+
+⇒ x2 + kx + 6 = x2 - 3x - 2x + 6
+
+⇒ x2 + kx + 6 = x2 - 5x + 6
+
+⇒ x2 - x2 + kx + 6 - 6 = -5x
+
+⇒ kx = -5x
+
+⇒ k = -5.
+
+Hence, Option 1 is the correct option.
+
+Question 1(iii)
+A retailer purchased an item for ₹ 1,500 from a wholesaler and sells it to a customer at 10% profit. The sales are intra-state and the rate of GST is 10%. The amount of GST paid by the customer is :
+
+₹ 15
+
+₹ 30
+
+₹ 150
+
+₹ 165
+
+Answer
+
+C.P. for retailer = ₹ 1500
+
+S.P. for retailer = ₹ 1500 + 10% of ₹ 1500
+
+= ₹ 1500 + 
+10
+100
+×
+1500
+100
+10
+​
+ ×1500
+
+= ₹ 1500 + ₹ 150
+
+= ₹ 1650.
+
+GST paid = 10%
+
+= 
+10
+100
+×
+100
+10
+​
+ × ₹ 1650
+
+= ₹ 165.
+
+Hence, Option 4 is the correct option.
+
+Question 1(iv)
+If the roots of equation x2 - 6x + k = 0 are real and distinct, then value of k is :
+
+> -9
+
+> -6
+
+< 6
+
+< 9
+
+Answer
+
+Given,
+
+Roots of equation x2 - 6x + k = 0 are real and distinct.
+
+∴ D > 0
+
+⇒ b2 - 4ac > 0
+
+⇒ (-6)2 - 4 × 1 × k > 0
+
+⇒ 36 - 4k > 0
+
+⇒ 4k < 36
+
+⇒ k < 
+36
+4
+4
+36
+​
+ 
+
+⇒ k < 9.
+
+Hence, Option 4 is the correct option.
+
+Question 1(v)
+Which of the following is/are an Arithmetic Progression (A.P.) ?
+
+(i) 1, 4, 9, 16, ........
+
+(ii) 
+3
+,
+2
+3
+,
+3
+3
+,
+4
+3
+,
+3
+​
+ ,2 
+3
+​
+ ,3 
+3
+​
+ ,4 
+3
+​
+ , ............
+
+(iii) 8, 6, 4, 2, ...........
+
+only (i)
+
+only (ii)
+
+only (ii) and (iii)
+
+all (i), (ii) and (iii)
+
+Answer
+
+In first series :
+
+1, 4, 9, 16, ...........
+
+16 - 9 = 7, 9 - 4 = 5.
+
+Since, difference between consecutive terms are not equal.
+
+∴ It is not an A.P.
+
+In second series :
+
+3
+,
+2
+3
+,
+3
+3
+,
+4
+3
+,
+3
+​
+ ,2 
+3
+​
+ ,3 
+3
+​
+ ,4 
+3
+​
+ , ............
+
+4
+3
+−
+3
+3
+=
+3
+3
+−
+2
+3
+=
+2
+3
+−
+3
+=
+3
+4 
+3
+​
+ −3 
+3
+​
+ =3 
+3
+​
+ −2 
+3
+​
+ =2 
+3
+​
+ − 
+3
+​
+ = 
+3
+​
+ .
+
+Since, difference between consecutive terms are equal.
+
+∴ It is an A.P.
+
+In third series :
+
+8, 6, 4, 2, ..........
+
+2 - 4 = 4 - 6 = 6 - 8 = -2.
+
+Since, difference between consecutive terms are equal.
+
+∴ It is an A.P.
+
+Hence, Option 3 is the correct option.
+
+Question 1(vi)
+The table shows the values of x and y, where x is proportional to y. What are the values of M and N ?
+
+x	y
+6	M
+12	18
+N	6
+M = 4, N = 9
+
+M = 9, N = 3
+
+M = 9, N = 4
+
+M = 12, N = 0
+
+Answer
+
+Given, x is proportional to y.
+
+⇒
+6
+M
+=
+12
+18
+⇒
+M
+=
+6
+×
+18
+12
+⇒
+M
+=
+108
+12
+⇒
+M
+=
+9.
+12
+18
+=
+N
+6
+⇒
+N
+=
+12
+×
+6
+18
+⇒
+N
+=
+72
+18
+⇒
+N
+=
+4.
+⇒ 
+M
+6
+​
+ = 
+18
+12
+​
+ 
+⇒M= 
+12
+6×18
+​
+ 
+⇒M= 
+12
+108
+​
+ 
+⇒M=9.
+18
+12
+​
+ = 
+6
+N
+​
+ 
+⇒N= 
+18
+12×6
+​
+ 
+⇒N= 
+18
+72
+​
+ 
+⇒N=4.
+
+Hence, Option 3 is the correct option.
+
+Question 1(vii)
+In the given diagram, △ ABC ~ △ PQR and 
+A
+D
+P
+S
+=
+3
+8
+PS
+AD
+​
+ = 
+8
+3
+​
+ . The value of AB : PQ is :
+
+8 : 3
+
+3 : 5
+
+3 : 8
+
+5 : 8
+
+In the given diagram, △ ABC ~ △ PQR and AD/PS = 3/8. The value of AB : PQ is : ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+Given,
+
+△ ABC ~ △ PQR
+
+⇒ ∠B = ∠Q (Corresponding angles of similar triangle are equal)
+
+In △ ABD and △ PQS,
+
+⇒ ∠B = ∠Q (Proved above)
+
+⇒ ∠D = ∠S (Both equal to 90°)
+
+∴ △ ABD ~ △ PQS (By A.A. axiom)
+
+We know that,
+
+Corresponding sides of similar triangles are proportional.
+
+∴
+A
+B
+P
+Q
+=
+A
+D
+P
+S
+=
+3
+8
+∴ 
+PQ
+AB
+​
+ = 
+PS
+AD
+​
+ = 
+8
+3
+​
+ .
+
+∴ AB : PQ = 3 : 8.
+
+Hence, Option 3 is the correct option.
+
+Question 1(viii)
+A right angle triangle shaped piece of hard board is rotated completely about its hypotenuse, as shown in the diagram. The solid so formed is always :
+
+(i) a single cone
+
+(ii) a double cone
+
+Which of the statement is valid ?
+
+only (i)
+
+only (ii)
+
+both (i) and (ii)
+
+neither (i) nor (ii)
+
+A right angle triangle shaped piece of hard board is rotated completely about its hypotenuse, as shown in the diagram. The solid so formed is always : ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+On rotating the right angle triangle figure formed is :
+
+A right angle triangle shaped piece of hard board is rotated completely about its hypotenuse, as shown in the diagram. The solid so formed is always : ICSE 2024 Maths Specimen Solved Question Paper.
+Hence, Option 2 is the correct option.
+
+Question 1(ix)
+Event A : The sun will rise from east tomorrow.
+
+Event B : It will rain on Monday.
+
+Event C : February month has 29 days in a leap year.
+
+Which of the above event(s) has probability equal to 1 ?
+
+all events A, B and C
+
+both events A and B
+
+both events B and C
+
+both events A and C
+
+Answer
+
+The sun always rises from east and also in a leap year February has 29 days.
+
+∴ Event A and Event C has probability equal to 1.
+
+Hence, Option 4 is the correct option.
+
+Question 1(x)
+The three vertices of a scalene triangle are always equidistant from a fixed point. The point is :
+
+Orthocenter of the triangle
+
+Incenter of the triangle
+
+Circumcenter of the triangle
+
+Centroid of the triangle
+
+Answer
+
+Let ABC be the triangle and O is the circumcenter of triangle.
+
+The three vertices of a scalene triangle are always equidistant from a fixed point. The point is : ICSE 2024 Maths Specimen Solved Question Paper.
+Circumcenter is the center of circle which passes through all vertices of triangle.
+
+∴ OA = OB = OC (Radius of circle)
+
+Hence, Option 3 is the correct option.
+
+Question 1(xi)
+In a circle with radius R, the shortest distance between two parallel tangents is equal to :
+
+R
+
+2R
+
+2πR
+
+πR
+
+Answer
+
+Let l and m be tangents to circle with center O, touching the circle at point A and B.
+
+In a circle with radius R, the shortest distance between two parallel tangents is equal to : ICSE 2024 Maths Specimen Solved Question Paper.
+From figure,
+
+Shortest distance between tangents = OA + OB = R + R = 2R.
+
+Hence, Option 2 is the correct option.
+
+Question 1(xii)
+An observer at point E, which is at a certain distance from the lamp post AB, finds the angle of elevation of top of lamp post from positions C, D and E as α, β and γ. It is given that B, C, D and E are along a straight line.
+
+Which of the following conditions is satisfied ?
+
+tan α > tan β
+
+tan β < tan γ
+
+tan γ > tan α
+
+tan α < tan β
+
+An observer at point E, which is at a certain distance from the lamp post AB, finds the angle of elevation of top of lamp post from positions C, D and E as α, β and γ. It is given that B, C, D and E are along a straight line. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+From figure,
+
+⇒ tan α = 
+A
+B
+B
+C
+BC
+AB
+​
+ 
+
+⇒ tan β = 
+A
+B
+B
+D
+BD
+AB
+​
+ 
+
+⇒ tan γ = 
+A
+B
+B
+E
+BE
+AB
+​
+ 
+
+Since, BC < BD < BE.
+
+∴ tan α > tan β > tan γ.
+
+∴ tan α > tan β.
+
+Hence, Option 1 is the correct option.
+
+Question 1(xiii)
+(i) Shares of company A, paying 12%, ₹ 100 shares are at ₹ 80.
+
+(ii) Shares of company B, paying 12%, ₹ 100 shares are at ₹ 100.
+
+(iii) Shares of company C, paying 12%, ₹ 100 shares are at ₹ 120.
+
+Shares of which company are at premium ?
+
+Company A
+
+Company B
+
+Company C
+
+Company A and C
+
+Answer
+
+Companies in which Market value is greater than nominal value, there shares are at premium.
+
+∴ Shares of company C are at premium.
+
+Hence, Option 3 is the correct option.
+
+Question 1(xiv)
+Which of the following equations represents a line passing through origin ?
+
+3x - 2y + 5 = 0
+
+2x - 3y = 0
+
+x = 5
+
+y = -6
+
+Answer
+
+Substituting x = 0 and y = 0 in L.H.S. of the equation 2x - 3y = 0, we get :
+
+⇒ 2 × 0 - 3 × 0
+
+⇒ 0 - 0
+
+⇒ 0.
+
+Since, L.H.S. = R.H.S.
+
+∴ Line 2x - 3y = 0 represents a line passing through origin.
+
+Hence, Option 2 is the correct option.
+
+Question 1(xv)
+For the given 25 variables :
+
+x1, x2, x3, ................, x25.
+
+Assertion (A) : To find the median of the given data, the variate needs to be arranged in ascending or descending order.
+
+Reason (R) : The median is the central most term of the arranged data.
+
+A is true, R is false
+
+A is false, R is true
+
+both A and R are true
+
+both A and R are false
+
+Answer
+
+We know that,
+
+To find the median of the given data, the variate needs to be arranged in ascending or descending order and also the median is the central most term of the arranged data.
+
+∴ Both A and R are true.
+
+Hence, Option 3 is the correct option.
+
+Question 2(i)
+Shown alongside is a horizontal water tank composed of a cylinder and two hemispheres. The tank is filled up to a height of 7 m. Find the surface area of the tank in contact with water. Use 
+π
+=
+22
+7
+π= 
+7
+22
+​
+ .
+
+Shown alongside is a horizontal water tank composed of a cylinder and two hemispheres. The tank is filled up to a height of 7 m. Find the surface area of the tank in contact with water. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+From figure,
+
+Radius of cylindrical part = Radius of hemispherical part = r = 7 m.
+
+Length (Height h) of the cylindrical part = 34 - 7 - 7 = 20 m.
+
+Surface of cylindrical part in contact of water
+
+= 
+1
+2
+×
+2
+π
+r
+h
+=
+1
+2
+×
+2
+×
+22
+7
+×
+7
+×
+20
+2
+1
+​
+ ×2πrh= 
+2
+1
+​
+ ×2× 
+7
+22
+​
+ ×7×20 = 440 m2
+
+Surface of each hemisphere in contact of water
+
+= 
+1
+2
+×
+2
+π
+r
+2
+2
+1
+​
+ ×2πr 
+2
+ 
+
+= πr2
+
+= 
+22
+7
+×
+7
+2
+7
+22
+​
+ ×7 
+2
+ 
+
+= 22 × 7
+
+= 154 m2.
+
+∴ Surface area of the tank in contact of water = 440 + 2 × 154
+
+= 440 + 308
+
+= 748 m2.
+
+Hence, surface area of tank in contact with water = 748 m2.
+
+Question 2(ii)
+In a recurring deposit account for 2 years, the total amount deposited by a person is ₹ 9600. If the interest earned by him is one-twelfth of his total deposit, then find :
+
+(a) the interest he earns
+
+(b) his monthly deposit
+
+(c) the rate of interest
+
+Answer
+
+(a) Given,
+
+Interest earned by man = One-twelfth of the total deposit
+
+= 
+1
+12
+×
+9600
+12
+1
+​
+ ×9600
+
+= ₹ 800.
+
+Hence, the interest earned = ₹ 800.
+
+(b) Given,
+
+In a recurring deposit account for 2 years (or 24 months), the total amount deposited by a person is ₹ 9600.
+
+Money deposited per month = 
+9600
+24
+24
+9600
+​
+  = ₹ 400.
+
+Hence, monthly deposit = ₹ 400.
+
+(c) By formula,
+
+Interest
+=
+P
+×
+n
+×
+(
+n
++
+1
+)
+2
+×
+12
+×
+r
+100
+Interest= 
+2×12
+P×n×(n+1)
+​
+ × 
+100
+r
+​
+ 
+
+Substituting values we get :
+
+⇒
+800
+=
+400
+×
+24
+×
+(
+24
++
+1
+)
+2
+×
+12
+×
+r
+100
+⇒
+800
+=
+400
+×
+24
+×
+25
+24
+×
+r
+100
+⇒
+800
+=
+400
+×
+25
+×
+r
+100
+⇒
+800
+=
+4
+×
+25
+×
+r
+⇒
+800
+=
+100
+×
+r
+⇒
+r
+=
+800
+100
+⇒
+r
+=
+8
+⇒800= 
+2×12
+400×24×(24+1)
+​
+ × 
+100
+r
+​
+ 
+⇒800= 
+24
+400×24×25
+​
+ × 
+100
+r
+​
+ 
+⇒800=400×25× 
+100
+r
+​
+ 
+⇒800=4×25×r
+⇒800=100×r
+⇒r= 
+100
+800
+​
+ 
+⇒r=8
+
+Hence, rate of interest = 8%.
+
+Question 2(iii)
+Find :
+
+(a) (sin θ + cosec θ)2
+
+(b) (cos θ + sec θ)2
+
+Using the above results prove the following trigonometry identity :
+
+(sin θ + cosec θ)2 + (cos θ + sec θ)2 = 7 + tan2 θ + cot2 θ
+
+Answer
+
+(a) Solving,
+
+⇒ (sin θ + cosec θ)2
+
+⇒ sin2 θ + cosec2 θ + 2 × sin θ × cosec θ
+
+⇒ sin2 θ + 1 + cot2 θ + 2 × sin θ × 
+1
+sin θ
+sin θ
+1
+​
+ 
+
+⇒ sin2 θ + 1 + cot2 θ + 2
+
+⇒ sin2 θ + cot2 θ + 3.
+
+(b) Solving,
+
+⇒ (cos θ + sec θ)2
+
+⇒ cos2 θ + sec2 θ + 2 × cos θ × sec θ
+
+⇒ cos2 θ + 1 + tan2 θ + 2 × cos θ × 
+1
+cos θ
+cos θ
+1
+​
+ 
+
+⇒ cos2 θ + tan2 θ + 1 + 2
+
+⇒ cos2 θ + tan2 θ + 3.
+
+Solving,
+
+⇒ (sin θ + cosec θ)2 + (cos θ + sec θ)2
+
+⇒ sin2 θ + cot2 θ + 3 + cos2 θ + tan2 θ + 3.
+
+⇒ sin2 θ + cos2 θ + cot2 θ + tan2 θ + 3 + 3
+
+⇒ 1 + cot2 θ + tan2 θ + 3 + 3
+
+⇒ 7 + tan2 θ + cot2 θ.
+
+Hence, proved that (sin θ + cosec θ)2 + (cos θ + sec θ)2 = 7 + tan2 θ + cot2 θ.
+
+Question 3(i)
+If a, b and c are in continued proportion, then prove that :
+
+3
+a
+2
++
+5
+a
+b
++
+7
+b
+2
+3
+b
+2
++
+5
+b
+c
++
+7
+c
+2
+=
+a
+c
+3b 
+2
+ +5bc+7c 
+2
+ 
+3a 
+2
+ +5ab+7b 
+2
+ 
+​
+ = 
+c
+a
+​
+ .
+
+Answer
+
+Since, a, b and c are in continued proportion.
+
+∴
+a
+b
+=
+b
+c
+⇒
+b
+2
+=
+a
+c
+.
+∴ 
+b
+a
+​
+ = 
+c
+b
+​
+ 
+⇒b 
+2
+ =ac.
+
+Substituting, b2 = ac in L.H.S. of equation 
+3
+a
+2
++
+5
+a
+b
++
+7
+b
+2
+3
+b
+2
++
+5
+b
+c
++
+7
+c
+2
+=
+a
+c
+3b 
+2
+ +5bc+7c 
+2
+ 
+3a 
+2
+ +5ab+7b 
+2
+ 
+​
+ = 
+c
+a
+​
+ , we get :
+
+⇒
+3
+a
+2
++
+5
+a
+b
++
+7
+a
+c
+3
+a
+c
++
+5
+b
+c
++
+7
+c
+2
+⇒
+a
+(
+3
+a
++
+5
+b
++
+7
+c
+)
+c
+(
+3
+a
++
+5
+b
++
+7
+c
+)
+⇒
+a
+c
+.
+⇒ 
+3ac+5bc+7c 
+2
+ 
+3a 
+2
+ +5ab+7ac
+​
+ 
+⇒ 
+c(3a+5b+7c)
+a(3a+5b+7c)
+​
+ 
+⇒ 
+c
+a
+​
+ .
+
+Hence, proved that 
+3
+a
+2
++
+5
+a
+b
++
+7
+b
+2
+3
+b
+2
++
+5
+b
+c
++
+7
+c
+2
+=
+a
+c
+3b 
+2
+ +5bc+7c 
+2
+ 
+3a 
+2
+ +5ab+7b 
+2
+ 
+​
+ = 
+c
+a
+​
+ .
+
+Question 3(ii)
+In the given diagram, O is the center of circle circumscribing the △ABC, CD is perpendicular to chord AB. ∠OAC = 32°. Find each of the unknown angles, x, y and z.
+
+In the given diagram, O is the center of circle circumscribing the △ABC, CD is perpendicular to chord AB. ∠OAC = 32°. Find each of the unknown angles, x, y and z. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+In △OAC,
+
+⇒ OA = OC (Radius of same circle)
+
+⇒ ∠OCA = ∠OAC = 32° (Angles opposite to equal sides are equal)
+
+By angle sum property of triangle,
+
+⇒ ∠OCA + ∠OAC + ∠AOC = 180°
+
+⇒ 32° + 32° + ∠AOC = 180°
+
+⇒ ∠AOC + 64° = 180°
+
+⇒ ∠AOC = 180° - 64°
+
+⇒ ∠AOC (x°) = 116°.
+
+We know that,
+
+Angle subtended by an arc at the center of the circle is twice the angle subtended at the remaining part of the circumference.
+
+⇒ ∠AOC = 2∠ABC
+
+⇒ x° = 2y°
+
+⇒ y° = 
+x
+°
+2
+=
+116
+°
+2
+2
+x°
+​
+ = 
+2
+116°
+​
+  = 58°.
+
+In △ BDC,
+
+⇒ ∠BDC + ∠BCD + ∠CBD = 180°
+
+⇒ 90° + z° + y° = 180°
+
+⇒ z° = 180° - 90° - y° = 90° - 58° = 32°.
+
+Hence, x° = 116°, y° = 58° and z° = 32°.
+
+Question 3(iii)
+Study the graph and answer each of the following :
+
+(a) Name the curve plotted
+
+(b) Total number of students
+
+(c) The median marks
+
+(d) Number of students scoring between 50 and 80 marks.
+
+Study the graph and answer each of the following : ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+(a) From graph,
+
+The curve plotted is a cumulative frequency curve (ogive).
+
+(b) From graph,
+
+The total number of students = 40.
+
+(c) From graph,
+
+The median marks = 56.
+
+(d) From graph,
+
+No of students scoring below 80 = 37
+
+No of students scoring below 50 = 12
+
+∴ No. of students scoring between 50 and 80 = 37 - 12 = 25.
+
+Hence, the no. of students scoring between 50 and 80 = 25.
+
+SECTION B
+
+Question 4(i)
+If A = 
+[
+4
+−
+4
+−
+4
+4
+]
+[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ], find A2. If A2 = pA, then find the value of p.
+
+Answer
+
+Given,
+
+⇒ A2 = pA
+
+⇒
+[
+4
+−
+4
+−
+4
+4
+]
+[
+4
+−
+4
+−
+4
+4
+]
+=
+p
+[
+4
+−
+4
+−
+4
+4
+]
+⇒
+[
+4
+×
+4
++
+(
+−
+4
+)
+×
+(
+−
+4
+)
+4
+×
+(
+−
+4
+)
++
+(
+−
+4
+)
+×
+4
+−
+4
+×
+4
++
+4
+×
+(
+−
+4
+)
+(
+−
+4
+)
+×
+(
+−
+4
+)
++
+4
+×
+4
+]
+=
+p
+[
+4
+−
+4
+−
+4
+4
+]
+⇒
+[
+16
++
+16
+−
+16
+−
+16
+−
+16
+−
+16
+16
++
+16
+]
+=
+p
+[
+4
+−
+4
+−
+4
+4
+]
+⇒
+[
+32
+−
+32
+−
+32
+32
+]
+=
+p
+[
+4
+−
+4
+−
+4
+4
+]
+⇒
+32
+[
+1
+−
+1
+−
+1
+1
+]
+=
+4
+p
+[
+1
+−
+1
+−
+1
+1
+]
+⇒
+32
+=
+4
+p
+⇒
+p
+=
+32
+4
+=
+8.
+⇒[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ][ 
+4
+−4
+​
+  
+−4
+4
+​
+ ]=p[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ]
+⇒[ 
+4×4+(−4)×(−4)
+−4×4+4×(−4)
+​
+  
+4×(−4)+(−4)×4
+(−4)×(−4)+4×4
+​
+ ]=p[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ]
+⇒[ 
+16+16
+−16−16
+​
+  
+−16−16
+16+16
+​
+ ]=p[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ]
+⇒[ 
+32
+−32
+​
+  
+−32
+32
+​
+ ]=p[ 
+4
+−4
+​
+  
+−4
+4
+​
+ ]
+⇒32[ 
+1
+−1
+​
+  
+−1
+1
+​
+ ]=4p[ 
+1
+−1
+​
+  
+−1
+1
+​
+ ]
+⇒32=4p
+⇒p= 
+4
+32
+​
+ =8.
+
+Hence, p = 8.
+
+Question 4(ii)
+Solve the given equation x2 - 4x - 2 = 0 and express your answer correct to two places of decimal.
+
+Answer
+
+Given, equation : x2 - 4x - 2 = 0.
+
+By formula,
+
+x = 
+−
+b
+±
+b
+2
+−
+4
+a
+c
+2
+a
+2a
+−b± 
+b 
+2
+ −4ac
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒
+x
+=
+−
+(
+−
+4
+)
+±
+(
+−
+4
+)
+2
+−
+4
+×
+1
+×
+−
+2
+2
+×
+1
+=
+4
+±
+16
++
+8
+2
+=
+4
+±
+24
+2
+=
+4
+±
+2
+6
+2
+=
+2
+±
+6
+=
+2
++
+6
+,
+2
+−
+6
+=
+2
++
+2.449
+,
+2
+−
+2.449
+=
+4.449
+,
+−
+0.449
+⇒x= 
+2×1
+−(−4)± 
+(−4) 
+2
+ −4×1×−2
+​
+ 
+​
+ 
+= 
+2
+4± 
+16+8
+​
+ 
+​
+ 
+= 
+2
+4± 
+24
+​
+ 
+​
+ 
+= 
+2
+4±2 
+6
+​
+ 
+​
+ 
+=2± 
+6
+​
+ 
+=2+ 
+6
+​
+ ,2− 
+6
+​
+ 
+=2+2.449,2−2.449
+=4.449,−0.449
+
+Hence, x = 4.449 or -0.449
+
+Question 4(iii)
+In the given diagram, △ ABC is right angled at ∠B. BDFE is a rectangle. AD = 6 cm, CE = 4 cm and BC = 12 cm.
+
+(a) prove that △ADF ~ △FEC.
+
+(b) prove that △ADF ~ △ABC.
+
+(c) find the length of FE
+
+(d) find area △ADF : area △ABC
+
+In the given diagram, △ ABC is right angled at ∠B. BDFE is a rectangle. AD = 6 cm, CE = 4 cm and BC = 12 cm. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+(a) In △ADF,
+
+⇒ ∠ADF = 90°
+
+In the given diagram, △ ABC is right angled at ∠B. BDFE is a rectangle. AD = 6 cm, CE = 4 cm and BC = 12 cm. ICSE 2024 Maths Specimen Solved Question Paper.
+By angle sum property of triangle,
+
+⇒ ∠ADF + ∠AFD + ∠A = 180°
+
+⇒ 90° + ∠AFD + ∠A = 180°
+
+⇒ ∠AFD + ∠A = 180° - 90°
+
+⇒ ∠AFD + ∠A = 90° .........(1)
+
+In △ ABC,
+
+By angle sum property of triangle,
+
+⇒ ∠A + ∠B + ∠C = 180°
+
+⇒ ∠A + 90° + ∠C = 180°
+
+⇒ ∠A + ∠C = 180° - 90°
+
+⇒ ∠A + ∠C = 90° .........(2)
+
+From equation (1) and (2), we get :
+
+⇒ ∠AFD + ∠A = ∠A + ∠C
+
+⇒ ∠AFD = ∠C
+
+In △ ADF and △ FEC,
+
+⇒ ∠ADF = ∠FEC (Both equal to 90°)
+
+⇒ ∠AFD = ∠C (Proved above)
+
+∴ △ ADF ~ △ FEC [By A.A. axiom]
+
+Hence, proved that △ ADF ~ △ FEC.
+
+(b) In △ ADF and △ ABC,
+
+⇒ ∠DAF = ∠BAC (Common angle)
+
+⇒ ∠ADF = ∠ABC (Both equal to 90°)
+
+∴ △ ADF ~ △ ABC [By A.A. axiom]
+
+Hence, proved that △ ADF ~ △ ABC.
+
+(c) From figure,
+
+⇒ DB = FE = x (let)
+
+⇒ AB = AD + DB = (6 + x) cm
+
+⇒ DF = BE = BC - CE = 12 - 4 = 8 cm.
+
+△ ADF ~ △ ABC [proved above]
+
+We know that,
+
+Corresponding sides of similar triangle are proportional.
+
+⇒
+A
+D
+A
+B
+=
+D
+F
+B
+C
+⇒
+6
+6
++
+x
+=
+8
+12
+⇒
+8
+(
+6
++
+x
+)
+=
+6
+×
+12
+⇒
+48
++
+8
+x
+=
+72
+⇒
+8
+x
+=
+72
+−
+48
+⇒
+8
+x
+=
+24
+⇒
+x
+=
+24
+8
+=
+3
+ cm
+.
+⇒ 
+AB
+AD
+​
+ = 
+BC
+DF
+​
+ 
+⇒ 
+6+x
+6
+​
+ = 
+12
+8
+​
+ 
+⇒8(6+x)=6×12
+⇒48+8x=72
+⇒8x=72−48
+⇒8x=24
+⇒x= 
+8
+24
+​
+ =3 cm.
+
+Hence, FE = 3 cm.
+
+(d) We know that,
+
+The ratio of the area of two similar triangles is equal to the square of the ratio of any pair of the corresponding sides of the similar triangles.
+
+⇒
+Area of △ ADF
+Area of △ ABC
+=
+A
+D
+2
+A
+B
+2
+⇒
+Area of △ ADF
+Area of △ ABC
+=
+6
+2
+(
+6
++
+3
+)
+2
+⇒
+Area of △ ADF
+Area of △ ABC
+=
+6
+2
+9
+2
+⇒
+Area of △ ADF
+Area of △ ABC
+=
+36
+81
+=
+4
+9
+.
+⇒ 
+Area of △ ABC
+Area of △ ADF
+​
+ = 
+AB 
+2
+ 
+AD 
+2
+ 
+​
+ 
+⇒ 
+Area of △ ABC
+Area of △ ADF
+​
+ = 
+(6+3) 
+2
+ 
+6 
+2
+ 
+​
+ 
+⇒ 
+Area of △ ABC
+Area of △ ADF
+​
+ = 
+9 
+2
+ 
+6 
+2
+ 
+​
+ 
+⇒ 
+Area of △ ABC
+Area of △ ADF
+​
+ = 
+81
+36
+​
+ = 
+9
+4
+​
+ .
+
+Hence, area △ ADF : area △ ABC = 4 : 9.
+
+Question 5(i)
+Shown below is a table illustrating the monthly income distribution in a company with 100 employees.
+
+Monthly income (in ₹ 10,000)	Number of employees
+0-4	55
+4-8	15
+8-12	06
+12-16	08
+16-20	12
+20-24	4
+Using step-deviation method, find the mean monthly income of an employee.
+
+Answer
+
+In the given table,
+
+Class size (i) = 4.
+
+Monthly income	No.of employees (f)	Class mark	d = x - A	u = d/i	fu
+0-4	55	2	-4	-1	-55
+4-8	15	A = 6	0	0	0
+8-12	06	10	4	1	06
+12-16	08	14	8	2	16
+16-20	12	18	12	3	36
+20-24	4	22	16	4	16
+Total	Σf = 100				Σfu = 19
+By formula,
+
+Mean = A + 
+Σ
+f
+u
+Σ
+f
+×
+i
+Σf
+Σfu
+​
+ ×i
+
+= 6 + 
+19
+100
+×
+4
+100
+19
+​
+ ×4
+
+= 6 + 
+76
+100
+100
+76
+​
+ 
+
+= 6 + 0.76
+
+= 6.76
+
+Hence, mean = 6.76
+
+Question 5(ii)
+The following bill shows the GST rate and the marked price of articles :
+
+Vidhyut Electronics
+
+S.No.	Item	Marked price	Quantity	Rate of GST
+(a)	LED TV set	₹ 12,000	01	28%
+(b)	MP4 player	₹ 5,000	01	18%
+Find the total amount to be paid (including GST) for the above bill.
+
+Answer
+
+For LED TV set,
+
+M.P. = ₹ 12,000
+
+G.S.T. = 28%
+
+G.S.T. amount = 28% of ₹ 12,000
+
+= 
+28
+100
+×
+12
+,
+000
+100
+28
+​
+ ×12,000
+
+= 28 × 120
+
+= ₹ 3360.
+
+Total amount = ₹ 12,000 + ₹ 3360 = ₹ 15,360.
+
+For MP4 player,
+
+M.P. = ₹ 5,000
+
+G.S.T. = 18%
+
+G.S.T. amount = 18% of ₹ 5,000
+
+= 
+18
+100
+×
+5
+,
+000
+100
+18
+​
+ ×5,000
+
+= 18 × 50
+
+= ₹ 900.
+
+Total amount = ₹ 5,000 + ₹ 900 = ₹ 5900.
+
+Total bill = ₹ 15,360 + ₹ 5,900 = ₹ 21,260.
+
+Hence, total bill = ₹ 21,260.
+
+Question 5(iii)
+In the given figure, O is the centre of the circle and AB is a tangent to the circle at B. If ∠PQB = 55°.
+
+(a) find the value of the angles x, y and z.
+
+(b) prove that RB is parallel to PQ.
+
+In the given figure, O is the centre of the circle and AB is a tangent to the circle at B. If ∠PQB = 55°. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+(a) We know that,
+
+Angle between the radius and tangent at the point of contact is 90°.
+
+∴ ∠PBA = ∠PBQ = 90°
+
+In △ PBQ,
+
+By angle sum property of triangle,
+
+⇒ ∠PBQ + ∠BQP + ∠QPB = 180°
+
+⇒ 90° + 55° + ∠QPB = 180°
+
+⇒ ∠QPB = 180° - 90° - 55° = 35°.
+
+From figure,
+
+⇒ ∠SPB = ∠QPB = 35°
+
+We know that,
+
+Angles in same segment are equal.
+
+⇒ ∠SRB (x°) = ∠SPB = 35°
+
+⇒ x° = 35°.
+
+We know that,
+
+The angle subtended by an arc of a circle at its center is twice the angle it subtends anywhere on the circle's circumference.
+
+∴ ∠SOB = 2∠SRB
+
+⇒ y° = 2x° = 2 × 35° = 70°.
+
+From figure,
+
+⇒ z° = x° = 35° (Angles in alternate segment are equal)
+
+Hence, x° = 35°, y° = 70° and z° = 35°.
+
+(b) From figure,
+
+⇒ OB = OR (Radius of the same circle)
+
+⇒ ∠OBR = ∠ORB (Angles opposite to equal sides are equal)
+
+⇒ ∠OBR = x° = 35°
+
+∴ ∠OBR = ∠OPS
+
+The above angles are alternate angles.
+
+∴ RB // PS.
+
+Hence, proved that RB // PS.
+
+Question 6(i)
+There are three positive numbers in Geometric Progression (G.P.) such that :
+
+(a) their product is 3375
+
+(b) the result of the product of first and second number added to the product of second and third number is 750.
+
+Find the numbers.
+
+Answer
+
+(a) Let the three positive numbers be 
+a
+r
+,
+a
+,
+a
+r
+r
+a
+​
+ ,a,ar.
+
+Given,
+
+Product of the numbers is 3375.
+
+⇒
+a
+r
+×
+a
+×
+a
+r
+=
+3375
+⇒
+a
+3
+=
+3375
+⇒
+a
+3
+=
+(
+15
+)
+3
+⇒
+a
+=
+15.
+⇒ 
+r
+a
+​
+ ×a×ar=3375
+⇒a 
+3
+ =3375
+⇒a 
+3
+ =(15) 
+3
+ 
+⇒a=15.
+
+(b) Given,
+
+Result of the product of first and second number added to the product of second and third number is 750.
+
+∴
+a
+r
+×
+a
++
+a
+×
+a
+r
+=
+750
+⇒
+a
+2
+r
++
+a
+2
+r
+=
+750
+⇒
+a
+2
+(
+1
+r
++
+r
+)
+=
+750
+⇒
+15
+2
+(
+1
+r
++
+r
+)
+=
+750
+⇒
+(
+1
++
+r
+2
+r
+)
+=
+750
+15
+2
+⇒
+(
+1
++
+r
+2
+r
+)
+=
+10
+3
+⇒
+3
+(
+1
++
+r
+2
+)
+=
+10
+r
+⇒
+3
++
+3
+r
+2
+=
+10
+r
+⇒
+3
+r
+2
+−
+10
+r
++
+3
+=
+0
+⇒
+3
+r
+2
+−
+9
+r
+−
+r
++
+3
+=
+0
+⇒
+3
+r
+(
+r
+−
+3
+)
+−
+1
+(
+r
+−
+3
+)
+=
+0
+⇒
+(
+3
+r
+−
+1
+)
+(
+r
+−
+3
+)
+=
+0
+⇒
+3
+r
+−
+1
+=
+0
+ or 
+r
+−
+3
+=
+0
+⇒
+3
+r
+=
+1
+ or 
+r
+=
+3
+⇒
+r
+=
+1
+3
+ or 
+r
+=
+3.
+∴ 
+r
+a
+​
+ ×a+a×ar=750
+⇒ 
+r
+a 
+2
+ 
+​
+ +a 
+2
+ r=750
+⇒a 
+2
+ ( 
+r
+1
+​
+ +r)=750
+⇒15 
+2
+ ( 
+r
+1
+​
+ +r)=750
+⇒( 
+r
+1+r 
+2
+ 
+​
+ )= 
+15 
+2
+ 
+750
+​
+ 
+⇒( 
+r
+1+r 
+2
+ 
+​
+ )= 
+3
+10
+​
+ 
+⇒3(1+r 
+2
+ )=10r
+⇒3+3r 
+2
+ =10r
+⇒3r 
+2
+ −10r+3=0
+⇒3r 
+2
+ −9r−r+3=0
+⇒3r(r−3)−1(r−3)=0
+⇒(3r−1)(r−3)=0
+⇒3r−1=0 or r−3=0
+⇒3r=1 or r=3
+⇒r= 
+3
+1
+​
+  or r=3.
+
+Let r = 
+1
+3
+3
+1
+​
+ 
+
+Numbers : 
+a
+r
+,
+a
+,
+a
+r
+r
+a
+​
+ ,a,ar
+
+= 
+15
+1
+3
+,
+15
+,
+15
+×
+1
+3
+3
+1
+​
+ 
+15
+​
+ ,15,15× 
+3
+1
+​
+ 
+
+= 45, 15, 5.
+
+Let r = 3
+
+Numbers : 
+a
+r
+,
+a
+,
+a
+r
+r
+a
+​
+ ,a,ar
+
+= 
+15
+3
+,
+15
+,
+15
+×
+3
+3
+15
+​
+ ,15,15×3
+
+= 5, 15, 45.
+
+Hence, numbers are 5, 15 and 45 or 45, 15 and 5.
+
+Question 6(ii)
+The table given below shows the ages of members of a society.
+
+Age (in years)	Number of members of society
+25-35	05
+35-45	32
+45-55	69
+55-65	80
+65-75	61
+75-85	13
+(a) Draw a histogram representing the above distribution.
+
+(b) Estimate the modal age of the members.
+
+Answer
+
+Steps of construction :
+
+Draw a histogram of the given distribution.
+
+Inside the highest rectangle, which represents the maximum frequency (or modal class), draw two lines AC and BD diagonally from the upper corners C and D of adjacent rectangles.
+
+Through the point K (the point of intersection of diagonals AC and BD), draw KL perpendicular to the horizontal axis.
+
+The value of point L on the horizontal axis represents the value of mode.
+
+The table given below shows the ages of members of a society. ICSE 2024 Maths Specimen Solved Question Paper.
+From graph,
+
+L = 59 years
+
+Hence, required mode = 59 years.
+
+Question 6(iii)
+A tent is in the shape of a cylinder surmounted by a conical top. If height and radius of the cylindrical part are 7 m each and the total height of the tent is 14 m. Find the :
+
+(a) quantity of air contained inside the tent.
+
+(b) radius of a sphere whose volume is equal to the quantity of air inside the tent.
+
+Use 
+π
+=
+22
+7
+π= 
+7
+22
+​
+ 
+
+Answer
+
+(a) From figure,
+
+Radius of cylindrical part = Radius of conical part = r = 7 m
+
+Height of cylindrical part (H) = 7 m
+
+Height of conical part (h) = 14 - 7 = 7 m.
+
+A tent is in the shape of a cylinder surmounted by a conical top. If height and radius of the cylindrical part are 7 m each and the total height of the tent is 14 m. Find the : ICSE 2024 Maths Specimen Solved Question Paper.
+Quantity of air inside the tent = Volume of cylindrical part + Volume of conical part
+
+=
+π
+r
+2
+H
++
+1
+3
+π
+r
+2
+h
+=
+22
+7
+×
+7
+2
+×
+7
++
+1
+3
+×
+22
+7
+×
+7
+2
+×
+7
+=
+22
+×
+49
++
+1
+3
+×
+22
+×
+49
+=
+1078
++
+359.33
+=
+1437.33
+ m
+3
+.
+=πr 
+2
+ H+ 
+3
+1
+​
+ πr 
+2
+ h
+= 
+7
+22
+​
+ ×7 
+2
+ ×7+ 
+3
+1
+​
+ × 
+7
+22
+​
+ ×7 
+2
+ ×7
+=22×49+ 
+3
+1
+​
+ ×22×49
+=1078+359.33
+=1437.33 m 
+3
+ .
+
+Hence, the quantity of air inside the tent = 1437.33 m3.
+
+(b) Let radius of required sphere be R m.
+
+According to question,
+
+Volume of sphere = Quantity of air inside the tent
+
+∴
+4
+3
+π
+R
+3
+=
+π
+r
+2
+H
++
+1
+3
+π
+r
+2
+h
+⇒
+4
+3
+R
+3
+=
+r
+2
+H
++
+1
+3
+r
+2
+h
+⇒
+4
+3
+R
+3
+=
+3
+r
+2
+H
++
+r
+2
+h
+3
+⇒
+4
+R
+3
+=
+3
+r
+2
+H
++
+r
+2
+h
+⇒
+R
+3
+=
+3
+×
+7
+2
+×
+7
++
+7
+2
+×
+7
+4
+⇒
+R
+3
+=
+3
+×
+49
+×
+7
++
+49
+×
+7
+4
+⇒
+R
+3
+=
+1029
++
+343
+4
+⇒
+R
+3
+=
+1372
+4
+⇒
+R
+3
+=
+343
+⇒
+R
+3
+=
+7
+3
+⇒
+R
+=
+7
+ m
+.
+∴ 
+3
+4
+​
+ πR 
+3
+ =πr 
+2
+ H+ 
+3
+1
+​
+ πr 
+2
+ h
+⇒ 
+3
+4
+​
+ R 
+3
+ =r 
+2
+ H+ 
+3
+1
+​
+ r 
+2
+ h
+⇒ 
+3
+4
+​
+ R 
+3
+ = 
+3
+3r 
+2
+ H+r 
+2
+ h
+​
+ 
+⇒4R 
+3
+ =3r 
+2
+ H+r 
+2
+ h
+⇒R 
+3
+ = 
+4
+3×7 
+2
+ ×7+7 
+2
+ ×7
+​
+ 
+⇒R 
+3
+ = 
+4
+3×49×7+49×7
+​
+ 
+⇒R 
+3
+ = 
+4
+1029+343
+​
+ 
+⇒R 
+3
+ = 
+4
+1372
+​
+ 
+⇒R 
+3
+ =343
+⇒R 
+3
+ =7 
+3
+ 
+⇒R=7 m.
+
+Hence, radius of sphere = 7 m.
+
+Question 7(i)
+The line segment joining A(2, -3) and B(-3, 2) is intercepted by the x-axis at the point M and the y-axis at the point N. PQ is perpendicular to AB at R and meets the y-axis at a distance of 6 units form the origin O, as shown in the diagram, at S. Find the :
+
+(a) coordinates of M and N.
+
+(b) coordinates of S
+
+(c) slope of AB.
+
+(d) equation of line PQ.
+
+The line segment joining A(2, -3) and B(-3, 2) is intercepted by the x-axis at the point M and the y-axis at the point N. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+(a) From figure,
+
+Coordinates of M = (-1, 0) and coordinates of N = (0, -1).
+
+(b) From figure,
+
+Coordinates of S = (0, 6).
+
+(c) By formula,
+
+Slope = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Slope of AB = 
+2
+−
+(
+−
+3
+)
+−
+3
+−
+2
+=
+2
++
+3
+−
+5
+=
+5
+−
+5
+−3−2
+2−(−3)
+​
+ = 
+−5
+2+3
+​
+ = 
+−5
+5
+​
+  = -1.
+
+Hence, slope of AB = -1.
+
+(d) We know that,
+
+Product of slope of perpendicular lines = -1.
+
+∴ Slope of AB × Slope of PQ = -1
+
+⇒ -1 × Slope of PQ = -1
+
+⇒ Slope of PQ = 
+−
+1
+−
+1
+−1
+−1
+​
+  = 1.
+
+Since, PQ passes through point S.
+
+By point-slope form,
+
+Equation of line : y - y1 = m(x - x1)
+
+⇒ y - 6 = 1(x - 0)
+
+⇒ y - 6 = x
+
+⇒ y = x + 6.
+
+Hence, equation of line PQ is y = x + 6.
+
+Question 7(ii)
+The angles of depression of two ships A and B on opposite sides of a light house of height 100 m are respectively 42° and 54°. The line joining the two ships passes through the foot of the light house.
+
+(a) Find the distance between the two ships A and B.
+
+(b) Give your final answer correct to the nearest whole number.
+
+(Use mathematical tables for this question)
+
+The angles of depression of two ships A and B on opposite sides of a light house of height 100 m are respectively 42° and 54°. The line joining the two ships passes through the foot of the light house. ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+Let ∠BCP = α and ∠ACP = β
+
+The angles of depression of two ships A and B on opposite sides of a light house of height 100 m are respectively 42° and 54°. The line joining the two ships passes through the foot of the light house. ICSE 2024 Maths Specimen Solved Question Paper.
+From figure,
+
+⇒ α + 54° = 90°
+
+⇒ α = 90° - 54° = 36°.
+
+⇒ β + 42° = 90°
+
+⇒ β = 90° - 42° = 48°.
+
+⇒ tan α = 
+B
+P
+C
+P
+CP
+BP
+​
+ 
+
+⇒ tan 36° = 
+B
+P
+100
+100
+BP
+​
+ 
+
+⇒ 0.7265 = 
+B
+P
+100
+100
+BP
+​
+ 
+
+⇒ BP = 0.7265 × 100 = 72.65 m
+
+⇒ tan β = 
+A
+P
+C
+P
+CP
+AP
+​
+ 
+
+⇒ tan 48° = 
+A
+P
+100
+100
+AP
+​
+ 
+
+⇒ 1.1106 = 
+A
+P
+100
+100
+AP
+​
+ 
+
+⇒ AP = 1.1106 × 100 = 111.06 m
+
+(a) From figure,
+
+AB = AP + BP = 72.65 + 111.06 = 183.71 m
+
+Hence, the distance between two ships = 183.71 m.
+
+(b) On rounding off,
+
+AB = 184 m.
+
+Hence, the distance between two ships = 184 m.
+
+Question 8(i)
+Solve the following inequation and write the solution and represent it on the real number line.
+
+3 - 2x ≥ x + 
+1
+−
+x
+3
+3
+1−x
+​
+  > 
+2
+x
+5
+5
+2x
+​
+ , x ∈ R.
+
+Answer
+
+To prove:
+
+3 - 2x ≥ x + 
+1
+−
+x
+3
+3
+1−x
+​
+  > 
+2
+x
+5
+5
+2x
+​
+ 
+
+Solving L.H.S. of the above inequation, we get :
+
+⇒ 3 - 2x ≥ x + 
+1
+−
+x
+3
+3
+1−x
+​
+ 
+
+⇒ 3 - 2x ≥ 
+3
+x
++
+1
+−
+x
+3
+3
+3x+1−x
+​
+ 
+
+⇒ 3(3 - 2x) ≥ 2x + 1
+
+⇒ 9 - 6x ≥ 2x + 1
+
+⇒ 2x + 6x ≤ 9 - 1
+
+⇒ 8x ≤ 8
+
+⇒ x ≤ 
+8
+8
+8
+8
+​
+ 
+
+⇒ x ≤ 1 ............(1)
+
+Solving R.H.S. of the above equation, we get :
+
+⇒ x + 
+1
+−
+x
+3
+>
+2
+x
+5
+3
+1−x
+​
+ > 
+5
+2x
+​
+ 
+
+⇒ 
+3
+x
++
+1
+−
+x
+3
+>
+2
+x
+5
+3
+3x+1−x
+​
+ > 
+5
+2x
+​
+ 
+
+⇒ 5(2x + 1) > 3 × 2x
+
+⇒ 10x + 5 > 6x
+
+⇒ 10x - 6x > -5
+
+⇒ 4x > -5
+
+⇒ x > 
+−
+5
+4
+− 
+4
+5
+​
+  ...........(2)
+
+From equation (1) and (2), we get :
+
+Solution set = {x : 
+−
+5
+4
+− 
+4
+5
+​
+  < x ≤ 1, x ∈ R}
+
+Representation of solution set on real number line is :
+
+Solve the following inequation and write the solution and represent it on the real number line. ICSE 2024 Maths Specimen Solved Question Paper.
+Question 8(ii)
+ABCD is a cyclic quadrilateral in which BC = CD and EF is a tangent at A. ∠CBD = 43° and ∠ADB = 62°. Find :
+
+(a) ∠ADC
+
+(b) ∠ABD
+
+(c) ∠FAD
+
+ABCD is a cyclic quadrilateral in which BC = CD and EF is a tangent at A. ∠CBD = 43° and ∠ADB = 62°. Find : ICSE 2024 Maths Specimen Solved Question Paper.
+Answer
+
+(a) In △ BDC,
+
+⇒ BC = CD (Equal sides)
+
+⇒ ∠BDC = ∠DBC = 43° (Angles opposite to equal sides are equal)
+
+From figure,
+
+⇒ ∠ADC = ∠ADB + ∠BDC = 62° + 43° = 105°.
+
+Hence, ∠ADC = 105°.
+
+(b) We know that,
+
+Opposite angles of a cyclic quadrilateral are supplementary.
+
+⇒ ∠ABC + ∠ADC = 180°
+
+⇒ ∠ABC + 105° = 180°
+
+⇒ ∠ABC = 180° - 105° = 75°.
+
+From figure,
+
+⇒ ∠ABD = ∠ABC - ∠DBC = 75° - 43° = 32°.
+
+Hence, ∠ABD = 32°.
+
+(c) From figure,
+
+⇒ ∠FAD = ∠ABD = 32°. (Angles in alternate segment are equal)
+
+Hence, ∠FAD = 32°.
+
+Question 8(iii)
+A(a, b), B(-4, 3) and C(8, -6) are the vertices of a △ ABC. Point D is on BC such that BD : DC is 2 : 1 and M(6, 0) is mid-point of AD. Find :
+
+(a) coordinates of point D.
+
+(b) coordinates of point A.
+
+(c) equation of a line parallel to line BC, through M.
+
+Answer
+
+(a) Given,
+
+BD : DC = 2 : 1.
+
+A(a, b), B(-4, 3) and C(8, -6) are the vertices of a △ ABC. Point D is on BC such that BD : DC is 2 : 1 and M(6, 0) is mid-point of AD. Find : ICSE 2024 Maths Specimen Solved Question Paper.
+Let coordinates of D be (x, y)
+
+By section-formula,
+
+(x, y) = 
+(
+m
+1
+x
+2
++
+m
+2
+x
+1
+m
+1
++
+m
+2
+,
+m
+1
+y
+2
++
+m
+2
+y
+1
+m
+1
++
+m
+2
+)
+( 
+m 
+1
+​
+ +m 
+2
+​
+ 
+m 
+1
+​
+ x 
+2
+​
+ +m 
+2
+​
+ x 
+1
+​
+ 
+​
+ , 
+m 
+1
+​
+ +m 
+2
+​
+ 
+m 
+1
+​
+ y 
+2
+​
+ +m 
+2
+​
+ y 
+1
+​
+ 
+​
+ )
+
+Substituting values, we get :
+
+⇒
+(
+x
+,
+y
+)
+=
+(
+2
+×
+8
++
+1
+×
+(
+−
+4
+)
+2
++
+1
+,
+2
+×
+−
+6
++
+1
+×
+3
+2
++
+1
+)
+⇒
+(
+x
+,
+y
+)
+=
+(
+16
+−
+4
+3
+,
+−
+12
++
+3
+3
+)
+⇒
+(
+x
+,
+y
+)
+=
+(
+12
+3
+,
+−
+9
+3
+)
+⇒
+(
+x
+,
+y
+)
+=
+(
+4
+,
+−
+3
+)
+.
+⇒(x,y)=( 
+2+1
+2×8+1×(−4)
+​
+ , 
+2+1
+2×−6+1×3
+​
+ )
+⇒(x,y)=( 
+3
+16−4
+​
+ , 
+3
+−12+3
+​
+ )
+⇒(x,y)=( 
+3
+12
+​
+ , 
+3
+−9
+​
+ )
+⇒(x,y)=(4,−3).
+
+Hence, coordinates of D = (4, -3).
+
+(b) By mid-point formula,
+
+Mid-point = 
+(
+x
+1
++
+x
+2
+2
+,
+y
+1
++
+y
+2
+2
+)
+( 
+2
+x 
+1
+​
+ +x 
+2
+​
+ 
+​
+ , 
+2
+y 
+1
+​
+ +y 
+2
+​
+ 
+​
+ )
+
+Given,
+
+M(6, 0) is the mid-point of AD.
+
+∴
+(
+6
+,
+0
+)
+=
+(
+a
++
+4
+2
+,
+b
++
+(
+−
+3
+)
+2
+)
+⇒
+(
+6
+,
+0
+)
+=
+(
+a
++
+4
+2
+,
+b
+−
+3
+2
+)
+⇒
+a
++
+4
+2
+=
+6
+ and 
+b
+−
+3
+2
+=
+0
+⇒
+a
++
+4
+=
+12
+ and 
+b
+−
+3
+=
+0
+⇒
+a
+=
+12
+−
+4
+=
+8
+ and 
+b
+=
+3.
+∴(6,0)=( 
+2
+a+4
+​
+ , 
+2
+b+(−3)
+​
+ )
+⇒(6,0)=( 
+2
+a+4
+​
+ , 
+2
+b−3
+​
+ )
+⇒ 
+2
+a+4
+​
+ =6 and  
+2
+b−3
+​
+ =0
+⇒a+4=12 and b−3=0
+⇒a=12−4=8 and b=3.
+
+A = (a, b) = (8, 3).
+
+Hence, coordinates of A = (8, 3).
+
+(c) By formula,
+
+Slope of line = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Slope of line BC = 
+−
+6
+−
+3
+8
+−
+(
+−
+4
+)
+=
+−
+9
+12
+=
+−
+3
+4
+8−(−4)
+−6−3
+​
+ = 
+12
+−9
+​
+ =− 
+4
+3
+​
+ .
+
+We know that,
+
+Slope of parallel lines are equal.
+
+Slope of line parallel to BC = 
+−
+3
+4
+− 
+4
+3
+​
+ .
+
+By point-slope form,
+
+Equation of line : y - y1 = m(x - x1)
+
+Equation of line parallel to BC and passing through M is :
+
+⇒ y - 0 = 
+−
+3
+4
+(
+x
+−
+6
+)
+− 
+4
+3
+​
+ (x−6)
+
+⇒ y = 
+−
+3
+4
+(
+x
+−
+6
+)
+− 
+4
+3
+​
+ (x−6)
+
+⇒ 4y = -3(x - 6)
+
+⇒ 4y = -3x + 18
+
+⇒ 3x + 4y = 18.
+
+Hence, equation of the required line is 3x + 4y = 18.
+
+Question 9(i)
+Use componendo and dividendo to find the value of x, when :
+
+x
+2
++
+3
+x
+3
+x
+2
++
+1
+=
+14
+13
+3x 
+2
+ +1
+x 
+2
+ +3x
+​
+ = 
+13
+14
+​
+ 
+
+Answer
+
+Given,
+
+x
+2
++
+3
+x
+3
+x
+2
++
+1
+=
+14
+13
+3x 
+2
+ +1
+x 
+2
+ +3x
+​
+ = 
+13
+14
+​
+ 
+
+Applying componendo and dividendo, we get :
+
+⇒
+x
+2
++
+3
+x
++
+3
+x
+2
++
+1
+x
+2
++
+3
+x
+−
+(
+3
+x
+2
++
+1
+)
+=
+14
++
+13
+14
+−
+13
+⇒
+x
+2
++
+3
+x
++
+3
+x
+2
++
+1
+x
+2
++
+3
+x
+−
+3
+x
+2
+−
+1
+=
+27
+1
+⇒
+(
+x
++
+1
+)
+3
+(
+x
+−
+1
+)
+3
+=
+3
+3
+1
+3
+⇒
+(
+x
++
+1
+x
+−
+1
+)
+3
+=
+(
+3
+1
+)
+3
+⇒
+x
++
+1
+x
+−
+1
+=
+3
+⇒
+x
++
+1
+=
+3
+(
+x
+−
+1
+)
+⇒
+x
++
+1
+=
+3
+x
+−
+3
+⇒
+3
+x
+−
+x
+=
+1
++
+3
+⇒
+2
+x
+=
+4
+⇒
+x
+=
+4
+2
+=
+2.
+⇒ 
+x 
+2
+ +3x−(3x 
+2
+ +1)
+x 
+2
+ +3x+3x 
+2
+ +1
+​
+ = 
+14−13
+14+13
+​
+ 
+⇒ 
+x 
+2
+ +3x−3x 
+2
+ −1
+x 
+2
+ +3x+3x 
+2
+ +1
+​
+ = 
+1
+27
+​
+ 
+⇒ 
+(x−1) 
+3
+ 
+(x+1) 
+3
+ 
+​
+ = 
+1 
+3
+ 
+3 
+3
+ 
+​
+ 
+⇒( 
+x−1
+x+1
+​
+ ) 
+3
+ =( 
+1
+3
+​
+ ) 
+3
+ 
+⇒ 
+x−1
+x+1
+​
+ =3
+⇒x+1=3(x−1)
+⇒x+1=3x−3
+⇒3x−x=1+3
+⇒2x=4
+⇒x= 
+2
+4
+​
+ =2.
+
+Hence, x = 2.
+
+Question 9(ii)
+The total expenses of a trip for certain number of people is ₹ 18,000. If three more people join them, then the share of each reduces by ₹ 3,000. Take x to be the original number of people, form a quadratic equation in x and solve it to find the value of x.
+
+Answer
+
+Let no. of people be x.
+
+Total expense = ₹ 18,000
+
+Expense per person = ₹ 
+18000
+x
+x
+18000
+​
+ 
+
+Given,
+
+If three more people join them, then the share of each reduces by ₹ 3,000.
+
+No, of people now = x + 3
+
+Expense per person = ₹ 
+18000
+x
++
+3
+x+3
+18000
+​
+ 
+
+According to question,
+
+⇒
+18000
+x
+−
+18000
+x
++
+3
+=
+3000
+⇒
+18000
+(
+x
++
+3
+)
+−
+18000
+x
+x
+(
+x
++
+3
+)
+=
+3000
+⇒
+18000
+x
++
+54000
+−
+18000
+x
+x
+2
++
+3
+x
+=
+3000
+⇒
+54000
+x
+2
++
+3
+x
+=
+3000
+⇒
+x
+2
++
+3
+x
+=
+54000
+3000
+⇒
+x
+2
++
+3
+x
+=
+18
+⇒
+x
+2
++
+3
+x
+−
+18
+=
+0
+⇒
+x
+2
++
+6
+x
+−
+3
+x
+−
+18
+=
+0
+⇒
+x
+(
+x
++
+6
+)
+−
+3
+(
+x
++
+6
+)
+=
+0
+⇒
+(
+x
+−
+3
+)
+(
+x
++
+6
+)
+=
+0
+⇒
+x
+−
+3
+=
+0
+ or 
+x
++
+6
+=
+0
+⇒
+x
+=
+3
+ or 
+x
+=
+−
+6.
+⇒ 
+x
+18000
+​
+ − 
+x+3
+18000
+​
+ =3000
+⇒ 
+x(x+3)
+18000(x+3)−18000x
+​
+ =3000
+⇒ 
+x 
+2
+ +3x
+18000x+54000−18000x
+​
+ =3000
+⇒ 
+x 
+2
+ +3x
+54000
+​
+ =3000
+⇒x 
+2
+ +3x= 
+3000
+54000
+​
+ 
+⇒x 
+2
+ +3x=18
+⇒x 
+2
+ +3x−18=0
+⇒x 
+2
+ +6x−3x−18=0
+⇒x(x+6)−3(x+6)=0
+⇒(x−3)(x+6)=0
+⇒x−3=0 or x+6=0
+⇒x=3 or x=−6.
+
+Since, no. of people cannot be negative.
+
+∴ x = 3.
+
+Hence, original number of people = 3.
+
+Question 9(iii)
+Using ruler and compass only construct ∠ABC = 60°, AB = 6 cm and BC = 5 cm.
+
+(a) construct the locus of all points which are equidistant from AB and BC.
+
+(b) construct the locus of all points equidistant from A and B.
+
+(c) mark the point which satisfies both the conditions (a) and (b) as P.
+
+Hence, construct a circle with center P and passing through A and B.
+
+Answer
+
+Steps of construction :
+
+Draw a line segment BC = 5 cm.
+
+Draw ∠DBC = 120°.
+
+From DB cut off AB = 6 cm.
+
+Draw BE the angle bisector of ∠ABC.
+
+Draw RS, the perpendicular bisector of AB.
+
+Mark point P, the intersection point of RS and BE.
+
+Taking P as center and PA or PB as radius draw a circle.
+
+Using ruler and compass only construct ∠ABC = 60°, AB = 6 cm and BC = 5 cm. ICSE 2024 Maths Specimen Solved Question Paper.
+(a) We know that,
+
+The locus of points which are equidistant from two sides is the angular bisector of the angle between two sides.
+
+Hence, required locus is BE.
+
+(b) We know that,
+
+The locus of points which are equidistant from two points is the perpendicular bisector of the line joining the two points.
+
+Hence, required locus is RS.
+
+(c) From figure,
+
+Point P satisfies both the conditions (a) and (b).
+
+Question 10(i)
+Using remainder and factor theorem, factorize completely, the given polynomial :
+
+2x3 - 9x2 + 7x + 6.
+
+Answer
+
+Substituting x = 2, in the given polynomial, we get :
+
+⇒ 2(2)3 - 9(2)2 + 7(2) + 6
+
+⇒ 2 × 8 - 9 × 4 + 14 + 6
+
+⇒ 16 - 36 + 20
+
+⇒ -20 + 20
+
+⇒ 0.
+
+∴ x - 2 is the factor of the given polynomial.
+
+On dividing 2x3 - 9x2 + 7x + 6 by x - 2, we get :
+
+x
+−
+2
+)
+‾
++
+−
+2
+x
+3
+−
++
+4
+x
+2
+‾
+−
+5
+x
+2
++
+7
+x
+−
++
+5
+x
+2
++
+−
+10
+x
+‾
+−
+3
+x
++
+6
+−
++
+3
+x
++
+−
+6
+‾
+×
+x−2)2x 
+2
+ −5x−3
+x−2 
+)
+ 2x 
+3
+ −9x 
+2
+ +7x+6
+​
+ 
+x−2)) 
+−
++
+​
+ 2x 
+3
+  
++
+−
+​
+ 4x 
+2
+ 
+​
+ 
+x−22x 
+3
+ −4−5x 
+2
+ +7x
+x−2)2x 
+3
+ −4 
++
+−
+​
+ 5x 
+2
+  
+−
++
+​
+ 10x
+​
+ 
+x−2)31x 
+3
+ −2+1−3x+6
+x−2)31x 
+3
+ −2+11 
++
+−
+​
+ 3x 
+−
++
+​
+ 6
+​
+ 
+x−2)31x 
+3
+ −2+11+1×
+​
+ 
+
+∴ 2x3 - 9x2 + 7x + 6 = (x - 2)(2x2 - 5x - 3)
+
+= (x - 2)[2x2 - 6x + x - 3]
+
+= (x - 2)[2x(x - 3) + 1(x - 3)]
+
+= (x - 2)(2x + 1)(x - 3).
+
+Hence, 2x3 - 9x2 + 7x + 6 = (x - 2)(2x + 1)(x - 3).
+
+Question 10(ii)
+Each of the letter of the word "HOUSEWARMING" is written on cards and put in a bag. If a card is drawn at random from the bag after shuffling, what is the probability that the letter on the card is :
+
+(a) a vowel
+
+(b) one of the letters of the word SEWING
+
+(c) not a letter from the word WEAR
+
+Answer
+
+Total no. of outcomes = No. of different letters in the word "HOUSEWARMING" = 12.
+
+(a) No. of vowels in the given word = 5 (o, u, e, a, i)
+
+∴ No. of favourable outcomes = 5
+
+P(that the letter on card is a vowel) = 
+No. of favourable outcomes
+No. of possible outcomes
+=
+5
+12
+No. of possible outcomes
+No. of favourable outcomes
+​
+ = 
+12
+5
+​
+ .
+
+Hence, the probability that the letter on the card is a vowel = 
+5
+12
+12
+5
+​
+ .
+
+(b) No. of different letters in the word SEWING that are also present in the word HOUSEWARMING = 6
+
+∴ No. of favourable outcomes = 6
+
+P(that the letter on card is a letter of the word SEWING)
+
+= 
+No. of favourable outcomes
+No. of possible outcomes
+=
+6
+12
+=
+1
+2
+No. of possible outcomes
+No. of favourable outcomes
+​
+ = 
+12
+6
+​
+ = 
+2
+1
+​
+ .
+
+Hence, the probability that the letter on the card is a letter of the word SEWING = 
+1
+2
+2
+1
+​
+ .
+
+(c) No. of different letters in the word WEAR that are also present in the word HOUSEWARMING = 4
+
+No. of letters that are not in word WEAR = 12 - 4 = 8
+
+P(that the letter on the card is not a letter from the word)
+
+= 
+No. of favourable outcomes
+No. of possible outcomes
+=
+8
+12
+=
+2
+3
+No. of possible outcomes
+No. of favourable outcomes
+​
+ = 
+12
+8
+​
+ = 
+3
+2
+​
+ .
+
+Hence, the probability that the letter on the card is not a letter of the word WEAR = 
+2
+3
+3
+2
+​
+ .
+
+Question 10(iii)
+Use graph sheet for this question. Tek 2 cm = 1 unit along the axes.
+
+(a) Plot A(1, 2), B(1, 1) and C(2, 1)
+
+(b) Reflect A, B and C about y-axis and name them as A', B' and C'.
+
+(c) Reflect A, B, C, A', B' and C' about x-axis and name them as A'', B'', C'', A''', B''' and C''' respectively.
+
+(d) Join A, B, C, C'', B'', A'', A''', B''', C''', C', B' , A' and A to make it a closed figure.
+
+Answer
+
+Below graph shows all the required points:
+
+Use graph sheet for this question. Tek 2 cm = 1 unit along the axes. ICSE 2024 Maths Specimen Solved Question Paper.

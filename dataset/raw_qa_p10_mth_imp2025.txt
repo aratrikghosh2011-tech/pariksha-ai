@@ -1,0 +1,4900 @@
+SECTION A
+Question 1(i)
+When polynomial x3 - 3x2 - 6x + 8 is divided by (x + 2), the remainder is zero. The probability of (x + 2) to be one of the factors of the given polynomial is:
+
+0
+
+1
+3
+3
+1
+​
+ 
+
+2
+3
+3
+2
+​
+ 
+
+1
+
+Answer
+
+Since, on dividing x3 - 3x2 - 6x + 8 by (x + 2), the remainder is zero.
+
+Thus, (x + 2) is the polynomial of x3 - 3x2 - 6x + 8.
+
+∴ The probability of (x + 2) to be one of the factors of the polynomial = 1.
+
+Hence, option 4 is the correct option.
+
+Question 1(ii)
+Assertion (A): In ΔABC and ΔPQR, if ∠BAC = ∠QPR and ∠ABC = ∠PQR, then ΔABC ~ ΔPQR
+
+Statement 2: ΔABC ~ ΔPQR by SSS axiom
+
+(A) is true, (R) is false.
+
+(A) is false, (R) is true.
+
+Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+Answer
+
+In ΔABC and ΔPQR,
+
+⇒ ∠BAC = ∠QPR [Given]
+
+⇒ ∠ABC = ∠PQR [Given]
+
+∴ ΔABC ~ ΔPQR (By A.A. axiom)
+
+So, assertion (A) is true and reason (R) is false.
+
+Hence, option 1 is the correct option.
+
+Question 1(iii)
+The ratio of diameters of two right circular cones is 3 : 7 and that of their heights is 14 : 9, then their volumes are in ratio:
+
+3 : 7
+
+2 : 7
+
+3 : 2
+
+9 : 49
+
+Answer
+
+Let the diameters of the two right circular cones be d1 and d2, their heights be h1 and h2 and their radius be r1 and r2.
+
+Given,
+
+⇒ d1 : d2 = 3 : 7
+
+Let d1 and d2 be 3x and 7x respectively.
+
+⇒ r1 = 
+3
+x
+2
+2
+3x
+​
+ 
+
+⇒ r2 = 
+7
+x
+2
+2
+7x
+​
+ 
+
+Given,
+
+⇒ h1 : h2 = 14 : 9
+
+Let h1 and h2 be 14a and 9a respectively.
+
+⇒ h1 : h2 = 14a : 9a
+
+By formula,
+
+Volume of cone = 
+1
+3
+π
+r
+2
+h
+3
+1
+​
+ πr 
+2
+ h
+
+⇒
+V
+1
+:
+V
+2
+=
+1
+3
+π
+r
+1
+2
+h
+1
+:
+1
+3
+π
+r
+2
+2
+h
+2
+=
+1
+3
+π
+r
+1
+2
+h
+1
+1
+3
+π
+r
+2
+2
+h
+2
+=
+r
+1
+2
+h
+1
+r
+2
+2
+h
+2
+=
+(
+3
+x
+2
+)
+2
+×
+14
+a
+(
+7
+x
+2
+)
+2
+×
+9
+a
+=
+(
+9
+x
+2
+4
+)
+×
+14
+(
+49
+x
+2
+4
+)
+×
+9
+=
+9
+x
+2
+×
+14
+×
+4
+49
+x
+2
+×
+9
+×
+4
+=
+9
+×
+14
+49
+×
+9
+=
+14
+49
+=
+2
+7
+=
+2
+:
+7.
+⇒V 
+1
+​
+ :V 
+2
+​
+ = 
+3
+1
+​
+ πr 
+1
+2
+​
+ h 
+1
+​
+ : 
+3
+1
+​
+ πr 
+2
+2
+​
+ h 
+2
+​
+ 
+= 
+3
+1
+​
+ πr 
+2
+2
+​
+ h 
+2
+​
+ 
+3
+1
+​
+ πr 
+1
+2
+​
+ h 
+1
+​
+ 
+​
+ 
+= 
+r 
+2
+2
+​
+ h 
+2
+​
+ 
+r 
+1
+2
+​
+ h 
+1
+​
+ 
+​
+ 
+= 
+( 
+2
+7x
+​
+ ) 
+2
+ ×9a
+( 
+2
+3x
+​
+ ) 
+2
+ ×14a
+​
+ 
+= 
+( 
+4
+49x 
+2
+ 
+​
+ )×9
+( 
+4
+9x 
+2
+ 
+​
+ )×14
+​
+ 
+= 
+49x 
+2
+ ×9×4
+9x 
+2
+ ×14×4
+​
+ 
+= 
+49×9
+9×14
+​
+ 
+= 
+49
+14
+​
+ 
+= 
+7
+2
+​
+ =2:7.
+
+Hence, option 2 is the correct option.
+
+Question 1(iv)
+The value of p for which (x - p) is a factor of x3 - px2 + x + 5 is:
+
+-5
+
+-4
+
+5
+
+p + 5
+
+Answer
+
+Given,
+
+f(x) = x3 - px2 + x + 5
+
+⇒ x - p = 0
+
+⇒ x = p.
+
+Since, (x - p) is the factor of f(x), thus f(p) = 0.
+
+f(p) = (p)3 - p(p)2 + p + 5
+
+⇒ 0 = p3 - p3 + p + 5
+
+⇒ 0 = p + 5
+
+⇒ p = -5.
+
+Hence, option 1 is the correct option.
+
+Question 1(v)
+The GST of an article is reduced from 12% to 5% and due to this, the price paid for the article is cut down by ₹ 14. The original price of the article is:
+
+₹ 50
+
+₹ 98
+
+₹ 100
+
+₹ 200
+
+Answer
+
+Let the original price (before GST) = ₹ x
+
+Price paid at 12% GST = x + 12% of (x)
+
+= x + 
+12
+100
+x
+100
+12
+​
+ x
+
+= x + 0.12x
+
+= 1.12x
+
+Price paid at 5% GST = x + 5% of (x)
+
+= x + 
+5
+100
+x
+100
+5
+​
+ x
+
+= x + 0.05x
+
+= 1.05x
+
+Given,
+
+The price paid for the article is cut down by ₹ 14.
+
+Difference in price paid = 1.12x - 1.05x
+
+⇒ 14 = 1.12x - 1.05x
+
+⇒ 14 = 0.07x
+
+⇒ x = 
+14
+0.07
+0.07
+14
+​
+ 
+
+⇒ x = 200.
+
+The original price of the article is = ₹ 200
+
+Hence, option 4 is the correct option.
+
+Question 1(vi)
+The mean of 12, 22, 33 and 44 is:
+
+24
+
+72
+
+144
+
+264
+
+Answer
+
+Given,
+
+Number of observations = 4
+
+By formula,
+
+Mean = 
+Sum of all observations
+Total number of observations
+Total number of observations
+Sum of all observations
+​
+ 
+
+Substituting values we get :
+
+Mean 
+=
+1
+2
++
+2
+2
++
+3
+3
++
+4
+4
+4
+=
+1
++
+4
++
+27
++
+256
+4
+=
+288
+4
+=
+72.
+Mean = 
+4
+1 
+2
+ +2 
+2
+ +3 
+3
+ +4 
+4
+ 
+​
+ 
+= 
+4
+1+4+27+256
+​
+ 
+= 
+4
+288
+​
+ 
+=72.
+
+Hence, option 2 is the correct option.
+
+Question 1(vii)
+If 2x - 15 > 4x + 9, then:
+
+x < -12
+
+x < 12
+
+x > −12
+
+x > 12
+
+Answer
+
+Given,
+
+⇒ 2x - 15 > 4x + 9
+
+⇒ -15 - 9 > 4x - 2x
+
+⇒ -24 > 2x
+
+⇒ 
+−
+24
+2
+2
+−24
+​
+  > x
+
+⇒ -12 > x
+
+⇒ x < -12.
+
+Hence, option 1 is the correct option.
+
+Question 1(viii)
+Assertion (A): If the length of shadow of a person is equal to his height, then the angle of elevation of the sun is 45°.
+
+Statement 2: For any right-angled triangle, tan θ = 
+Perpendicular
+Base
+Base
+Perpendicular
+​
+ 
+
+(A) is true, (R) is false.
+
+(A) is false, (R) is true.
+
+Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+Answer
+
+Let AB = Height of person and BC = Length of shadow.
+
+∠ACB = θ (Angle of elevation of sun)
+
+If the length of shadow of a person is equal to his height, then the angle of elevation of the sun is 45°.ICSE 2025 Improvement Maths Solved Question Paper.
+Given,
+
+Length of shadow of a person (BC) = height of person (AB)
+
+⇒ tan θ = 
+Perpendicular
+Base
+Base
+Perpendicular
+​
+ 
+
+⇒ tan θ = 
+AB
+BC
+BC
+AB
+​
+ 
+
+⇒ tan θ = 
+AB
+AB
+AB
+AB
+​
+ 
+
+⇒ tan θ = 1
+
+⇒ tan θ = tan 45°
+
+⇒ θ = 45°.
+
+∴ Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Hence, option 3 is the correct option.
+
+Question 1(ix)
+The roots of the quadratic equation 3x2 = 6x is:
+
+0
+
+2
+
+0 and 2
+
+0 and 6
+
+Answer
+
+⇒ 3x2 = 6x
+
+⇒ 3x2 - 6x = 0
+
+⇒ 3x(x - 2) = 0      [Using Zero-product rule]
+
+⇒ 3x = 0 or (x - 2) = 0
+
+⇒ x = 0 or x = 2.
+
+Hence, option 3 is the correct option.
+
+Question 1(x)
+The locus of a toy bird fixed at the tip of one of the blades of a rotating ceiling fan is a:
+
+straight line
+
+circle
+
+semi-circular arc
+
+diameter of the circle so formed
+
+Answer
+
+Given,
+
+The toy bird, fixed at the tip of the blade, is at a constant distance from this central point.
+
+The locus of a point equidistant from a fixed point is a circle with fixed point as centre.
+
+Thus, the locus of toy bird will be a circle.
+
+Hence, option 2 is the correct option.
+
+Question 1(xi)
+Percentage return on ₹100, 12% share of a company bought at 4% discount is:
+
+10%
+
+12%
+
+12.5%
+
+16%
+
+Answer
+
+Given,
+
+Face value = ₹ 100
+
+Discount = 4%
+
+Discount amount = 4% of face value
+
+= 
+4
+100
+×
+100
+100
+4
+​
+ ×100
+
+= ₹ 4.
+
+Dividend rate = 12%
+
+Dividend = 12% of face value
+
+= 
+12
+100
+×
+100
+100
+12
+​
+ ×100
+
+= ₹ 12.
+
+Market price = Face value - Discount
+
+= ₹ 100 - ₹ 4
+
+= ₹ 96.
+
+By formula,
+
+Return = 
+Dividend earned on one share
+Market Price of one share
+×
+100
+Market Price of one share
+Dividend earned on one share
+​
+ ×100
+
+= 
+12
+96
+×
+100
+96
+12
+​
+ ×100
+
+= 12.5%
+
+Hence, option 3 is the correct option.
+
+Question 1(xii)
+If matrix A of order 2 × 1 and matrix B of order 2 × 2 are added, then the order of the matrix A + B is:
+
+2 × 2
+
+2 × 1
+
+1 × 2
+
+A + B is not possible
+
+Answer
+
+Given,
+
+A of order 2 × 1
+
+B of order 2 × 2
+
+Since their orders are different, thus matrix A and B cannot be added.
+
+Thus, A + B is not possible.
+
+Hence, option 4 is the correct option.
+
+Question 1(xiii)
+In the adjoining diagram, PQ is a tangent at A to the circle with centre O. If ∠OAC = 25°, then ∠ABC is:
+
+20°
+
+65°
+
+70°
+
+130°
+
+In the adjoining diagram, PQ is a tangent at A to the circle with centre O. If ∠OAC = 25°, then ∠ABC is: ICSE 2025 Improvement Maths Solved Question Paper.
+Answer
+
+Given,
+
+∠OAC = 25°
+
+We know that,
+
+Radius from the center and tangent are perpendicular to each other at point of contact.
+
+⇒ ∠OAQ = ∠OAP = 90°
+
+From figure,
+
+⇒ ∠OAQ = ∠OAC + ∠CAQ
+
+⇒ 90° = 25° + ∠CAQ
+
+⇒ ∠CAQ = 90° - 25°
+
+⇒ ∠CAQ = 65°.
+
+We know that,
+
+The angle between a tangent and a chord through the point of contact is equal to an angle in alternate segment. Hence,
+
+⇒ ∠ABC = ∠CAQ
+
+⇒ ∠ABC = 65°.
+
+Hence, option 2 is the correct option.
+
+Question 1(xiv)
+The line segment joining A(-7, 2) and B(3, -8) is divided by the x-axis in the ratio :
+
+1 : 4
+
+3 : 7
+
+4 : 1
+
+7 : 3
+
+Answer
+
+Given,
+
+AB is divided by the x-axis, thus y-coordinate = 0 at point of division.
+
+A(-7, 2) and B(3, -8)
+
+Let ratio be m : n.
+
+By section-formula,
+
+y = 
+m
+y
+2
++
+n
+y
+1
+m
++
+n
+m+n
+my 
+2
+​
+ +ny 
+1
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒ 0 = 
+m
+×
+(
+−
+8
+)
++
+n
+×
+(
+2
+)
+m
++
+n
+m+n
+m×(−8)+n×(2)
+​
+ 
+
+⇒ 0 = -8m + 2n
+
+⇒ 8m = 2n
+
+⇒ 
+m
+n
+=
+2
+8
+n
+m
+​
+ = 
+8
+2
+​
+ 
+
+⇒ 
+m
+n
+=
+1
+4
+n
+m
+​
+ = 
+4
+1
+​
+ 
+
+⇒ m : n = 1 : 4.
+
+Hence, option 1 is the correct option.
+
+Question 1(xv)
+Mr. Rahul deposited ₹ 11,700 in a recurring deposit account for 1 
+1
+2
+2
+1
+​
+  years. The amount deposited by him per month is :
+
+₹ 650
+
+₹ 780
+
+₹ 6,500
+
+₹ 7,800
+
+Answer
+
+Given,
+
+Time = 
+1
+1
+2
+1 
+2
+1
+​
+  years = 18 months
+
+Amount deposited = ₹ 11,700
+
+Amount deposited per month
+
+= 
+Total amount deposited
+Total number of months
+Total number of months
+Total amount deposited
+​
+ 
+
+= 
+11700
+18
+18
+11700
+​
+ 
+
+= ₹ 650.
+
+Hence, option 1 is the correct option.
+
+Question 2(i)
+A retailer purchased an air conditioner (A.C.) for ₹30,000. He marked up its price by 20% and then allows a discount of 10% on the marked price to a customer. If the sale is intra-state and the rate of GST is 28%, find the:
+
+(a) marked price of A.C.
+
+(b) total amount paid by the customer including GST.
+
+(c) tax collected by the central and the state governments respectively.
+
+Answer
+
+Given,
+
+(a) Given,
+
+Cost price = ₹30,000
+
+Markup = 20%
+
+Markup amount = 20% of cost price
+
+= 
+20
+100
+×
+30000
+100
+20
+​
+ ×30000
+
+= ₹ 6,000
+
+Marked price = Cost price + Markup amount
+
+= 30,000 + 6,000
+
+= ₹ 36,000
+
+Hence, marked price = ₹ 36,000.
+
+(b) Given,
+
+Discount = 10%
+
+Discount amount = 10% of marked price
+
+= 
+10
+100
+×
+36000
+100
+10
+​
+ ×36000
+
+= ₹ 3,600
+
+Selling price = Marked price - Discount
+
+= 36000 - 3600
+
+= ₹ 32,400
+
+GST = 28%
+
+GST amount = 28% of selling price
+
+= 
+28
+100
+×
+32400
+100
+28
+​
+ ×32400
+
+= ₹ 9,072.
+
+Total amount paid by customer = Selling price + GST
+
+= ₹ 32,400 + ₹ 9,072
+
+= ₹ 41,472.
+
+Hence, total amount paid by the customer = ₹ 41,472.
+
+(c) From part (b),
+
+Total GST = ₹ 9,072
+
+GST = 28%
+
+CGST= SGST = 
+G
+S
+T
+2
+=
+9072
+2
+2
+GST
+​
+ = 
+2
+9072
+​
+ 
+
+= ₹ 4,536.
+
+Hence, tax collected by central government = ₹ 4,536 and tax collected by state government = ₹ 4,536.
+
+Question 2(ii)
+In the adjoining diagram ∠DOE = 46° and ∠BGH = 113°.
+
+(a) Find ∠DBC and ∠DCE.
+
+(b) Prove that CBGH is a cyclic quadrilateral.
+
+In the adjoining diagram ∠DOE = 46° and ∠BGH = 113°.ICSE 2025 Improvement Maths Solved Question Paper.
+Answer
+
+We know that,
+
+The angle subtended by an arc at the center is double the angle subtended by it at any point on the remaining part of the circle.
+
+∴ ∠DBE = 
+1
+2
+2
+1
+​
+  DOE
+
+⇒ ∠DBE = 
+1
+2
+2
+1
+​
+  × 46° = 23°
+
+From figure,
+
+⇒ ∠DBC = ∠DBE = 23°.
+
+From figure,
+
+⇒ ∠BDA = 90° [Angle in a semicircle]
+
+⇒ ∠BDC = 180° - ∠BDA [Angles on a straight line]
+
+⇒ ∠BDC = 180° - 90°
+
+⇒ ∠BDC = 90°.
+
+In triangle BDC,
+
+Sum of angles in a triangle = 180°
+
+⇒ ∠BDC + ∠DCB + ∠DBC = 180°
+
+⇒ 90° + ∠DCB + 23° = 180°
+
+⇒ 113° + ∠DCB = 180°
+
+⇒ ∠DCB = 180° - 113°
+
+⇒ ∠DCB = 67°
+
+From figure,
+
+∠DCE = ∠DCB = 67°.
+
+Hence, ∠DBC = 23° and ∠DCE = 67°.
+
+(b) From figure,
+
+⇒ ∠BCH = ∠DCE = 67° [Common angles]
+
+⇒ ∠BGH = 113°
+
+⇒ ∠BGH + ∠BCH = 113° + 67° = 180°.
+
+Since, the sum of opposite sides of quadrilateral is 180°, thus CBGH is a cyclic quadrilateral.
+
+Hence, proved that CBGH is a cyclic quadrilateral.
+
+Question 2(iii)
+The table given below shows a record of the weight in kilogram of 200 students of a school.
+
+Weight(kg)	Number of students
+40 - 45	8
+45 - 50	19
+50 - 55	24
+55 - 60	45
+60 - 65	51
+65 - 70	31
+70 - 75	22
+Draw a histogram and find the modal weight.
+
+[Take 2 cm = 5 kg along one axis and 2 cm = 5 students along the other axis]
+
+Answer
+
+Steps of Construction:
+
+Draw a histogram of the given distribution.
+
+Inside the highest rectangle, which represents the maximum frequency (the modal class 60-65), draw two lines AC and BD diagonally from the upper corners C and D of the adjacent rectangles (50-55 and 65-70) to the top corners of the modal rectangle.
+
+Through the point K (the point of intersection of diagonals AC and BD), draw KL perpendicular to the horizontal axis.
+
+The value of point L on the horizontal axis represents the value of the mode.
+
+The table given below shows a record of the weight in kilogram of 200 students of a school.ICSE 2025 Improvement Maths Solved Question Paper.
+From graph,
+
+L = 61.
+
+Hence, modal weight = 61 kg.
+
+Question 3(i)
+Prove that :
+
+sin
+⁡
+A
+−
+sin
+⁡
+3
+A
+cos
+⁡
+3
+A
+−
+cos
+⁡
+A
+×
+(
+sec
+⁡
+A
+−
+cosec
+⁡
+A
+)
+=
+cosec
+⁡
+A
+(
+cot
+⁡
+A
+−
+1
+)
+cos 
+3
+ A−cosA
+sinA−sin 
+3
+ A
+​
+ ×(secA−cosecA)=cosecA(cotA−1)
+
+Answer
+
+Solving L.H.S,
+
+⇒
+sin
+⁡
+A
+−
+sin
+⁡
+3
+A
+cos
+⁡
+3
+A
+−
+cos
+⁡
+A
+×
+(
+sec
+⁡
+A
+−
+cosec
+⁡
+A
+)
+⇒
+sin
+⁡
+A
+(
+1
+−
+sin
+⁡
+2
+A
+)
+cos
+⁡
+A
+(
+cos
+⁡
+2
+A
+−
+1
+)
+×
+(
+1
+cos
+⁡
+A
+−
+1
+sin
+⁡
+A
+)
+⇒
+sin
+⁡
+A
+(
+1
+−
+sin
+⁡
+2
+A
+)
+−
+cos
+⁡
+A
+(
+1
+−
+cos
+⁡
+2
+A
+)
+×
+(
+1
+cos
+⁡
+A
+−
+1
+sin
+⁡
+A
+)
+⇒
+sin
+⁡
+A
+(
+cos
+⁡
+2
+A
+)
+−
+cos
+⁡
+A
+(
+sin
+⁡
+2
+A
+)
+×
+(
+sin
+⁡
+A
+−
+cos
+⁡
+A
+cos
+⁡
+A
+sin
+⁡
+A
+)
+⇒
+−
+cos
+⁡
+A
+sin
+⁡
+A
+×
+(
+sin
+⁡
+A
+−
+cos
+⁡
+A
+cos
+⁡
+A
+sin
+⁡
+A
+)
+⇒
+−
+(
+sin
+⁡
+A
+−
+cos
+⁡
+A
+sin
+⁡
+2
+A
+)
+⇒
+cos
+⁡
+A
+−
+sin
+⁡
+A
+sin
+⁡
+2
+A
+⇒
+1
+sin
+⁡
+A
+(
+cos
+⁡
+A
+−
+sin
+⁡
+A
+sin
+⁡
+A
+)
+⇒
+1
+sin
+⁡
+A
+(
+cos
+⁡
+A
+sin
+⁡
+A
+−
+sin
+⁡
+A
+sin
+⁡
+A
+)
+⇒
+cosec
+⁡
+A
+(
+cot
+⁡
+A
+−
+1
+)
+.
+⇒ 
+cos 
+3
+ A−cosA
+sinA−sin 
+3
+ A
+​
+ ×(secA−cosecA)
+⇒ 
+cosA(cos 
+2
+ A−1)
+sinA(1−sin 
+2
+ A)
+​
+ ×( 
+cosA
+1
+​
+ − 
+sinA
+1
+​
+ )
+⇒ 
+−cosA(1−cos 
+2
+ A)
+sinA(1−sin 
+2
+ A)
+​
+ ×( 
+cosA
+1
+​
+ − 
+sinA
+1
+​
+ )
+⇒ 
+−cosA(sin 
+2
+ A)
+sinA(cos 
+2
+ A)
+​
+ ×( 
+cosAsinA
+sinA−cosA
+​
+ )
+⇒− 
+sinA
+cosA
+​
+ ×( 
+cosAsinA
+sinA−cosA
+​
+ )
+⇒−( 
+sin 
+2
+ A
+sinA−cosA
+​
+ )
+⇒ 
+sin 
+2
+ A
+cosA−sinA
+​
+ 
+⇒ 
+sinA
+1
+​
+ ( 
+sinA
+cosA−sinA
+​
+ )
+⇒ 
+sinA
+1
+​
+ ( 
+sinA
+cosA
+​
+ − 
+sinA
+sinA
+​
+ )
+⇒cosecA(cotA−1).
+
+Since,
+
+L.H.S = R.H.S
+
+Hence, proved that
+
+sin
+⁡
+A
+−
+sin
+⁡
+3
+A
+cos
+⁡
+3
+A
+−
+cos
+⁡
+A
+×
+(
+sec
+⁡
+A
+−
+cosec
+⁡
+A
+)
+=
+cosec
+⁡
+A
+(
+cot
+⁡
+A
+−
+1
+)
+cos 
+3
+ A−cosA
+sinA−sin 
+3
+ A
+​
+ ×(secA−cosecA)=cosecA(cotA−1).
+
+Question 3(ii)
+If 2x3 - 3x2 - 3x + 2 = (2x - 1)(x2 + ax + b)
+
+(a) using Remainder and Factor theorem, find the value of ‘a’ and ‘b’.
+
+(b) hence, factorise the polynomial 2x3 - 3x2 - 3x + 2 completely.
+
+Answer
+
+(a) Given,
+
+2x3 - 3x2 - 3x + 2 = (2x - 1)(x2 + ax + b)
+
+Therefore, (2x - 1) is factor of 2x3 - 3x2 - 3x + 2.
+
+Factorizing,
+
+2
+x
+−
+1
+)
+‾
++
+−
+2
+x
+3
+−
++
+x
+2
+‾
+−
+2
+x
+2
+−
+3
+x
+−
++
+2
+x
+2
++
+−
+x
+‾
+−
+4
+x
++
+2
+−
++
+4
+x
++
+−
+2
+‾
+×
+ 
+x−3x)x 
+2
+ −x−2
+2x−1 
+)
+ 2x 
+3
+ −3x 
+2
+ −3x+2
+​
+ 
+x 
+2
+ +4( 
+−
++
+​
+ 2x 
+3
+  
++
+−
+​
+ x 
+2
+ 
+​
+ 
+x 
+2
+ +3x−7)−2x 
+2
+ −3x
+x 
+2
+ +3x−5)) 
++
+−
+​
+ 2x 
+2
+  
+−
++
+​
+ x
+​
+ 
+x 
+2
+ +3x−5)+24)−4x+2
+x 
+2
+ +3x−5)+24+ 
++
+−
+​
+ 4x 
+−
++
+​
+ 2
+​
+ 
+x 
+2
+ +3x−54)+2x+7× 
+​
+ 
+
+∴ 2x3 - 3x2 - 3x + 2 = (2x - 1)(x2 - x - 2)
+
+Comparing, x2 + ax + b with x2 - x - 2, we get:
+
+a = -1 and b = -2.
+
+Hence, a = -1 and b = -2.
+
+(b) From part (a),
+
+⇒ 2x3 - 3x2 - 3x + 2 = (2x - 1)(x2 - x - 2)
+
+= (2x - 1)(x2 - 2x + x - 2)
+
+= (2x - 1)[x(x - 2) + 1(x - 2)]
+
+= (2x - 1)(x + 1)(x - 2).
+
+Hence, 2x3 - 3x2 - 3x + 2 = (2x - 1)(x + 1)(x - 2).
+
+Question 3(iii)
+Using the given graph, answer the following:
+
+(a) Write down the coordinates of the points A, B, C, and E.
+
+(b) Name and write down the coordinates of the image of B under reflection in x-axis.
+
+(c) Name and write the coordinates of the image of D under reflection through the origin.
+
+(d) Which point is the image of A under reflection on the line BH? Write its coordinates.
+
+(e) Name the closed figure ABCDEFGH.
+
+Using the given graph, answer the following: Chord SR produced meets the tangent XTP at P.ICSE 2025 Improvement Maths Solved Question Paper.
+Answer
+
+Using the given graph, answer the following: Chord SR produced meets the tangent XTP at P.ICSE 2025 Improvement Maths Solved Question Paper.
+(a) From graph,
+
+Coordinates of A(0, -4), B(3, -2), C(1, 0), E(0, 1).
+
+(b) From graph,
+
+Point B on reflecting in x-axis becomes D.
+
+Hence, coordinates of point B on reflecting in x-axis are D(3, 2).
+
+(c) From graph,
+
+Point D on reflecting in origin becomes H.
+
+Hence, coordinates of point D on reflecting in origin are H(-3, -2).
+
+(d) From graph,
+
+Origin is the image of point A under reflection in the line BH.
+
+Hence, coordinates of point A under reflection in the line BH are (0, 0).
+
+(e) From the graph,
+
+The figure ABCDEFGH looks like a fish.
+
+SECTION B
+
+Question 4(i)
+The sum of two numbers is 2 and the sum of their reciprocals is 2.25. Find the numbers.
+
+Answer
+
+Let two numbers be x and y.
+
+Given,
+
+Sum of two numbers = 2
+
+⇒ x + y = 2
+
+⇒ x = 2 - y .......(1)
+
+Sum of their reciprocals is 2.25.
+
+⇒ 
+1
+x
++
+1
+y
+=
+2.25
+x
+1
+​
+ + 
+y
+1
+​
+ =2.25
+
+⇒ 
+x
++
+y
+x
+y
+=
+2.25
+xy
+x+y
+​
+ =2.25 ........(2)
+
+Substituting value of x from equation (1) in (2), we get :
+
+⇒
+2
+−
+y
++
+y
+(
+2
+−
+y
+)
+y
+=
+2.25
+⇒
+2
+2
+y
+−
+y
+2
+=
+225
+100
+⇒
+200
+=
+225
+(
+2
+y
+−
+y
+2
+)
+⇒
+200
+=
+450
+y
+−
+225
+y
+2
+⇒
+225
+y
+2
+−
+450
+y
++
+200
+=
+0
+⇒
+25
+(
+9
+y
+2
+−
+18
+y
++
+8
+)
+=
+0
+⇒
+9
+y
+2
+−
+18
+y
++
+8
+=
+0
+⇒
+9
+y
+2
+−
+12
+y
+−
+6
+y
++
+8
+=
+0
+⇒
+3
+y
+(
+3
+y
+−
+4
+)
+−
+2
+(
+3
+y
+−
+4
+)
+=
+0
+⇒
+(
+3
+y
+−
+2
+)
+(
+3
+y
+−
+4
+)
+=
+0
+⇒
+(
+3
+y
+−
+2
+)
+=
+0
+ or 
+(
+3
+y
+−
+4
+)
+=
+0
+ Using zero product rule 
+⇒
+3
+y
+=
+2
+ or 
+3
+y
+=
+4
+⇒
+y
+=
+2
+3
+ or 
+y
+=
+4
+3
+.
+⇒ 
+(2−y)y
+2−y+y
+​
+ =2.25
+⇒ 
+2y−y 
+2
+ 
+2
+​
+ = 
+100
+225
+​
+ 
+⇒200=225(2y−y 
+2
+ )
+⇒200=450y−225y 
+2
+ 
+⇒225y 
+2
+ −450y+200=0
+⇒25(9y 
+2
+ −18y+8)=0
+⇒9y 
+2
+ −18y+8=0
+⇒9y 
+2
+ −12y−6y+8=0
+⇒3y(3y−4)−2(3y−4)=0
+⇒(3y−2)(3y−4)=0
+⇒(3y−2)=0 or (3y−4)=0 Using zero product rule 
+⇒3y=2 or 3y=4
+⇒y= 
+3
+2
+​
+  or y= 
+3
+4
+​
+ .
+
+Hence, the two numbers are 
+2
+3
+,
+4
+3
+3
+2
+​
+ , 
+3
+4
+​
+ .
+
+Question 4(ii)
+A right circular cone of radius 20 cm has its volume 8800 cm3. Find its:
+
+(a) height
+
+(b) curved surface area.
+
+Give your answer to the nearest whole number.
+
+Answer
+
+Let height of cone be h cm.
+
+Given,
+
+Radius of cone (r) = 20 cm
+
+(a) Given,
+
+Volume = 8800 cm3
+
+By formula,
+
+Volume of cone = 
+1
+3
+π
+r
+2
+h
+3
+1
+​
+ πr 
+2
+ h
+
+∴ 
+1
+3
+π
+r
+2
+h
+=
+8800
+3
+1
+​
+ πr 
+2
+ h=8800
+
+⇒
+1
+3
+×
+22
+7
+×
+20
+2
+×
+h
+=
+8800
+⇒
+1
+3
+×
+22
+7
+×
+400
+×
+h
+=
+8800
+⇒
+h
+=
+8800
+×
+7
+×
+3
+400
+×
+22
+⇒
+h
+=
+7
+×
+3
+⇒
+h
+=
+21
+ cm
+.
+⇒ 
+3
+1
+​
+ × 
+7
+22
+​
+ ×20 
+2
+ ×h=8800
+⇒ 
+3
+1
+​
+ × 
+7
+22
+​
+ ×400×h=8800
+⇒h= 
+400×22
+8800×7×3
+​
+ 
+⇒h=7×3
+⇒h=21 cm.
+
+Hence, height of cone = 21 cm.
+
+(b) By formula,
+
+Slant Height of cone (l) = 
+(
+r
+2
++
+h
+2
+)
+(r 
+2
+ +h 
+2
+ )
+​
+ 
+
+l
+=
+(
+20
+)
+2
++
+(
+21
+)
+2
+=
+400
++
+441
+=
+841
+=
+29
+ cm
+l= 
+(20) 
+2
+ +(21) 
+2
+ 
+​
+ 
+= 
+400+441
+​
+ 
+= 
+841
+​
+ 
+=29 cm
+
+By formula,
+
+Curved Surface Area of cone = πrl
+
+Curved Surface Area of cone = 
+22
+7
+×
+20
+×
+29
+7
+22
+​
+ ×20×29
+
+⇒ 
+12760
+7
+7
+12760
+​
+ 
+
+⇒ 1822.857 ≈ 1823 cm2.
+
+Hence, curved surface area of cone = 1823 cm2.
+
+Question 4(iii)
+Construct a regular hexagon of side 4.5 cm. Hence, construct a circle circumscribing the regular hexagon. Use ruler and compass for the construction. Measure and write down the radius of the circle.
+
+Answer
+
+Each interior angle of a regular hexagon = 
+(
+2
+n
+−
+4
+n
+)
+×
+90
+°
+( 
+n
+2n−4
+​
+ )×90°
+
+= 
+(
+2
+×
+6
+−
+4
+6
+)
+×
+90
+°
+( 
+6
+2×6−4
+​
+ )×90°
+
+= 8 × 15°
+
+= 120°.
+
+Steps of Construction:
+
+Draw a regular hexagon ABCDEF with each side equal to 4.5 cm and each interior angle = 120°.
+
+Draw the perpendicular bisectors of AB and AF which intersect each other at O.
+
+With O as center and OA as radius draw a circle which will pass through all the vertices of the regular hexagon.
+
+Measure OF.
+
+Construct a regular hexagon of side 4.5 cm. Hence, construct a circle circumscribing the regular hexagon. Use ruler and compass for the construction. Measure and write down the radius of the circle. ICSE 2025 Improvement Maths Solved Question Paper.
+From figure,
+
+OF(Radius) = 4.5 cm
+
+Hence, radius of circle = 4.5 cm.
+
+Question 5(i)
+164, 160, 156, 152, ..... are in Arithmetic Progression (A.P.). Find :
+
+(a) which term is equal to 0.
+
+(b) the sum of its first 20 terms.
+
+Answer
+
+Given,
+
+First term (a) = 164
+
+Common difference (d) = 160 - 164 = -4
+
+(a) Let nth term be zero.
+
+⇒ an = 0
+
+⇒ a + (n - 1)d = 0
+
+⇒ 164 + (n - 1)(-4) = 0
+
+⇒ 164 - 4n + 4 = 0
+
+⇒ 168 - 4n = 0
+
+⇒ 4n = 168
+
+⇒ n = 
+168
+4
+4
+168
+​
+ 
+
+⇒ n = 42.
+
+Hence, 42nd term is equal to 0.
+
+(b) By formula,
+
+S
+n
+=
+n
+2
+[
+2
+a
++
+(
+n
+−
+1
+)
+d
+]
+S 
+n
+​
+ = 
+2
+n
+​
+ [2a+(n−1)d]
+
+Substituting values we get :
+
+S
+20
+=
+20
+2
+[
+2
+×
+(
+164
+)
++
+(
+20
+−
+1
+)
+×
+(
+−
+4
+)
+]
+⇒
+S
+20
+=
+10
+[
+328
++
+(
+19
+)
+×
+(
+−
+4
+)
+]
+⇒
+S
+20
+=
+10
+[
+328
+−
+76
+]
+⇒
+S
+20
+=
+10
+×
+252
+⇒
+S
+20
+=
+2520.
+S 
+20
+​
+ = 
+2
+20
+​
+ [2×(164)+(20−1)×(−4)]
+⇒S 
+20
+​
+ =10[328+(19)×(−4)]
+⇒S 
+20
+​
+ =10[328−76]
+⇒S 
+20
+​
+ =10×252
+⇒S 
+20
+​
+ =2520.
+
+Hence, sum of first 20 terms = 2520.
+
+Question 5(ii)
+Solve the following quadratic equation:
+
+3x2 + 6x - 4 = 0
+
+Give your answer correct to two places of decimals.
+
+Answer
+
+Given,
+
+⇒ 3x2 + 6x - 4 = 0
+
+Comparing equation 3x2 + 6x - 4 = 0 with ax2 + bx + c = 0, we get :
+
+a = 3, b = 6 and c = -4.
+
+By formula,
+
+x = 
+−
+b
+±
+b
+2
+−
+4
+a
+c
+2
+a
+2a
+−b± 
+b 
+2
+ −4ac
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒
+x
+=
+−
+(
+6
+)
+±
+(
+6
+)
+2
+−
+4
+×
+3
+×
+(
+−
+4
+)
+2
+×
+3
+=
+−
+6
+±
+36
++
+48
+6
+=
+−
+6
+±
+84
+6
+=
+−
+6
+±
+21
+×
+4
+6
+=
+−
+6
+±
+2
+21
+6
+=
+−
+6
++
+2
+21
+6
+ or 
+−
+6
+−
+2
+21
+6
+=
+2
+(
+−
+3
++
+21
+)
+6
+ or 
+2
+(
+−
+3
+−
+21
+)
+6
+=
+−
+3
++
+21
+3
+ or 
+−
+3
+−
+21
+3
+=
+−
+3
++
+4.58
+3
+ or 
+−
+3
+−
+4.58
+3
+=
+1.58
+3
+ or 
+−
+7.58
+3
+=
+0.53
+ or 
+−
+2.53
+⇒x= 
+2×3
+−(6)± 
+(6) 
+2
+ −4×3×(−4)
+​
+ 
+​
+ 
+= 
+6
+−6± 
+36+48
+​
+ 
+​
+ 
+= 
+6
+−6± 
+84
+​
+ 
+​
+ 
+= 
+6
+−6± 
+21×4
+​
+ 
+​
+ 
+= 
+6
+−6±2 
+21
+​
+ 
+​
+ 
+= 
+6
+−6+2 
+21
+​
+ 
+​
+  or  
+6
+−6−2 
+21
+​
+ 
+​
+ 
+= 
+6
+2(−3+ 
+21
+​
+ )
+​
+  or  
+6
+2(−3− 
+21
+​
+ )
+​
+ 
+= 
+3
+−3+ 
+21
+​
+ 
+​
+  or  
+3
+−3− 
+21
+​
+ 
+​
+ 
+= 
+3
+−3+4.58
+​
+  or  
+3
+−3−4.58
+​
+ 
+= 
+3
+1.58
+​
+  or − 
+3
+7.58
+​
+ 
+=0.53 or −2.53
+
+Hence, x = 0.53 or -2.53.
+
+Question 5(iii)
+In the adjoining figure of a circle with centre O and diameter AD, ∠BED = 70° and BC is parallel to AD. Find:
+
+(a) ∠BAD
+
+(b) ∠BOD
+
+(c) ∠DBC
+
+(d) ∠DCF
+
+In the adjoining figure of a circle with centre O and diameter AD, ∠BED = 70° and BC is parallel to AD. Find: ICSE 2025 Improvement Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+∠BED = 70°
+
+We know that,
+
+Angles in the same segment of a circle are equal.
+
+∠BAD = ∠BED = 70°.
+
+Hence, ∠BAD = 70°.
+
+(b) We know that,
+
+The angle which an arc of a circle subtends at the center is double which it subtends at any point on the remaining part of the circumference.
+
+Therefore,
+
+∠BOD = 2∠BAD = 2 × 70° = 140°.
+
+Hence, ∠BOD = 140°.
+
+(c) We know that,
+
+Angle in a semi-circle is a right angle triangle.
+
+∠ABD = 90°
+
+In △ABD,
+
+⇒ ∠BAD + ∠BDA + ∠ABD = 180°
+
+⇒ 70° + ∠BDA + 90° = 180°
+
+⇒ 160° + ∠BDA = 180°
+
+⇒ ∠BDA = 180° - 160°
+
+⇒ ∠BDA = 20°
+
+From figure,
+
+BC || AD
+
+∴ ∠DBC = ∠BDA = 20° (Alternate angles are equal).
+
+Hence, ∠DBC = 20°.
+
+(d) The figure ABCD is a cyclic quadrilateral
+
+We know that,
+
+The exterior angle of a cyclic quadrilateral is equal to the interior opposite angle.
+
+∠DCF = ∠BAD = 70°.
+
+Hence, ∠DCF = 70°.
+
+Question 6(i)
+Solve the inequation, write down the solution set and represent it on a real number line:
+
+3
+x
+−
+16
+<
+2
+x
+5
+−
+3
+≤
+−
+3
+5
++
+2
+x
+3x−16< 
+5
+2x
+​
+ −3≤− 
+5
+3
+​
+ +2x; x ∈ R
+
+Answer
+
+Given,
+
+3
+x
+−
+16
+<
+2
+x
+5
+−
+3
+≤
+−
+3
+5
++
+2
+x
+3x−16< 
+5
+2x
+​
+ −3≤− 
+5
+3
+​
+ +2x
+
+Solving L.H.S. of the above equation :
+
+⇒
+3
+x
+−
+16
+<
+2
+x
+5
+−
+3
+⇒
+3
+x
+−
+2
+x
+5
+<
+16
+−
+3
+⇒
+15
+x
+−
+2
+x
+5
+<
+13
+⇒
+15
+x
+−
+2
+x
+<
+13
+×
+5
+⇒
+13
+x
+<
+65
+⇒
+x
+<
+65
+13
+⇒
+x
+<
+5
+ ........(1)
+⇒3x−16< 
+5
+2x
+​
+ −3
+⇒3x− 
+5
+2x
+​
+ <16−3
+⇒ 
+5
+15x−2x
+​
+ <13
+⇒15x−2x<13×5
+⇒13x<65
+⇒x< 
+13
+65
+​
+ 
+⇒x<5 ........(1)
+
+Solving R.H.S. of the above equation :
+
+⇒
+2
+x
+5
+−
+3
+≤
+−
+3
+5
++
+2
+x
+⇒
+2
+x
+5
+−
+2
+x
+≤
+−
+3
+5
++
+3
+⇒
+2
+x
+−
+10
+x
+5
+≤
+−
+3
++
+15
+5
+⇒
+−
+8
+x
+5
+≤
+12
+5
+⇒
+−
+8
+x
+≤
+12
+⇒
+8
+x
+≥
+−
+12
+⇒
+x
+≥
+−
+12
+8
+⇒
+x
+≥
+−
+3
+2
+ ........(2)
+⇒ 
+5
+2x
+​
+ −3≤− 
+5
+3
+​
+ +2x
+⇒ 
+5
+2x
+​
+ −2x≤− 
+5
+3
+​
+ +3
+⇒ 
+5
+2x−10x
+​
+ ≤ 
+5
+−3+15
+​
+ 
+⇒ 
+5
+−8x
+​
+ ≤ 
+5
+12
+​
+ 
+⇒−8x≤12
+⇒8x≥−12
+⇒x≥− 
+8
+12
+​
+ 
+⇒x≥− 
+2
+3
+​
+  ........(2)
+
+From equation (1) and (2), we get :
+
+−
+3
+2
+≤
+x
+<
+5
+− 
+2
+3
+​
+ ≤x<5
+
+Solve the inequation, write down the solution set and represent it on a real number line: ICSE 2025 Improvement Maths Solved Question Paper.
+Hence, solution set = {x : 
+−
+3
+2
+≤
+x
+<
+5
+− 
+2
+3
+​
+ ≤x<5, x ∈ R}.
+
+Question 6(ii)
+If the 6th term of a series in Geometric Progression (G.P.) is 32 and the 9th term is 256, find the:
+
+(a) first term and the common ratio.
+
+(b) sum of its first 10 terms.
+
+Answer
+
+(a) Let the first term of the Geometric Progression be a and the common ratio be r.
+
+By formula,
+
+Tn = arn
+
+Given,
+
+The 6th term is 32.
+
+⇒ ar6 - 1 = 32
+
+⇒ ar5 = 32 .........(1)
+
+The 9th term is 256.
+
+⇒ ar9 - 1 = 256
+
+⇒ ar8 = 256 .........(2)
+
+Divide equation (2) by (1), we get:
+
+⇒
+a
+×
+r
+8
+a
+×
+r
+5
+=
+256
+32
+⇒
+r
+8
+−
+5
+=
+8
+⇒
+r
+3
+=
+8
+⇒
+r
+=
+8
+3
+⇒
+r
+=
+2.
+⇒ 
+a×r 
+5
+ 
+a×r 
+8
+ 
+​
+ = 
+32
+256
+​
+ 
+⇒r 
+8−5
+ =8
+⇒r 
+3
+ =8
+⇒r= 
+3
+  
+8
+​
+ 
+⇒r=2.
+
+Substitute value of r in equation (1), we get:
+
+⇒
+a
+×
+2
+5
+=
+32
+⇒
+a
+×
+32
+=
+32
+⇒
+a
+=
+32
+32
+⇒
+a
+=
+1.
+⇒a×2 
+5
+ =32
+⇒a×32=32
+⇒a= 
+32
+32
+​
+ 
+⇒a=1.
+
+Hence, the first term = 1 and common ratio = 2.
+
+(b) By formula,
+
+S
+n
+=
+a
+(
+r
+n
+−
+1
+)
+r
+−
+1
+S 
+n
+​
+ = 
+r−1
+a(r 
+n
+ −1)
+​
+ 
+
+Substituting values we get :
+
+⇒
+S
+10
+=
+1
+(
+2
+10
+−
+1
+)
+2
+−
+1
+⇒
+S
+10
+=
+1024
+−
+1
+1
+⇒
+S
+10
+=
+1023.
+⇒S 
+10
+​
+ = 
+2−1
+1(2 
+10
+ −1)
+​
+ 
+⇒S 
+10
+​
+ = 
+1
+1024−1
+​
+ 
+⇒S 
+10
+​
+ =1023.
+
+Hence, sum of the first 10 terms of the G.P. = 1023.
+
+Question 6(iii)
+An ice cream cone has a diameter of 7 cm and its height is 9 cm. It is filled with a scoop of spherical shaped ice cream of radius 3.5 cm.
+
+Find: (Give all answers correct to the nearest whole number)
+
+An ice cream cone has a diameter of 7 cm and its height is 9 cm. It is filled with a scoop of spherical shaped ice cream of radius 3.5 cm. ICSE 2025 Improvement Maths Solved Question Paper.
+(a) on melting, is the ice cream sufficient to fill the cone completely without any wastage?
+
+(b) the volume of ice cream, if any, is in excess or less.
+
+Answer
+
+Given,
+
+Height of cone(h) = 9 cm
+
+Diameter of cone = 7 cm
+
+Radius of cone (R) = 
+7
+2
+2
+7
+​
+  = 3.5 cm
+
+Radius of spherical scoop (r) = 3.5 cm
+
+By formula,
+
+V
+c
+o
+n
+e
+=
+1
+3
+π
+r
+2
+h
+V 
+cone
+​
+ = 
+3
+1
+​
+ πr 
+2
+ h
+
+Substituting values we get :
+
+V
+c
+o
+n
+e
+=
+1
+3
+×
+22
+7
+×
+(
+3.5
+)
+2
+×
+(
+9
+)
+=
+22
+7
+×
+12.25
+×
+3
+=
+22
+7
+×
+36.75
+=
+808.5
+7
+=
+115.5
+≈
+116
+ cm
+3
+.
+V 
+cone
+​
+ = 
+3
+1
+​
+ × 
+7
+22
+​
+ ×(3.5) 
+2
+ ×(9)
+= 
+7
+22
+​
+ ×12.25×3
+= 
+7
+22
+​
+ ×36.75
+= 
+7
+808.5
+​
+ 
+=115.5≈116 cm 
+3
+ .
+
+By formula,
+
+Volume of sphere = 
+4
+3
+π
+r
+3
+3
+4
+​
+ πr 
+3
+ 
+
+V
+spherical scoop
+=
+4
+3
+×
+22
+7
+×
+(
+3.5
+)
+3
+=
+4
+3
+×
+22
+7
+×
+42.875
+=
+3773
+21
+=
+179.67
+≈
+180
+ 
+ cm
+3
+.
+V 
+spherical scoop
+​
+ = 
+3
+4
+​
+ × 
+7
+22
+​
+ ×(3.5) 
+3
+ 
+= 
+3
+4
+​
+ × 
+7
+22
+​
+ ×42.875
+= 
+21
+3773
+​
+ 
+=179.67≈180  cm 
+3
+ .
+
+Since, 180 > 116,
+
+Hence, the ice cream is in excess.
+
+(b) Excess ice cream = Volume of spherical scoop - Volume of cone
+
+= 180 – 116 = 64 cm3.
+
+Hence, excess volume of ice cream = 64 cm3.
+
+Question 7(i)
+There are some red, green and white marbles in a box. One marble is picked up at random from this box. If the probability of picking up a red marble is 
+2
+9
+9
+2
+​
+  and that of picking up a green marble is 
+4
+9
+9
+4
+​
+  then find the :
+
+(a) probability of picking up a white marble.
+
+(b) number of green marbles, if total number of marbles is 54.
+
+(c) probability of not picking up a red marble.
+
+Answer
+
+(a) The sum of the probabilities of all possible outcomes is equal to 1.
+
+The possible outcomes are picking a red, green, or white marble.
+
+P(red) + P(green) + P(white) = 1
+
+Given,
+
+P(red) = 
+2
+9
+9
+2
+​
+ 
+
+P(green) = 
+4
+9
+9
+4
+​
+ 
+
+⇒
+2
+9
++
+4
+9
++
+P
+(
+white
+)
+=
+1
+⇒
+6
+9
++
+P
+(
+white
+)
+=
+1
+⇒
+P
+(
+white
+)
+=
+1
+−
+6
+9
+⇒
+P
+(
+white
+)
+=
+9
+−
+6
+9
+⇒
+P
+(
+white
+)
+=
+3
+9
+=
+1
+3
+.
+⇒ 
+9
+2
+​
+ + 
+9
+4
+​
+ +P(white)=1
+⇒ 
+9
+6
+​
+ +P(white)=1
+⇒P(white)=1− 
+9
+6
+​
+ 
+⇒P(white)= 
+9
+9−6
+​
+ 
+⇒P(white)= 
+9
+3
+​
+ = 
+3
+1
+​
+ .
+
+Hence, probability of picking up a white marble = 
+1
+3
+3
+1
+​
+ .
+
+(b) Given,
+
+Total number of marbles = 54
+
+P(green) 
+=
+No of favorable outcomes
+Total number of outcomes
+= 
+Total number of outcomes
+No of favorable outcomes
+​
+ .
+
+⇒
+4
+9
+=
+Number of green marbles
+54
+⇒
+4
+9
+×
+54
+=
+Number of green marbles
+⇒
+4
+×
+6
+=
+Number of green marbles
+⇒
+Number of green marbles
+=
+24.
+⇒ 
+9
+4
+​
+ = 
+54
+Number of green marbles
+​
+ 
+⇒ 
+9
+4
+​
+ ×54=Number of green marbles
+⇒4×6=Number of green marbles
+⇒Number of green marbles=24.
+
+Hence, number of green marbles is 24.
+
+(c) Given,
+
+P(red) = 
+2
+9
+9
+2
+​
+ 
+
+P(not picking a red) = 1 - P(red)
+
+= 1 - 
+2
+9
+9
+2
+​
+ 
+
+= 
+9
+−
+2
+9
+9
+9−2
+​
+ 
+
+= 
+7
+9
+9
+7
+​
+ .
+
+Hence, probability of not picking up a red marble is 
+7
+9
+9
+7
+​
+ .
+
+Question 7(ii)
+Mr. Anil has a recurring deposit account. He deposits a certain amount of money per month for 2 years. If he received an interest whose value is the double of the deposit made per month, then find the rate of interest.
+
+Answer
+
+Let deposit per month be P.
+
+Given,
+
+Time = 2 years = 24 months
+
+Interest = 2 × Principle per month
+
+By formula,
+
+I = 
+P
+×
+n
+(
+n
++
+1
+)
+2
+×
+12
+×
+R
+100
+2×12
+P×n(n+1)
+​
+ × 
+100
+R
+​
+ 
+
+Substituting values we get :
+
+⇒
+2
+P
+=
+P
+×
+24
+(
+24
++
+1
+)
+24
+×
+R
+100
+⇒
+2
+P
+=
+P
+×
+25
+×
+R
+100
+⇒
+R
+=
+2
+P
+×
+100
+P
+×
+25
+⇒
+R
+=
+200
+25
+⇒
+R
+=
+8
+⇒2P= 
+24
+P×24(24+1)
+​
+ × 
+100
+R
+​
+ 
+⇒2P= 
+100
+P×25×R
+​
+ 
+⇒R= 
+P×25
+2P×100
+​
+ 
+⇒R= 
+25
+200
+​
+ 
+⇒R=8
+
+Hence, the rate of interest received by Mr. Anil = 8% .
+
+Question 7(iii)
+If a, b, c and d are in continued proportion, prove that ad(c2 + d2) = c3(b + d).
+
+Answer
+
+Since, a, b, c, d are in continued proportion.
+
+∴
+a
+b
+=
+b
+c
+=
+c
+d
+=
+k
+∴ 
+b
+a
+​
+ = 
+c
+b
+​
+ = 
+d
+c
+​
+ =k (let).
+
+c = dk, b = ck = (dk)k = dk2, a = bk = (dk2)k = dk3.
+
+Substituting values in L.H.S. of the equation ad(c2 + d2) = c3(b + d), we get :
+
+L.H.S = ad(c2 + d2)
+
+= dk3.(d).[(dk)2 + d2]
+
+= d2k3.[d2(k2 + 1)]
+
+= d4k3(k2 + 1).
+
+Substituting values in R.H.S. of the equation ad(c2 + d2) = c3(b + d), we get :
+
+R.H.S = c3(b + d)
+
+= (dk)3.(dk2 + d)
+
+= d3k3[d(k2 + 1)]
+
+= d4k3(k2 + 1).
+
+Since, L.H.S = R.H.S
+
+Hence, proved that ad(c2 + d2) = c3(b + d).
+
+Question 8(i)
+₹100 shares of a company giving 10% dividend are selling at ₹150. Mr. Saha invests ₹ 18,000 to buy these shares. He sells 80% of his shares after one year. Find :
+
+(a) the number of shares he purchased.
+
+(b) the number of shares he sold.
+
+(c) his annual income from the remaining 20% shares he still holds.
+
+Answer
+
+(a) Given,
+
+Total investment = ₹ 18,000
+
+Market value = ₹ 150
+
+N.V = ₹ 100
+
+By formula,
+
+⇒ Total investment = Number of shares × Market value of one share
+
+⇒ 18000 = Number of shares × 150
+
+⇒ Number of shares = 
+18000
+150
+150
+18000
+​
+ 
+
+⇒ Number of shares = 120.
+
+Hence, the number of shares Mr.Saha purchased = 120.
+
+(b) Number of shares sold by Mr Saha = 80% of 120
+
+= 
+80
+100
+×
+120
+100
+80
+​
+ ×120
+
+= 0.8 × 120
+
+= 96.
+
+Hence, the number of shares Mr.Saha sold = 96.
+
+(c) Number of shares remaining = Total no. of shares - No. of shares sold = 120 - 96 = 24.
+
+By formula,
+
+Annual income = Number of shares × Rate of dividend × N.V. of 1 share
+
+= 24 × 
+10
+100
+×
+100
+100
+10
+​
+ ×100
+
+= ₹ 240.
+
+Hence, annual income from remaining shares = ₹ 240.
+
+Question 8(ii)
+Equation of a line AB is x + 2y + 6 = 0. A perpendicular PQ is dropped on AB from the point P(3, –2) meeting AB at Q. Find the:
+
+(a) equation of PQ.
+
+(b) coordinates of the point Q.
+
+Answer
+
+Equation of a line AB is x + 2y + 6 = 0. A perpendicular PQ is dropped on AB from the point P(3, –2) meeting AB at Q. Find the: ICSE 2025 Improvement Maths Solved Question Paper.
+(a) Given,
+
+⇒ x + 2y + 6 = 0
+
+⇒ 2y = -x - 6
+
+⇒ y = 
+−
+x
+−
+6
+2
+2
+−x−6
+​
+ 
+
+⇒ y = -
+1
+2
+x
+2
+1
+​
+ x - 3
+
+Comparing y = 
+−
+1
+2
+x
+− 
+2
+1
+​
+ x - 3 with y = mx + c, we get :
+
+Slope (mAB) = 
+−
+1
+2
+− 
+2
+1
+​
+ 
+
+Given,
+
+PQ is perpendicular to AB.
+
+∴ Product of their slopes = -1
+
+⇒ mPQ × mAB = -1
+
+⇒ mPQ × 
+(
+−
+1
+2
+)
+(− 
+2
+1
+​
+ ) = -1
+
+⇒ mPQ = -1 × -2
+
+⇒ mPQ = 2.
+
+By point-slope formula,
+
+Equation of PQ : y - y1 = m(x − x1)
+
+⇒ y - (-2) = 2(x - 3)
+
+⇒ y + 2 = 2x - 6
+
+⇒ y = 2x - 8.
+
+Hence, the equation of PQ is y = 2x - 8.
+
+(b) The point Q is the intersection of line AB and line PQ.
+
+Equation of AB
+
+⇒ x + 2y + 6 = 0 .....(1)
+
+Equation of PQ
+
+⇒ y = 2x − 8 ....(2)
+
+Substituting the value of y from (2) in (1), we get :
+
+⇒ x + 2(2x - 8) + 6 = 0
+
+⇒ x + 4x - 16 + 6 = 0
+
+⇒ 5x - 10 = 0
+
+⇒ 5x = 10
+
+⇒ x = 
+10
+5
+5
+10
+​
+ 
+
+⇒ x = 2.
+
+Substituting the value of x in equation (2), we get :
+
+⇒ y = 2x − 8
+
+⇒ y = 2(2) − 8
+
+⇒ y = 4 − 8
+
+⇒ y = -4.
+
+Q = (x, y) = (2, -4).
+
+Hence, the coordinates of the point Q are (2, -4).
+
+Question 8(iii)
+Divide 20 into two parts such that the sum of their squares is 272. The larger of two parts is square of the other. Assuming the smaller part to be ‘x’, form an equation and solve it to find the two parts.
+
+Answer
+
+Let two parts be x and (20 - x).
+
+Given,
+
+Sum of squares = 272
+
+⇒ x2 + (20 - x)2 = 272
+
+⇒ x2 + (400 - 2 × 20 × x + x2) = 272
+
+⇒ x2 + (400 - 40x + x2) = 272
+
+⇒ 2x2 - 40x + 400 = 272
+
+⇒ 2x2 - 40x + 400 - 272 = 0
+
+⇒ 2x2 - 40x + 128 = 0
+
+⇒ 2(x2 - 20x + 64) = 0
+
+⇒ x2 - 20x + 64 = 0
+
+⇒ x2 - 16x - 4x + 64 = 0
+
+⇒ x(x - 16) - 4(x - 16) = 0
+
+⇒ (x - 4) = 0 or (x - 16) = 0     [Using zero product rule]
+
+⇒ x = 4 or x = 16.
+
+Hence, the two parts are 4 and 16.
+
+Question 9(i)
+Use a graph paper for this question:
+
+The Marks out of 80 obtained by 160 students in a Mathematics test were recorded as given in the table:
+
+Marks	No. of students
+0 - 10	12
+10 - 20	20
+20 - 30	28
+30 - 40	35
+40 - 50	29
+50 - 60	16
+60 - 70	12
+70 - 80	8
+(Take 2 cm = 10 Marks on one axis and 2 cm = 20 students on the other axis).
+
+Draw an Ogive and use it to find the following:
+
+(a) median marks
+
+(b) upper quartile marks
+
+(c) number of students who scored above 65 marks
+
+(d) the lowest marks scored by the top 30% students.
+
+Answer
+
+Steps of Construction:
+
+The cumulative frequency table for the given continuous distribution is :
+Marks	No. of students	Cumulative frequency
+0 - 10	12	12
+10 - 20	20	32
+20 - 30	28	60
+30 - 40	35	95
+40 - 50	29	124
+50 - 60	16	140
+60 - 70	12	152
+70 - 80	8	160
+Take 2 cm along x-axis = 10 (marks)
+
+Take 2 cm along y-axis = 20 (students)
+
+Plot the points (10, 12), (20, 32), (30, 60), (40, 95), (50, 124), (60, 140), (70, 152), (80, 160) representing upper class limits and the respective cumulative frequencies. Also plot the point representing lower limit of the first class i.e. 0 - 10.
+
+Join these points by a freehand drawing.
+
+The Marks out of 80 obtained by 160 students in a Mathematics test were recorded as given in the table: ICSE 2025 Improvement Maths Solved Question Paper.
+The required ogive is shown in figure above.
+
+(a) Here, n (no. of students) = 160.
+
+To find the median :
+
+Let B be the point on y-axis representing frequency = 
+n
+2
+=
+160
+2
+=
+80
+2
+n
+​
+ = 
+2
+160
+​
+ =80.
+
+Through B draw a horizontal line to meet the ogive at Q. Through Q, draw a vertical line to meet the x-axis at N. The abscissa of the point N represents 36.
+
+Hence, the median marks = 36.
+
+(b) To find upper quartile :
+
+Let A be the point on y-axis representing frequency
+
+3
+n
+4
+=
+3
+×
+160
+4
+=
+3
+×
+40
+=
+120
+4
+3n
+​
+ = 
+4
+3×160
+​
+ =3×40=120.
+
+Through A, draw a horizontal line to meet the ogive at P. Through P, draw a vertical line to meet the x-axis at M. The abscissa of the point M represents 48.
+
+Hence, upper quartile = 48.
+
+(c) Above marks = 65 marks.
+
+Let O be the point on x-axis representing marks = 65.
+
+Through O draw a vertical line to meet the ogive at R. Through R, draw a horizontal line to meet the y-axis at C. The ordinate of the point C represents 146.
+
+Hence, 146 students score less than or equal to 65 so students scoring more than 65 = 160 - 146 = 14.
+
+Hence, 14 students score more than 65 marks.
+
+(d) The top 30% of students represent 30% of the total number of students.
+
+Total number of students = 160
+
+Number of students in top 30% = 
+30
+100
+100
+30
+​
+  × 160 = 48.
+
+The students who scored the lowest marks in the top 30% = 160 - 48 = 112 position in the cumulative frequency.
+
+Through D = 112, draw a horizontal line to meet the ogive at S. Through S, draw a vertical line to meet the x-axis at T. The value on the x-axis is 46.
+
+Hence, the lowest marks scored by the top 30% students are 46.
+
+Question 9(ii)
+The angle of elevation of the top of a hill from the foot of a tower at B is 50°. The angle of elevation of the top of the tower 100 m high from the foot of the hill at C is 35°.
+
+The angle of elevation of the top of a hill from the foot of a tower at B is 50°. The angle of elevation of the top of the tower 100 m high from the foot of the hill at C is 35°.ICSE 2025 Improvement Maths Solved Question Paper.
+Find the :
+
+(a) horizontal distance BC between the Hill and the Tower.
+
+(b) height CD of the Hill. (Take tan 50° = 1.20)
+
+(c) time taken by a cyclist to cover the distance BC, cycling at 20 m/sec.
+
+Answer
+
+(a) Given,
+
+Height of tower (AB) = 100 m
+
+∠ACB = 35°
+
+In triangle ABC,
+
+⇒
+tan 35°
+=
+Perpendicular
+Base
+⇒
+tan 35°
+=
+A
+B
+B
+C
+⇒
+0.70
+=
+100
+B
+C
+⇒
+B
+C
+=
+100
+0.70
+⇒
+B
+C
+=
+142.86
+m
+.
+⇒tan 35°= 
+Base
+Perpendicular
+​
+ 
+⇒tan 35°= 
+BC
+AB
+​
+ 
+⇒0.70= 
+BC
+100
+​
+ 
+⇒BC= 
+0.70
+100
+​
+ 
+⇒BC=142.86m.
+
+Hence, the horizontal distance BC between the Hill and the Tower = 142.86 m.
+
+(b) From part(a),
+
+BC = 142.86 m
+
+From figure,
+
+∠DBC = 50°
+
+In triangle DBC,
+
+⇒
+tan 50°
+=
+Perpendicular
+Base
+⇒
+tan 50°
+=
+C
+D
+B
+C
+⇒
+1.20
+=
+C
+D
+142.86
+⇒
+C
+D
+=
+142.86
+×
+1.20
+⇒
+C
+D
+=
+171.43
+m
+.
+⇒tan 50°= 
+Base
+Perpendicular
+​
+ 
+⇒tan 50°= 
+BC
+CD
+​
+ 
+⇒1.20= 
+142.86
+CD
+​
+ 
+⇒CD=142.86×1.20
+⇒CD=171.43m.
+
+Hence, height CD of the hill = 171.43 m.
+
+(c) Given,
+
+Speed = 20 m/sec.
+
+By formula,
+
+Time = 
+Distance (BC)
+Speed
+Speed
+Distance (BC)
+​
+ 
+
+= 
+142.86
+20
+20
+142.86
+​
+ 
+
+= 7.14 seconds.
+
+Hence, time taken by a cyclist to cover the distance BC = 7.14 seconds.
+
+Question 10(i)
+Using Remainder and Factor theorem factorise the given polynomial completely.
+
+6x3 + x2 - 4x + 1
+
+Answer
+
+Given,
+
+f(x) = 6x3 + x2 - 4x + 1
+
+Substituting x = -1 in f(x), we get :
+
+f(-1) = 6(-1)3 + (-1)2 - 4(-1) + 1
+
+= 6 × -1 + 1 + 4 + 1
+
+= -6 + 1 + 4 + 1
+
+= -6 + 6
+
+= 0.
+
+Since, f(-1) = 0, hence (x + 1) is factor of f(x).
+
+Dividing f(x) by x + 1, we get :
+
+x
++
+1
+)
+‾
++
+−
+6
+x
+3
++
+−
+6
+x
+2
+‾
+−
+5
+x
+2
+−
+4
+x
+−
++
+5
+x
+2
+−
++
+5
+x
+‾
+x
++
+1
++
+−
+x
++
+−
+1
+‾
+×
+ 
+x−3x)6x 
+2
+ −5x+1
+x+1 
+)
+ 6x 
+3
+ +x 
+2
+ −4x+1
+​
+ 
+x 
+2
+ +4( 
+−
++
+​
+ 6x 
+3
+  
+−
++
+​
+ 6x 
+2
+ 
+​
+ 
+x 
+2
+ −4x+1)−5x 
+2
+ −4x
+x 
+2
+ −4x+1)) 
++
+−
+​
+ 5x 
+2
+  
++
+−
+​
+ 5x
+​
+ 
+x 
+2
+ −4x+1)+24x())x+1
+x 
+2
+ −4x+1)+24+) 
+−
++
+​
+ x 
+−
++
+​
+ 1
+​
+ 
+x 
+2
+ +3x−54)+2x+7× 
+​
+ 
+
+∴ 6x3 + x2 - 4x + 1 = (x + 1)(6x2 - 5x + 1)
+
+= (x + 1)(6x2 - 5x + 1)
+
+= (x + 1)(6x2 - 2x - 3x + 1)
+
+= (x + 1)[2x(3x - 1) - 1(3x - 1)]
+
+= (x + 1)(2x - 1)(3x - 1).
+
+Hence, 6x3 + x2 - 4x + 1 = (x + 1)(2x - 1)(3x - 1).
+
+Question 10(ii)
+Using short-cut method, find mean of the given frequency distribution:
+
+Class	Frequency
+20 - 30	6
+30 - 40	9
+40 - 50	14
+50 - 60	10
+60 - 70	7
+70 - 80	4
+Answer
+
+Construct the table as under, taking assumed mean as 45:
+
+Class	Class Mark (yi)	Deviation (di = yi - a)	Frequency(fi)	fidi
+20 - 30	25	-20	6	-120
+30 - 40	35	-10	9	-90
+40 - 50	45	0	14	0
+50 - 60	55	10	10	100
+60 - 70	65	20	7	140
+70 - 80	75	30	4	120
+Total			Σfi = 50	Σfidi = 150
+By formula,
+
+Mean
+=
+a
++
+∑
+f
+i
+d
+i
+∑
+f
+i
+Mean=a+ 
+∑f 
+i
+​
+ 
+∑f 
+i
+​
+ d 
+i
+​
+ 
+​
+ 
+
+=
+45
++
+150
+50
+=45+ 
+50
+150
+​
+ 
+
+= 45 + 3
+
+= 48.
+
+Hence, required mean = 48.
+
+Question 10(iii)
+Use ruler and compass for the following constructions:
+
+Construct:
+
+(a) an isosceles ΔABC in which AB = AC = 7 cm and BC = 6 cm.
+
+(b) the locus of points which moves such that it is 2.5 cm from the point A.
+
+(c) the locus of points equidistant from B and C. Mark point P which satisfies both the conditions mentioned in (b) and (c).
+
+(d) a circle passing through P, B and C.
+
+Answer
+
+We know that,
+
+The locus of points at a fixed distance from a point, is the circle with fixed point as center and distance as radius.
+
+The locus of points equidistant from two points is the perpendicular bisector of the line joining the two points.
+
+Steps of Construction:
+
+Draw a line segment BC of length 6 cm.
+
+Take point B as the center, use a compass to draw an arc with a radius of 7 cm. With C as the center and radius 7 cm draw another arc that intersects the first arc. Label the point of intersection as A. Join A to B and A to C to form the isosceles triangle ABC.
+
+With A as center and radius 2.5 cm draw a circle.
+
+Construct the perpendicular bisector of the line BC. Mark one of the points where the circle and the perpendicular bisector intersect as P.Join PB and PC.
+
+Draw the perpendicular bisector of PB and PC.
+
+Mark the point as O, where the perpendicular bisectors of PB, BC and PC meet.
+
+With O as center and radius equal to OB draw a circle passing through the points P, B and C.
+
+Use ruler and compass for the following constructions: ICSE 2025 Improvement Maths Solved Question Paper.

@@ -1,0 +1,959 @@
+DIAGRAM-DEPENDENT QUESTIONS — SKIP OR REWRITE MANUALLY
+============================================================
+
+[raw_qa_p10_mth_2023.txt | Question 1(iii)]
+In the given diagram, RT is a tangent touching the circle at S. If ∠PST = 30° and ∠SPQ = 60° then ∠PSQ is equal to :
+In the given diagram, RT is a tangent touching the circle at S. If ∠PST = 30° and ∠
+
+----------------------------------------
+[raw_qa_p10_mth_2023.txt | Question 1(vi)]
+In the given figure ∠BAP = ∠DCP = 70°, PC = 6 cm and CA = 4 cm, then PD : DB is :
+5 : 3
+3 : 5
+3 : 2
+2 : 3
+In the given figure ∠BAP = ∠DCP = 70°, PC = 6 cm and CA = 4 cm, then PD : DB is : ICSE 2023 Ma
+
+----------------------------------------
+[raw_qa_p10_mth_2023.txt | Question 2(iii)]
+In the given figure O, is the center of the circle. CE is a tangent to the circle at A. If ∠ABD = 26°, then find :
+(a) ∠BDA
+(b) ∠BAD
+(c) ∠CAD
+(d) ∠ODB
+In the given figure O, is the center of the circl
+
+----------------------------------------
+[raw_qa_p10_mth_2023.txt | Question 4(iii)]
+In the given figure, O is the center of the circle. PQ is a tangent to the circle at T. Chord AB produced meets the tangent at P. AB = 9 cm, BP = 16 cm, ∠PTB = 50°, ∠OBA = 45°. Find :
+(a) length of PT
+
+----------------------------------------
+[raw_qa_p10_mth_2023.txt | Question 5(iii)]
+In the given figure, AC // DE // BF. If AC = 24 cm, EG = 8 cm, GB = 16 cm, BF = 30 cm.
+(a) Prove △ GED ~ △ GBF
+(b) Find DE
+(c) Find DB : AB.
+In the given figure, AC // DE // BF. If AC = 24 cm, EG = 8 
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 1(xii)]
+In the given diagram, PS and PT are the tangents to the circle. SQ || PT and ∠SPT = 80°. The value of ∠QST is :
+In the given diagram, PS and PT are the tangents to the circle. SQ || PT and ∠SPT = 80°.
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 1(xiv)]
+A rectangular sheet of paper of size 11 cm x 7 cm is first rotated about the side 11 cm and then about the side 7 cm to form a cylinder, as shown in the diagram. The ratio of their curved surface area
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 1(xv)]
+In the given diagram, ∆ABC ∼ ∆PQR. If AD and PS are bisectors of ∠BAC and ∠QPR respectively then:
+∆ABC ∼ ∆PQS
+∆ABD ∼ ∆PQS
+∆ABD ∼ ∆PSR
+∆ABC ∼ ∆PSR
+In the given diagram, ∆ABC ∼ ∆PQR. If AD and PS are bi
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 3(ii)]
+In the given diagram, O is the centre of the circle. PR and PT are two tangents drawn from the external point P and touching the circle at Q and S respectively. MN is a diameter of the circle. Given ∠
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 5(i)]
+The given graph with a histogram represents the number of plants of different heights grown in a school campus. Study the graph carefully and answer the following questions :
+The given graph with a hi
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 6(iii)]
+In the given diagram ∆ADB and ∆ACB are two right angled triangles with ∠ADB = ∠BCA = 90°. If AB = 10 cm, AD = 6 cm, BC = 2.4 cm and DP = 4.5 cm
+In the given diagram ∆ADB and ∆ACB are two right angled 
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 7(i)]
+In the given diagram, an isosceles ∆ABC is inscribed in a circle with centre O. PQ is a tangent to the circle at C. OM is perpendicular to chord AC and ∠COM = 65°. Find :
+(a) ∠ABC
+(b) ∠BAC
+(c) ∠BCQ
+In
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 7(iii)]
+In the given diagram, ABC is a triangle, where B(4, -4) and C(-4, -2). D is a point on AC.
+(a) Write down the coordinates of A and D.
+(b) Find the coordinates of the centroid of ∆ABC.
+(c) If D divides
+
+----------------------------------------
+[raw_qa_p10_mth_2024.txt | Question 9(i)]
+The figure shows a circle of radius 9 cm with O as the centre. The diameter AB produced meets the tangent PQ at P. If PA = 24 cm, find the length of tangent PQ.
+The figure shows a circle of radius 9 c
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 1(vi)]
+In the given diagram, chords AC and BC are equal. If ∠ACD = 120°, then ∠AEC is:
+In the given diagram, chords AC and BC are equal. If ∠ACD = 120°, then ∠AEC is: ICSE 2025 Maths Solved Question Paper.
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 1(xi)]
+In the given diagram ΔABC ∼ ΔEFG. If ∠ABC = ∠EFG = 60°, then the length of the side FG is:
+In the given diagram ΔABC ∼ ΔEFG. If ∠ABC = ∠EFG = 60°, then the length of the side FG is: ICSE 2025 Maths So
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 2(iii)]
+In ΔABC, ∠ABC = 90°, AB = 20 cm, AC = 25 cm, DE is perpendicular to AC such that ∠DEA = 90° and DE = 3 cm as shown in the given figure.
+In ΔABC, ∠ABC = 90°, AB = 20 cm, AC = 25 cm, DE is perpendicular
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 3(iii)]
+In the given graph ABCD is a parallelogram.
+In the given graph ABCD is a parallelogram. ICSE 2025 Maths Solved Question Paper.
+Using the graph, answer the following:
+(a) write down the coordinates of 
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 6(ii)]
+In the given diagram, AB is a vertical tower 100 m away from the foot of a 30 storied building CD. The angles of depression from the point C and E, (E being the mid-point of CD), are 35° and 14° respe
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 7(ii)]
+In the given graph, P and Q are points such that PQ cuts off intercepts of 5 units and 3 units along the x-axis and y-axis respectively. Line RS is perpendicular to PQ and passes through the origin. F
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 10(ii)]
+In the given diagram O is the centre of the circle. Chord SR produced meets the tangent XTP at P.
+In the given diagram O is the centre of the circle. Chord SR produced meets the tangent XTP at P.ICSE 
+
+----------------------------------------
+[raw_qa_p10_mth_2025.txt | Question 10(iii)]
+The given graph represents the monthly salaries (in ₹) of workers of a factory.
+The given graph represents the monthly salaries (in ₹) of workers of a factory. ICSE 2025 Maths Solved Question Paper.
+U
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 1(vii)]
+The total surface area of a solid sphere (S1) and a solid hemisphere (S2), as shown in the diagram, are equal. The ratio of radii R and r is :
+The total surface area of a solid sphere and a solid hemi
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 1(viii)]
+In the given diagram, O is the centre of the circle and ABCD is a cyclic quadrilateral. If ∠CDE = 65°, then the value of x is :
+In the given diagram, O is the centre of the circle and ABCD is a cyclic
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 1(xiii)]
+In the given diagram, ΔAOB is a right-angled triangle and C is the mid-point of AB. The coordinates of the point which is equidistant from the three vertices of ΔAOB is :
+In the given diagram, ΔAOB is
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 2(iii)]
+In the given diagram, O is the centre of the circle and the tangent DE touches the circle at B. If ∠ADB = 32°. Find the values of x and y.
+In the given diagram, O is the centre of the circle and the t
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 3(ii)]
+An eye drop bottle is prepared consisting of a hemisphere, a cylinder and a conical cap, as shown in the given diagram. Height of the cylindrical and conical parts are each, equal to the diameter (7 c
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 4(iii)]
+In the given diagram, DE || BC and AD : DB = 2 : 3.
+(a) Prove that : ΔADE ~ ΔABC and hence find DE : BC.
+(b) Prove : ΔDFE ~ ΔCFB
+(c) Given, area of ΔDFE = 16 square units, find the area of ΔCFB.
+In th
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 9(iii)]
+A solid wooden toy is prepared by joining a cone, a cylinder and a sphere, as shown in the given diagram. The radius of each of the three solids is 7 cm and heights of each of the cone and the cylinde
+
+----------------------------------------
+[raw_qa_p10_mth_2026.txt | Question 10(iii)]
+In the given figure ‘O’ is the centre of the circle. PQ is a tangent to the circle at B and AB = AC. If ∠CBQ = 40°, find the unknown angles x, y, z and w.
+In the given figure ‘O’ is the centre of the 
+
+----------------------------------------
+[raw_qa_p10_mth_imp2025.txt | Question 3(iii)]
+Using the given graph, answer the following:
+(a) Write down the coordinates of the points A, B, C, and E.
+(b) Name and write down the coordinates of the image of B under reflection in x-axis.
+(c) Name
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 1(vii)]
+In the given diagram, △ ABC ~ △ PQR and
+P
+S
+PS
+AD
+​
+​
+ . The value of AB : PQ is :
+8 : 3
+3 : 5
+3 : 8
+5 : 8
+In the given diagram, △ ABC ~ △ PQR and AD/PS = 3/8. The value of AB : PQ is : ICSE 2024 Math
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 1(viii)]
+A right angle triangle shaped piece of hard board is rotated completely about its hypotenuse, as shown in the diagram. The solid so formed is always :
+(i) a single cone
+(ii) a double cone
+Which of the
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 3(ii)]
+In the given diagram, O is the center of circle circumscribing the △ABC, CD is perpendicular to chord AB. ∠OAC = 32°. Find each of the unknown angles, x, y and z.
+In the given diagram, O is the center
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 3(iii)]
+Study the graph and answer each of the following :
+(a) Name the curve plotted
+(b) Total number of students
+(c) The median marks
+(d) Number of students scoring between 50 and 80 marks.
+Study the graph 
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 4(iii)]
+In the given diagram, △ ABC is right angled at ∠B. BDFE is a rectangle. AD = 6 cm, CE = 4 cm and BC = 12 cm.
+(a) prove that △ADF ~ △FEC.
+(b) prove that △ADF ~ △ABC.
+(c) find the length of FE
+(d) find 
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 5(i)]
+Shown below is a table illustrating the monthly income distribution in a company with 100 employees.
+Monthly income (in ₹ 10,000)	Number of employees
+Using step-deviation method, find the mean monthly
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 5(iii)]
+In the given figure, O is the centre of the circle and AB is a tangent to the circle at B. If ∠PQB = 55°.
+(a) find the value of the angles x, y and z.
+(b) prove that RB is parallel to PQ.
+In the given
+
+----------------------------------------
+[raw_qa_p10_mth_spec2024.txt | Question 7(i)]
+The line segment joining A(2, -3) and B(-3, 2) is intercepted by the x-axis at the point M and the y-axis at the point N. PQ is perpendicular to AB at R and meets the y-axis at a distance of 6 units f
+
+----------------------------------------
+[raw_qa_p10_mth_spec2025.txt | Question 2(iii)]
+In the given figure AC is the diameter of the circle with center O. CD is parallel to BE.
+∠AOB = 80° and ∠ACE = 20°. Calculate :
+(a) ∠BEC
+(b) ∠BCD
+(c) ∠CED
+In the given figure AC is the diameter of th
+
+----------------------------------------
+[raw_qa_p10_mth_spec2025.txt | Question 3(ii)]
+In the adjoining diagram, a tilted right circular cylindrical vessel with base diameter 7 cm contains a liquid. When placed vertically, the height of the liquid in the vessel is the mean of two height
+
+----------------------------------------
+[raw_qa_p10_mth_spec2025.txt | Question 3(iii)]
+Study the graph and answer each of the following :
+(a) Write the coordinates of points A, B, C and D.
+(b) Given that, point C is the image of point A. Name and write the equation of the line of reflec
+
+----------------------------------------
+[raw_qa_p10_mth_spec2025.txt | Question 5(i)]
+In the given figure (drawn not to scale) chords AD and BC intersect at P, where AB = 9 cm, PB = 3 cm and PD = 2 cm.
+(a) Prove that △ APB ~ △ CPD
+(b) Find the length of CD
+(c) Find area △ APB : area △ 
+
+----------------------------------------
+[raw_qa_p10_mth_spec2025.txt | Question 6(ii)]
+In the given figure PT is a tangent to the circle. Chord BA produced meets the tangent PT at P. Given PT = 20 cm and PA = 16 cm.
+(a) Prove △ PTB ~ △ PAT
+(b) Find the length of AB.
+In the given figure 
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 1(iii)]
+In the figure given below, AC is a diameter of the circle.
+AP = 3 cm and PB = 4 cm and QP ⊥ AB. If the area of ∆APQ is 18 cm2, then the area of shaded portion QPBC is :
+In the adjoining figure, AC is 
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 1(iv)]
+In the given diagram, the radius of the circle with centre O is 3 cm. PA and PB are the tangents to the circle which are at right angle to each other. The length of OP is:
+In the given diagram, the ra
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 2(iii)]
+In the given figure, AC is the diameter of the circle with centre O. CD is parallel to BE. ∠AOB = 80⁰ and ∠ACE = 20⁰.
+In the given figure AC is the diameter of the circle with center O. CD is parallel
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 3(ii)]
+In the diagram given below, a tilted right circular cylindrical vessel with base diameter 7 cm contains a liquid. When placed vertically, the height of the liquid in the vessel is the mean of two heig
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 5(i)]
+In the given figure (not drawn to scale) chords AD and BC intersect at P, where AB = 9 cm, PB = 3 cm and PD = 2 cm.
+In the given figure (drawn not to scale) chords AD and BC intersect at P, where AB =
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 6(ii)]
+In the given figure, the parallelogram ABCD circumscribe a circle, touching circle at P, Q, R and S.
+In the given figure, the parallelogram ABCD circumscribe a circle, touching circle at P, Q, R and S
+
+----------------------------------------
+[raw_qa_p10_mth_spec2026.txt | Question 9(i)]
+Study the graph given below and answer the following:
+Study the graph given below and answer the following: ICSE 2026 Maths Solved Question Paper.
+(a) Number of batsmen who scored 500 to 700 runs
+(b) 
+
+----------------------------------------
+[raw_qa_p10_phy_2016.txt | Question 2(c)]
+Copy the diagram given below and complete the path of light ray till it emerges out of the prism. The critical angle of glass is 42°. In your diagram mark the angles wherever necessary. [2]
+Copy the d
+
+----------------------------------------
+[raw_qa_p10_phy_2016.txt | Question 3(c)]
+The V-I graph for a series combination and for a parallel combination of two resistors is shown in the figure below. Which of the two A or B, represents the parallel combination? Give a reason for you
+
+----------------------------------------
+[raw_qa_p10_phy_2016.txt | Question 5(b)]
+From the diagram given below, answer the questions that follow:
+From the diagram given below, answer the questions that follow. What kind of pulleys are A and B? State the purpose of pulley B. What ef
+
+----------------------------------------
+[raw_qa_p10_phy_2016.txt | Question 7(b)]
+A lens produces a virtual image between the object and the lens.
+(i) Name the lens.
+(ii) Draw a ray diagram to show the formation of this image. [3]
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 3(a)]
+Draw a ray diagram to show the refraction of a monochromatic ray through a prism when it suffers minimum deviation. [2]
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 5(a)]
+A uniform half metre rule balances horizontally on a knife edge at 29 cm mark when a weight of 20 gf is suspended from one end. [3]
+(i) Draw a diagram of the arrangement.
+(ii) What is the weight of th
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 7(a)]
+A lens forms an upright and diminished image of an object when the object is placed at the focal point of the given lens. [3]
+(i) Name the lens.
+(ii) Draw a ray diagram to show the image formation.
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 7(b)]
+A ray of light travels from water to air as shown in the diagram given below: [3]
+A ray of light travels from water to air as shown in the diagram given below. Copy the diagram and complete the path o
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 7(c)]
+The diagram below shows a point source P inside a water container. Four rays A, B, C, D starting from the source P are shown up to the water surface. [4]
+The diagram below shows a point source P insid
+
+----------------------------------------
+[raw_qa_p10_phy_2017.txt | Question 9(a)]
+(i) Name the colour code of the wire which is connected to the metallic body of an appliance. [3]
+(ii) Draw the diagram of a dual control switch when the appliance is switched 'ON'.
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 1(c)]
+The diagram below shows a lever in use: [2]
+The diagram below shows a lever in use. To which class of levers does it belong? Without changing the dimensions of the lever, if the load is shifted toward
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 3(a)]
+Displacement distance graph of two sound waves A and B, travelling in a medium, are as shown in the diagram below. [2]
+Displacement distance graph of two sound waves A and B, travelling in a medium, a
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 3(b)]
+You have three resistors of values 2 Ω, 3 Ω and 5 Ω. How will you join them so that the total resistance is more than 7 Ω? [2]
+(i) Draw a diagram for the arrangement.
+(ii) Calculate the equivalent res
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 5(b)]
+A half metre rod is pivoted at the centre with two weights of 20 gf and 12 gf suspended at a perpendicular distance of 6 cm and 10 cm from the pivot respectively as shown below. [3]
+A half metre rod i
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 5(c)]
+(i) Draw a diagram to show a block and tackle pulley system having a velocity ratio of 3 marking the direction of load (L), effort (E) and tension (T). [4]
+(ii) The pulley system drawn lifts a load of
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 6(a)]
+A ray of light XY passes through a right angled isosceles prism as shown below. [3]
+A ray of light XY passes through a right angled isosceles prism as shown below. What is the angle through which the 
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 6(b)]
+An object AB is placed between O and F1 on the principal axis of a converging lens as shown in the diagram. [3]
+An object AB is placed between O and F1 on the principal axis of a converging lens as sh
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 7(a)]
+Draw the diagram of a right angled isosceles prism which is used to make an inverted image erect. [3]
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 7(b)]
+The diagram below shows a wire stretched over a sonometer. Stems of two vibrating tuning forks A and B are touched to the wooden box of the sonometer. It is observed that the paper rider (a small piec
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 10(a)]
+The diagram shows a coil wound around a U shape soft iron bar AB. [3]
+The diagram shows a coil wound around a U shape soft iron bar AB. What is the polarity induced at the ends A and B when the switch
+
+----------------------------------------
+[raw_qa_p10_phy_2018.txt | Question 10(c)]
+Radiations given out from a source when subjected to an electric field in a direction perpendicular to their path are shown in the diagram. The arrows show the path of the radiation A, B and C. Answer
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 1(a)]
+The diagram below shows a claw hammer used to remove a nail: [2]
+The diagram below shows a claw hammer used to remove a nail. To which class of lever does it belong? Give one more example of the same 
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 2(e)]
+The diagram below shows a light source P embedded in a rectangular glass block ABCD of critical angle 42°. Complete the path of the ray PQ till it emerges out of the block. [Write necessary angles.] [
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 4(c)]
+A magnet kept at the centre of two coils A and B is moved to and fro as shown in the diagram. The two galvanometers show deflection. [2]
+A magnet kept at the centre of two coils A and B is moved to an
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 5(b)]
+A uniform metre scale is in equilibrium as shown in the diagram : [3]
+A uniform metre scale is in equilibrium as shown in the diagram. Calculate the weight of the metre scale. Which of the following o
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 5(c)]
+The diagram below shows a pulley arrangement : [4]
+The diagram below shows a pulley arrangement. Copy the diagram and mark the direction of tension on each strand of the string. What is the velocity r
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 6(a)]
+How does the angle of deviation formed by a prism change with the increase in the angle of incidence? Draw a graph showing the variation in the angle of deviation with the angle of incidence at a pris
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 6(b)]
+A virtual, diminished image is formed when an object is placed between the optical centre and the principal focus of a lens. [3]
+(i) Name the type of lens which forms the above image.
+(ii) Draw a ray 
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 7(c)]
+Two pendulums C and D are suspended from a wire as shown in the given figure. Pendulum C is made to oscillate by displacing it from it's mean position. It is seen that D also starts oscillating. [4]
+T
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 8(b)]
+The diagram below shows a dual control switch circuit connected to a bulb. [3]
+The diagram below shows a dual control switch circuit connected to a bulb. Copy the diagram and complete it so that the b
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 8(c)]
+The diagram shows a circuit with the key k open. Calculate: [4]
+The diagram shows a circuit with the key k open. Calculate the resistance of the circuit when the key k is open. the current drawn from 
+
+----------------------------------------
+[raw_qa_p10_phy_2019.txt | Question 10(c)]
+The diagram below shows a magnetic needle kept just below the conductor AB which is kept in North South direction. [4]
+The diagram below shows a magnetic needle kept just below the conductor AB which 
+
+----------------------------------------
+[raw_qa_p10_phy_2020.txt | Question 1(d)]
+(i) Identify the class of the lever shown in the diagram below: [2]
+(ii) How is it possible to increase the M.A. of the above lever without increasing it's length?
+Identify the class of the lever show
+
+----------------------------------------
+[raw_qa_p10_phy_2020.txt | Question 2(b)]
+A ray of light falls normally on a rectangular glass slab. Draw a ray diagram showing the path of the ray till it emerges out of the slab. [2]
+
+----------------------------------------
+[raw_qa_p10_phy_2020.txt | Question 3(b)]
+Draw a graph between displacement from mean position and time for a body executing free vibration in a vacuum. [2]
+
+----------------------------------------
+[raw_qa_p10_phy_2020.txt | Question 8(a)]
+The diagram below shows the core of a transformer and it's input and output connections [3]
+The diagram below shows the core of a transformer and it's input and output connections. State the material 
+
+----------------------------------------
+[raw_qa_p10_phy_2020.txt | Question 9(b)]
+The diagram below shows the change of phases of a substance on a temperature vs time graph on heating the substance at a constant rate.[3]
+The diagram below shows the change of phases of a substance o
+
+----------------------------------------
+[raw_qa_p10_phy_2022.txt | Question 1(ii)]
+The diagram below shows four sound waves. Which sound has the highest pitch?
+The diagram shows four sound waves. Which sound has the highest pitch? ICSE 2022 Physics Solved Question Paper.
+
+----------------------------------------
+[raw_qa_p10_phy_2022.txt | Question 1(v)]
+A conductor AB is kept along north south direction of the earth above a magnetic needle as shown below. When the key K is closed then:
+A conductor AB is kept along north south direction of the earth a
+
+----------------------------------------
+[raw_qa_p10_phy_2022.txt | Question 2(i)]
+The diagram below shows a magnetic compass kept closer to a coil AB wound around a hollow cylindrical cardboard :
+The diagram shows a magnetic compass kept closer to a coil AB wound around a hollow cy
+
+----------------------------------------
+[raw_qa_p10_phy_2022.txt | Question 5(ii)]
+The diagram below shows a vibrating tuning fork E mounted on a sound box X. When the vibrating tuning forks A, B, C and D are placed on the sound box Y one by one, it is observed that a louder sound i
+
+----------------------------------------
+[raw_qa_p10_phy_2022.txt | Question 5(iii)]
+(a) From the graph of heating curve given below state the melting point and boiling point of the substance.
+From the graph of heating curve state the melting point and boiling point of the substance. 
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 2(iii)]
+The diagram shows wheel O pivoted at point A. Three equal forces F1, F2 and F3 act at point B on the wheel.
+The diagram shows wheel O pivoted at point A. Three equal forces F1, F2 and F3 act at point 
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 3(iii)]
+A copper conductor is placed over two stretched copper wires whose ends are connected to a D.C. supply as shown in the diagram.
+(a) What should be the magnetic poles at the points A and B lying on eit
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 4(i)]
+The diagram below shows the ray OP travelling through an equilateral prism of a certain material.
+(a) Calculate the value of i2, if the angle of deviation is 43°.
+(b) What is the ray QS called?
+The di
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 4(ii)]
+Copy the diagram given below and complete the path of the light ray PQ, as it emerges out of the prism by marking necessary angles. The critical angle of glass is 42°.
+Copy the diagram given below and
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 4(iii)]
+The diagram below shows two parallel rays A (Orange) & B (Blue) incident from air, on air-glass boundary.
+(a) Copy and complete the path of the rays A and B.
+(b) How do the speeds of these rays differ
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 5(iii)]
+(a) Infrared radiations are used in warfare. Explain with reason, why.
+(b) A ray of light is incident at 45° on an equilateral prism in the diagram below.
+A ray of light is incident at 45° on an equil
+
+----------------------------------------
+[raw_qa_p10_phy_2023.txt | Question 9(iii)]
+The diagram below shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. When current flows through it the iron filings arrange them
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 1(iii)]
+A force ‘F’ moves a load from A to C as shown in the figure below. For the calculation of the work done, which of these lengths would you use as the displacement?
+A force ‘F’ moves a load from A to C 
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 1(xiv)]
+The graph given below shows heat energy supplied against change in temperature when no energy is lost to the surrounding. The slope of this graph will give :
+The graph given below shows heat energy su
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 1(xv)]
+A block of glass is pushed into the path of the light as shown below. Then the converging point X will :
+A block of glass is pushed into the path of the light as shown below. Then the converging point
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 2(iii)]
+A non uniform beam of weight 120 N pivoted at one end is shown in the diagram below. Calculate the value of F to keep the beam in equilibrium.
+A non uniform beam of weight 120 N pivoted at one end is 
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 4(iii)]
+(a) Why do we use red colour as a danger signal on the top of a skyscraper?
+(b) The diagram below shows the path of a blue ray through the prism :
+The diagram below shows the path of a blue ray throug
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 5(iii)]
+A monochromatic ray of light is incident on an equilateral prism placed at minimum deviation position with an angle of incidence 45° as shown in the diagram.
+A monochromatic ray of light is incident o
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 7(iii)]
+In the given diagram, a vibrating tuning fork is kept near the mouth of a burette filled with water. The length of the air column is adjusted by opening the tap of the burette. At a length of 5 cm of 
+
+----------------------------------------
+[raw_qa_p10_phy_2024.txt | Question 8(iii)]
+Study the diagram :
+Study the diagram. ICSE 2024 Physics Solved Question Paper.
+(a) Calculate the total resistance of the circuit.
+(b) Calculate the current drawn from the cell.
+(c) State whether the 
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 1(xii)]
+In the given circuits Y and Z, the resistors, R1 and R2, are connected in :
+In the given circuits Y and Z, the resistors, R1 and R2, are connected in : ICSE 2025 Physics Solved Question Paper.
+series 
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 2(ii)]
+A non-uniform kite is hanging freely from the branch of a tree as shown. Study the figure and answer the following :
+A non-uniform kite is hanging freely from the branch of a tree as shown. Study the 
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 2(iii)]
+The displacement–time graph of a sound wave produced by a vibrating wire is shown below.
+The displacement–time graph of a sound wave produced by a vibrating wire is shown below. ICSE 2025 Physics Solv
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 3(vii)]
+Curium is a radioactive element with the symbol
+Cm
+​
+ Cm named in honour of Madam Curie. The graph of number of protons vs number of neutrons for some elements are shown below :
+The graph of number of
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 4(i)]
+(a) Out of the three rays (I, J, H) shown in the diagram, which ray will suffer Total Internal Reflection while inside the prism? (Critical angle of the prism is 42°.)
+Out of the three rays (I, J, H) 
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 4(ii)]
+A rectangular glass block of refractive index 1.5 has an air bubble trapped inside it as shown in the diagram. When seen from the surface AB, it appears to be 4 cm deep.
+A rectangular glass block of r
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 4(iii)]
+(a) An object is placed at 2F position of a convex lens. Draw a ray diagram showing the formation of the image.
+(b) How will the size of the image change if we, ONLY replace the lens in the above arra
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 5(ii)]
+Two rays PQ and RS are incident on a rectangular glass block as shown in the diagram. Observe the diagram and answer the questions that follow.
+Two rays PQ and RS are incident on a rectangular glass b
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 6(i)]
+Akash takes a uniform metre scale and suspends a weight of 2 N at one end ‘X’, and a weight of 5 N on the other end ‘Y”. He then balances the ruler horizontally on a knife edge placed at 70 cm from X.
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 6(ii)]
+Three levers X, Y, Z of equal lengths are shown in the diagram.
+Three levers X, Y, Z of equal lengths are shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+(a) Which class of lever do the
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 8(i)]
+The diagram shows wiring in a meter room of a building.
+The diagram shows wiring in a meter room of a building. ICSE 2025 Physics Solved Question Paper.
+(a) What is the current rating of device X?
+(b)
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 8(ii)]
+Study the diagram given below and answer the questions that follow :
+Study the diagram given below and answer the questions that follow. ICSE 2025 Physics Solved Question Paper.
+(a) Name the process d
+
+----------------------------------------
+[raw_qa_p10_phy_2025.txt | Question 9(iii)]
+A copper rod PQ carrying current is kept in a magnetic field as shown in the diagram.
+A copper rod PQ carrying current is kept in a magnetic field as shown in the diagram. ICSE 2025 Physics Solved Que
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 1(iv)]
+From the figure given below, the refractive index of medium B with respect to medium A (AμB) is:
+From the figure given below, the refractive index of medium B with respect to medium A. ICSE 2025 Physi
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 1(ix)]
+In the circuit given below, identify the lamp (L1, L2, L3 and L4) whose failure would not interrupt the power supply to the other lamps.
+In the circuit given below, identify the lamp whose failure wou
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 1(xiii)]
+The diagram below shows the top view of the Wire A shown by a cross (X), carrying current into the plane of the paper. Which of the compasses is correctly aligned with the magnetic field produced by t
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 3(i)]
+The graph below shows the variation of image distance (v) with the object distance (u) when an object is kept in front of a lens.
+The graph below shows the variation of image distance (v) with the obj
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 3(vii)]
+A monochromatic ray strikes the surface of identical prisms (A, B and C) at different angles of incidence. The diagram below shows their refracted rays. Study the path of these refracted rays and iden
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 4(iii)]
+(a) Name the electromagnetic radiation used to detect fake currency.
+(b) Redraw the diagram given below and complete the path of the light ray AВ through the glass prism till it emerges out of the pri
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 5(iii)]
+The given graph represents the cooling curve of a liquid.
+The given graph represents the cooling curve of a liquid. ICSE 2025 Physics Solved Question Paper.
+(a) State the freezing temperature of the l
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 6(i)]
+The diagram shows a wheel with a handle. Two forces, F1 and F2 of equal magnitudes are acting on the handle as shown in the diagram.
+The diagram shows a wheel with a handle. Two forces of equal magnit
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 6(ii)]
+(a) Name the unit of work done, used in subatomic scale.
+(b) To which class of lever does a pair of scissors belong?
+(c) A stone is tied to a string and displaced from A to B by application of constan
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 7(iii)]
+Two persons A and B are standing in front of a cliff in the same line 170 m apart as shown in the diagram.
+Two persons A and B are standing in front of a cliff in the same line 170 m apart as shown in
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 8(i)]
+Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown in the diagram.
+Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown in the diagram. ICSE 2025 Physic
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 8(ii)]
+The reverse side of a three-pin plug with incorrect connection of wires is shown in the diagram below.
+The reverse side of a three-pin plug with incorrect connections of wires is shown in the diagram 
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 8(iii)]
+In the combinations of resistors shown below. calculate:
+In the combinations of resistors shown below. calculate. ICSE 2025 Physics Solved Question Paper.
+(a) the resistance across AB when the switch 
+
+----------------------------------------
+[raw_qa_p10_phy_2026.txt | Question 9(ii)]
+When the magnet as shown in the diagram, is moved towards the coil at a speed of 5 m s-1, the galvanometer shows a certain deflection to the right.
+When the magnet as shown in the diagram, is moved to
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 1(xii)]
+A current carrying circular loop is lying in a horizontal plane as shown in the diagram. Which of the following is the correct statement with respect to the direction of magnetic lines of force.
+A cur
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 3(v)]
+The figure below shows a bicycle dynamo which is fitted to the tyre. When the wheels of the bicycle rotate, the spindle of dynamo attached to magnets rotate and the bulb glows.
+The figure below shows 
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 3(vii)]
+Astatine (At) is a radioactive element. Study the graph given below showing the number of protons vs the number of neutrons of radioactive nuclei.
+Astatine (At) is a radioactive element. Study the gra
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 4(ii)]
+Draw a ray diagram to invert the image without deviation of light using right angle isosceles prism.
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 5(i)]
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 6(i)]
+A uniform metre ruler is balanced horizontally on a knife edge placed at 60 cm mark when a mass m is suspended from 75 cm mark. Draw the diagram of the arrangement. State with reason (through mathemat
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 6(iii)]
+An inclined plane makes an angle of 30° with the horizontal as shown in the figure. A box of mass 20 kg is taken from point A to point B along the inclined plane of length 2 m.
+An inclined plane makes
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 7(i)]
+The graph shows load against effort for a lever with load and effort on the same side of the fulcrum.
+The graph shows load against effort for a lever with load and effort on the same side of the fulcr
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 7(iii)]
+The diagram below displays four solid plastic balls attached to wires, all mounted on a wooden base. When a person shakes the wooden base back and forth at a steady pace, the balls begin to vibrate as
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 8(i)]
+The diagram given below shows a bulb connected by dual control switches. Observe the diagrams and answer the questions that follow.
+The diagram given below shows a bulb connected by dual control switc
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 8(ii)]
+Study the diagram and answer the questions that follow:
+Study the diagram and answer the questions that follow: ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Name the nuclear process displa
+
+----------------------------------------
+[raw_qa_p10_phy_imp2025.txt | Question 8(iii)]
+A cell of e.m.f 1.5 V and internal resistance 1 Ω is connected to two resistors of resistances 6 Ω and 3 Ω in parallel and a resistor of resistance 2 Ω in series as shown in the diagram.
+A cell of e.m
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 1(ix)]
+The graph of voltage vs current for four different materials is shown below.
+The graph of voltage vs current for four different materials is shown below. Which of these four materials would be used fo
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 2(ii)]
+A metre rod made of copper and steel as shown in the diagram. Weights of copper and steel are 10 N and 8 N respectively.
+(a) On which part does the centre of gravity lie (0 to 50 or 50 to 100).
+(b) Ju
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 2(iii)]
+A lever is shown below.
+A lever is shown. Identify the type of lever. Calculate its mechanical advantage. ICSE 2024 Specimen Physics Solved Question Paper.
+(a) Identify the type of lever.
+(b) Calculat
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 2(v)]
+Draw a graph of potential energy vs height from the ground for a body thrown vertically upwards.
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 3(i)]
+(a) Refer to the diagram given below. A lens with two different refractive indices is shown. If the rays are coming from a distant object, then how many images will be seen?
+Refer to the diagram. A le
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 4(i)]
+The diagram below shows a fish in the tank and its image seen in the surface of water.
+The diagram shows a fish in the tank and its image seen in the surface of water. Name the phenomenon responsible 
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 4(iii)]
+The below diagram shows that an observer sees the image of an object O at I.
+The diagram shows that an observer sees the image of an object O at I. Name and define the phenomenon responsible for seein
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 5(iii)]
+(a) Mixture of red + blue + green is passed through a convex lens as shown in the diagram below. State whether the ray passes through a single point or through different points on principle axis after
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 6(ii)]
+The diagram below shows a block and tackle system.
+The diagram shows a block and tackle system. Copy and complete the labelled diagram showing the correct connection of the tackle, the direction of th
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 6(iii)]
+The figure below shows a simple pendulum of mass 200 g. It is displaced from the mean position A to the extreme position B. The potential energy at the position A is zero. At the position B the pendul
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 8(i)]
+Purvi's friend Tim wants to connect a fuse to his oven. He wants to control the oven from two different locations. Shown below is his circuit diagram.
+Purvis friend Tim wants to connect a fuse to his 
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 8(iii)]
+Observe the given circuit diagram and answer the questions that follow:
+Observe the circuit diagram and answer the questions that follow. Calculate the resistance of the circuit when the key K complet
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 9(ii)]
+The diagram below shows a cooling curve for a substance:
+(a) State the temperatures at which the substance condenses.
+(b) The temperature range in which the substance is in liquid state.
+The diagram s
+
+----------------------------------------
+[raw_qa_p10_phy_spec2024.txt | Question 9(iii)]
+A magnet is released along the axis of a copper coil as shown in the diagram.
+A magnet is released along the axis of a copper coil as shown in the diagram. State the polarity at the top end of the coi
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 1(x)]
+The graph of voltage vs current for four different materials is shown below.
+The graph of voltage vs current for four different materials is shown below. ICSE 2025 Specimen Physics Solved Question Pap
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 1(xii)]
+Current is flowing through a coil as shown in the figure. Which one of the given figures will correctly depict the magnetic polarity and the direction of the lines of force along the axis of the coil.
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 2(ii)]
+Draw a graph of potential energy vs height for a body thrown vertically upwards. [Assume no friction is present.]
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 3(i)]
+(a) Refer to the diagram given below. A lens with two different refractive indices is shown. If the rays are coming from a distant object, then how many images will be seen?
+The adjacent diagram shows
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 3(vii)]
+The graph (fig A) illustrates the correlation between the number of protons (x-axis) and the number of neutrons (y-axis) for elements A, В, C, D, and E in the periodic table. These elements are denote
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 4(i)]
+The diagram below shows a fish in the tank and its image seen in the surface of water.
+The diagram shows a fish in the tank and its image seen in the surface of water. Name the phenomenon responsible 
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 4(iii)]
+(a) Mixture of red + blue + green is passed through a convex lens as shown in the diagram below. State whether the ray passes through a single point or through different points on the principal axis a
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 5(iii)]
+O is a luminescent particle trapped inside a glass block. A student traces the path of rays coming out of it and reflecting over a plane mirror as shown in the diagram below.
+O is a luminescent partic
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 6(iii)]
+The figure below shows a simple pendulum of mass 200 g. It is displaced from the mean position A to the extreme position B. The potential energy at the position A is zero. At the position B the pendul
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 8(iii)]
+Observe the given circuit diagram and answer the questions that follow :
+Observe the given circuit diagram and answer the questions that follow. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) C
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 9(ii)]
+The diagram below shows a cooling curve for a substance :
+The diagram below shows a cooling curve for a substance. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) State the temperatures at which
+
+----------------------------------------
+[raw_qa_p10_phy_spec2025.txt | Question 9(iii)]
+The diagram below shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. When current flows through it the iron filings arrange them
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 1(x)]
+In the circuit given below, identify the correct relation between the currents flowing through the 2 Ω, 3 Ω, and 5 Ω resistors:
+In the circuit given below, identify the correct relation between the cu
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 3(i)]
+(a) Refer to the diagram given below. A lens is made of two materials of different refractive indices (µ1, µ2) as shown. If the rays are coming from a distant object, then how many images will be seen
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 3(v)]
+The diagram given below shows a copper wire wound around a U-shape soft iron bar. An iron pin is brought near the arrangement. First Source P and then Source Q are connected across AB, each operating 
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 4(i)]
+The diagram below shows a fish in the tank and its image seen in the surface of water.
+The diagram shows a fish in the tank and its image seen in the surface of water. Name the phenomenon responsible 
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 4(iii)]
+(a) A mixture of red, blue and green light rays is passed through a convex lens, as illustrated in the diagram below. State whether the ray passes through a single point or through different points on
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 5(ii)]
+The diagram below shows a cooling curve for a substance X :
+The diagram shows a cooling curve for a substance. State the temperatures at which the substance condenses. The temperature range in which t
+
+----------------------------------------
+[raw_qa_p10_phy_spec2026.txt | Question 9(ii)]
+The given diagram shows the output of an AC generator. If the speed of the generator coil is doubled, then:
+The given diagram shows the output of an AC generator. If the speed of the generator coil is
+
+----------------------------------------

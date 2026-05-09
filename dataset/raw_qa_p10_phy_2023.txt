@@ -1,0 +1,1177 @@
+SECTION A (40 Marks)
+Question 1(i)
+Clockwise moment produced by a force about a fulcrum is considered to be:
+
+Positive
+Negative
+Zero
+None of these
+Answer
+
+Negative
+
+Reason — If the effect on the body is to turn it clockwise, moment of force is called the clockwise moment and it is taken as negative, while if the effect on the body is to turn it anticlockwise, moment of force is called the anticlockwise moment and it is taken as positive.
+
+Question 1(ii)
+When the speed of a moving object is doubled, then its kinetic energy:
+
+remains the same
+decreases
+is doubled
+becomes four times
+Answer
+
+becomes four times
+
+Reason — According to the formula :
+
+Kinetic energy = 
+1
+2
+2
+1
+​
+ mv2
+
+Hence, when speed (v) is doubled the kinetic energy increases by 4 times.
+
+Question 1(iii)
+The energy conversion in a washing machine is from ...............
+
+magnetic to electrical
+electrical to mechanical
+electrical to magnetic
+magnetic to electrical
+Answer
+
+electrical to mechanical
+
+Reason — In a washing machine, electrical energy changes into mechanical energy.
+
+Question 1(iv)
+Which of the following radiations suffer maximum deflection in a magnetic field?
+
+Alpha radiations
+Beta radiations
+Gamma radiations
+X-radiations
+Answer
+
+Beta radiations
+
+Reason — Beta radiations suffer maximum deflection in a magnetic field.
+
+Question 1(v)
+Speed of blue light in water is:
+
+more than green light
+more than orange light
+more than violet light
+more than red light
+Answer
+
+more than violet light
+
+Reason — Speed of violet light is minimum and speed of red light is maximum. Hence, speed of blue light in water is more than violet light.
+
+Question 1(vi)
+A concave lens produces only ............... image.
+
+real, enlarged
+virtual, enlarged
+virtual, diminished
+real, diminished
+Answer
+
+virtual, diminished
+
+Reason — A concave lens always forms a virtual and diminished image.
+
+Question 1(vii)
+When a body vibrates under a periodic force, the vibrations of the body are always:
+
+natural vibrations
+damped vibrations
+forced vibrations
+resonant vibrations
+Answer
+
+forced vibration
+
+Reason — When a body vibrates under a periodic force, the vibrations of the body are always forced vibration.
+
+Question 1(viii)
+Two notes are produced from two different musical instruments, such that they have same loudness and same pitch. The produced notes differ in their:
+
+Waveform
+Frequency
+Wavelength
+Speed
+Answer
+
+Waveform
+
+Reason — Different instruments produce different subsidiary notes. A note played on piano has a large number of subsidiary notes, while the same note played on violin does not contain so many subsidiary notes. Hence, they have different waveforms.
+
+Question 1(ix)
+When a current I flows through a wire of resistance R for time t then the electrical energy produced is given by:
+
+I2Rt
+IR2t
+IRt
+IRt2
+Answer
+
+I2Rt
+
+Reason — When a current I flows through a wire of resistance R for time t then the electrical energy produced is given by I2Rt.
+
+Question 1(x)
+Choose the correct relation for e.m.f. (ε) and terminal voltage V:
+
+ε = V [always]
+V > ε [always]
+V < ε [when the cell is in use]
+None of these
+Answer
+
+V < ε [when the cell is in use]
+
+Reason — When a cell is used to send current to an external circuit, it's terminal voltage V is less than it's e.m.f.
+
+Hence, terminal voltage < e.m.f.
+
+Question 1(xi)
+If the strength of the current flowing through a wire is increased, the strength of the magnetic field produced by it:
+
+decreases
+increases
+remains the same
+first increases then decreases
+Answer
+
+increases
+
+Reason — The strength of magnetic field produced can be increased by increasing the current.
+
+Question 1(xii)
+Specific latent heat of a substance:
+
+is directly proportional to the mass
+is directly proportional to the change in the temperature
+depends on the material
+is inversely proportional to the mass
+Answer
+
+depends on the material
+
+Reason — Specific latent heat of a substance depends on the material.
+
+Question 1(xiii)
+Specific heat capacity of a substance X is 1900 Jkg-1°C-1 means:
+
+Substance X absorbs 1900 J for 1°C rise in temperature
+1 kg of substance X absorbs 1900 J heat for 1°C rise in temperature
+1 kg of substance X absorbs 1900 J heat to increase the temperature
+1 kg of substance X absorbs 1900 J heat to cool down by 1°C
+Answer
+
+1 kg of substance X absorbs 1900 J heat for 1°C rise in temperature
+
+Reason — Specific heat capacity of a substance X is 1900 Jkg-1°C-1 means 1 kg of substance X absorbs 1900 J heat for 1°C rise in temperature
+
+Question 1(xiv)
+When a ray of light travels normal to the given surface, then the angle of refraction is:
+
+180°
+90°
+0°
+45°
+Answer
+
+0°
+
+Reason — The ray of light incident normally on a plane glass slab passes undeviated, ( i.e. such a ray suffers no bending at the surface). Thus, if angle of incidence ∠i = 0°, then the angle of refraction ∠r = 0°.
+
+Question 1(xv)
+Small air bubbles rising up a fish tank appear silvery when viewed from some particular angle is due to the:
+
+reflection
+refraction
+dispersion
+total internal reflection
+Answer
+
+total internal reflection
+
+Reason — Small air bubbles rising up a fish tank appear silvery when viewed from some particular angle because of the phenomenon of total internal reflection.
+
+Question 2(i)
+(a) When does the nucleus of an atom tend to become radioactive?
+
+(b) Name a single pulley in which displacement of load and effort is not the same.
+
+(c) State one advantage of this pulley.
+
+Answer
+
+(a) The nucleus of an atom becomes radioactive when number of neutrons in the nucleus exceeds the number of protons in it.
+
+(b) Single movable pulley.
+
+(c) Advantage of this type of pulley is that we can lift a heavier load with a small effort.
+
+Question 2(ii)
+(a) What is the position of centre of gravity of a triangular lamina?
+
+(b) When this triangular lamina is suspended freely from any one vertex, what is the moment of force produced by its own weight in its rest position?
+
+Answer
+
+(a) The centre of gravity for a triangular lamina is at the point of intersection of the medians.
+
+What is the position of centre of gravity of a triangular lamina? ICSE 2023 Physics Solved Question Paper.
+(b) When the triangular lamina is suspended freely from any one vertex, the moment of force produced by its own weight in its rest position is zero. This is because the center of gravity of the triangular lamina is at the point where its medians intersect and the triangle is in rotational equilibrium. Hence, we get zero moment of force.
+
+Question 2(iii)
+The diagram shows wheel O pivoted at point A. Three equal forces F1, F2 and F3 act at point B on the wheel.
+
+The diagram shows wheel O pivoted at point A. Three equal forces F1, F2 and F3 act at point B on the wheel. Which force will produce maximum moment about A? Give a reason for your answer in (a). ICSE 2023 Physics Solved Question Paper.
+(a) Which force will produce maximum moment about A?
+
+(b) Give a reason for your answer in (a).
+
+Answer
+
+(a) Force F1 produces the maximum moment.
+
+(b) Moment of force = force x perpendicular distance from the point of application of the force to the pivot point.
+
+As the three forces are equal in magnitude, the magnitude of moment of force will depend on the perpendicular distance from the point of application of the force to the pivot point.
+
+The perpendicular distance from the line of action of F1 to the pivot point A is equal to the diameter of the wheel, while the perpendicular distance from line of action of F2 and F3 is less than the diameter, therefore, the moment produced by F1 will be greater than the moments produced by F2 and F3.
+
+Question 2(iv)
+(a) What should be the angle between the direction of force and the direction of displacement, for work to be negative?
+
+(b) Name the physical quantity obtained using the formula 
+U
+h
+h
+U
+​
+ , where U is the potential energy and h is the height.
+
+Answer
+
+(a) 180°
+
+(b) As gravitational potential energy [U] = mgh
+
+Hence, 
+U
+h
+h
+U
+​
+  = mg
+
+Therefore, the physical quantity obtained is weight of the object.
+
+Question 2(v)
+Calculate the power spent by a crane while lifting a load of mass 2000 kg, at velocity of 1.5 ms-1. (g = 10 ms-2).
+
+Answer
+
+Given,
+
+mass = 2000 kg
+
+velocity = 1.5 ms-1
+
+weight or downward force = mg = 2000 x 10 = 20,000 N
+
+From formula, P = F x v
+
+P = 20,000 x 1.5 = 30,000 W = 30 kW
+
+Hence, power spent by the crane = 30 kW.
+
+Question 2(vi)
+A metal foot ruler is held at the edge of a table. It is pressed at its free end and then released. It vibrates.
+
+(a) Name the vibrations produced.
+
+(b) State one way to increase the frequency of these vibrations.
+
+Answer
+
+(a) The vibrations produced are known as damped vibrations.
+
+(b) If we place the ruler partially off the table then a shorter length of the ruler is free to vibrate, hence the frequency of vibration increases. The shorter the length of the ruler, the higher the frequency of its natural vibrations.
+
+Question 2(vii)
+'A geyser is rated 240 W – 220 V'. Explain the meaning of this statement.
+
+Answer
+
+It means that if the geyser is operated on a 220 V supply, the electric power consumed by it is 240 W i.e., 240 J of electric energy is consumed by the geyser in 1 s.
+
+Question 3(i)
+(a) Is it possible for a concave lens to form an image of size two times that of the object? Write Yes or No.
+
+(b) What will happen to the focal length of the lens if a part of the lens is covered with an opaque paper?
+
+Answer
+
+(a) No.
+
+(b) The focal length of the lens will not change.
+Reason — The focal length of a lens is a characteristic property of the lens itself and is determined by its shape and refractive index. Covering a portion of the lens with opaque paper will not alter the lens's inherent optical properties.
+
+Question 3(ii)
+(a) Which electrical component protects the electric circuit in case of excess current and which can also be used as a switch?
+
+(b) Name the wire to which this electrical component is connected in an electric circuit.
+
+Answer
+
+(a) Miniature circuit breaker [MCB] can be used to protect the electric circuit in case of excess current and can also be used as a switch.
+
+(b) The MCB is always connected in series with the live wire in the household circuit.
+
+Question 3(iii)
+A copper conductor is placed over two stretched copper wires whose ends are connected to a D.C. supply as shown in the diagram.
+
+(a) What should be the magnetic poles at the points A and B lying on either side of the conductor to experience the force in the upward direction?
+
+(b) Name the law used to find these polarities.
+
+A copper conductor is placed over two stretched copper wires whose ends are connected to a D.C. supply as shown in the diagram. What should be the magnetic poles at the points A and B lying on either side of the conductor to experience the force in the upward direction? Name the law used to find these polarities. ICSE 2023 Physics Solved Question Paper.
+Answer
+
+(a) The magnetic poles at the points A and B should be of opposite polarity for the conductor to experience the force in the upward direction. So, if point A is North pole then point B should be South pole and vice versa.
+
+(b) Fleming's left hand rule can be used to find these polarities.
+
+Question 3(iv)
+Thermal capacities of substances A and B are same. If mass of A is more than mass of B then:
+
+(a) Which substance will have more specific heat capacity?
+
+(b) Which substance will show greater rise in temperature if the same amount of heat is supplied to both?
+
+Answer
+
+(a) B will have more specific heat capacity.
+Reason —
+
+Specific heat capacity (c)
+=
+Heat Capacity of body (C’)
+mass of body (m)
+∴
+Specific heat capacity (c)
+∝
+1
+mass
+Specific heat capacity (c)= 
+mass of body (m)
+Heat Capacity of body (C’)
+​
+ 
+∴Specific heat capacity (c)∝ 
+mass
+1
+​
+ 
+
+∴ Specific heat capacity of B will be more as its mass is less.
+
+(b) Both substances will show equal rise in temperature as their thermal capacities are the same.
+
+Question 3(v)
+How is the radioactivity of a radio isotope affected if it undergoes a chemical change? Give a reason for your answer.
+
+Answer
+
+The radioactivity of a radioactive isotope is not affected by chemical changes. This is because radioactivity is a nuclear phenomenon specifically related to the stability of the isotope's nucleus, while chemical changes involve the rearrangement of electrons and the formation or breaking of chemical bonds.
+
+SECTION B (40 Marks)
+
+Question 4(i)
+The diagram below shows the ray OP travelling through an equilateral prism of a certain material.
+
+(a) Calculate the value of i2, if the angle of deviation is 43°.
+
+(b) What is the ray QS called?
+
+The diagram shows the ray OP travelling through an equilateral prism of a certain material. Calculate the value of i2, if the angle of deviation is 43°. What is the ray QS called? ICSE 2023 Physics Solved Question Paper.
+Answer
+
+(a) Given,
+
+angle of prism (A) = 60° for an equilateral prism.
+
+angle of incidence (i1) = 65°
+
+Angle of deviation (δ) = 43°
+
+𝑒 = i2 = ?
+
+From formula,
+
+Angle of deviation (δ) = 𝑖 + 𝑒 − 𝐴
+
+Substituting the values we get:
+
+43 = 65 + i2 - 60°
+
+i2 = 43 - 5 = 38°
+
+Hence, i2 = 38°
+
+(b) Emergent ray
+
+Question 4(ii)
+Copy the diagram given below and complete the path of the light ray PQ, as it emerges out of the prism by marking necessary angles. The critical angle of glass is 42°.
+
+Copy the diagram given below and complete the path of the light ray till it emerges out of the prism. The critical angle of glass is 42°. In your diagram mark the angles wherever necessary. Refraction of light at plane surfaces, Concise Physics Class 10 Solutions.
+Answer
+
+Below is the completed diagram showing the path of the light ray till it emerges out of the prism with all angles marked:
+
+Completed diagram showing the path of the light ray till it emerges out of the prism with all angles marked. The critical angle of glass is 42°. Refraction of light at plane surfaces, Concise Physics Class 10 Solutions.
+Question 4(iii)
+The diagram below shows two parallel rays A (Orange) & B (Blue) incident from air, on air-glass boundary.
+
+(a) Copy and complete the path of the rays A and B.
+
+(b) How do the speeds of these rays differ in glass?
+
+(c) Are the two refracted rays in glass parallel? Give a reason.
+
+The diagram below shows two parallel rays A (Orange) & B (Blue) incident from  air, on air-glass boundary. Copy and complete the path of the rays A and B. How do the speeds of these rays differ in glass? Are the two refracted rays in glass parallel? Give a reason. ICSE 2023 Physics Solved Question Paper.
+Answer
+
+(a) Ray B (Blue) will bend more than ray A (Orange) as shown in the diagram below:
+
+The diagram below shows two parallel rays A (Orange) & B (Blue) incident from  air, on air-glass boundary. Copy and complete the path of the rays A and B. How do the speeds of these rays differ in glass? Are the two refracted rays in glass parallel? Give a reason. ICSE 2023 Physics Solved Question Paper.
+(b) In glass, speed of orange (A) light is more than that of blue light (B).
+
+(c) The two refracted rays are not parallel in glass as orange light with more speed bends less while blue light with slow speed bends more.
+
+Question 5(i)
+A convex lens of focal length 10 cm is placed at a distance of 60 cm from a screen. How far from the lens should an object be placed so as to obtain a real image on the screen?
+
+Answer
+
+Given, focal length = 10 cm
+
+Image distance (v) = 60 cm
+
+Object distance (u) = ?
+
+From lens formula —
+
+1
+v
+−
+1
+u
+=
+1
+f
+v
+1
+​
+ − 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+
+Substituting the values in the formula we get,
+
+1
+60
+−
+1
+u
+=
+1
+10
+⇒
+1
+60
+−
+1
+10
+=
+1
+u
+⇒
+1
+−
+6
+60
+=
+1
+u
+⇒
+−
+5
+60
+=
+1
+u
+⇒
+1
+u
+=
+−
+1
+12
+⇒
+u
+=
+−
+12
+60
+1
+​
+ − 
+u
+1
+​
+ = 
+10
+1
+​
+ 
+⇒ 
+60
+1
+​
+ − 
+10
+1
+​
+ = 
+u
+1
+​
+ 
+⇒ 
+60
+1−6
+​
+ = 
+u
+1
+​
+ 
+⇒ 
+60
+−5
+​
+ = 
+u
+1
+​
+ 
+⇒ 
+u
+1
+​
+ = 
+12
+−1
+​
+ 
+⇒u=−12
+
+∴ The object should be placed at a distance of 12 cm in front of the lens.
+
+Question 5(ii)
+(a) A coin kept inside water [µ=
+4
+3
+3
+4
+​
+ ] when viewed from air in a vertical direction appears to be raised by 3.0 mm. Find the depth of the coin in water.
+
+(b) How is the critical angle related to the refractive index of a medium?
+
+Answer
+
+(a) Given, µ=
+4
+3
+3
+4
+​
+ 
+
+Shift = 3.0 mm
+
+We know,
+
+refractive index = 
+real depth
+apparent depth
+apparent depth
+real depth
+​
+ 
+
+4
+3
+3
+4
+​
+  = 
+x
+apparent depth
+apparent depth
+x
+​
+ 
+
+apparent depth = 
+3x
+4
+4
+3x
+​
+ 
+
+Shift = real depth - apparent depth
+
+3
+=
+x
+−
+3x
+4
+⇒
+3
+=
+4x - 3x
+4
+⇒
+3
+=
+x
+4
+⇒
+x
+=
+4
+×
+3
+=
+12
+3=x− 
+4
+3x
+​
+ 
+⇒3= 
+4
+4x - 3x
+​
+ 
+⇒3= 
+4
+x
+​
+ 
+⇒x=4×3=12
+
+∴ Depth of coin in water = 12 mm
+
+(b) Critical angle [C] = sin-1 
+1
+μ
+μ
+1
+​
+ 
+
+Question 5(iii)
+(a) Infrared radiations are used in warfare. Explain with reason, why.
+
+(b) A ray of light is incident at 45° on an equilateral prism in the diagram below.
+
+A ray of light is incident at 45° on an equilateral prism. Name the phenomenon exhibited by the ray of light when it enters and emerges out of the prism. State the cause of the above phenomenon mentioned by you. ICSE 2023 Physics Solved Question Paper.
+Name the phenomenon exhibited by the ray of light when it enters and emerges out of the prism.
+State the cause of the above phenomenon mentioned by you.
+Answer
+
+(a) Infrared radiations are used for signals during war because they are not visible and they are not absorbed much in the medium.
+
+(b)
+
+Dispersion.
+The cause of dispersion of white light is the change in speed of light with wavelength.
+When white light passes through a glass prism, its constituent colours (red, orange, yellow, green, blue, indigo, violet) travel with different speeds in the prism because each colour has different wavelength. This causes the dispersion of light.
+Question 6(i)
+A block and tackle system of pulleys has velocity ratio 4.
+
+(a) Draw a labelled diagram of the system indicating clearly, the direction of the load and the effort.
+
+(b) What is the value of the mechanical advantage of the given pulley system if it is an ideal pulley system?
+
+Answer
+
+(a) Labelled diagram of the block and tackle system of pulleys with velocity ratio 4 is shown below:
+
+A block and tackle system of pulleys has velocity ratio 4. Draw a labelled diagram of the system indicating clearly, the direction of the load and the effort. What is the value of the mechanical advantage of the given pulley system if it is an ideal pulley system? ICSE 2023 Physics Solved Question Paper.
+(b) The load is being supported by four segments of the string. Therefore, L = 4T and E = T
+
+∴ M.A. = 
+load
+effort
+effort
+load
+​
+  = 
+4
+T
+T
+T
+4T
+​
+  = 4
+
+Question 6(ii)
+A metre scale of weight 50 gf can be balanced at 40 cm mark without any weight suspended on it.
+
+(a) If this ruler is cut at its centre then state which part [0 to 50 cm or 50 to 100 cm] of the ruler will weigh more than 25 gf.
+
+A metre scale of weight 50 gf can be balanced at 40 cm mark without any weight suspended on it. If this ruler is cut at its centre then state which part [0 to 50 cm or 50 to  100 cm] of the ruler will weigh more than 25 gf. What minimum weight placed on this metre ruler can balance this ruler when it is pivoted at its centre? ICSE 2023 Physics Solved Question Paper.
+(b) What minimum weight placed on this metre ruler can balance this ruler when it is pivoted at its centre?
+
+Answer
+
+(a) Given, wt of scale = 50 gf
+
+Let wt. from [0 to 40] cm be W1 and [40 to 100] cm be W2
+
+W1 + W2 = 50
+
+⇒ W1 = 50 - W2 .....(1)
+
+In equilibrium,
+
+Anti-clockwise moment = Clockwise moment
+
+(40 - 0) × W1 = (100 - 40)W2
+
+40W1 = 60W2
+
+40 [50 - W2] = 60W2 [.....From (1)]
+
+40 x 50 - 40W2 = 60W2
+
+2000 = 60W2 + 40W2
+
+2000 = 100W2
+
+W2 = 
+2000
+100
+100
+2000
+​
+ 
+
+W2 = 20 gf
+
+Now, W1 = 50 - 20 = 30 gf
+
+∴ [0 to 40 cm] part of ruler weighs 30 gf.
+
+Hence, the part [ 0 to 50 cm] of the ruler will weigh more 25 gf.
+
+(b) Given the metre scale balances at 40 cm mark, so its weight of 50 gf acts at 40 cm mark.
+
+Its weight of 50 gf produces anticlockwise moment about the centre.
+
+Let the minimum weight needed be m.
+
+In equilibrium,
+
+Anti-clockwise moment = Clockwise moment
+
+50 x (50 - 40) = m x (100 - 50)
+
+⇒ 50 x 10 = m x 50
+
+⇒ m = 
+50
+×
+10
+50
+50
+50×10
+​
+ 
+
+⇒ m = 10 gf
+
+Hence, minimum weight needed to balance the metre ruler when it is pivoted at its centre = 10 gf.
+
+Question 6(iii)
+A car of mass 120 kg is moving at a speed 18 km/h and it accelerates to attain a speed of 54 km/h in 5 seconds. Calculate:
+
+(a) the work done by the engine.
+
+(b) the power of the engine.
+
+Answer
+
+(a) Given,
+
+Initial velocity (vi) = 18 km/h
+
+Converting km/h to m/s
+
+18 x 
+5
+18
+18
+5
+​
+  = 5 m/s
+
+Final velocity (vf) = 54 km/h
+
+Converting km/h to m/s
+
+54 x 
+5
+18
+18
+5
+​
+  = 15 m/s
+
+Work done = Change in kinetic energy = 
+1
+2
+2
+1
+​
+ m(vf2 - vi2)
+
+= 
+1
+2
+2
+1
+​
+  x 120 x (152 - 52)
+
+= 
+1
+2
+2
+1
+​
+  x 120 x (225 - 25)
+
+= 60 x 200 = 12000 J
+
+Hence, work done = 12000J
+
+(b) Power = 
+work done
+time
+time
+work done
+​
+  = 
+12000
+5
+5
+12000
+​
+  = 2400 watt.
+
+Hence, power of engine = 2400 watt.
+
+Question 7(i)
+(a) Which characteristic of sound is affected due to the larger surface of a school bell?
+
+(b) Calculate the distance covered by the Ultrasonic wave having a velocity of 1.5 kms-1 in 14 s, when it is received after reflection by the receiver of the SONAR.
+
+Answer
+
+(a) Loudness.
+
+(b) Given,
+
+Velocity = 1.5 kms-1
+
+Time = 14 sec
+
+Distance = 
+velocity
+×
+time
+2
+2
+velocity×time
+​
+ 
+
+(As the wave travels to the target and back so distance covered will be half of the distance travelled by the wave.)
+
+Substituting values in the above formula we get,
+
+Distance covered = 
+1.5
+×
+14
+2
+2
+1.5×14
+​
+ 
+
+= 1.5 x 7 = 10.5 km
+
+Hence, distance covered by the Ultrasonic wave = 10.5 km.
+
+Question 7(ii)
+(a) Complete the following nuclear changes:
+
+23892P ⟶ Q + 42He ⟶ R + 0-1e
+
+(b) Name the nuclear radiation which has the highest ionizing power.
+
+Answer
+
+(a) 23892P ⟶ 23490Q + 42He ⟶ 23491R + 0-1e
+
+(b) Alpha (α) radiations have the highest ionizing power.
+
+Question 7(iii)
+We are able to see the T.V. channels clearly when we set T.V. on auto-tuning.
+
+(a) Which phenomenon led to the clear visibility of the channels, due to auto tuning?
+
+(b) Define the above phenomenon mentioned by you.
+
+(c) Give any one more example of this phenomenon.
+
+Answer
+
+(a) Resonance.
+
+(b) When the frequency of the externally applied periodic force on a body is equal to its natural frequency, the body readily begins to vibrate with an increased amplitude. This phenomenon is known as resonance.
+
+(c) Air in sound box vibrates with higher amplitude due to vibrating string of musical instruments. This is an example of resonance.
+
+Question 8(i)
+(a) Define specific resistance.
+
+(b) What happens to the specific resistance of a conductor if its length is doubled?
+
+(c) Name a substance whose specific resistance remains almost unchanged with the increase in its temperature.
+
+Answer
+
+(a) Specific resistance of a material is the resistance of a wire of that material of unit length and unit area of cross section.
+
+(b) Specific resistance of the wire remains unchanged since it does not depend on the dimensions of the wire. It is the characteristic property of the substance.
+
+(c) Manganin.
+
+Question 8(ii)
+(a) Which nuclear radiation will travel undeviated in an electric field?
+
+(b) How can one stop the radiations escaping from a nuclear reactor in a nuclear power plant?
+
+(c) Name one internal source of background radiations.
+
+Answer
+
+(a) γ (Gamma) radiation
+
+(b) The nuclear reactor of the power plant must be shielded with thick lead and steel walls.
+
+(c) Radioactive substances such as potassium (K-40), carbon (C-14) and radium present inside our body.
+
+Question 8(iii)
+Find the value of current I drawn from the cell.
+
+(a) Calculate the current I.
+
+(b) Calculate the terminal voltage.
+
+Find the value of current I drawn from the cell. Calculate the current I. Calculate the terminal voltage. ICSE 2023 Physics Solved Question Paper.
+Answer
+
+(a) As, the two 15Ω resistors are in series
+
+So, Rs = 15 + 15 = 30Ω
+
+Now, Rs (i.e., 30Ω) and 30Ω are in parallel,
+
+∴
+1
+R
+p
+=
+1
+30
++
+1
+30
+=
+2
+30
+=
+1
+15
+∴ 
+R 
+p
+​
+ 
+1
+​
+ = 
+30
+1
+​
+ + 
+30
+1
+​
+ 
+= 
+30
+2
+​
+ 
+= 
+15
+1
+​
+ 
+
+∴ Rp = 15Ω
+
+Now, total resistance of the circuit = 2Ω + 15Ω = 17Ω
+
+I
+=
+emf
+total resistance
+=
+3.4
+17
+=
+0.2
+ A
+I= 
+total resistance
+emf
+​
+ 
+= 
+17
+3.4
+​
+ 
+=0.2 A
+
+∴ Current I = 0.2 A
+
+(b) Terminal voltage [V] = emf - Ir
+= 3.4 - [0.2 x 2] = 3.4 - 0.4
+= 3 V
+
+Hence, terminal voltage = 3 V
+
+Question 9(i)
+Calculate the total amount of heat energy required to melt 200 g of ice at 0°C to water at 100°C.
+
+(Specific latent heat of ice = 336 J g-1, specific heat capacity of water = 4.2 J g-1°C-1)
+
+Answer
+
+Given,
+
+m = 200 g
+
+specific heat capacity of water = 4.2 J g-1 K-1
+
+specific latent heat of ice = 336 J g-1
+
+total amount of heat energy required = ?
+
+Heat energy taken by ice at 0° C to convert into water at 0° C
+= m x L
+= 200 × 336
+= 67200 J
+
+Heat energy taken by water to raise the temperature from 0° C to 100° C
+= m x c x change in temperature
+= 200 × 4.2 × (100 - 0)
+= 200 × 4.2 × 100
+= 84000 J
+
+Total heat energy gained is
+= 67200 + 84000
+= 1,51,200 J
+
+Hence, total amount of heat energy required = 1,51,200 J
+
+Question 9(ii)
+(a) State the principle of calorimetry.
+
+(b) Name the material used for making a calorimeter.
+
+(c) Write one characteristic property of the material chosen for making a calorimeter.
+
+Answer
+
+(a) When a hot body is brought in contact with a cold body, then heat lost by the hot body is equal to the heat gained by the cold body, provided there is no heat loss in the environment.
+
+(b) Thin sheets of copper.
+
+(c) The specific heat capacity of the material should be very low.
+
+Question 9(iii)
+The diagram below shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. When current flows through it the iron filings arrange themselves as shown below.
+
+(a) State the polarities of the battery at A and B.
+
+(b) State the effect on the magnetic field if an iron rod is held along the axis of the coil.
+
+(c) State one way to:
+
+Change the polarity of the coil.
+Decrease the strength of the magnetic field around the coil.
+The diagram shows a cardboard on which iron filings are kept. A wire bent in the form of a loop is seen passing through the cardboard. When current flows through it the iron filings arrange themselves as shown. State the polarities of the battery at A and B. State the effect on the magnetic field if an iron rod is held along the axis of the coil. ICSE 2023 Physics Solved Question Paper.
+Answer
+
+(a) Polarity of A is positive and B is negative.
+Reason — Since at the left side of the loop, the lines of force are anti-clockwise, so, by right hand thumb rule we find that the current is going out of terminal A hence, it is positive. Similarly, at the right side of the loop, the lines of force are clockwise, so, terminal B is negative.
+
+(b) The strength of the magnetic field increases when an iron rod is held along the axis of the coil.
+
+(c)
+
+By reversing the direction of the current.
+By decreasing the current.

@@ -1,0 +1,4664 @@
+SECTION A
+Question 1(i)
+(x + 3), 1, (3x − 7) and −5 are in proportion. The value of x is :
+
+−1
+
+1
+
+−5
+
+5
+
+Answer
+
+Given,
+
+(x + 3), 1, (3x − 7) and −5 are in proportion.
+
+∴
+(
+x
++
+3
+)
+1
+=
+(
+3
+x
+−
+7
+)
+−
+5
+⇒
+(
+x
++
+3
+)
+=
+(
+3
+x
+−
+7
+)
+−
+5
+⇒
+−
+5
+(
+x
++
+3
+)
+=
+(
+3
+x
+−
+7
+)
+⇒
+−
+5
+x
+−
+15
+=
+3
+x
+−
+7
+⇒
+−
+5
+x
+−
+3
+x
+=
+15
+−
+7
+⇒
+−
+8
+x
+=
+8
+⇒
+x
+=
+−
+8
+8
+⇒
+x
+=
+−
+1.
+∴ 
+1
+(x+3)
+​
+ = 
+−5
+(3x−7)
+​
+ 
+⇒(x+3)= 
+−5
+(3x−7)
+​
+ 
+⇒−5(x+3)=(3x−7)
+⇒−5x−15=3x−7
+⇒−5x−3x=15−7
+⇒−8x=8
+⇒x=− 
+8
+8
+​
+ 
+⇒x=−1.
+
+Hence, option 1 is the correct option.
+
+Question 1(ii)
+The marked price of a refrigerator is ₹ 12,000 and GST paid by the customer is ₹ 2,160. The rate of GST is:
+
+5%
+
+12%
+
+18%
+
+28%
+
+Answer
+
+Let rate of GST be x.
+
+Given,
+
+Marked price of refrigerator = ₹ 12,000
+
+GST paid = ₹ 2,160
+
+GST amount = 
+Rate
+100
+100
+Rate
+​
+  × Marked price
+
+⇒ 2160 = 
+x
+100
+100
+x
+​
+  × 12000
+
+⇒ 2160 = 120x
+
+⇒ x = 
+2160
+120
+120
+2160
+​
+ 
+
+⇒ x = 18%
+
+Hence, option 3 is the correct option.
+
+Question 1(iii)
+Rakhi’s mobile number has the following integers :
+1, 6, 9, 8, 9, 1, 7, 8, 9
+
+The mode of the above given data is :
+
+1
+
+6
+
+8
+
+9
+
+Answer
+
+Given,
+
+1, 6, 9, 8, 9, 1, 7, 8, 9.
+
+Mode = The value which occurs most frequently in the data.
+
+The number 9 occurs 3 times, which is the highest.
+
+Mode = 9
+
+Hence, option 4 is the correct option.
+
+Question 1(iv)
+A and B opened a recurring deposit account in a bank which is paying simple interest at 9% per annum. A deposited ₹ 1,500 for one year and B deposited ₹ 1,200 for 15 months. The amount invested by :
+
+A is ₹ 27 more than B
+
+A is ₹ 300 more than B
+
+A is ₹ 300 less than B
+
+Both A and B are same (₹ 18,000)
+
+Answer
+
+Given,
+
+For A,
+
+P = ₹ 1,500
+
+n = 12 months
+
+r = 9%
+
+We know that,
+
+Amount Invested = P × n
+
+= ₹ 1,500 × 12
+
+= ₹ 18,000.
+
+For B,
+
+Amount Invested = P × n
+
+= ₹ 1,200 × 15
+
+= ₹ 18,000.
+
+Both invested ₹ 18,000.
+
+Hence, option 4 is the correct option.
+
+Question 1(v)
+Find the equation of a line whose y-intercept is 6 and is parallel to x-axis.
+
+y = 6
+
+x = 6
+
+x + y = 6
+
+y − x = 6
+
+Answer
+
+A line parallel to the x-axis has :
+
+Slope (m) = 0
+
+y-intercept (c) = 6
+
+Substituting the values in equation y = mx + c, we get :
+
+y = 0x + 6
+
+y = 6.
+
+Hence, option 1 is the correct option.
+
+Question 1(vi)
+Asha buys ₹ 20 shares of a company which pays 9% dividend at such a price that she gets a return of 12% on her investment. At what price did she buy each share?
+
+₹ 20
+
+₹ 15
+
+₹ 25
+
+₹ 18
+
+Answer
+
+Given,
+
+Face Value (FV) of share = ₹ 20
+
+Dividend = 9%
+
+Return on investment = 12%
+
+By formula,
+
+Dividend % × N.V. = Return % × M.V.
+
+9
+100
+×
+20
+=
+12
+100
+100
+9
+​
+ ×20= 
+100
+12
+​
+  × M.V.
+
+180 = 12 × M.V.
+
+M.V. = 
+180
+12
+12
+180
+​
+  = ₹ 15.
+
+Hence, option 2 is the correct option.
+
+Question 1(vii)
+The total surface area of a solid sphere (S1) and a solid hemisphere (S2), as shown in the diagram, are equal. The ratio of radii R and r is :
+
+The total surface area of a solid sphere and a solid hemisphere, as shown in the diagram, are equal. The ratio of radii R and r is. ICSE 2026 Maths Solved Question Paper.
+1 : 1
+
+2 : 1
+
+3
+3
+​
+  : 2
+
+2 : 
+3
+3
+​
+ 
+
+Answer
+
+Let the radius of the sphere (S1) be R and hemisphere (S2) be r.
+
+Total surface area of sphere = 4πR2
+
+Total surface area of hemisphere = 3πr2
+
+Given,
+
+Since, total surface area of sphere and hemisphere are equal,
+
+4πR2 = 3πr2
+
+R
+2
+r
+2
+=
+3
+4
+r 
+2
+ 
+R 
+2
+ 
+​
+ = 
+4
+3
+​
+ 
+
+R
+r
+=
+3
+4
+=
+3
+2
+=
+3
+:
+2
+r
+R
+​
+ = 
+4
+3
+​
+ 
+​
+ = 
+2
+3
+​
+ 
+​
+ = 
+3
+​
+ :2.
+
+Hence, option 3 is the correct option.
+
+Question 1(viii)
+In the given diagram, O is the centre of the circle and ABCD is a cyclic quadrilateral. If ∠CDE = 65°, then the value of x is :
+
+In the given diagram, O is the centre of the circle and ABCD is a cyclic quadrilateral. If ∠CDE = 65°, then the value of x is. ICSE 2026 Maths Solved Question Paper.
+32.5°
+
+65°
+
+115°
+
+130°
+
+Answer
+
+In a cyclic quadrilateral,
+
+Exterior angle is equal to the interior opposite angle.
+
+∠CBA = ∠CDE = 65°
+
+We know that,
+
+The angle subtended by an arc at the centre of a circle is twice the angle subtended by it at any point on the remaining part of the circle.
+
+∠AOC = 2 × ∠ABC
+
+x = 2 × 65°
+
+x = 130°.
+
+Hence, option 4 is the correct option.
+
+Question 1(ix)
+The nature of roots of quadratic equation 3x2 − 6x − 3 = 0 are :
+
+real and equal
+
+real, distinct and rational
+
+real, distinct and irrational
+
+no real roots
+
+Answer
+
+Comparing 3x2 − 6x − 3 = 0 with ax2 + bx + c = 0, we get :
+
+a = 3, b = -6, c = -3.
+
+We know that,
+
+⇒ D = b2 - 4ac
+
+⇒ D = (-6)2 - 4 × (3) × (-3)
+
+⇒ D = 36 + 36
+
+⇒ D = 72.
+
+∴ D > 0 and not a perfect square. Roots are real, distinct and irrational.
+
+Hence, option 3 is the correct option.
+
+Question 1(x)
+Assertion (A): If a die is rolled, the probability of getting a number greater than 6 is 
+1
+6
+6
+1
+​
+ .
+
+Reason (R): There are six possible outcomes when rolling a die, {1, 2, 3, 4, 5, 6}.
+
+(A) is true and (R) is false.
+
+(A) is false and (R) is true.
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+Answer
+
+When a die is rolled,
+
+Total number of possible outcomes = 6
+
+S = {1, 2, 3, 4, 5, 6}
+
+Let E be the event of getting number greater than 6,
+
+Number of favorable outcomes = 0
+
+P(E) = 
+Number of favorable outcomes
+Total number of outcomes
+=
+0
+6
+=
+0
+Total number of outcomes
+Number of favorable outcomes
+​
+ = 
+6
+0
+​
+ =0.
+
+Assertion (A) is false.
+
+There are six possible outcomes when a dice is rolled,
+
+S = {1, 2, 3, 4, 5, 6}
+
+Reason (R) is true.
+
+(A) is false and (R) is true.
+
+Hence, option 2 is the correct option.
+
+Question 1(xi)
+If the areas of two similar triangles are in the ratio 9 : 64, then the ratio of their corresponding altitudes is:
+
+3 : 8
+
+2 : 1
+
+9 : 64
+
+8 : 3
+
+Answer
+
+Let the areas be A1 and A2, and the altitudes be h1 and h2 respectively.
+
+Since the triangles are similar,
+
+The ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides (or altitudes).
+
+⇒
+A
+1
+A
+2
+=
+(
+h
+1
+h
+2
+)
+2
+⇒
+9
+64
+=
+(
+h
+1
+h
+2
+)
+2
+⇒
+h
+1
+h
+2
+=
+9
+64
+⇒
+h
+1
+h
+2
+=
+3
+8
+⇒
+h
+1
+:
+h
+2
+=
+3
+:
+8.
+⇒ 
+A 
+2
+​
+ 
+A 
+1
+​
+ 
+​
+ =( 
+h 
+2
+​
+ 
+h 
+1
+​
+ 
+​
+ ) 
+2
+ 
+⇒ 
+64
+9
+​
+ =( 
+h 
+2
+​
+ 
+h 
+1
+​
+ 
+​
+ ) 
+2
+ 
+⇒ 
+h 
+2
+​
+ 
+h 
+1
+​
+ 
+​
+ = 
+64
+9
+​
+ 
+​
+ 
+⇒ 
+h 
+2
+​
+ 
+h 
+1
+​
+ 
+​
+ = 
+8
+3
+​
+ 
+⇒h 
+1
+​
+ :h 
+2
+​
+ =3:8.
+
+Hence, option 1 is the correct option.
+
+Question 1(xii)
+What must be added to x3 + 7x2 + 3x + 2 so that the result is completely divisible by (x + 2)?
+
+−40
+
+−16
+
+16
+
+40
+
+Answer
+
+Using remainder theorem,
+
+If polynomial P(x) is divided by (x - a), the remainder is P(a).
+
+Given,
+
+x + 2 = 0
+
+x = -2.
+
+Substituting x = -2 into the polynomial x3 + 7x2 + 3x + 2, we get :
+
+⇒ P(-2) = (-2)3 + 7(-2)2 + 3(-2) + 2
+
+= -8 + 28 - 6 + 2
+
+= 20 - 6 + 2
+
+= 16.
+
+For a polynomial to be completely divisible by x + 2, the remainder must be 0.
+
+We have a remainder of 16, we need to add a number k such that the new remainder becomes zero i.e.,:
+
+k + 16 = 0
+
+k = -16.
+
+Hence, option 2 is the correct option.
+
+Question 1(xiii)
+In the given diagram, ΔAOB is a right-angled triangle and C is the mid-point of AB. The coordinates of the point which is equidistant from the three vertices of ΔAOB is :
+
+In the given diagram, ΔAOB is a right-angled triangle and C is the mid-point of AB. The coordinates of the point which is equidistant from the three vertices of ΔAOB is. ICSE 2026 Maths Solved Question Paper.
+(x, y)
+
+(y, x)
+
+(
+x
+2
+,
+y
+2
+)
+( 
+2
+x
+​
+ , 
+2
+y
+​
+ )
+
+(
+2
+x
+3
+,
+2
+y
+3
+)
+( 
+3
+2x
+​
+ , 
+3
+2y
+​
+ )
+
+Answer
+
+Given,
+
+C is midpoint of AB.
+
+We know that,
+
+In a right-angled triangle, the point equidistant from all three vertices is the midpoint of the hypotenuse.
+
+Using midpoint formula :
+
+M = 
+(
+x
+1
++
+x
+2
+2
+,
+y
+1
++
+y
+2
+2
+)
+( 
+2
+x 
+1
+​
+ +x 
+2
+​
+ 
+​
+ , 
+2
+y 
+1
+​
+ +y 
+2
+​
+ 
+​
+ )
+
+Substituting values, we get :
+
+⇒
+C
+=
+(
+0
++
+2
+x
+2
+,
+2
+y
++
+0
+2
+)
+⇒
+C
+=
+(
+2
+x
+2
+,
+2
+y
+2
+)
+⇒
+C
+=
+(x, y)
+.
+⇒C=( 
+2
+0+2x
+​
+ , 
+2
+2y+0
+​
+ )
+⇒C=( 
+2
+2x
+​
+ , 
+2
+2y
+​
+ )
+⇒C=(x, y).
+
+Hence, option 1 is the correct option.
+
+Question 1(xiv)
+Given matrix A = 
+[
+2
+3
+1
+2
+]
+[ 
+2
+1
+​
+  
+3
+2
+​
+ ] and matrix B = [2 −4]. Product AB is a matrix of order:
+
+2 × 2
+
+2 × 1
+
+1 × 2
+
+product AB is not possible
+
+Answer
+
+For AB to exist :
+
+Number of columns in A = Number of rows in B
+
+Order of matrix A = 2 × 2
+
+Order of matrix B = 1 × 2
+
+Columns in A = 2
+
+Rows in B = 1
+
+∴ Product AB is not possible.
+
+Hence, option 4 is the correct option.
+
+Question 1(xv)
+Assertion (A): The 9th term of a Geometric Progression (G.P.) 6, −12, 24, −48, ... is a positive term.
+
+Reason (R): The value of (−2)8 is always positive.
+
+(A) is true and (R) is false.
+
+(A) is false and (R) is true.
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Both (A) and (R) are true but (R) is not the correct explanation of (A).
+
+Answer
+
+Given,
+
+6, −12, 24, −48... is a G.P.
+
+a = 6
+
+r = 
+−
+12
+6
+6
+−12
+​
+  = -2
+
+By formula,
+
+an = arn - 1
+
+For 9th term,
+
+⇒ a9 = (6).(-2)9 - 1
+
+= 6.(-2)8
+
+= 6.(256)
+
+= 1536 > 0.
+
+∴ Assertion (A) is true.
+
+(-2)8
+
+Any negative number raised to an even power is always positive.
+
+∴ Reason (R) is true.
+
+Thus, both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Hence, option 3 is the correct option.
+
+Question 2(i)
+The fourth and seventh terms of an Arithmetic Progression (A.P.) are 60 and 114 respectively. Find the :
+
+(a) first term and common difference.
+
+(b) sum of its first 10 terms.
+
+Answer
+
+(a) Given,
+
+The fourth and seventh terms of an Arithmetic Progression (A.P.) are 60 and 114 respectively.
+
+We know that,
+
+an = a + (n - 1)d
+
+Fourth term :
+
+⇒ a4 = a + (4 - 1)d
+
+⇒ a + 3d = 60 ....(1)
+
+Seventh term :
+
+⇒ a7 = a + (7 - 1)d
+
+⇒ a + 6d = 114 ....(2)
+
+Subtracting equation (1) from equation (2), we get :
+
+⇒ (a + 6d) - (a + 3d) = 114 - 60
+
+⇒ a + 6d - a - 3d = 54
+
+⇒ 3d = 54
+
+⇒ d = 
+54
+3
+3
+54
+​
+  = 18.
+
+Substituting value of d = 18 in equation (1), we get :
+
+⇒ a + 3d = 60
+
+⇒ a + 3(18) = 60
+
+⇒ a + 54 = 60
+
+⇒ a = 60 - 54
+
+⇒ a = 6.
+
+Hence, first term = 6 and common difference = 18.
+
+(b) Sum of the first 10 terms :
+
+By formula,
+
+S
+n
+=
+n
+2
+[
+2
+a
++
+(
+n
+−
+1
+)
+d
+]
+S 
+n
+​
+ = 
+2
+n
+​
+ [2a+(n−1)d]
+
+Substituting values, we get :
+
+⇒
+S
+10
+=
+10
+2
+[
+2
+(
+6
+)
++
+(
+10
+−
+1
+)
+18
+]
+=
+5
+[
+12
++
+162
+]
+=
+5
+[
+174
+]
+=
+870.
+⇒S 
+10
+​
+ = 
+2
+10
+​
+ [2(6)+(10−1)18]
+=5[12+162]
+=5[174]
+=870.
+
+Hence, sum of its first 10 terms = 870.
+
+Question 2(ii)
+Given, A = 
+[
+3
+1
+5
+3
+]
+[ 
+3
+5
+​
+  
+1
+3
+​
+ ] and B = 
+[
+−
+1
+a
+3
+−
+5
+]
+[ 
+−1
+3
+​
+  
+a
+−5
+​
+ ] and product AB = 
+[
+b
+7
+4
+5
+]
+[ 
+b
+4
+​
+  
+7
+5
+​
+ ]. Find the values of ‘a’ and ‘b’.
+
+Answer
+
+Given,
+
+A = 
+[
+3
+1
+5
+3
+]
+[ 
+3
+5
+​
+  
+1
+3
+​
+ ]
+
+B = 
+[
+−
+1
+a
+3
+−
+5
+]
+[ 
+−1
+3
+​
+  
+a
+−5
+​
+ ]
+
+AB = 
+[
+b
+7
+4
+5
+]
+[ 
+b
+4
+​
+  
+7
+5
+​
+ ]
+
+Solving,
+
+⇒
+A
+B
+=
+[
+3
+1
+5
+3
+]
+×
+[
+−
+1
+a
+3
+−
+5
+]
+⇒
+A
+B
+=
+[
+3
+(
+−
+1
+)
++
+1
+(
+3
+)
+3
+(
+a
+)
++
+1
+(
+−
+5
+)
+5
+(
+−
+1
+)
++
+3
+(
+3
+)
+5
+(
+a
+)
++
+3
+(
+−
+5
+)
+]
+⇒
+A
+B
+=
+[
+−
+3
++
+3
+3
+a
+−
+5
+−
+5
++
+9
+5
+a
+−
+15
+]
+⇒
+[
+b
+7
+4
+5
+]
+=
+[
+0
+3
+a
+−
+5
+4
+5
+a
+−
+15
+]
+⇒AB=[ 
+3
+5
+​
+  
+1
+3
+​
+ ]×[ 
+−1
+3
+​
+  
+a
+−5
+​
+ ]
+⇒AB=[ 
+3(−1)+1(3)
+5(−1)+3(3)
+​
+  
+3(a)+1(−5)
+5(a)+3(−5)
+​
+ ]
+⇒AB=[ 
+−3+3
+−5+9
+​
+  
+3a−5
+5a−15
+​
+ ]
+⇒[ 
+b
+4
+​
+  
+7
+5
+​
+ ]=[ 
+0
+4
+​
+  
+3a−5
+5a−15
+​
+ ]
+
+Comparing corresponding elements,
+
+∴ b = 0
+
+⇒ 3a - 5 = 7
+
+⇒ 3a = 7 + 5
+
+⇒ 3a = 12
+
+⇒ a = 
+12
+3
+3
+12
+​
+ 
+
+⇒ a = 4
+
+Hence, a = 4 and b = 0.
+
+Question 2(iii)
+In the given diagram, O is the centre of the circle and the tangent DE touches the circle at B. If ∠ADB = 32°. Find the values of x and y.
+
+In the given diagram, O is the centre of the circle and the tangent DE touches the circle at B. If ∠ADB = 32°. Find the values of x and y. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+Given,
+
+∠ADB = 32°
+
+From figure,
+
+∠ABC = 90° (Angle in a semicircle is a right angle)
+
+We know that,
+
+Angle between a tangent and a chord through point of contact is equal to an angle in the alternate segment.
+
+∠BCA = ∠ABE = y
+
+∠DBC = ∠BAC = x
+
+Since, DE is a straight line, thus
+
+⇒ ∠DBC + ∠ABC + ∠ABE = 180°
+
+⇒ x + 90° + y = 180°
+
+⇒ x + y = 180° - 90°
+
+⇒ x + y = 90° ....(1)
+
+In triangle ADB,
+
+⇒ ∠ADB + ∠BAD + ∠ABD = 180°
+
+⇒ 32° + x + (∠DBC + ∠ABC) = 180°
+
+⇒ 32° + x + x + 90° = 180°
+
+⇒ 2x + 122° = 180°
+
+⇒ 2x = 180° - 122°
+
+⇒ 2x = 58°
+
+⇒ x = 
+58
+°
+2
+2
+58°
+​
+  = 29°.
+
+Substituting value of x in equation (1), we get :
+
+⇒ 29° + y = 90°
+
+⇒ y = 90° - 29°
+
+⇒ y = 61°.
+
+Hence, x = 29° and y = 61°.
+
+Question 3(i)
+The polynomial kx3 + 3x2 − 11x − 6 when divided by (x + 1), leaves a remainder of 6.
+
+(a) Find the value of k.
+
+(b) Using the value of k factorise completely the polynomial kx3 + 3x2 − 11x − 6.
+
+Answer
+
+(a) Using remainder theorem,
+
+If polynomial P(x) is divided by (x - a), the remainder is P(a).
+
+x + 1 = 0
+
+x = -1.
+
+Given,
+
+The polynomial kx3 + 3x2 − 11x − 6 when divided by (x + 1), leaves a remainder of 6.
+
+Thus, on substituting value x = -1 in kx3 + 3x2 − 11x − 6, we get :
+
+⇒ k(-1)3 + 3(-1)2 − 11(-1) − 6 = 6
+
+⇒ -k + 3 + 11 − 6 = 6
+
+⇒ -k + 8 = 6
+
+⇒ -k = 6 - 8
+
+⇒ k = 2.
+
+Hence, the value of k = 2.
+
+(b) P(x) = 2x3 + 3x2 − 11x − 6
+
+Substituting value x = 2 in P(x), we get :
+
+⇒ 2(2)3 + 3(2)2 − 11(2) − 6
+
+⇒ 2(8) + 3(4) − 22 − 6
+
+⇒ 16 + 12 − 22 − 6
+
+⇒ 28 − 28
+
+⇒ 0.
+
+Since, P(2) = 0, thus (x − 2) is a factor of P(x).
+
+2
+x
+2
++
+7
+x
++
+3
+x
+−
+2
+)
+2
+x
+3
++
+3
+x
+2
+−
+11
+x
+−
+6
+‾
+−
+2
+x
+3
+−
++
+4
+x
+2
+‾
+7
+x
+2
+−
+11
+x
+−
+7
+x
+2
+−
++
+14
+x
+‾
+3
+x
+−
+6
+−
+3
+x
+−
++
+6
+‾
+×
+x−2)2x 
+2
+ +7x+3
+x−2 
+)
+ 2x 
+3
+ +3x 
+2
+ −11x−6
+​
+ 
+x−2 
+−
+​
+ 2x 
+3
+  
++
+−
+​
+ 4x 
+2
+ 
+​
+ 
+x−2x 
+3
+ ,.−27x 
+2
+ −11x
+x−2)x 
+3
+ −2 
+−
+​
+ 7x 
+2
+  
++
+−
+​
+ 14x
+​
+ 
+x−2)x 
+3
+ −2x 
+2
+ (3−.)3x−6
+x−2)x 
+3
+ −2x 
+2
+ (31), 
+−
+​
+ 3x 
++
+−
+​
+ 6
+​
+ 
+x−2)x 
+3
+ −2x 
+2
+ (31)−2x×
+​
+ 
+
+∴ 2x3 + 3x2 − 11x − 6 = (x - 2)(2x2 + 7x + 3)
+
+= (x - 2)(2x2 + 6x + x + 3)
+
+= (x - 2)[2x(x + 3) + 1(x + 3)]
+
+= (x - 2)(2x + 1)(x + 3).
+
+Hence, 2x3 + 3x2 − 11x − 6 = (x - 2)(2x + 1)(x + 3).
+
+Question 3(ii)
+An eye drop bottle is prepared consisting of a hemisphere, a cylinder and a conical cap, as shown in the given diagram. Height of the cylindrical and conical parts are each, equal to the diameter (7 cm). Find the :
+
+(a) minimum height of the cylindrical box required to pack this bottle.
+
+(b) volume of the liquid medicine (shaded part) in the bottle. Give your answer to the nearest whole number. (Use π = 
+22
+7
+7
+22
+​
+ )
+
+An eye drop bottle is prepared consisting of a hemisphere, a cylinder and a conical cap, as shown in the given diagram. Height of the cylindrical and conical parts are each, equal to the diameter (7 cm). Find the. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+Height of the cylindrical and conical parts = 7 cm
+
+Minimum height of the cylindrical box required to pack this bottle = Height of cylindrical part + Height of conical part = 7 + 7 = 14 cm.
+
+Hence, minimum height of the cylindrical box required to pack this bottle = 14 cm.
+
+(b) From figure,
+
+Diameter of cylindrical part = 7 cm
+
+Radius of cylindrical part (r) = 
+7
+2
+2
+7
+​
+  = 3.5 cm
+
+Volume of Hemisphere = 
+2
+3
+π
+r
+3
+3
+2
+​
+ πr 
+3
+ 
+
+= 
+2
+3
+×
+22
+7
+×
+(
+3.5
+)
+3
+3
+2
+​
+ × 
+7
+22
+​
+ ×(3.5) 
+3
+ 
+
+= 
+2
+3
+×
+22
+7
+×
+42.875
+3
+2
+​
+ × 
+7
+22
+​
+ ×42.875
+
+= 89.83 cm3
+
+Volume of cylinder = πr2h
+
+= 
+22
+7
+×
+(
+3.5
+)
+2
+×
+7
+7
+22
+​
+ ×(3.5) 
+2
+ ×7
+
+= 22 × 12.25
+
+= 269.5 cm3
+
+Total volume of liquid medicine (shaded part) = Volume of cylinder - Volume of hemisphere
+
+= 269.5 - 89.83
+
+= 179.67 ≈ 180 cm3
+
+Hence, volume of liquid medicine = 180 cm3.
+
+Question 3(iii)
+Use ruler and compass for the following construction:
+
+(a) construct an equilateral triangle ABC of side 5 cm.
+
+(b) construct the circumcircle of ΔABC.
+
+(c) construct the locus of points which are equidistant from AB and BC. Mark the point where the circumcircle and locus meet, as D.
+
+(d) give the geometrical name of quadrilateral ABCD.
+
+Answer
+
+Use ruler and compass for the following construction. ICSE 2026 Maths Solved Question Paper.
+Steps of construction :
+
+Draw a line segment AB = 5 cm.
+
+At point A with radius = 5 cm draw an arc.
+
+At point B with radius = 5 cm draw another arc, cutting previous arc at point C.
+
+Join AC and BC.
+
+Construct perpendicular bisectors of AB and BC, let the bisectors meet at point O.
+
+With O as centre and OA as radius draw a circumcircle.
+
+Construct angle bisector of ∠ABC, mark the point as D where angle bisector intersects circumcircle.
+
+Join AD and CD.
+
+Since, points A, B, C and D lie on the circumcircle, thus ABCD is a cyclic quadrilateral.
+
+Hence, ABCD is a cyclic quadrilateral.
+
+SECTION B
+
+Question 4(i)
+Prove that :
+
+(sec θ − cos θ)(cosec θ − sin θ) = sin θ cos θ
+
+Answer
+
+Solving,
+
+⇒
+(
+1
+cos
+⁡
+θ
+−
+cos
+⁡
+θ
+)
+(
+1
+sin
+⁡
+θ
+−
+sin
+⁡
+θ
+)
+⇒
+(
+1
+−
+cos
+⁡
+2
+θ
+cos
+⁡
+θ
+)
+(
+1
+−
+sin
+⁡
+2
+θ
+sin
+⁡
+θ
+)
+⇒
+(
+sin
+⁡
+2
+θ
+cos
+⁡
+θ
+)
+(
+cos
+⁡
+2
+θ
+sin
+⁡
+θ
+)
+⇒
+sin
+⁡
+θ
+cos
+⁡
+θ
+.
+⇒( 
+cosθ
+1
+​
+ −cosθ)( 
+sinθ
+1
+​
+ −sinθ)
+⇒( 
+cosθ
+1−cos 
+2
+ θ
+​
+ )( 
+sinθ
+1−sin 
+2
+ θ
+​
+ )
+⇒( 
+cosθ
+sin 
+2
+ θ
+​
+ )( 
+sinθ
+cos 
+2
+ θ
+​
+ )
+⇒sinθcosθ.
+
+Hence, proved (sec θ − cos θ)(cosec θ − sin θ) = sin θ cos θ.
+
+Question 4(ii)
+The cost price of a TV set is ₹ 20,000. The shopkeeper marked it for ₹ 24,000. He sells it to a customer at a discount of 10% on the marked price. If the sale is intra-state and the rate of GST is 12%, find the:
+
+(a) discounted price of the TV set.
+
+(b) amount paid by the customer to clear the bill.
+
+Answer
+
+(a) Given,
+
+Cost price of T.V. = ₹ 20,000
+
+Marked price = ₹ 24,000
+
+Discount = 10%
+
+GST = 12%
+
+Discount provided by shopkeeper = 10% of ₹ 24,000
+
+= 
+10
+100
+×
+24000
+100
+10
+​
+ ×24000
+
+= ₹ 2,400
+
+Discounted price of the TV set = ₹ 24,000 - ₹ 2,400 = ₹ 21,600
+
+Hence, discounted price of the TV set = ₹ 21,600.
+
+(b) GST = 12% of 21,600
+
+= 
+12
+100
+×
+21600
+100
+12
+​
+ ×21600
+
+= ₹ 2,592
+
+Total amount paid by customer = ₹ 21,600 + ₹ 2,592 = ₹ 24,192
+
+Hence, amount paid by customer = ₹ 24,192.
+
+Question 4(iii)
+In the given diagram, DE || BC and AD : DB = 2 : 3.
+
+(a) Prove that : ΔADE ~ ΔABC and hence find DE : BC.
+
+(b) Prove : ΔDFE ~ ΔCFB
+
+(c) Given, area of ΔDFE = 16 square units, find the area of ΔCFB.
+
+In the given diagram, DE || BC and AD : DB = 2 : 3. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+DE ∥ BC
+
+In triangle △ADE and △ABC,
+
+∠ADE = ∠ABC (Corresponding angles are equal)
+
+∠AED = ∠ACB (Corresponding angles are equal)
+
+Therefore, △ADE ∼ △ABC (By AA similarity)
+
+Given,
+
+AD : DB = 2 : 3
+
+Let AD = 2x and DB = 3x.
+
+From figure,
+
+AB = AD + DB = 2x + 3x = 5x.
+
+We know that,
+
+Corresponding sides of similar triangle are in proportion.
+
+D
+E
+B
+C
+=
+A
+D
+A
+B
+=
+2
+x
+5
+x
+=
+2
+5
+BC
+DE
+​
+ = 
+AB
+AD
+​
+ = 
+5x
+2x
+​
+ = 
+5
+2
+​
+ .
+
+DE : BC = 2 : 5.
+
+Hence, proved ΔADE ~ ΔABC and DE : BC = 2 : 5.
+
+(b) Given,
+
+DE ∥ BC
+
+In triangle ΔDFE and ΔCFB,
+
+∠DFE = ∠CFB (Vertically opposite angles are equal)
+
+∠DEF = ∠CBF (Alternate interior angles are equal)
+
+ΔDFE ~ ΔCFB [By AA similarity]
+
+Hence, proved that ΔDFE ~ ΔCFB.
+
+(c) Let area of ΔCFB be x square units.
+
+We know that,
+
+The areas of two similar triangles are proportional to the squares of their corresponding sides.
+
+⇒
+Area of Δ DFE
+Area of Δ CFB
+=
+(
+D
+E
+B
+C
+)
+2
+⇒
+Area of Δ DFE
+Area of Δ CFB
+=
+(
+2
+5
+)
+2
+⇒
+Area of Δ DFE
+Area of Δ CFB
+=
+4
+25
+⇒
+16
+x
+=
+4
+25
+⇒
+x
+=
+16
+×
+25
+4
+⇒
+x
+=
+400
+4
+⇒
+x
+=
+100.
+⇒ 
+Area of Δ CFB
+Area of Δ DFE
+​
+ =( 
+BC
+DE
+​
+ ) 
+2
+ 
+⇒ 
+Area of Δ CFB
+Area of Δ DFE
+​
+ =( 
+5
+2
+​
+ ) 
+2
+ 
+⇒ 
+Area of Δ CFB
+Area of Δ DFE
+​
+ = 
+25
+4
+​
+ 
+⇒ 
+x
+16
+​
+ = 
+25
+4
+​
+ 
+⇒x= 
+4
+16×25
+​
+ 
+⇒x= 
+4
+400
+​
+ 
+⇒x=100.
+
+Hence, area of △CFB = 100 sq.units.
+
+Question 5(i)
+The histogram drawn on the graph represents the number of students of different heights (in cm).
+
+Using the graph, answer the following :
+
+(a) the number of students whose height is 150 cm and above.
+
+(b) the modal height.
+
+(c) the total number of students.
+
+The histogram drawn on the graph represents the number of students of different heights (in cm). ICSE 2026 Maths Solved Question Paper.
+Answer
+
+(a) From graph,
+
+Students whose height is 150 cm and above :
+
+150 - 160 = 9 students
+
+160 - 170 = 4 students
+
+Total number of students whose height is 150 cm and above = 9 + 4 = 13
+
+Hence, number of students whose height is 150 cm and above = 13.
+
+(b) From graph,
+
+The vertical line intersects the x-axis at 137.
+
+Hence, the modal height = 137 cm.
+
+(c) Total number of students = 6 + 2 + 9 + 14 + 12 + 9 + 4 = 56.
+
+Hence, total number of students = 56.
+
+Question 5(ii)
+A(−10, −2) and B(2, 10) are two end points of a line segment. If AB intersects the x-axis at P, find the :
+
+(a) ratio in which ‘P’ divides AB.
+
+(b) coordinates of point P.
+
+Answer
+
+(a) Let point at which AB intersects x-axis be P(x, 0) and P divides AB in the ratio m : n.
+
+Using section formula,
+
+y = 
+m
+y
+2
++
+n
+y
+1
+m
++
+n
+m+n
+my 
+2
+​
+ +ny 
+1
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒
+0
+=
+m
+×
+10
++
+n
+×
+−
+2
+m
++
+n
+⇒
+0
+=
+10
+m
+−
+2
+n
+m
++
+n
+⇒
+10
+m
+−
+2
+n
+=
+0
+⇒
+10
+m
+=
+2
+n
+⇒
+m
+n
+=
+2
+10
+⇒
+m
+n
+=
+1
+5
+⇒
+m
+:
+n
+=
+1
+:
+5.
+⇒0= 
+m+n
+m×10+n×−2
+​
+ 
+⇒0= 
+m+n
+10m−2n
+​
+ 
+⇒10m−2n=0
+⇒10m=2n
+⇒ 
+n
+m
+​
+ = 
+10
+2
+​
+ 
+⇒ 
+n
+m
+​
+ = 
+5
+1
+​
+ 
+⇒m:n=1:5.
+
+Hence, P divides AB in the ratio 1 : 5.
+
+(b) Using section formula,
+
+x = 
+m
+x
+2
++
+n
+x
+1
+m
++
+n
+m+n
+mx 
+2
+​
+ +nx 
+1
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒
+x
+=
+1
+×
+2
++
+5
+×
+−
+10
+1
++
+5
+⇒
+x
+=
+2
+−
+50
+6
+⇒
+x
+=
+−
+48
+6
+⇒
+x
+=
+−
+8.
+⇒x= 
+1+5
+1×2+5×−10
+​
+ 
+⇒x= 
+6
+2−50
+​
+ 
+⇒x= 
+6
+−48
+​
+ 
+⇒x=−8.
+
+P = (x, 0) = (-8, 0).
+
+Hence, coordinates of point P are (−8, 0).
+
+Question 5(iii)
+Solve the quadratic equation (x − 2)2 − 5x − 3 = 0 and give your answer correct to 3 significant figures.
+
+Answer
+
+Given,
+
+⇒ (x − 2)2 − 5x − 3 = 0
+
+⇒ x2 - 4x + 4 − 5x − 3 = 0
+
+⇒ x2 - 9x + 1 = 0
+
+Comparing x2 - 9x + 1 = 0 with ax2 + bx + c = 0 , we get :
+
+a = 1, b = -9 and c = 1
+
+By formula,
+
+⇒
+x
+=
+−
+b
+±
+b
+2
+−
+4
+a
+c
+2
+a
+⇒
+x
+=
+−
+(
+−
+9
+)
+±
+(
+−
+9
+)
+2
+−
+4
+(
+1
+)
+(
+1
+)
+2
+(
+1
+)
+⇒
+x
+=
+9
+±
+81
+−
+4
+2
+⇒
+x
+=
+9
+±
+77
+2
+⇒
+x
+=
+9
+±
+8.775
+2
+⇒
+x
+=
+9
++
+8.775
+2
+ or 
+9
+−
+8.775
+2
+⇒
+x
+=
+17.775
+2
+ or 
+0.225
+2
+⇒
+x
+=
+8.8875
+ or 
+0.1125
+⇒
+x
+=
+8.89
+ or 
+0.113
+⇒x= 
+2a
+−b± 
+b 
+2
+ −4ac
+​
+ 
+​
+ 
+⇒x= 
+2(1)
+−(−9)± 
+(−9) 
+2
+ −4(1)(1)
+​
+ 
+​
+ 
+⇒x= 
+2
+9± 
+81−4
+​
+ 
+​
+ 
+⇒x= 
+2
+9± 
+77
+​
+ 
+​
+ 
+⇒x= 
+2
+9±8.775
+​
+ 
+⇒x= 
+2
+9+8.775
+​
+  or  
+2
+9−8.775
+​
+ 
+⇒x= 
+2
+17.775
+​
+  or  
+2
+0.225
+​
+ 
+⇒x=8.8875 or 0.1125
+⇒x=8.89 or 0.113
+
+Hence, x = 8.89 or 0.113.
+
+Question 6(i)
+Kabir bought 120 shares of a company with nominal value ₹100, available at a premium of ₹25. Find :
+
+(a) the money invested by Kabir in buying these shares.
+
+(b) the rate of dividend, if he received ₹ 1,080 as dividend from these shares after one year.
+
+(c) his rate of return.
+
+Answer
+
+(a) Given,
+
+Number of shares = 120
+
+Nominal value = ₹ 100
+
+Premium = ₹ 25
+
+Market price per share = ₹100 + ₹25 = ₹125
+
+Total money invested by Kabir = Number of shares × Market price per share
+
+= 120 × 125 = ₹ 15,000.
+
+Hence, the money invested by Kabir = ₹ 15,000.
+
+(b) Given,
+
+Total dividend = ₹ 1080
+
+Let rate of dividend be R.
+
+By formula,
+
+Dividend = No. of shares × 
+Rate of dividend
+100
+100
+Rate of dividend
+​
+  × N.V. of share
+
+1080 = 120 × 
+R
+100
+100
+R
+​
+  × 100
+
+1080 = 120 × R
+
+R = 
+1080
+120
+120
+1080
+​
+ 
+
+R = 9%.
+
+Hence, rate of dividend = 9%.
+
+(c) Given,
+
+Investment = ₹ 15,000
+
+Rate of return = 
+Total dividend
+Total investment
+Total investment
+Total dividend
+​
+  x 100
+
+= 
+1080
+15000
+×
+100
+15000
+1080
+​
+ ×100
+
+= 7.2%.
+
+Hence, rate of return = 7.2%.
+
+Question 6(ii)
+Find the mean of the following frequency distribution using step-deviation method.
+
+Take assumed mean = 28
+
+Class interval	Frequency
+0 - 8	10
+8 - 16	20
+16 - 24	14
+24 - 32	16
+32 - 40	18
+40 - 48	22
+Answer
+
+Here, i = class size = 8 and assumed mean (A) = 28.
+
+Class Interval	Frequency (f)	Class mark (x)	d = x - A	t = (x - A)/i	ft
+0 - 8	10	4	-24	-3	-30
+8 - 16	20	12	-16	-2	-40
+16 - 24	14	20	-8	-1	-14
+24 - 32	16	28	0	0	0
+32 - 40	18	36	8	1	18
+40 - 48	22	44	16	2	44
+Total	∑f = 100				∑ft = -22
+By formula,
+
+Mean = 
+A
++
+(
+∑
+f
+t
+∑
+f
+)
+×
+i
+A+( 
+∑f
+∑ft
+​
+ )×i
+
+= 28 + 
+(
+−
+22
+100
+)
+×
+8
+(− 
+100
+22
+​
+ )×8
+
+= 28 + 8(-0.22)
+
+= 28 - 1.76
+
+= 26.24
+
+Hence, mean = 26.24
+
+Question 6(iii)
+The difference of two natural numbers is 5 and sum of their reciprocals is 
+3
+10
+10
+3
+​
+ . Find the two numbers.
+
+Answer
+
+Let the two natural numbers be: x and x + 5
+
+Given,
+
+The sum of the reciprocals of two numbers is 
+3
+10
+10
+3
+​
+ .
+
+⇒
+1
+x
++
+1
+x
++
+5
+=
+3
+10
+⇒
+x
++
+5
++
+x
+x
+(
+x
++
+5
+)
+=
+3
+10
+⇒
+2
+x
++
+5
+x
+(
+x
++
+5
+)
+=
+3
+10
+⇒
+10
+(
+2
+x
++
+5
+)
+=
+3
+[
+x
+(
+x
++
+5
+)
+]
+⇒
+20
+x
++
+50
+=
+3
+x
+2
++
+15
+x
+⇒
+3
+x
+2
++
+15
+x
+−
+20
+x
+−
+50
+=
+0
+⇒
+3
+x
+2
+−
+5
+x
+−
+50
+=
+0
+⇒
+3
+x
+2
++
+10
+x
+−
+15
+x
+−
+50
+=
+0
+⇒
+x
+(
+3
+x
++
+10
+)
+−
+5
+(
+3
+x
++
+10
+)
+=
+0
+⇒
+(
+x
+−
+5
+)
+(
+3
+x
++
+10
+)
+=
+0
+⇒
+(
+x
+−
+5
+)
+=
+0
+ or 
+(
+3
+x
++
+10
+)
+=
+0
+⇒
+x
+=
+5
+ or 
+3
+x
+=
+−
+10
+⇒
+x
+=
+5
+ or 
+x
+=
+−
+10
+3
+⇒ 
+x
+1
+​
+ + 
+x+5
+1
+​
+ = 
+10
+3
+​
+ 
+⇒ 
+x(x+5)
+x+5+x
+​
+ = 
+10
+3
+​
+ 
+⇒ 
+x(x+5)
+2x+5
+​
+ = 
+10
+3
+​
+ 
+⇒10(2x+5)=3[x(x+5)]
+⇒20x+50=3x 
+2
+ +15x
+⇒3x 
+2
+ +15x−20x−50=0
+⇒3x 
+2
+ −5x−50=0
+⇒3x 
+2
+ +10x−15x−50=0
+⇒x(3x+10)−5(3x+10)=0
+⇒(x−5)(3x+10)=0
+⇒(x−5)=0 or (3x+10)=0
+⇒x=5 or 3x=−10
+⇒x=5 or x=− 
+3
+10
+​
+ 
+
+Since, the numbers are natural numbers, thus x cannot be negative.
+
+Thus, x = 5 and x + 5 = 5 + 5 = 10.
+
+Hence, numbers are 5 and 10.
+
+Question 7(i)
+A flagpole is erected at the top of a building. The angle of elevation of the top and foot of the flagpole from a point 100 m away, on the same level as that of the foot of the building, are 33° and 31° respectively. Find the height of the flagpole. Give your answer correct to the nearest metre.
+
+A flagpole is erected at the top of a building. The angle of elevation of the top and foot of the flagpole from a point 100 m away, on the same level as that of the foot of the building, are 33° and 31° respectively. Find the height of the flagpole. Give your answer correct to the nearest metre. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+Let height of building (BC) be h meters and height of flagpole (CD) be x meters.
+
+Distance from point = 100 m
+
+In triangle ABC,
+
+⇒
+tan
+⁡
+31
+°
+=
+B
+C
+A
+B
+⇒
+tan
+⁡
+31
+°
+=
+h
+100
+⇒
+0.6009
+=
+h
+100
+⇒
+h
+=
+0.6009
+×
+100
+⇒
+h
+=
+60.09
+m
+⇒tan31°= 
+AB
+BC
+​
+ 
+⇒tan31°= 
+100
+h
+​
+ 
+⇒0.6009= 
+100
+h
+​
+ 
+⇒h=0.6009×100
+⇒h=60.09m
+
+In triangle ADB,
+
+⇒
+tan
+⁡
+33
+°
+=
+D
+B
+A
+B
+⇒
+tan
+⁡
+33
+°
+=
+h
++
+x
+100
+⇒
+h
++
+x
+=
+0.6494
+×
+100
+⇒
+h
++
+x
+=
+64.94
+⇒
+60.09
++
+x
+=
+64.94
+⇒
+x
+=
+64.94
+−
+60.09
+⇒
+x
+=
+4.85
+ m
+≈
+5
+ m
+.
+⇒tan33°= 
+AB
+DB
+​
+ 
+⇒tan33°= 
+100
+h+x
+​
+ 
+⇒h+x=0.6494×100
+⇒h+x=64.94
+⇒60.09+x=64.94
+⇒x=64.94−60.09
+⇒x=4.85 m≈5 m.
+
+Hence, the height of flagpole = 5 m.
+
+Question 7(ii)
+Using a graph paper, draw an ogive for the following distribution which shows a record of weight in kilograms of 100 students.
+
+Weight (in kg)	Number of students
+35 – 40	4
+40 – 45	6
+45 – 50	10
+50 – 55	24
+55 – 60	26
+60 – 65	17
+65 – 70	8
+70 – 75	5
+Use your ogive to estimate the following:
+
+(a) the median weight of the students.
+
+(b) percentage of students whose weight is 60 kg or more.
+
+(c) the weight above which 20% of the students lie.
+
+Answer
+
+The cumulative frequency table for the given continuous distribution is :
+
+Weight (in kg)	Number of students	Cumulative frequency
+35 – 40	4	4
+40 – 45	6	10
+45 – 50	10	20
+50 – 55	24	44
+55 – 60	26	70
+60 – 65	17	87
+65 – 70	8	95
+70 – 75	5	100
+Using a graph paper, draw an ogive for the following distribution which shows a record of weight in kilograms of 100 students. ICSE 2026 Maths Solved Question Paper.
+(a) Steps of Construction :
+
+Since, the scale on x-axis starts at 35, a break (kink) is shown near the origin on x-axis to indicate that the graph is drawn to scale beginning at 35.
+
+Take 1 cm along x-axis = 5 kg (weight)
+
+Take 1 cm along y-axis = 10 (students)
+
+Plot the points (40, 4), (45, 10), (50, 20), (55, 44), (60, 70), (65, 87), (70, 95), (75, 100) representing upper class limits and the respective cumulative frequencies. Also plot the point representing lower limit of the first class i.e. 35 - 40.
+
+Join these points by a freehand drawing.
+
+The required ogive is shown in figure above.
+
+Here, n (no. of students) = 100.
+
+To find the median :
+
+Let B be the point on y-axis representing frequency = 
+n
+2
+=
+100
+2
+=
+50
+2
+n
+​
+ = 
+2
+100
+​
+ =50.
+
+Through B draw a horizontal line to meet the ogive at Q. Through Q, draw a vertical line to meet the x-axis at N. The abscissa of the point N represents .
+
+From graph, N = 56
+
+Hence, the median weight = 56 kg.
+
+(b) Percentage of students whose weight is 60 kg or more.
+
+Let O be the point on x-axis representing weight = 60.
+
+Through O draw a vertical line to meet the ogive at R. Through R, draw a horizontal line to meet the y-axis at C. The ordinate of the point C represents .
+
+From graph,
+
+C = 70
+
+Students weighing more than 60 kg = 100 - 70 = 30.
+
+Percentage of students weighing more than 60 kg = 
+30
+100
+×
+100
+100
+30
+​
+ ×100 = 30%
+
+Hence, students weighing more than 60 kg = 30%.
+
+(c) The weight above which 20% of the students lie.
+
+Total number of students = 100
+
+20% of students = 
+20
+100
+100
+20
+​
+  × 100 = 20.
+
+So, 80 students are below that weight.
+
+Let P be the point on y-axis representing number of students = 80.
+
+Through P draw a horizontal line to meet the ogive at T. Through T, draw a vertical line to meet the x-axis at S. The ordinate of the point S represents weight above which 20% of the students lie.
+
+From graph,
+
+S = 63
+
+Hence, weight above which 20% students lie = 63 kg.
+
+Question 8(i)
+Rohit and Vinay both opened a recurring deposit account in a bank for 2 years at 8% simple interest. Vinay deposited ₹ 300 per month. On maturity, Rohit’s interest was ₹ 800 more than Vinay’s interest. Find:
+
+(a) interest earned by Vinay.
+
+(b) sum deposited by Rohit every month.
+
+Answer
+
+(a) Time = 2 years = 24 months
+
+r = 8%
+
+P = ₹ 300 for Vinay
+
+By formula,
+
+I = 
+P
+×
+n
+(
+n
++
+1
+)
+2
+×
+r
+12
+×
+100
+2
+P×n(n+1)
+​
+ × 
+12×100
+r
+​
+ 
+
+Substituting values, we get :
+
+⇒
+I
+=
+300
+×
+24
+(
+24
++
+1
+)
+2
+×
+8
+1200
+=
+300
+×
+24
+(
+25
+)
+2
+×
+8
+1200
+=
+300
+×
+300
+×
+8
+1200
+=
+300
+×
+2
+=
+₹
+600.
+⇒I= 
+2
+300×24(24+1)
+​
+ × 
+1200
+8
+​
+ 
+= 
+2
+300×24(25)
+​
+ × 
+1200
+8
+​
+ 
+=300×300× 
+1200
+8
+​
+ 
+=300×2
+=₹600.
+
+Hence, interest earned by Vinay = ₹ 600.
+
+(b) Rohit’s interest is ₹800 more than Vinay’s.
+
+Interest earned by Rohit = ₹600 + ₹800 = ₹1400.
+
+Let Rohit deposit ₹P per month.
+
+By formula,
+
+I = 
+P
+×
+n
+(
+n
++
+1
+)
+2
+×
+r
+12
+×
+100
+2
+P×n(n+1)
+​
+ × 
+12×100
+r
+​
+ 
+
+Substituting values, we get :
+
+⇒
+I
+=
+P
+×
+24
+(
+24
++
+1
+)
+2
+×
+8
+1200
+⇒
+1400
+=
+P
+×
+300
+×
+8
+1200
+⇒
+1400
+=
+2
+P
+⇒
+P
+=
+1400
+2
+=
+₹
+700.
+⇒I= 
+2
+P×24(24+1)
+​
+ × 
+1200
+8
+​
+ 
+⇒1400=P×300× 
+1200
+8
+​
+ 
+⇒1400=2P
+⇒P= 
+2
+1400
+​
+ =₹700.
+
+Hence, Rohit deposits ₹700 per month.
+
+Question 8(ii)
+The fourth term of a Geometric Progression (G.P.) is 16 and its seventh term is 128. Find its:
+
+(a) common ratio
+
+(b) first term
+
+Answer
+
+(a) We know that,
+
+an = arn - 1
+
+Given,
+
+a4 = ar3 = 16 ....(1)
+
+a7 = ar6 = 128 .....(2)
+
+Dividing equation (2) by equation (1), we get :
+
+⇒
+a
+r
+6
+a
+r
+3
+=
+128
+16
+⇒
+r
+3
+=
+8
+⇒
+r
+=
+8
+3
+=
+2.
+⇒ 
+ar 
+3
+ 
+ar 
+6
+ 
+​
+ = 
+16
+128
+​
+ 
+⇒r 
+3
+ =8
+⇒r= 
+3
+  
+8
+​
+ =2.
+
+Hence, common ratio = 2.
+
+(b) The first term,
+
+Substituting r = 2 in equation (1), we get :
+
+⇒ a(2)3 = 16
+
+⇒ a(8) = 16
+
+⇒ a = 
+16
+8
+8
+16
+​
+ 
+
+⇒ a = 2.
+
+Hence, first term = 2.
+
+Question 8(iii)
+Use graph sheet for this question. Take 2 cm = 1 unit along both x and y axis. Graphically represent parallelogram OABC, where O(0, 0), A(2, 3), B(5, 3) and C(3, 0).
+
+Reflect OABC :
+
+(a) on the x-axis and name its image as ODEC.
+
+(b) through the origin and name its image as OIJH.
+
+(c) on the y-axis and name its image as OFGH.
+
+Answer
+
+(a) The point O(0, 0), A(2, 3), B(5, 3) and C(3, 0) are plotted on the graph below :
+
+Use graph sheet for this question. Take 2 cm = 1 unit along both x and y axis. Graphically represent parallelogram OABC, where O(0, 0), A(2, 3), B(5, 3) and C(3, 0). ICSE 2026 Maths Solved Question Paper.
+From graph, on reflecting O, A, B, C on x-axis we get,
+
+O(0, 0) ⇒ O(0, 0)
+
+A(2, 3) ⇒ D(2, -3)
+
+B(5, 3) ⇒ E(5, -3)
+
+C(3, 0) ⇒ C(3, 0)
+
+(b) From graph, on reflecting O, A, B, C trough origin we get,
+
+O(0, 0) ⇒ O(0, 0)
+
+A(2, 3) ⇒ I(-2, -3)
+
+B(5, 3) ⇒ J(-5, -3)
+
+C(3, 0) ⇒ H(-3, 0)
+
+(c) From graph, on reflecting O, A, B, C on y-axis we get,
+
+O(0, 0) ⇒ O(0, 0)
+
+A(2, 3) ⇒ F(-2, 3)
+
+B(5, 3) ⇒ G(-5, 3)
+
+C(3, 0) ⇒ H(-3, 0)
+
+Question 9(i)
+Solve the following inequation, write the solution set and represent it on the real number line.
+
+−
+1
+<
+2
+x
+−
+3
+3
+−
+x
+5
+≤
+1
+,
+x
+∈
+R
+−1< 
+3
+2x−3
+​
+ − 
+5
+x
+​
+ ≤1,x∈R
+
+Answer
+
+Solve the following inequation, write the solution set and represent it on the real number line. ICSE 2026 Maths Solved Question Paper.
+Given,
+
+−
+1
+<
+2
+x
+−
+3
+3
+−
+x
+5
+≤
+1
+,
+x
+∈
+R
+−1< 
+3
+2x−3
+​
+ − 
+5
+x
+​
+ ≤1,x∈R
+
+Solving L.H.S of the inequation,
+
+⇒
+−
+1
+<
+2
+x
+−
+3
+3
+−
+x
+5
+⇒
+−
+1
+<
+10
+x
+−
+15
+−
+3
+x
+15
+⇒
+−
+1
+<
+7
+x
+−
+15
+15
+⇒
+−
+15
+<
+7
+x
+−
+15
+⇒
+−
+15
++
+15
+<
+7
+x
+⇒
+0
+<
+7
+x
+⇒
+x
+>
+0.
+⇒−1< 
+3
+2x−3
+​
+ − 
+5
+x
+​
+ 
+⇒−1< 
+15
+10x−15−3x
+​
+ 
+⇒−1< 
+15
+7x−15
+​
+ 
+⇒−15<7x−15
+⇒−15+15<7x
+⇒0<7x
+⇒x>0.
+
+Solving R.H.S of the inequation,
+
+⇒
+2
+x
+−
+3
+3
+−
+x
+5
+≤
+1
+⇒
+10
+x
+−
+15
+−
+3
+x
+15
+≤
+1
+⇒
+7
+x
+−
+15
+15
+≤
+1
+⇒
+7
+x
+−
+15
+≤
+15
+⇒
+7
+x
+≤
+15
++
+15
+⇒
+7
+x
+≤
+30
+⇒
+x
+≤
+30
+7
+.
+⇒ 
+3
+2x−3
+​
+ − 
+5
+x
+​
+ ≤1
+⇒ 
+15
+10x−15−3x
+​
+ ≤1
+⇒ 
+15
+7x−15
+​
+ ≤1
+⇒7x−15≤15
+⇒7x≤15+15
+⇒7x≤30
+⇒x≤ 
+7
+30
+​
+ .
+
+∴ 0 < x ≤ 
+30
+7
+7
+30
+​
+ 
+
+Solution set = 
+(
+0
+,
+30
+7
+]
+(0, 
+7
+30
+​
+ ]
+
+Hence, solution set = 
+(
+0
+,
+30
+7
+]
+(0, 
+7
+30
+​
+ ].
+
+Question 9(ii)
+Use the following graph and answer the given questions :
+
+(a) Write the co-ordinates of points A, B and C.
+
+(b) Find the equation of a line passing through the mid-point of AC and parallel to AB.
+
+Use the following graph and answer the given questions. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+(a) From graph,
+
+Coordinates of :
+
+A(4, 8), B(-1, 2), C(6, 2)
+
+Hence, A(4, 8), B(-1, 2), C(6, 2).
+
+(b) Midpoint of AC,
+
+By formula,
+
+Midpoint = 
+(
+x
+1
++
+x
+2
+2
+,
+y
+1
++
+y
+2
+2
+)
+( 
+2
+x 
+1
+​
+ +x 
+2
+​
+ 
+​
+ , 
+2
+y 
+1
+​
+ +y 
+2
+​
+ 
+​
+ )
+
+Substituting values, we get :
+
+Mid-point of AC = 
+(
+4
++
+6
+2
+,
+8
++
+2
+2
+)
+( 
+2
+4+6
+​
+ , 
+2
+8+2
+​
+ ) = (5, 5).
+
+By formula,
+
+Slope = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Thus,
+
+Slope of AB = 
+8
+−
+2
+4
+−
+(
+−
+1
+)
+4−(−1)
+8−2
+​
+ 
+
+= 
+6
+5
+5
+6
+​
+ .
+
+Since, slope of parallel lines are equal, thus slope of required line (m) = 
+6
+5
+5
+6
+​
+ .
+
+By point-slope form,
+
+Equation : y - y1 = m(x - x1)
+
+Equation of line parallel to AB and passing through mid-point of AC is given by,
+
+⇒ y - 5 = 
+6
+5
+(
+x
+−
+5
+)
+5
+6
+​
+ (x−5)
+
+⇒ 5(y - 5) = 6(x - 5)
+
+⇒ 5y - 25 = 6x - 30
+
+⇒ 5y - 25 + 30 = 6x - 30
+
+⇒ 5y - 5 = 6x
+
+⇒ 6x - 5y - 5 = 0.
+
+Hence, equation of required line = 6x - 5y - 5 = 0.
+
+Question 9(iii)
+A solid wooden toy is prepared by joining a cone, a cylinder and a sphere, as shown in the given diagram. The radius of each of the three solids is 7 cm and heights of each of the cone and the cylinder is 24 cm. Find :
+
+(a) the total surface area of the given solid.
+
+(b) the cost of painting the total surface at the rate of ₹ 0.50 per cm2.
+
+A solid wooden toy is prepared by joining a cone, a cylinder and a sphere, as shown in the given diagram. The radius of each of the three solids is 7 cm and heights of each of the cone and the cylinder is 24 cm. Find. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+Radius of each solid (r) = 7 cm
+
+Height of cone = Height of cylinder = h = 24 cm
+
+Let slant height of cone be l.
+
+By formula,
+
+l
+=
+r
+2
++
+h
+2
+=
+7
+2
++
+24
+2
+=
+49
++
+576
+=
+625
+=
+25.
+l= 
+r 
+2
+ +h 
+2
+ 
+​
+ 
+= 
+7 
+2
+ +24 
+2
+ 
+​
+ 
+= 
+49+576
+​
+ 
+= 
+625
+​
+ 
+=25.
+
+Total surface area of sphere = 4πr2
+
+= 4 × 
+22
+7
+7
+22
+​
+  × 72
+
+= 616 cm2.
+
+Total surface area of cylinder = 2πr(h + r)
+
+= 2 × 
+22
+7
+7
+22
+​
+  × 7 × (24 + 7)
+
+= 2 × 22 × 31
+
+= 1364 cm2.
+
+Total surface area of cone = πr(r + l)
+
+= 
+22
+7
+7
+22
+​
+  × 7 × (7 + 25)
+
+= 22 × 32
+
+= 704 cm2
+
+Total surface area of toy = Total surface area of (sphere + cylinder + cone)
+
+= 616 + 1364 + 704
+
+= 2684 cm2.
+
+Hence, total surface area of toy = 2684 cm2.
+
+(b) Given,
+
+Cost of painting = ₹ 0.50 per cm2.
+
+The cost of painting the total surface = 2684 × ₹ 0.50 = ₹ 1,342
+
+Hence, total cost of painting = ₹ 1,342.
+
+Question 10(i)
+If 
+x
+=
+5
+a
+b
+a
+−
+b
+x= 
+a−b
+5ab
+​
+ , a ≠ b,
+
+(a) Find : 
+x
+a
+a
+x
+​
+ 
+
+(b) Using properties of proportion, find: 
+x
++
+a
+x
+−
+a
+x−a
+x+a
+​
+ 
+
+Answer
+
+(a) Given,
+
+x
+=
+5
+a
+b
+a
+−
+b
+x= 
+a−b
+5ab
+​
+ 
+
+Multiplying 
+1
+a
+a
+1
+​
+  on both sides of equation :
+
+⇒
+x
+a
+=
+1
+a
+(
+5
+a
+b
+a
+−
+b
+)
+⇒
+x
+a
+=
+5
+b
+a
+−
+b
+.
+⇒ 
+a
+x
+​
+ = 
+a
+1
+​
+ ( 
+a−b
+5ab
+​
+ )
+⇒ 
+a
+x
+​
+ = 
+a−b
+5b
+​
+ .
+
+Hence, 
+x
+a
+=
+5
+b
+a
+−
+b
+.
+a
+x
+​
+ = 
+a−b
+5b
+​
+ .
+
+(b) Since,
+
+x
+a
+=
+5
+b
+a
+−
+b
+a
+x
+​
+ = 
+a−b
+5b
+​
+ 
+
+Applying componendo and dividendo, we get :
+
+⇒
+x
++
+a
+x
+−
+a
+=
+5
+b
++
+(
+a
+−
+b
+)
+5
+b
+−
+(
+a
+−
+b
+)
+⇒
+x
++
+a
+x
+−
+a
+=
+a
++
+4
+b
+6
+b
+−
+a
+.
+⇒ 
+x−a
+x+a
+​
+ = 
+5b−(a−b)
+5b+(a−b)
+​
+ 
+⇒ 
+x−a
+x+a
+​
+ = 
+6b−a
+a+4b
+​
+ .
+
+Hence, 
+x
++
+a
+x
+−
+a
+=
+a
++
+4
+b
+6
+b
+−
+a
+.
+x−a
+x+a
+​
+ = 
+6b−a
+a+4b
+​
+ .
+
+Question 10(ii)
+A survey was conducted on 300 families having 2 children each. The results obtained are given below.
+
+Number of girl child	Number of families
+2	95
+1	165
+0	40
+Total	300
+If one family is selected at random, find the probability that it will have:
+
+(a) one girl child
+
+(b) one or more girl child
+
+(c) no boy child
+
+Answer
+
+(a) Total number of families = 300
+
+Let E be the event of selecting family with one girl child,
+
+∴ Number of favorable outcomes = 165
+
+P(E) = 
+Number of favorable outcomes
+Total number of outcomes
+=
+165
+300
+=
+11
+20
+.
+Total number of outcomes
+Number of favorable outcomes
+​
+ = 
+300
+165
+​
+ = 
+20
+11
+​
+ .
+
+Hence, probability of selecting family with one girl child = 
+11
+20
+.
+20
+11
+​
+ .
+
+(b) Let A be the event of selecting family with one or more girl child,
+
+∴ Number of favorable outcomes = 165 + 95 = 260
+
+P(A) = 
+Number of favorable outcomes
+Total number of outcomes
+=
+260
+300
+=
+13
+15
+.
+Total number of outcomes
+Number of favorable outcomes
+​
+ = 
+300
+260
+​
+ = 
+15
+13
+​
+ .
+
+Hence, probability of selecting family with one or more girl child = 
+13
+15
+.
+15
+13
+​
+ .
+
+(c) Let B be the event of selecting family with no boy child.
+
+A family will have no boy child, if there are 2 girl child in the family.
+
+∴ Number of favorable outcomes = 95
+
+P(B) = 
+Number of favorable outcomes
+Total number of outcomes
+=
+95
+300
+=
+19
+60
+.
+Total number of outcomes
+Number of favorable outcomes
+​
+ = 
+300
+95
+​
+ = 
+60
+19
+​
+ .
+
+Hence, probability of selecting family with no boy child = 
+19
+60
+.
+60
+19
+​
+ .
+
+Question 10(iii)
+In the given figure ‘O’ is the centre of the circle. PQ is a tangent to the circle at B and AB = AC. If ∠CBQ = 40°, find the unknown angles x, y, z and w.
+
+In the given figure ‘O’ is the centre of the circle. PQ is a tangent to the circle at B and AB = AC. If ∠CBQ = 40°, find the unknown angles x, y, z and w. ICSE 2026 Maths Solved Question Paper.
+Answer
+
+Given,
+
+∠CBQ = 40°
+
+In a circle, the angle between a tangent and a chord through the point of contact is equal to the angle in the opposite (alternate) segment of the circle.
+
+∠BAC = ∠CBQ = 40°
+
+x = 40°
+
+Since, AB = AC.
+
+∠ABC = ∠BCA [Angles opposite to equal sides of a triangle are equal]
+
+In triangle ABC,
+
+∠ABC + ∠BAC + ∠BCA = 180°
+
+2∠ABC + 40° = 180°
+
+2∠ABC = 180° - 40°
+
+2∠ABC = 140°
+
+∠ABC = 
+140
+°
+2
+2
+140°
+​
+ 
+
+∠ABC = 70°.
+
+We know that,
+
+The angle which an arc subtends at the center is double that which it subtends at any point on the remaining part of the circumference.
+
+∠BOC = 2∠BAC
+
+y = 2x
+
+y = 80°.
+
+In triangle OBC,
+
+OB = OC (Radii of same circle)
+
+∠OBC = ∠OCB (Angles opposite to equal sides in a triangle are equal)
+
+By angle sum property of triangle,
+
+∠OBC + ∠OCB + ∠BOC = 180°
+
+2∠OBC + 80° = 180°
+
+2∠OBC = 100°
+
+∠OBC = 50°
+
+From figure,
+
+w = ∠ABC - ∠OBC = 70° - 50° = 20°.
+
+We know that,
+
+Sum of opposite angles of a cyclic quadrilateral is 180°.
+
+In cyclic quadrilateral ABCD,
+
+∠ABC + ∠ADC = 180°
+
+70° + z = 180°
+
+z = 180° - 70° = 110°.
+
+Hence, x = 40°, y = 80°, z = 110°, w = 20°.
+

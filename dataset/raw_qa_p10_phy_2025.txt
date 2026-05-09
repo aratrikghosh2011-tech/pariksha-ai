@@ -1,0 +1,1564 @@
+Section A
+Question 1(i)
+A body is acted upon by two equal and opposite forces, that are NOT along the same straight line. The body will :
+
+remain stationary
+have only rotational motion
+have only rectilinear motion
+have both rectilinear and rotational motion
+Answer
+
+have only rotational motion
+
+Reason — Forces are equal and opposite, but not along same straight line.
+
+A body is acted upon by two equal and opposite forces, that are NOT along the same straight line. The body will : ICSE 2025 Physics Solved Question Paper.
+So, the forces will form a couple and the body will have rotational motion only.
+
+Question 1(ii)
+Which among the following is a vector quantity?
+
+work
+power
+energy
+moment of couple
+Answer
+
+moment of couple
+
+Reason — A couple has both magnitude and direction, making it a vector quantity. Its direction is perpendicular to the plane in which the two forces lie. The magnitude is calculated by multiplying one of the forces with the perpendicular distance between their lines of action.
+
+Question 1(iii)
+What is the correct energy transformation during burning of a candle?
+
+heat → kinetic + potential
+heat → chemical + light
+chemical → heat + light
+mechanical → chemical + heat
+Answer
+
+chemical → heat + light
+
+Reason — When a candle burns, chemical energy stored in the wax is transformed into heat and light energy through a combustion reaction.
+
+Question 1(iv)
+When a ray of light passes from one optical medium to another, which of the following physical quantities does NOT change?
+
+Amplitude of the wave
+Frequency of the wave
+Wavelength of the wave
+Speed of the wave
+Answer
+
+Frequency of the wave
+
+Reason — Frequency of wave depends on the source and not on the medium through which it propagates.
+
+Question 1(v)
+Which one of the following combinations is the correct ascending order of electromagnetic waves in terms of wavelength?
+
+Gamma-rays, visible light, microwaves
+Microwaves, visible light, gamma-rays
+Gamma-rays, microwaves, visible light
+Microwaves, gamma-rays, visible light
+Answer
+
+Gamma-rays, visible light, microwaves
+
+Reason — Wavelength of gamma rays is less than 0.01 nm, wavelength of visible light ranges from 400 to 800 nm and of microwave ranges from 1 mm to 1 m.
+
+Question 1(vi)
+For a lever, a graph is plotted with load on Y-axis and effort on X-axis. Which of the following represents the slope of the graph?
+
+Mechanical advantage
+Velocity ratio
+1
+Velocity ratio
+Velocity ratio
+1
+​
+ 
+1
+Mechanical advantage
+Mechanical advantage
+1
+​
+ 
+Answer
+
+Mechanical advantage
+
+Reason — Load vs effort graph is a straight line and slope of the graph = Load/effort = Mechanical advantage.
+
+Question 1(vii)
+For a real image formed by a convex lens, the ratio of I : O = 2 : 5, then the object is :
+
+(I is the height of the image and O is the height of the object)
+
+between O and F
+beyond 2F
+at F
+between F and 2F
+Answer
+
+beyond 2F
+
+Reason — Here, real image size < object size and this happens when the object is placed beyond 2F.
+
+Classify as real or virtual, the image of a candle flame formed on a screen by a convex lens. Draw a ray diagram to illustrate how an image is formed. Refraction through a lens, Concise Physics Class 10 Solutions.
+Question 1(viii)
+A ray of light is incident normally on a face of an equilateral prism. The ray gets totally reflected at the second refracting surface. The total deviation produced in the path of the ray is:
+
+30°
+60°
+90°
+120°
+Answer
+
+60°
+
+Reason — As, the ray is normally incident on face AB so it passes undeviated. Angle of incidence on face AC is 60˚. The reflected ray is incident normally on face BC and passes undeviated.
+
+A ray of light is incident normally on a face of an equilateral prism. The ray gets totally reflected at the second refracting surface. The total deviation produced in the path of the ray is? ICSE 2025 Physics Solved Question Paper.
+Now, from the above diagram,
+
+∠NRS = 60˚
+
+∴ ∠SRC = 30˚
+
+∠ARQ = 30˚
+
+∴ ∠CRT = 30˚
+
+RT is the original path of the incident ray.
+
+So, total deviation = ∠SRT = 30˚ + 30˚ = 60˚
+
+Question 1(ix)
+In a closed circuit containing a bulb and a cell, the electromotive force (ε) and the terminal voltage (V) is related as.
+
+(Given I is current and r is internal resistance.)
+
+V = ε + Ir
+V = ε – Ir
+V = ε ÷ Ir
+V = ε × Ir
+Answer
+
+V = ε – Ir
+
+Reason — : The circuit is :
+
+In a closed circuit containing a bulb and a cell, the electromotive force (ε) and the terminal voltage (V) is related as.ICSE 2025 Physics Solved Question Paper.
+When current flows,
+
+ε = V + Ir
+
+∴ V = ε – Ir
+
+Question 1(x)
+A metal piece of mass 5 g has thermal capacity 2.5 J K⁻¹. If the mass of the metal is tripled, then its specific heat capacity will be :
+
+7.5 J K⁻¹
+2.5 J K⁻¹
+1.5 J g⁻¹ K⁻¹
+0.5 J g⁻¹ K⁻¹
+Answer
+
+0.5 J g⁻¹ K⁻¹
+
+Reason — As,
+
+Specific heat capacity
+=
+Thermal capacity
+mass
+=
+2.5
+ J
+K
+−
+1
+5
+ g
+=
+0.5
+ J 
+g
+−
+1
+ 
+K
+−
+1
+Specific heat capacity= 
+mass
+Thermal capacity
+​
+ = 
+5 g
+2.5 JK 
+−1
+ 
+​
+ =0.5 J g 
+−1
+  K 
+−1
+ 
+
+Question 1(xi)
+Assertion (A) : As the level of water in a tall measuring cylinder kept under running tap rises, the pitch of sound gradually increases.
+
+Reason (R) : Frequency of sound is inversely proportional to the length of the water column.
+
+Both (A) and (R) are true and (R) is correct explanation of (A).
+Both (A) and (R) are true and (R) is not the correct explanation of (A).
+(A) is true but (R) is false.
+(A) is false but (R) is true.
+Answer
+
+(A) is true but (R) is false.
+
+Explanation:
+
+Assertion (A) is true because as the water column increases, air column decreases, frequency increases.
+
+Reason (R) is false because the frequency is directly proportional to the length of water column.
+
+Question 1(xii)
+In the given circuits Y and Z, the resistors, R1 and R2, are connected in :
+
+In the given circuits Y and Z, the resistors, R1 and R2, are connected in : ICSE 2025 Physics Solved Question Paper.
+series in both the circuits
+parallel in both the circuits
+parallel in Y and series in Z
+series in Y and parallel in Z
+Answer
+
+parallel in both the circuits
+
+Reason — Circuit Y may be redrawn as :
+
+parallel in both the circuits.ICSE 2025 Physics Solved Question Paper.
+Both the resistors are connected across points A and B. Hence, those are connected in parallel.
+
+Circuit Z may be redrawn as :
+
+parallel in both the circuits.ICSE 2025 Physics Solved Question Paper.
+Both the resistors are connected across points A and B. Hence, those are connected in parallel.
+
+Question 1(xiii)
+A radioactive element P emits one α-particle and transforms to a new element Q. What will be the position of the element Q in the periodic table?
+
+One group to the left of P
+One group to the right of P
+Two groups to the right of P
+Two groups to the left of P
+Answer
+
+Two groups to the left of P
+
+Reason — The reaction is :
+
+Z
+A
+P 
+⟶
+Z
+−
+2
+A
+−
+4
+Q 
++
+2
+4
+He
+Z
+A
+​
+ P ⟶ 
+Z−2
+A−4
+​
+ Q + 
+2
+4
+​
+ He
+
+In periodic table elements are arranged in ascending order of atomic number and the atomic number of Q is 2 less than that of P. Hence, position of Q will 2 groups left of P.
+
+Question 1(xiv)
+Each of the substances given below is supplied with same amount of heat. Which one will attain the highest temperature?
+
+Substance	Specific heat capacity (cal/g°C)
+Lead	0.031
+Aluminium	0.21
+Copper	0.095
+Iron	0.115
+Aluminium
+Copper
+Iron
+Lead
+Answer
+
+Lead
+
+Reason — The substance whose specific heat capacity is the lowest will attain the highest temperature.
+
+Question 1(xv)
+The following figure shows a small bar magnet falling freely through a copper ring. For the observer at A, the direction of the induced current will be :
+
+The following figure shows a small bar magnet falling freely through a copper ring. For the observer at A, the direction of the induced current will be. ICSE 2025 Physics Solved Question Paper.
+clockwise when magnet is above and below the ring
+anticlockwise when magnet is above and below the ring
+anticlockwise when magnet is above the ring and clockwise when the magnet is below the ring
+clockwise when magnet is above the ring and anticlockwise when the magnet is below the ring
+Answer
+
+anticlockwise when magnet is above the ring and clockwise when the magnet is below the ring
+
+Reason
+
+Magnet above the ring (approaching it)
+
+Flux change The north pole of the magnet faces the ring, so magnetic field lines enter the ring downwards. As the magnet falls closer, the downward flux through the ring increases.
+
+Opposition required To oppose this increase in downward flux, the ring must create an upward field (its own north pole must face the magnet).
+
+Current direction Using the right-hand rule, a coil whose top acts as a north pole carries anticlockwise current when viewed from above.
+
+Result: Anticlockwise current while the magnet is above the ring.
+
+Magnet inside and leaving the ring (moving away below it)
+
+Flux change Once the magnet has passed through, the same downward field lines are now moving away, so the downward flux decreases.
+
+Opposition required The ring tries to maintain the original flux by producing more downward field—i.e., its top must now behave like a south pole.
+
+Current direction A coil whose top is a south pole carries clockwise current when viewed from above.
+
+Result: Clockwise current while the magnet is below the ring.
+
+Question 2(i)
+Complete the following by choosing the correct answers from the bracket:
+
+(a) In uniform circular motion the centrifugal force acts ............... [towards the centre/away from the centre/along the tangential direction].
+
+(b) Refractive index of a medium is independent of ............... [temperature/angle of incidence/wavelength of light].
+
+(c) Heat absorbed during change of phase depends on ............... [mass/change in temperature/specific heat capacity] of the substance.
+
+(d) Emf of a cell is ............... [greater than/less than/equal to] the terminal voltage when the cell is in open circuit.
+
+(e) In a step-up transformer the turns ratio is ............... [more than 1/ less than 1/ equal to 1].
+
+(f) The nuclear radiation with lowest ionising power is ............... [α/β/γ]
+
+Answer
+
+(a) In uniform circular motion the centrifugal force acts away from the centre.
+
+(b) Refractive index of a medium is independent of angle of incidence.
+
+(c) Heat absorbed during change of phase depends on mass of the substance.
+
+(d) Emf of a cell is equal to the terminal voltage when the cell is in open circuit.
+
+(e) In a step-up transformer the turns ratio is more than 1.
+
+(f) The nuclear radiation with lowest ionising power is γ.
+
+Question 2(ii)
+A non-uniform kite is hanging freely from the branch of a tree as shown. Study the figure and answer the following :
+
+A non-uniform kite is hanging freely from the branch of a tree as shown. Study the figure and answer the following. ICSE 2025 Physics Solved Question Paper.
+(a) Fill in the blank.
+
+............... [P, Q, R or S] is the most probable position of its centre of gravity.
+
+(b) Support your answer to (a) with a reason
+
+Answer
+
+(a) R is the most probable position of its centre of gravity.
+
+(b) When a body is freely suspended from a point, it comes to rest (i.e. stops oscillating) in such a position that its centre of gravity lies vertically below the point of suspension.
+So, in the figure, the string from the branch passes vertically through point R, hence R is the most probable position of the kite’s centre of gravity.
+
+Question 2(iii)
+The displacement–time graph of a sound wave produced by a vibrating wire is shown below.
+
+The displacement–time graph of a sound wave produced by a vibrating wire is shown below. ICSE 2025 Physics Solved Question Paper.
+(a) How will you adjust the tension in the wire, to reduce the length of PR?
+
+(b) Which characteristic of sound is affected by the reduction in the length of PR?
+
+Answer
+
+(a) As PR is the time period of the vibration and reduction of time period means the increase of frequency. Also, Frequency is proportional to square root of the tension.
+
+So, tension is to be increased to increase the frequency i.e., to reduce the time period.
+
+(b) Since, pitch depends on frequency, pitch will be affected by reduction of PR.
+
+Question 3(i)
+A ray of light enters a rectangular glass slab submerged in water at an angle of incidence 55°. Does this ray undergo total internal reflection when it moves from water to glass? Justify your answer. (The critical angle for glass–water interface is 54°)
+
+Answer
+
+This ray will not undergo total internal reflection because for total internal reflection, the light ray should travel from denser to rarer medium but in the given situation light ray travels from rarer to denser medium since refractive index of glass is more than that of water. So, there will be no total internal reflection.
+
+Question 3(ii)
+According to the NEW colour convention which colour of wire is connected to :
+
+(a) the metal body of the appliance
+
+(b) the switch of the appliance?
+
+Answer
+
+(a) Earth wire is connected to the metal body of electrical appliances and according to new convention the colour of earth wire is green or yellow.
+
+(b) Live wire is connected to the switch of an appliance and according to new convention the colour of live wire is brown.
+
+Question 3(iii)
+(a) Which of the two, alternating current or direct current, produces a varying magnetic field when it flows through a conductor?
+
+(b) State the frequency of the alternating current supply in India
+
+Answer
+
+(a) Alternating current produces a varying magnetic field when it flows through a conductor because alternating current changes its magnitude as well as direction periodically and thus, it provides a varying current and hence varying magnetic field as magnetic field is directly proportional to the applied current.
+
+(b) 50 Hz.
+
+Question 3(iv)
+Calculate the amount of heat absorbed by 200 g of paraffin wax to melt completely at its melting point.
+
+[Specific latent heat of fusion of paraffin wax = 146 Jg⁻¹]
+
+Answer
+
+Given,
+
+Mass of paraffin (m) = 200 g
+
+Specific latent heat of fusion of paraffin (L) = 146 J g⁻¹
+
+Let, required heat be Q.
+
+Then,
+
+Q
+=
+mL
+=
+200
+×
+146
+=
+29200
+ J
+=
+29.2
+ kJ
+Q=mL=200×146=29200 J=29.2 kJ
+
+Question 3(v)
+Copper wire is wound around a steel bar FT. Current is allowed to pass through the coil for some time and then the bar is removed.
+
+Copper wire is wound around a steel bar FT. Current is allowed to pass through the coil for some time and then the bar is removed. ICSE 2025 Physics Solved Question Paper.
+(a) Draw only the magnetised bar FT and mark its poles.
+
+(b) Trace two magnetic lines of force around FT clearly indicating the direction.
+
+Answer
+
+(a) Since, looking from the F side current is flowing in anti-clockwise direction and hence, north pole developed at that end and south pole at the T end.
+
+The labelled diagram is given below :
+
+Since, looking from the F side current is flowing in anti-clockwise direction and hence, north pole developed at that end and south pole at the T end.ICSE 2025 Physics Solved Question Paper.
+(b)
+
+Since, looking from the F side current is flowing in anti-clockwise direction and hence, north pole developed at that end and south pole at the T end.ICSE 2025 Physics Solved Question Paper.
+Question 3(vi)
+A current flows through a metallic conductor for a long period of time. State the change you would expect in its:
+
+(a) Resistance
+
+(b) Resistivity
+
+Answer
+
+(a) As current flows for a long period of time, heat is generated and temperature increases. So, the resistance of metallic wire increases as resistance is directly proportional to the temperature of a conductor.
+
+(b) As temperature increases, resistivity of metallic wire increases.
+
+Question 3(vii)
+Curium is a radioactive element with the symbol 
+96
+247
+Cm
+96
+247
+​
+ Cm named in honour of Madam Curie. The graph of number of protons vs number of neutrons for some elements are shown below :
+
+The graph of number ofprotons vs number of neutrons for some elements are shown below. ICSE 2025 Physics Solved Question Paper.
+(a) Which point on the graph indicates the element Cm?
+
+(b) Which point on the graph indicates daughter nucleus after Cm undergoes radioactive decay of 1α followed by 2β?
+
+(c) State the mass number of the daughter nucleus.
+
+Answer
+
+(a) As, Curium has 96 protons and 247 – 96 = 151 neutrons and point P represents 96 protons and 151 neutrons. Hence, P point indicates element Curium.
+
+(b) After the radioactive decay of 1 α and 2 β particles, the atomic number and mass number of daughter nucleus will be 243 and 96 respectively. So, it will have 243 – 96 = 147 neutrons.
+
+As, point R represents 96 protons and 147 neutrons. Hence R point indicates the daughter nucleus.
+
+(c) Mass number of daughter nucleus = Mass number of Curium – Mass number of α particle = 247 – 4 = 243
+
+Section B
+
+Question 4(i)
+(a) Out of the three rays (I, J, H) shown in the diagram, which ray will suffer Total Internal Reflection while inside the prism? (Critical angle of the prism is 42°.)
+
+Out of the three rays (I, J, H) shown in the diagram, which ray will suffer Total Internal Reflection while inside the prism?  The body will : ICSE 2025 Physics Solved Question Paper.
+(b) Copy the diagram to complete the path of the ray which you have named in (a) till it comes out of the prism.
+
+Answer
+
+(a)
+
+Out of the three rays (I, J, H) shown in the diagram, which ray will suffer Total Internal Reflection while inside the prism?  The body will : ICSE 2025 Physics Solved Question Paper.
+From the above diagram, it is visible that inside the prism, the angles of incidence of rays I, J and H are respectively 30˚, 60˚ and 30˚. Hence only the ray J will suffer total internal reflection.
+
+(b)
+
+Copy the diagram to complete the path of the ray which you have named in (a) till it comes out of the prism. ICSE 2025 Physics Solved Question Paper.
+Question 4(ii)
+A rectangular glass block of refractive index 1.5 has an air bubble trapped inside it as shown in the diagram. When seen from the surface AB, it appears to be 4 cm deep.
+
+A rectangular glass block of refractive index 1.5 has an air bubble trapped inside it as shown in the diagram. When seen from the surface AB, it appears to be 4 cm deep.ICSE 2025 Physics Solved Question Paper.
+(a) Calculate the actual depth of the air bubble from the surface AB.
+
+(b) For which colour of light, blue or yellow, the apparent depth will be greater?
+
+(c) Turning the glass block upside down, DOES NOT change the apparent depth of the air bubble. State True or False.
+
+Answer
+
+(a) Given,
+
+Refractive index of glass = 1.5
+
+Apparent depth of air bubble = 4 cm
+
+As,
+
+Refractive index of glass
+=
+Real depth of air bubble
+Apparent depth of air bubble
+⇒
+Real depth of air bubble
+=
+Refractive index of glass
+×
+Apparent depth of air bubble
+=
+1.5
+×
+4
+=
+6
+ cm
+Refractive index of glass= 
+Apparent depth of air bubble
+Real depth of air bubble
+​
+ 
+⇒Real depth of air bubble=Refractive index of glass×Apparent depth of air bubble
+=1.5×4=6 cm
+
+So, actual depth of the air bubble from the surface AB is 6 cm.
+
+(b) As,
+
+Refractive index of glass
+=
+Real depth of air bubble
+Apparent depth of air bubble
+⇒
+Real depth of air bubble
+=
+Refractive index of glass
+×
+Apparent depth of air bubble
+Refractive index of glass= 
+Apparent depth of air bubble
+Real depth of air bubble
+​
+ 
+⇒Real depth of air bubble=Refractive index of glass×Apparent depth of air bubble
+
+Now, apparent depth will increase, if refractive index decreases and as wavelength increases, refractive index decreases. As wavelength of yellow light is greater than wavelength of blue light so, refractive index for yellow light is smaller than refractive index of blue light.
+
+Hence, for yellow light apparent depth will be greater.
+
+(c) When the block is turned upside down, then the real depth of the bubble is 15 – 6 = 9 cm
+
+And,
+
+Apparent depth of air bubble
+=
+Real depth of air bubble
+Refractive index of glass
+=
+9
+1.5
+=
+6
+ cm
+Apparent depth of air bubble= 
+Refractive index of glass
+Real depth of air bubble
+​
+ = 
+1.5
+9
+​
+ =6 cm
+
+So, the statement is false.
+
+Question 4(iii)
+(a) An object is placed at 2F position of a convex lens. Draw a ray diagram showing the formation of the image.
+
+(b) How will the size of the image change if we, ONLY replace the lens in the above arrangement with another lens of a greater focal length?
+
+Answer
+
+(a) Ray diagram showing the formation of the image when the object is placed at 2F position of a convex lens is shown below:
+
+State the changes in the position, size and nature of the image when the object is brought from infinity up to the convex lens. Illustrate your answer by drawing the ray diagrams. Refraction through a lens, Concise Physics Class 10 Solutions.
+(b) If we ONLY replace the original lens with another lens of greater focal length then object distance (u) which was at 2F1 earlier, now comes between F1 and 2F1.
+
+And
+
+When an object is placed between F1 and 2F1 of the convex lens then it produces real, inverted and magnified image beyond 2F2 behind the lens.
+
+Hence, if we, ONLY replace the original lens with another lens of a greater focal length then the size of the image increases.
+
+Question 5(i)
+An object is placed in front of a concave lens at a distance of 45 cm from it. If its image is formed at a distance of 30 cm from the lens, calculate the focal length of the lens.
+
+Answer
+
+(a) Given,
+
+Object distance (u) = -45 cm
+
+Image distance (v) = -30 cm
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+1
+f
+=
+1
+−
+30
+−
+1
+(
+−
+45
+)
+1
+f
+=
+−
+1
+30
++
+1
+45
+1
+f
+=
+−
+3
++
+2
+90
+1
+f
+=
+−
+1
+90
+f
+=
+−
+90
+1
+f
+=
+−
+90
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+f
+1
+​
+ = 
+−30
+1
+​
+ − 
+(−45)
+1
+​
+ 
+f
+1
+​
+ =− 
+30
+1
+​
+ + 
+45
+1
+​
+ 
+f
+1
+​
+ = 
+90
+−3+2
+​
+ 
+f
+1
+​
+ =− 
+90
+1
+​
+ 
+f=− 
+1
+90
+​
+ 
+f=−90 cm
+
+Question 5(ii)
+Two rays PQ and RS are incident on a rectangular glass block as shown in the diagram. Observe the diagram and answer the questions that follow.
+
+Two rays PQ and RS are incident on a rectangular glass block as shown in the diagram. Observe the diagram and answer the questions that follow. ICSE 2025 Physics Solved Question Paper.
+Which of these two rays will :
+
+(a) have greater lateral displacement on emerging out of the block?
+
+(b) travel with greater speed in the block?
+
+(c) scatter more in the atmosphere?
+
+Answer
+
+(a) Angle of incidence for both the rays being same, the directions of both the rays remain same. As the refracted ray corresponding to RS bends towards the normal is more than that corresponding to ray PQ hence, the lateral displacement of the emergent ray corresponding to incident ray RS will also be more.
+
+have greater lateral displacement on emerging out of the block?.ICSE 2025 Physics Solved Question Paper.
+Diagram shows, x1 and x2 are the lateral shifts of the emergent rays corresponding to incident rays PQ and RS.
+
+So, here x2 > x1
+
+(b) Since, the refracted ray corresponding to incident ray PQ bends less towards the normal, hence this travels with greater speed.
+
+(c) Speed corresponding to incident ray PQ is more than the speed corresponding to incident ray RS. So, wavelength corresponding to incident ray PQ is more than the wavelength corresponding to incident ray RS. So, RS will scatter more in atmosphere.
+
+Question 5(iii)
+(a) Name the radiations :
+
+for which a quartz prism is used to study the spectrum.
+which are used in remote sensing devices.
+which are used in traffic signals in India.
+(b) Name one property common to all electromagnetic radiations.
+
+Answer
+
+(a)
+
+For ultraviolet radiation, a quartz prism is used since, ordinary glass absorbs UV radiation.
+Infra red radiation.
+Visible light radiation (Red, Yellow, Green)
+(b) All electromagnetic radiations travels with the same speed ie., 3 × 108 ms-1.
+
+Question 6(i)
+Akash takes a uniform metre scale and suspends a weight of 2 N at one end ‘X’, and a weight of 5 N on the other end ‘Y”. He then balances the ruler horizontally on a knife edge placed at 70 cm from X. Draw a diagram of the arrangement and calculate the weight of the ruler.
+
+Answer
+
+The diagram of the arrangement is shown below :
+
+Akash takes a uniform metre scale and suspends a weight of 2 N at one end. ICSE 2025 Physics Solved Question Paper.
+Given,
+
+Weight at the end X (W1) = 2 N
+
+Weight at the end Y (W2) = 5 N
+
+Distance of X from the knife (R1) = 70 cm
+
+Distance of Y from the knife (R2) = 100 cm - 70 cm = 30 cm
+
+Let,
+
+W = weight of the scale
+
+Now,
+
+Anticlockwise moment (due to 2N) = R1 x W1 = 2 × 70 = 140 Nm
+
+Clockwise moment (due to 5N) = R2 x W2 = 5 × 30 = 150 Nm
+
+Anticlockwise moment (due to weight of the scale) = W × 20 = 20 W
+
+For equilibrium,
+
+Anticlockwise moment of force about knife = Clockwise moment of force about knife
+
+150
+=
+140
++
+20
+ W
+20
+W
+=
+150
+−
+140
+=
+10
+W
+=
+10
+20
+=
+0.5
+ N
+150=140+20 W
+20W=150−140=10
+W= 
+20
+10
+​
+ =0.5 N
+
+So, weight of the scale is 0.5 N.
+
+Question 6(ii)
+Three levers X, Y, Z of equal lengths are shown in the diagram.
+
+Three levers X, Y, Z of equal lengths are shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+(a) Which class of lever do these belong to?
+
+(b) Among these (X, Y or Z) which one will give the maximum mechanical advantage? Justify your answer.
+
+Answer
+
+(a) All are class I levers since, the fulcrum is in between the load and effort.
+
+(b) As,
+
+Mechanical Advantage
+=
+Effort Arm
+Load Arm
+Mechanical Advantage= 
+Load Arm
+Effort Arm
+​
+ 
+
+For X, effort arm is greater than the load arm. Hence, it has the maximum mechanical advantage.
+
+Question 6(iii)
+Richa weighing 40 kgf leaves point P on her skateboard and reaches point Q on the ground with velocity 10 ms-1. Calculate.
+
+Richa weighing 40 kgf leaves point P on her skateboard and reaches point Q on the ground with velocity 10. ICSE 2025 Physics Solved Question Paper.
+(a) the kinetic energy of Richa at point Q
+
+(b) the vertical height of point P above the ground. (use g as 10 m/s2 and neglect friction)
+
+(c) the kinetic energy of Richa at point R. (While moving from Q to R, she loses 500 J of energy against friction.)
+
+Answer
+
+(a) Given,
+
+Speed at Q (v) = 10 ms-1
+
+Then,
+
+Kinetic energy at Q = 
+1
+2
+2
+1
+​
+  mv2 = 
+1
+2
+2
+1
+​
+  × 40 × 102 = 2000 J
+
+(b) If the height of P is H, then :
+
+Potential energy at P = mgH = 40 x 10 x H = 400H
+
+As, friction is negligible so total mechanical energy is conserved.
+
+From law of conservation of total mechanical energy,
+
+Potential energy at P = Kinetic energy at Q
+
+⇒ 400H = 2000 J
+
+⇒ H = 
+2000
+400
+400
+2000
+​
+  = 5 m
+
+(c) Given,
+
+Height of point R (h) = 3 m
+
+Energy lost from Q to R through friction = 500 J
+
+Now
+
+Potential energy at R = mgh = 40 × 10 × 3 = 1200 J
+
+So, from law of conservation of energy
+
+Kinetic energy at R + Potential energy at R + Energy lost from Q to R through friction = Potential energy at P
+
+⇒ Kinetic energy at R = Potential energy at P - Potential energy at R - Energy lost from Q to R through friction
+
+⇒ Kinetic energy at R = 2000 - 1200 - 500 = 300 J
+
+Question 7(i)
+Draw a block and tackle system of pulleys with velocity ratio equal to 3.
+
+Answer
+
+The block and tackle system of pulleys with velocity ratio equal to 3 is shown below :
+
+The block and tackle system of pulleys with velocity ratio equal to 3 is shown below. ICSE 2025 Physics Solved Question Paper.
+Question 7(ii)
+A submarine in the sea, sends ultrasonic ping and a stopwatch is started simultaneously. The stopwatch stops on receiving the reflected wave from an obstacle and reads 1 minute 40 seconds. Calculate the distance of the obstacle from the submarine (Speed of sound in water 1500 ms-1)
+
+Answer
+
+Given,
+
+Time taken = 1 minute 40 seconds = 100 s
+
+Speed of sound = 1500 ms-1)
+
+So,
+
+Distance of the obstacle
+=
+Speed of sound
+×
+Time taken
+2
+=
+1500
+×
+100
+2
+=
+150000
+2
+=
+75000
+ m
+=
+75
+ km
+Distance of the obstacle= 
+2
+Speed of sound×Time taken
+​
+ 
+= 
+2
+1500×100
+​
+ = 
+2
+150000
+​
+ 
+=75000 m=75 km
+
+Question 7(iii)
+The diagrams given below show two sound boxes A and B with wires of same length (l) and tension (10 kgf) but different cross-sectional areas. Simultaneously, vibrating tuning forks of frequency 300 Hz are placed on the boxes A and B. The paper rider falls off in case of B but not in case of A.
+
+The diagrams given below show two sound boxes A and B with wires of same length (l) and tension (10 kgf) but different cross-sectional areas. Simultaneously, vibrating tuning forks of frequency 300 Hz are placed on the boxes A and B. The paper rider falls off in case of B but not in case of A.ICSE 2025 Physics Solved Question Paper.
+(a) Name and explain the phenomenon responsible for the falling off of the paper rider in B.
+
+(b) The wire A resonates with a tuning fork of frequency ‘f’. Is ‘f’ greater than, less than or equal to 300 Hz? Justify your answer.
+
+Answer
+
+(a) The phenomenon responsible for falling off the paper rider is resonance.
+Resonance is a special case of forced vibrations. When the frequency of the externally applied periodic force on a body is equal to its natural frequency, the body readily begins to vibrate with an increased amplitude. This phenomenon is known as resonance.
+
+(b) A thicker wire will vibrate at a lower resonant frequency than a thinner wire if the length, tension, and material are unchanged. This is because the thicker wire has greater mass per unit length, which lowers its natural frequency of vibration. Therefore, the frequency will be less than 300 Hz.
+
+Question 8(i)
+The diagram shows wiring in a meter room of a building.
+
+The diagram shows wiring in a meter room of a building. ICSE 2025 Physics Solved Question Paper.
+(a) What is the current rating of device X?
+
+(b) What is the difference between the switch Z shown in the diagram and the switches you use to operate different appliances at home?
+
+(c) What is the unit of the physical quantity displayed in Y?
+
+Answer
+
+(a) X is a company fuse or pole fuse. It does not have a fixed current rating. It depends on the load capacity of the connection.
+
+(b) Z can connect & disconnected live and neutral line simultaneously. But the switch which is used to operate domestic appliances connect & disconnected live line only.
+
+(c) Unit is kWh.
+
+Question 8(ii)
+Study the diagram given below and answer the questions that follow :
+
+Study the diagram given below and answer the questions that follow. ICSE 2025 Physics Solved Question Paper.
+(a) Name the process depicted in the diagram.
+
+(b) What is the value of X?
+
+(c) Identify Y, the missing product of the reaction.
+
+Answer
+
+(a) Nuclear fission.
+
+(b) X = 236
+
+(c) As, the mass number and atomic number is conserved in the reaction then
+
+From conservation of mass number
+
+Let, mass number of Y be y.
+
+mass number of neutron + mass number of 
+92
+235
+U
+92
+235
+​
+ U = 3 x mass number of Y + mass number of 
+36
+89
+Kr
+36
+89
+​
+ Kr + mass number of 
+56
+144
+Ba
+56
+144
+​
+ Ba
+
+1
++
+235
+=
+3
+×
+y
++
+89
++
+144
+⇒
+236
+=
+3
+y
++
+233
+⇒
+3
+y
+=
+236
+−
+233
+=
+3
+⇒
+y
+=
+3
+3
+=
+1
+1+235=3×y+89+144
+⇒236=3y+233
+⇒3y=236−233=3
+⇒y= 
+3
+3
+​
+ =1
+
+So, mass number of Y is 3.
+
+From conservation of atomic number
+
+Let, atomic number of Y be z.
+
+atomic number of neutron + atomic number of 
+92
+235
+U
+92
+235
+​
+ U = atomic number of Y + atomic number of 
+36
+89
+Kr
+36
+89
+​
+ Kr + atomic number of 
+56
+144
+Ba
+56
+144
+​
+ Ba
+
+⇒
+92
++
+0
+=
+z
++
+36
++
+56
+⇒
+92
+=
+z
++
+92
+⇒
+z
+=
+92
+−
+92
+=
+0
+⇒92+0=z+36+56
+⇒92=z+92
+⇒z=92−92=0
+
+As mass number of Y is 1 and it's atomic number is zero which is a property of a neutron.
+
+Hence, Y is a neutron.
+
+Question 8(iii)
+Three identical bulbs B1, B2 and B3 each of power rating 18 W, 12 V are connected to a battery of 12 V.
+
+Three identical bulbs B1, B2 and B3 each of power rating 18 W, 12 V are connected to a battery of 12 V. ICSE 2025 Physics Solved Question Paper.
+(a) Calculate :
+
+the resistance of each bulb
+the current drawn from the cell
+(b) If the bulb B3 is removed from the circuit, then will the brightness of the bulb B1 increase, decrease or remain the same?
+
+Answer
+
+Given,
+
+Battery emf (ε) = 12 V
+
+Voltage rating of eac bulb (V) = 12 V
+
+Power rating of eac bulb (P) = 18 W
+
+(a)
+
+Let resistance of each bulb be R.
+Then,
+
+P
+=
+V
+2
+R
+⇒
+R
+=
+V
+2
+P
+=
+12
+2
+18
+=
+144
+18
+⇒
+R
+=
+8
+ Ω
+P= 
+R
+V 
+2
+ 
+​
+ 
+⇒R= 
+P
+V 
+2
+ 
+​
+ = 
+18
+12 
+2
+ 
+​
+ = 
+18
+144
+​
+ 
+⇒R=8 Ω
+
+As, B2 and B3 are in parallel combination then
+1
+R
+P
+=
+1
+R
+1
++
+1
+R
+2
+R 
+P
+​
+ 
+1
+​
+ = 
+R 
+1
+​
+ 
+1
+​
+ + 
+R 
+2
+​
+ 
+1
+​
+ 
+
+Here, R1 = R2 = 8 Ω
+
+⇒
+1
+R
+P
+=
+1
+8
++
+1
+8
+=
+2
+8
+⇒
+R
+P
+=
+8
+2
+=
+4
+ Ω
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+8
+1
+​
+ + 
+8
+1
+​
+ = 
+8
+2
+​
+ 
+⇒R 
+P
+​
+ = 
+2
+8
+​
+ =4 Ω
+
+Now this combination is in series with B1 then
+
+RS = RP + R = 4 + 8 = 12 Ω
+
+So,
+
+Current drawn
+=
+Battery emf
+Total resistance
+=
+ε
+R
+S
+=
+12
+12
+=
+1
+ A
+Current drawn= 
+Total resistance
+Battery emf
+​
+ = 
+R 
+S
+​
+ 
+ε
+​
+ 
+= 
+12
+12
+​
+ =1 A
+
+Hence, current drawn from the battery is 1 A.
+
+(b) When B3 is removed, the circuit becomes :
+
+When B3 is removed, the circuit becomes : ICSE 2025 Physics Solved Question Paper.
+Now, the equivalent resistance = 8 + 8 = 16 Ω.
+
+Since, the resistance increases, current in the circuit decreases.
+
+Hence, brightness of B1 decreases.
+
+Question 9(i)
+30 g of ice at 0°C is used to bring down the temperature of a certain mass of water at 70°C to 20°C. Find the mass of water.
+
+[Specific heat capacity of water = 4.2 J g⁻¹ °C⁻¹ and specific latent heat of ice = 336 J g⁻¹]
+
+Answer
+
+Given,
+
+For ice
+
+Mass of ice (mi) = 30 g
+
+Initial temperature (Ti) = 0°C
+
+Final temperature (Tf) = 20°C
+
+Specific latent heat of ice (Li) = 336 J g⁻¹
+
+For water
+
+Initial temperature (Ti) = 70°C
+
+Final temperature (Tf) = 20°C
+
+Specific heat capacity of water (cw) = 4.2 J g⁻¹ °C⁻¹
+
+Let,
+
+Mass of water = (mw)
+
+Now,
+
+Heat lost by water = mwcw△t
+
+= mw × 4.2 × (70 - 20)
+
+= mw × 4.2 × 50 = 210mw
+
+Heat gained by ice = miLi + micw△t
+
+= 30 × 336 + 30 × 4.2 × (20-0)
+
+= 10080 + 2520 = 12600 J
+
+By principle of calorimetry,
+
+Heat lost by water = Heat gained by ice
+
+⟹ 210mw = 12600
+
+⟹ mw = 
+12600
+210
+210
+12600
+​
+  = 60 g
+
+So, the mass of required water is 60 g.
+
+Question 9(ii)
+(a) A certain amount of heat will warm 1 g of material X by 10°C and 1 g of material Y by 40°C. Which material has higher specific heat capacity?
+
+(b) Which material, X or Y, would you select to make a calorimeter?
+
+(c) The specific heat capacity of a substance remains the same when it changes its state from solid to liquid. State True or False.
+
+Answer
+
+(a) Given,
+
+Mass of X = mass of Y = m = 1 g
+
+Change in temperature of X (△tX) = 10°C
+
+Change in temperature of Y (△tY) = 40°C
+
+Let,
+
+Amount of heat = Q
+
+Specific heat capacity of X = cX
+
+Specific heat capacity of X = cY
+
+Now,
+
+For X,
+
+Q = m × cX × ΔtX = 1 × cX × 10 = 10cX
+
+For Y,
+
+Q = m × cY × ΔtY = 1 × cY × 40 = 40cY
+
+⟹ 10cX = 40cY
+
+⟹ cX = 4cY
+
+Hence, material X has higher specific heat capacity.
+
+(b) Material chosen for calorimeter should have low specific heat capacity. So, here Y material should be used to make a calorimeter.
+
+(c) False as the specific heat capacity of a substance does not remain the same when it changes state and it is phase dependant.
+
+Question 9(iii)
+A copper rod PQ carrying current is kept in a magnetic field as shown in the diagram.
+
+A copper rod PQ carrying current is kept in a magnetic field as shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+(a) The copper rod PQ will move towards C. State True or False.
+
+(b) Name the law used to determine the direction of motion of PQ.
+
+(c) What will be the effect on the force experienced, if the rod PQ is replaced by another copper rod of same length but of greater cross-sectional area?
+
+(d) Justify your answer in (c).
+
+Answer
+
+(a) The statement is true. as the magnetic field is upward to downward direction and the direction of current is from left to right so, the rod PQ will experience a force towards C. So, PQ will move towards C.
+
+(b) Fleming’s left hand rule.
+
+(c) If the replaced copper rod has same length but greater cross-sectional area then the resistance of this rod will be lower than the previous rod. So, the current through the new rod will be more than the previous one. Hence, the force experienced will also be more.
+
+(d) As force experienced is directly proportional to the applied current so if current increases, then force obviously increases.

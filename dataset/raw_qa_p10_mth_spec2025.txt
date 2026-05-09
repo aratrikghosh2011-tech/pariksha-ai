@@ -1,0 +1,4951 @@
+SECTION A
+Question 1(i)
+A polynomial in 'x' is divided by (x - a) and for (x - a) to be a factor of this polynomial, the remainder should be :
+
+-a
+
+0
+
+a
+
+2a
+
+Answer
+
+For (x - a) to be a factor of a polynomial, the remainder should be equal to zero.
+
+Hence, Option 2 is the correct option.
+
+Question 1(ii)
+Radha deposited ₹ 400 per month in a recurring deposit account for 18 months. The qualifying sum of money for the calculation of interest is :
+
+₹ 3600
+
+₹ 7200
+
+₹ 68,400
+
+₹ 1,36,800
+
+Answer
+
+Since, Radha deposits ₹ 400 per month in a recurring deposit account for 18 months, thus the amount deposited in first month will earn interest for 18 months, the amount deposited in second month will earn interest for 17 months and so on.
+
+Qualifying sum 
+=
+₹
+400
+×
+(
+18
++
+17
++
+16
++
+.
+.
+.
+.
+.
+.
+.
+.
++
+1
+)
+=
+₹
+400
+×
+18
+(
+18
++
+1
+)
+2
+=
+₹
+400
+×
+9
+×
+19
+=
+₹
+68
+,
+400.
+Qualifying sum =₹400×(18+17+16+........+1)
+=₹400× 
+2
+18(18+1)
+​
+ 
+=₹400×9×19
+=₹68,400.
+
+Hence, Option 3 is the correct option.
+
+Question 1(iii)
+In the adjoining figure, AC is a diameter of the circle, AP = 3 cm and PB = 4 cm and QP ⊥ AB. If the area of △ APQ is 18 cm2, then the area of shaded portion QPBC is :
+
+32 cm2
+
+49 cm2
+
+80 cm2
+
+98 cm2
+
+In the adjoining figure, AC is a diameter of the circle, AP = 3 cm and PB = 4 cm and QP ⊥ AB. If the area of △ APQ is 18 cm2, then the area of shaded portion QPBC is : ICSE 2025 Maths Solved Question Paper.
+Answer
+
+We know that,
+
+Angle in a semi-circle is a right angle.
+
+∴ ∠ABC = 90°.
+
+In △ APQ and △ ABC,
+
+⇒ ∠APQ = ∠ABC (Both equal to 90°)
+
+⇒ ∠PAQ = ∠BAC (Common angles)
+
+∴ △ APQ ~ △ ABC (By A.A. axiom)
+
+We know that,
+
+The ratio of area of similar triangles is equal to the ratio of the square of the corresponding sides.
+
+∴
+Area of △ APQ
+Area of △ ABC
+=
+A
+P
+2
+A
+B
+2
+⇒
+18
+Area of △ ABC
+=
+A
+P
+2
+A
+B
+2
+⇒
+Area of △ ABC
+=
+A
+B
+2
+A
+P
+2
+×
+18
+⇒
+Area of △ ABC
+=
+(
+3
++
+4
+)
+2
+3
+2
+×
+18
+⇒
+Area of △ ABC
+=
+7
+2
+3
+2
+×
+18
+⇒
+Area of △ ABC
+=
+49
+9
+×
+18
+=
+98
+ cm
+2
+.
+∴ 
+Area of △ ABC
+Area of △ APQ
+​
+ = 
+AB 
+2
+ 
+AP 
+2
+ 
+​
+ 
+⇒ 
+Area of △ ABC
+18
+​
+ = 
+AB 
+2
+ 
+AP 
+2
+ 
+​
+ 
+⇒Area of △ ABC= 
+AP 
+2
+ 
+AB 
+2
+ 
+​
+ ×18
+⇒Area of △ ABC= 
+3 
+2
+ 
+(3+4) 
+2
+ 
+​
+ ×18
+⇒Area of △ ABC= 
+3 
+2
+ 
+7 
+2
+ 
+​
+ ×18
+⇒Area of △ ABC= 
+9
+49
+​
+ ×18=98 cm 
+2
+ .
+
+From figure,
+
+Area of QPBC = Area of △ ABC - Area of △ APQ = 98 - 18 = 80 cm2.
+
+Hence, Option 3 is the correct option.
+
+Question 1(iv)
+In the adjoining diagram, O is the center of the circle and PT is a tangent. The value of x is :
+
+20°
+
+40°
+
+55°
+
+70°
+
+In the adjoining diagram, O is the center of the circle and PT is a tangent. The value of x is : ICSE 2025 Maths Solved Question Paper.
+Answer
+
+From figure,
+
+⇒ ∠QOT + ∠TOP = 180° (Linear Pair)
+
+⇒ 110° + ∠TOP = 180°
+
+⇒ ∠TOP = 180° - 110° = 70°.
+
+⇒ ∠OPT = 90° (Tangent is perpendicular to radius at point of intersection)
+
+In △ TOP,
+
+⇒ ∠OPT + ∠TOP + ∠PTO = 180°
+
+⇒ 90° + 70° + x°= 180°
+
+⇒ x° + 160° = 180°
+
+⇒ x° = 180° - 160° = 20°.
+
+Hence, Option 1 is the correct option.
+
+Question 1(v)
+In the adjoining diagram the length of PR is :
+
+3
+3
+3 
+3
+​
+  cm
+
+6
+3
+6 
+3
+​
+  cm
+
+9
+3
+9 
+3
+​
+  cm
+
+18 cm
+
+In the adjoining diagram the length of PR is : ICSE 2025 Maths Solved Question Paper.
+Answer
+
+From figure,
+
+⇒ sin 60° = 
+Q
+R
+P
+R
+PR
+QR
+​
+ 
+
+⇒ 
+3
+2
+=
+9
+P
+R
+2
+3
+​
+ 
+​
+ = 
+PR
+9
+​
+ 
+
+⇒ PR = 
+9
+×
+2
+3
+=
+3
+3
+×
+2
+=
+6
+3
+3
+​
+ 
+9×2
+​
+ =3 
+3
+​
+ ×2=6 
+3
+​
+  cm.
+
+Hence, Option 2 is the correct option.
+
+Question 1(vi)
+A solid sphere is cut into identical hemispheres.
+
+Statement 1 : The total volume of two hemispheres is equal to the volume of the original sphere.
+
+Statement 2 : The total surface area of two hemispheres together is equal to the surface area of the original sphere.
+
+Which of the following is valid ?
+
+Both the statements are true
+
+Both the statements are false
+
+Statement 1 is true, and statement 2 is false
+
+Statement 1 is false, and statement 2 is true
+
+Answer
+
+When a solid sphere is cut into identical hemispheres.
+
+Let radius of sphere be r.
+
+Volume of a sphere = 
+4
+3
+π
+r
+3
+3
+4
+​
+ πr 
+3
+ 
+
+Volume of hemisphere = 
+2
+3
+π
+r
+3
+3
+2
+​
+ πr 
+3
+ 
+
+Volume of 2 hemisphere = 
+2
+×
+2
+3
+π
+r
+3
+=
+4
+3
+π
+r
+3
+2× 
+3
+2
+​
+ πr 
+3
+ = 
+3
+4
+​
+ πr 
+3
+ .
+
+The total volume of two hemispheres is equal to the volume of the original sphere.
+
+Surface area of sphere = 4πr2
+
+Surface area of hemisphere = 3πr2
+
+Surface area of 2 hemisphere = 2 × 3πr2 = 6πr2.
+
+The surface area of two hemispheres is not equal to the surface area of the original sphere.
+
+Hence, Option 3 is the correct option.
+
+Question 1(vii)
+Given that the sum of the squares of the first seven natural numbers is 140, then their mean is :
+
+20
+
+70
+
+280
+
+980
+
+Answer
+
+Mean of the squares of the first seven natural numbers = 
+Total sum
+No. of terms
+=
+140
+7
+No. of terms
+Total sum
+​
+ = 
+7
+140
+​
+  = 20.
+
+Hence, Option 1 is the correct option.
+
+Question 1(viii)
+A bag contains 3 red and 2 blue marbles. A marble is drawn at random. The probability of drawing a black marble is :
+
+0
+
+1
+5
+5
+1
+​
+ 
+
+2
+5
+5
+2
+​
+ 
+
+3
+5
+5
+3
+​
+ 
+
+Answer
+
+Since, there is no black marble in the bag.
+
+∴ Probability of drawing a black marble = 0.
+
+Hence, Option 1 is the correct option.
+
+Question 1(ix)
+If 
+A
+=
+[
+3
+−
+2
+]
+ and 
+B
+=
+[
+−
+1
+4
+2
+0
+]
+A=[ 
+3
+​
+  
+−2
+​
+ ] and B=[ 
+−1
+2
+​
+  
+4
+0
+​
+ ]
+
+Assertion (A) : Product AB of the two matrices A and B is possible
+
+Reason (R) : Number of columns of matrix A is equal to number of rows in matrix B.
+
+A is true, R is false
+
+A is false, R is true
+
+Both A and R are true, and R is the correct reason for A
+
+Both A and R are true, and R is incorrect reason for A.
+
+Answer
+
+Order of matrix A = 1 × 2
+
+Order of matrix B = 2 × 2
+
+Since, no. of columns in A is equal to number of rows in B.
+
+∴ AB is possible.
+
+∴ Assertion (A) and Reason (R) is true.
+
+Hence, Option 3 is the correct option.
+
+Question 1(x)
+A mixture of paint is prepared by mixing 2 parts of red pigments with 5 parts of the base. Using the given information in the following table, find the values of a, b and c to get the required mixture of paint.
+
+Parts of red pigment	Parts of base
+2	5
+4	a
+b	12.5
+6	c
+a = 10, b = 10, c = 10
+
+a = 5, b = 2, c = 5
+
+a = 10, b = 5, c = 10
+
+a = 10, b = 5, c = 15
+
+Answer
+
+Given,
+
+2 parts of red pigments is mixed with 5 parts of the base.
+
+∴
+4
+a
+=
+2
+5
+⇒
+a
+=
+4
+×
+5
+2
+=
+20
+2
+=
+10.
+∴
+b
+12.5
+=
+2
+5
+⇒
+b
+=
+2
+5
+×
+12.5
+=
+2
+×
+2.5
+=
+5
+∴
+6
+c
+=
+2
+5
+⇒
+c
+=
+6
+×
+5
+2
+=
+3
+×
+5
+=
+15.
+∴ 
+a
+4
+​
+ = 
+5
+2
+​
+ 
+⇒a= 
+2
+4×5
+​
+ = 
+2
+20
+​
+ =10.
+∴ 
+12.5
+b
+​
+ = 
+5
+2
+​
+ 
+⇒b= 
+5
+2
+​
+ ×12.5=2×2.5=5
+∴ 
+c
+6
+​
+ = 
+5
+2
+​
+ 
+⇒c= 
+2
+6×5
+​
+ =3×5=15.
+
+Hence, Option 4 is the correct option.
+
+Question 1(xi)
+An article which is marked at ₹ 1200 is available at a discount of 20% and the rate of GST is 18%. The amount of SGST is :
+
+₹ 216.00
+
+₹ 172.80
+
+₹ 108.00
+
+₹ 86.40
+
+Answer
+
+M.P. = ₹ 1200
+
+Discount = 20% = 
+20
+100
+×
+1200
+100
+20
+​
+ ×1200 = ₹ 240
+
+Price after discount = ₹ 1200 - ₹ 240 = ₹ 960.
+
+GST = 18%
+
+SGST = 
+G
+S
+T
+2
+=
+18
+2
+2
+GST
+​
+ = 
+2
+18
+​
+  % = 9%
+
+= 
+9
+100
+×
+960
+100
+9
+​
+ ×960
+
+= 9 × 9.6
+
+= ₹ 86.40
+
+Hence, Option 4 is the correct option.
+
+Question 1(xii)
+The sum of money required to buy 50, ₹ 40 shares at ₹ 38.50 is :
+
+₹ 1920
+
+₹ 1924
+
+₹ 1925
+
+₹ 1952
+
+Answer
+
+M.V. of share = ₹ 38.50
+
+No of shares bought = 50
+
+Money required = ₹ 38.50 × 50 = ₹ 1925.
+
+Hence, Option 3 is the correct option.
+
+Question 1(xiii)
+The roots of quadratic equation x2 - 1 = 0 are :
+
+0
+
+1
+
+-1
+
+±1
+
+Answer
+
+Solving,
+
+⇒ x2 - 1 = 0
+
+⇒ (x + 1)(x - 1) = 0
+
+⇒ x + 1 = 0 or x - 1 = 0
+
+⇒ x = -1 or x = 1.
+
+Hence, Option 4 is the correct option.
+
+Question 1(xiv)
+Which of the following equation represents a line equally inclined to the axes ?
+
+2x - 3y + 7 = 0
+
+x - y = 7
+
+x = 7
+
+y = -7
+
+Answer
+
+Equation :
+
+⇒ x - y = 7
+
+⇒ y = x - 7
+
+Comparing above equation with y = mx + c, we get :
+
+m = 1.
+
+A line is equally inclined to the axes if slope = 1.
+
+Hence, Option 2 is the correct option.
+
+Question 1(xv)
+Given, x + 2 ≤ 
+x
+3
++
+3
+3
+x
+​
+ +3 and x is a prime number. The solution set for x is :
+
+∅
+
+{0}
+
+{1}
+
+{0, 1}
+
+Answer
+
+Solving the given equation :
+
+⇒
+x
++
+2
+≤
+x
+3
++
+3
+⇒
+x
+−
+x
+3
+≤
+3
+−
+2
+⇒
+3
+x
+−
+x
+3
+≤
+1
+⇒
+2
+x
+3
+≤
+1
+⇒
+x
+≤
+3
+2
+⇒
+x
+≤
+1.5
+⇒x+2≤ 
+3
+x
+​
+ +3
+⇒x− 
+3
+x
+​
+ ≤3−2
+⇒ 
+3
+3x−x
+​
+ ≤1
+⇒ 
+3
+2x
+​
+ ≤1
+⇒x≤ 
+2
+3
+​
+ 
+⇒x≤1.5
+
+Since, x is a prime number less than 1.5
+
+Solution set is empty.
+
+Hence, Option 1 is the correct option.
+
+Question 2(i)
+While factorizing a given polynomial, using remainder and factor theorem, a student finds that (2x + 1) is a factor of 2x3 + 7x2 + 2x - 3.
+
+(a) Is the student's solution correct stating that (2x + 1) is a factor of the given polynomial ?
+
+(b) Given a valid reason for your answer.
+
+Also, factorize the given polynomial completely.
+
+Answer
+
+⇒ 2x + 1 = 0
+
+⇒ 2x = -1
+
+⇒ x = 
+−
+1
+2
+− 
+2
+1
+​
+ 
+
+Substituting x = 
+−
+1
+2
+− 
+2
+1
+​
+  in 2x3 + 7x2 + 2x - 3, we get :
+
+⇒
+2
+×
+(
+−
+1
+2
+)
+3
++
+7
+×
+(
+−
+1
+2
+)
+2
++
+2
+×
+(
+−
+1
+2
+)
+−
+3
+⇒
+2
+×
+−
+1
+8
++
+7
+×
+1
+4
++
+(
+−
+1
+)
+−
+3
+⇒
+−
+1
+4
++
+7
+4
+−
+4
+⇒
+−
+1
++
+7
+4
+−
+4
+⇒
+6
+4
+−
+4
+⇒
+6
+−
+16
+4
+⇒
+−
+10
+4
+⇒
+−
+5
+2
+.
+⇒2×(− 
+2
+1
+​
+ ) 
+3
+ +7×(− 
+2
+1
+​
+ ) 
+2
+ +2×(− 
+2
+1
+​
+ )−3
+⇒2×− 
+8
+1
+​
+ +7× 
+4
+1
+​
+ +(−1)−3
+⇒− 
+4
+1
+​
+ + 
+4
+7
+​
+ −4
+⇒ 
+4
+−1+7
+​
+ −4
+⇒ 
+4
+6
+​
+ −4
+⇒ 
+4
+6−16
+​
+ 
+⇒ 
+4
+−10
+​
+ 
+⇒− 
+2
+5
+​
+ .
+
+Since, remainder is not equal to zero.
+
+Hence, (2x + 1) is not a factor of the given polynomial.
+
+Substituting x = 
+1
+2
+2
+1
+​
+  in 2x3 + 7x2 + 2x - 3, we get :
+
+⇒
+2
+×
+(
+1
+2
+)
+3
++
+7
+×
+(
+1
+2
+)
+2
++
+2
+×
+1
+2
+−
+3
+⇒
+2
+×
+1
+8
++
+7
+×
+1
+4
++
+1
+−
+3
+⇒
+1
+4
++
+7
+4
+−
+2
+⇒
+8
+4
+−
+2
+⇒
+2
+−
+2
+⇒
+0.
+⇒2×( 
+2
+1
+​
+ ) 
+3
+ +7×( 
+2
+1
+​
+ ) 
+2
+ +2× 
+2
+1
+​
+ −3
+⇒2× 
+8
+1
+​
+ +7× 
+4
+1
+​
+ +1−3
+⇒ 
+4
+1
+​
+ + 
+4
+7
+​
+ −2
+⇒ 
+4
+8
+​
+ −2
+⇒2−2
+⇒0.
+
+Since, remainder is equal to zero.
+
+∴ x - 
+1
+2
+2
+1
+​
+  is factor of polynomial,
+
+⇒ x - 
+1
+2
+2
+1
+​
+  = 0
+
+⇒ x = 
+1
+2
+2
+1
+​
+ 
+
+⇒ 2x = 1
+
+⇒ 2x - 1 is factor of polynomial.
+
+Dividing 2x3 + 7x2 + 2x - 3 by 2x - 1, we get :
+
+2
+x
+−
+1
+)
+‾
++
+−
+2
+x
+3
+−
++
+x
+2
+‾
+8
+x
+2
++
+2
+x
++
+−
+8
+x
+2
+−
++
+4
+x
+‾
+6
+x
+−
+3
++
+−
+6
+x
+−
++
+3
+‾
+×
+2x−1)x 
+2
+ +4x+3
+2x−1 
+)
+ 2x 
+3
+ +7x 
+2
+ +2x−3
+​
+ 
+2x−1)) 
+−
++
+​
+ 2x 
+3
+  
++
+−
+​
+ x 
+2
+ 
+​
+ 
+2x−1+2x 
+3
+ +18x 
+2
+ +2x
+2x−1)+2x 
+3
+ 1 
+−
++
+​
+ 8x 
+2
+  
++
+−
+​
+ 4x
+​
+ 
+2x−1)+2x 
+3
+ 1+8x 
+2
+ 126x−3
+2x−1)+2x 
+3
+ 1+8x 
+2
+ 1 
+−
++
+​
+ 6x 
++
+−
+​
+ 3
+​
+ 
+2x−1)+2x 
+3
+ 1+8x 
+2
+ 1+6×
+​
+ 
+
+2x3 + 7x2 + 2x - 3 by 2x - 1 = (2x - 1)(x2 + 4x + 3)
+
+= (2x - 1)[x2 + 3x + x + 3]
+
+= (2x - 1)[x(x + 3) + 1(x + 3)]
+
+= (2x - 1)(x + 1)(x + 3).
+
+Hence, 2x3 + 7x2 + 2x - 3 = (2x - 1)(x + 1)(x + 3).
+
+Question 2(ii)
+A line segment joining P (2, -3) and Q (0, -1) is cut by the x-axis at the point R. A line AB cuts the y-axis at T(0, 6) and is perpendicular to PQ at S. Find the :
+
+(a) equation of line PQ
+
+(b) equation of line AB
+
+(c) coordinates of points R and S.
+
+Answer
+
+(a) By formula,
+
+Slope of line = 
+(
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+)
+( 
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ )
+
+Substituting values we get :
+
+Slope of line PQ
+=
+(
+−
+1
+−
+(
+−
+3
+)
+0
+−
+2
+)
+=
+−
+1
++
+3
+−
+2
+=
+2
+−
+2
+=
+−
+1.
+Slope of line PQ=( 
+0−2
+−1−(−3)
+​
+ )
+= 
+−2
+−1+3
+​
+ 
+= 
+−2
+2
+​
+ 
+=−1.
+
+Equation of line :
+
+⇒ y - y1 = m(x - x1)
+
+⇒ y - (-3) = -1(x - 2)
+
+⇒ y + 3 = -x + 2
+
+⇒ x + y + 3 - 2 = 0
+
+⇒ x + y + 1 = 0.
+
+Hence, equation of line PQ is x + y + 1 = 0.
+
+(b) We know that,
+
+Product of slope of perpendicular lines = -1.
+
+∴ Slope of PQ × Slope of AB = -1
+
+⇒ -1 × Slope of AB = -1
+
+⇒ Slope of AB = 
+−
+1
+−
+1
+−1
+−1
+​
+  = 1.
+
+Equation of line :
+
+⇒ y - y1 = m(x - x1)
+
+Equation of line AB :
+
+⇒ y - 6 = 1(x - 0)
+
+⇒ y - 6 = x
+
+⇒ x - y + 6 = 0
+
+Hence, equation of line AB is x - y + 6 = 0.
+
+(c) Given,
+
+Line PQ cuts x-axis at point R.
+
+Let R = (a, 0)
+
+Equation of line PQ = x + y + 1 = 0
+
+Since, point R lies on line PQ,
+
+⇒ a + 0 + 1 = 0
+
+⇒ a + 1 = 0
+
+⇒ a = -1.
+
+R = (a, 0) = (-1, 0)
+
+Given,
+
+AB is perpendicular to PQ at point S.
+
+∴ Point S is the intersection point of AB and PQ.
+
+PQ : x + y + 1 = 0
+
+AB : y - x = 6 or y = x + 6
+
+Substituting value of y from equation AB in equation PQ, we get :
+
+⇒ x + (x + 6) + 1 = 0
+
+⇒ 2x + 7 = 0
+
+⇒ 2x = -7
+
+⇒ x = 
+−
+7
+2
+− 
+2
+7
+​
+ 
+
+Substituting value of x in equation AB, we get :
+
+y = 
+−
+7
+2
++
+6
+=
+−
+7
++
+12
+2
+=
+5
+2
+− 
+2
+7
+​
+ +6= 
+2
+−7+12
+​
+ = 
+2
+5
+​
+ .
+
+S = 
+(
+−
+7
+2
+,
+5
+2
+)
+(− 
+2
+7
+​
+ , 
+2
+5
+​
+ ).
+
+Hence, coordinates of R = (-1, 0) and S = 
+(
+−
+7
+2
+,
+5
+2
+)
+(− 
+2
+7
+​
+ , 
+2
+5
+​
+ ).
+
+Question 2(iii)
+In the given figure AC is the diameter of the circle with center O. CD is parallel to BE.
+
+∠AOB = 80° and ∠ACE = 20°. Calculate :
+
+(a) ∠BEC
+
+(b) ∠BCD
+
+(c) ∠CED
+
+In the given figure AC is the diameter of the circle with center O. CD is parallel to BE. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) Join AE.
+
+In the given figure AC is the diameter of the circle with center O. CD is parallel to BE. ICSE 2025 Maths Solved Question Paper.
+We know that,
+
+The angle subtended by a chord at the centre is twice the angle subtended on the circumference.
+
+∴ ∠AOB = 2∠AEB
+
+⇒ 80° = 2∠AEB
+
+⇒ ∠AEB = 
+80
+°
+2
+2
+80°
+​
+  = 40°.
+
+We know that,
+
+Angle in a semi-circle is a right angle.
+
+⇒ ∠AEC = 90°
+
+From figure,
+
+⇒ ∠BEC = ∠AEC - ∠AEB = 90° - 40° = 50°.
+
+Hence, ∠BEC = 50°.
+
+(b) From figure,
+
+⇒ ∠ECD = ∠CEB = 50° (Alternate angles are equal)
+
+We know that,
+
+The angle subtended by a chord at the centre is twice the angle subtended on the circumference.
+
+⇒ ∠AOB = 2∠BCA
+
+⇒ 80° = 2∠BCA
+
+⇒ ∠BCA = 
+80
+2
+2
+80
+​
+  = 40°.
+
+From figure,
+
+⇒ ∠BCD = ∠BCA + ∠ACE + ∠ECD = 40° + 20° + 50° = 110°.
+
+Hence, ∠BCD = 110°.
+
+(c) As sum of opposite angles of cyclic quadrilateral = 180°.
+
+⇒ ∠BED + ∠BCD = 180°
+
+⇒ ∠BED = 180° - ∠BCD = 180° - 110° = 70°.
+
+From figure,
+
+⇒ ∠BED = ∠BEC + ∠CED
+
+⇒ 70° = 50° + ∠CED
+
+⇒ ∠CED = 70° - 50° = 20°.
+
+Hence, ∠CED = 20°.
+
+Question 3(i)
+In a Geometric Progression (G.P.) the first term is 24 and the fifth term is 8. Find the ninth term of the G.P.
+
+Answer
+
+Let first term of G.P. be a and common ratio be r.
+
+Given,
+
+First term (a) = 24
+
+Fifth term (ar4) = 8
+
+⇒
+a
+r
+4
+a
+=
+8
+24
+⇒
+r
+4
+=
+1
+3
+⇒
+(
+r
+4
+)
+2
+=
+(
+1
+3
+)
+2
+⇒
+r
+8
+=
+1
+9
+.
+⇒ 
+a
+ar 
+4
+ 
+​
+ = 
+24
+8
+​
+ 
+⇒r 
+4
+ = 
+3
+1
+​
+ ⇒(r 
+4
+ ) 
+2
+ =( 
+3
+1
+​
+ ) 
+2
+ 
+⇒r 
+8
+ = 
+9
+1
+​
+ .
+
+By formula,
+
+Ninth term of G.P. (a9) = ar8
+
+= 
+24
+×
+1
+9
+=
+8
+3
+24× 
+9
+1
+​
+ = 
+3
+8
+​
+ .
+
+Hence, ninth term of G.P. = 
+8
+3
+3
+8
+​
+ .
+
+Question 3(ii)
+In the adjoining diagram, a tilted right circular cylindrical vessel with base diameter 7 cm contains a liquid. When placed vertically, the height of the liquid in the vessel is the mean of two heights shown in the diagram. Find the area of wet surface, when the cylinder is placed vertically on a horizontal surface. (Use 
+π
+=
+22
+7
+π= 
+7
+22
+​
+  )
+
+In the adjoining diagram, a tilted right circular cylindrical vessel with base diameter 7 cm contains a liquid. When placed vertically, the height of the liquid in the vessel is the mean of two heights shown in the diagram. Find the area of wet surface, when the cylinder is placed vertically on a horizontal surface. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+When vertically placed,
+
+Height of liquid (h) = 
+1
++
+6
+2
+=
+7
+2
+2
+1+6
+​
+ = 
+2
+7
+​
+  cm
+
+Diameter of base = 7 cm
+
+Radius (r) = 
+7
+2
+2
+7
+​
+  cm
+
+Area of wet surface
+=
+π
+r
+2
++
+2
+π
+r
+h
+=
+π
+r
+(
+r
++
+2
+h
+)
+=
+22
+7
+×
+7
+2
+(
+7
+2
++
+2
+×
+7
+2
+)
+=
+11
+×
+(
+3.5
++
+7
+)
+=
+11
+×
+10.5
+=
+115.5
+ cm
+2
+.
+Area of wet surface=πr 
+2
+ +2πrh
+=πr(r+2h)
+= 
+7
+22
+​
+ × 
+2
+7
+​
+ ( 
+2
+7
+​
+ +2× 
+2
+7
+​
+ )
+=11×(3.5+7)
+=11×10.5
+=115.5 cm 
+2
+ .
+
+Hence, area of wet surface = 115.5 cm2.
+
+Question 3(iii)
+Study the graph and answer each of the following :
+
+(a) Write the coordinates of points A, B, C and D.
+
+(b) Given that, point C is the image of point A. Name and write the equation of the line of reflection.
+
+(c) Write the coordinates of the image of the point D under reflection in y-axis.
+
+(d) What is the name given to a point whose image is the point itself ?
+
+(e) On joining the points A, B, C, D and A in order, a figure is formed. Name the closed figure.
+
+Study the graph and answer each of the following : ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) From graph,
+
+Coordinates of A = (3, 3), B = (-2, 1), C = (3, -1) and D = (0, 1).
+
+Study the graph and answer each of the following : ICSE 2025 Maths Solved Question Paper.
+(b) From graph,
+
+C is the image of point A in the line y = 1.
+
+Hence, the line is BD and its equation is y = 1.
+
+(c) Since, point D lies on y-axis, thus it is invariant under reflection in y-axis.
+
+Hence, coordinates of point D on reflection in y-axis is (0, 1).
+
+(d) A point whose image is the point itself is called invariant point.
+
+(e) On joining the points A, B, C, D and A in order the figure formed is a concave quadrilateral or arrowhead.
+
+SECTION B
+
+Question 4(i)
+A man buys 250, ten-rupee shares each at ₹12.50. If the rate of dividend is 7%, find the :
+
+(a) dividend he receives annually.
+
+(b) percentage return on his investment.
+
+Answer
+
+(a) Nominal Value of 1 share = ₹10
+
+Market Value of 1 share = ₹12.50
+
+Number of shares purchased = 250
+
+Nominal Value of 250 shares = 250 x 10 = ₹2500
+
+Rate of dividend = 7%
+
+∴ Dividend received = 7% of 2500
+
+= 
+7
+100
+×
+2500
+100
+7
+​
+ ×2500
+
+= ₹175.
+
+Hence, annual dividend = ₹175.
+
+(b) Amount Invested = No. of shares x Market Value
+
+= 250 x 12.50
+
+= ₹3125
+
+Return percentage 
+=
+Dividend received
+Investment
+×
+100
+=
+175
+3125
+×
+100
+=
+17500
+3125
+=
+5.6
+Return percentage = 
+Investment
+Dividend received
+​
+ ×100
+= 
+3125
+175
+​
+ ×100
+= 
+3125
+17500
+​
+ 
+=5.6
+
+Hence, return percentage = 5.6%.
+
+Question 4(ii)
+Solve the following inequation, write the solution set and represent it on the real number line.
+
+5x - 21 < 
+5
+x
+7
+−
+6
+≤
+−
+3
+3
+7
++
+x
+7
+5x
+​
+ −6≤−3 
+7
+3
+​
+ +x, x ∈ R.
+
+Answer
+
+Given, inequation : 5x - 21 < 
+5
+x
+7
+−
+6
+≤
+−
+3
+3
+7
++
+x
+7
+5x
+​
+ −6≤−3 
+7
+3
+​
+ +x
+
+Solving L.H.S. of the inequation :
+
+⇒
+5
+x
+−
+21
+<
+5
+x
+7
+−
+6
+⇒
+5
+x
+−
+5
+x
+7
+<
+21
+−
+6
+⇒
+35
+x
+−
+5
+x
+7
+<
+15
+⇒
+30
+x
+7
+<
+15
+⇒
+x
+<
+7
+×
+15
+30
+⇒
+x
+<
+7
+2
+ ..........(1)
+⇒5x−21< 
+7
+5x
+​
+ −6
+⇒5x− 
+7
+5x
+​
+ <21−6
+⇒ 
+7
+35x−5x
+​
+ <15
+⇒ 
+7
+30x
+​
+ <15
+⇒x< 
+30
+7×15
+​
+ 
+⇒x< 
+2
+7
+​
+  ..........(1)
+
+Solving R.H.S. of the inequation :
+
+⇒
+5
+x
+7
+−
+6
+≤
+−
+3
+3
+7
++
+x
+⇒
+5
+x
+7
+−
+6
+≤
+−
+24
+7
++
+x
+⇒
+x
+−
+5
+x
+7
+≥
+−
+6
++
+24
+7
+⇒
+7
+x
+−
+5
+x
+7
+≥
+−
+42
++
+24
+7
+⇒
+2
+x
+7
+≥
+−
+18
+7
+⇒
+2
+x
+≥
+−
+18
+⇒
+x
+≥
+−
+18
+2
+⇒
+x
+≥
+−
+9
+ ..........(2)
+⇒ 
+7
+5x
+​
+ −6≤−3 
+7
+3
+​
+ +x
+⇒ 
+7
+5x
+​
+ −6≤− 
+7
+24
+​
+ +x
+⇒x− 
+7
+5x
+​
+ ≥−6+ 
+7
+24
+​
+ 
+⇒ 
+7
+7x−5x
+​
+ ≥ 
+7
+−42+24
+​
+ 
+⇒ 
+7
+2x
+​
+ ≥ 
+7
+−18
+​
+ 
+⇒2x≥−18
+⇒x≥ 
+2
+−18
+​
+ 
+⇒x≥−9 ..........(2)
+
+From equation (1) and (2),
+
+Solution set = {x : -9 ≤ x < 
+7
+2
+2
+7
+​
+ , x ∈ R}
+
+Solve the following inequation, write the solution set and represent it on the real number line. ICSE 2025 Maths Solved Question Paper.
+Hence, solution set = {x : -9 ≤ x < 
+7
+2
+2
+7
+​
+ , x ∈ R}.
+
+Question 4(iii)
+Prove the following trigonometry identity :
+
+(sin θ + cos θ)(cosec θ - sec θ) = cosec θ.sec θ - 2 tan θ
+
+Answer
+
+Solving,
+
+(sin θ + cos θ)(cosec θ - sec θ)
+⇒
+(sin θ + cos θ)
+×
+(
+1
+sin θ
+−
+1
+cos θ
+)
+⇒
+(sin θ + cos θ)
+×
+(
+cos θ - sin θ
+sin θ cos θ
+)
+⇒
+cos
+2
+θ
+−
+sin
+2
+θ
+sin θ. cos θ
+⇒
+1 - 2 sin
+2
+ θ
+sin θ.cos θ
+⇒(sin θ + cos θ)(cosec θ - sec θ)
+⇒(sin θ + cos θ)×( 
+sin θ
+1
+​
+ − 
+cos θ
+1
+​
+ )
+⇒(sin θ + cos θ)×( 
+sin θ cos θ
+cos θ - sin θ
+​
+ )
+⇒ 
+sin θ. cos θ
+cos 
+2
+ θ−sin 
+2
+ θ
+​
+ 
+⇒ 
+sin θ.cos θ
+1 - 2 sin 
+2
+  θ
+​
+ [∵cos 
+2
+  θ=1−sin 
+2
+  θ]
+⇒ 
+sin θ.cos θ
+1
+​
+ − 
+sin θ.cos θ
+2 sin 
+2
+  θ
+​
+ 
+⇒cosec θ.sec θ− 
+sin θ.cos θ
+2 sin 
+2
+  θ
+​
+ 
+⇒cosec θ.sec θ - 2 tan θ.
+
+Hence, proved that (sin θ + cos θ)(cosec θ - sec θ) = cosec θ.sec θ - 2 tan θ.
+
+Question 5(i)
+In the given figure (drawn not to scale) chords AD and BC intersect at P, where AB = 9 cm, PB = 3 cm and PD = 2 cm.
+
+(a) Prove that △ APB ~ △ CPD
+
+(b) Find the length of CD
+
+(c) Find area △ APB : area △ CPD.
+
+In the given figure (drawn not to scale) chords AD and BC intersect at P, where AB = 9 cm, PB = 3 cm and PD = 2 cm. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) In △ APB and △ CPD,
+
+⇒ ∠APB = ∠CPD (Vertically opposite angles are equal)
+
+⇒ ∠BAP = ∠DCP (Angles in same segment are equal)
+
+∴ △ APB ~ △ CPD (By A.A. axiom)
+
+Hence, proved that △ APB ~ △ CPD.
+
+(b) We know that,
+
+Corresponding sides of similar triangles are proportional.
+
+∴
+C
+D
+A
+B
+=
+P
+D
+P
+B
+⇒
+C
+D
+9
+=
+2
+3
+⇒
+C
+D
+=
+9
+×
+2
+3
+⇒
+C
+D
+=
+6
+ cm
+.
+∴ 
+AB
+CD
+​
+ = 
+PB
+PD
+​
+ 
+⇒ 
+9
+CD
+​
+ = 
+3
+2
+​
+ 
+⇒CD=9× 
+3
+2
+​
+ 
+⇒CD=6 cm.
+
+Hence, CD = 6 cm.
+
+(c) We know that,
+
+Ratio of area of similar triangles is equal to the ratio of square of the corresponding sides.
+
+∴
+Area of △APB
+Area of △CPD
+=
+P
+B
+2
+P
+D
+2
+=
+3
+2
+2
+2
+=
+9
+4
+=
+9
+:
+4.
+∴ 
+Area of △CPD
+Area of △APB
+​
+ = 
+PD 
+2
+ 
+PB 
+2
+ 
+​
+ 
+= 
+2 
+2
+ 
+3 
+2
+ 
+​
+ 
+= 
+4
+9
+​
+ 
+=9:4.
+
+Hence, area △ APB : area △ CPD = 9 : 4.
+
+Question 5(ii)
+Mr. Sameer has a recurring deposit account and deposits ₹ 600 per month for 2 years. If he gets ₹ 15600 at the time of maturity, find the rate of interest earned by him.
+
+Answer
+
+Let rate of interest be r%.
+
+Given,
+
+P = ₹ 600/month
+
+n = 2 years or 24 months
+
+M.V. = ₹ 15600
+
+By formula,
+
+M.V. = 
+P
+×
+n
++
+P
+×
+n
+(
+n
++
+1
+)
+2
+×
+12
+×
+r
+100
+P×n+P× 
+2×12
+n(n+1)
+​
+ × 
+100
+r
+​
+ 
+
+Substituting values we get :
+
+⇒
+15600
+=
+600
+×
+24
++
+600
+×
+24
+×
+(
+24
++
+1
+)
+2
+×
+12
+×
+r
+100
+⇒
+15600
+=
+14400
++
+6
+×
+25
+×
+r
+⇒
+15600
+−
+14400
+=
+6
+×
+25
+×
+r
+⇒
+150
+r
+=
+1200
+⇒
+r
+=
+1200
+150
+=
+8
+⇒15600=600×24+600× 
+2×12
+24×(24+1)
+​
+ × 
+100
+r
+​
+ 
+⇒15600=14400+6×25×r
+⇒15600−14400=6×25×r
+⇒150r=1200
+⇒r= 
+150
+1200
+​
+ =8
+
+Hence, rate of interest = 8%.
+
+Question 5(iii)
+Using step-deviation method, find mean for the following frequency distribution
+
+Class	Frequency
+0-15	3
+15-30	4
+30-45	7
+45-60	6
+60-75	8
+75-90	2
+Answer
+
+In the given table i is the class interval which is equal to 15.
+
+Class	Class mark (x)	d = (x - A)	u = d/i	Frequency (f)	fu
+0-15	7.5	-45	-3	3	-9
+15-30	22.5	-30	-2	4	-8
+30-45	37.5	-15	-1	7	-7
+45-60	A = 52.5	0	0	6	0
+60-75	67.5	15	1	8	8
+75-90	82.5	30	2	2	4
+Total				Σf = 30	Σfu = -12
+Mean = A + 
+Σ
+f
+u
+Σ
+f
+×
+i
+=
+52.5
++
+−
+12
+30
+×
+15
+Σf
+Σfu
+​
+ ×i=52.5+ 
+30
+−12
+​
+ ×15
+
+= 
+52.5
+−
+180
+30
+52.5− 
+30
+180
+​
+ 
+
+= 52.5 - 6
+
+= 46.50
+
+Hence, mean = 46.50
+
+Question 6(i)
+Find the coordinates of the centroid P of the △ ABC, whose vertices are A(-1, 3), B(3, -1) and C(0, 0). Hence, find the equation of a line passing through P and parallel to AB.
+
+Answer
+
+By formula,
+
+Centroid of triangle = 
+(
+x
+1
++
+x
+2
++
+x
+3
+3
+,
+y
+1
++
+y
+2
++
+y
+3
+3
+)
+( 
+3
+x 
+1
+​
+ +x 
+2
+​
+ +x 
+3
+​
+ 
+​
+ , 
+3
+y 
+1
+​
+ +y 
+2
+​
+ +y 
+3
+​
+ 
+​
+ )
+
+Substituting values we get :
+
+⇒
+Centroid of △ ABC
+=
+(
+−
+1
++
+3
++
+0
+3
+,
+3
++
+(
+−
+1
+)
++
+0
+3
+)
+⇒
+P
+=
+(
+2
+3
+,
+2
+3
+)
+.
+⇒Centroid of △ ABC=( 
+3
+−1+3+0
+​
+ , 
+3
+3+(−1)+0
+​
+ )
+⇒P=( 
+3
+2
+​
+ , 
+3
+2
+​
+ ).
+
+By formula,
+
+Slope = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+Slope of AB
+=
+−
+1
+−
+3
+3
+−
+(
+−
+1
+)
+=
+−
+4
+4
+=
+−
+1.
+Slope of AB= 
+3−(−1)
+−1−3
+​
+ 
+= 
+4
+−4
+​
+ 
+=−1.
+
+We know that,
+
+Slope of parallel lines are equal.
+
+By point-slope form,
+
+Equation of line : y - y1 = m(x - x1)
+
+Substituting values we get :
+
+Equation of line passing through P and parallel to AB :
+
+⇒
+y
+−
+2
+3
+=
+−
+1
+(
+x
+−
+2
+3
+)
+⇒
+3
+y
+−
+2
+3
+=
+−
+1
+×
+3
+x
+−
+2
+3
+⇒
+3
+y
+−
+2
+=
+−
+1
+(
+3
+x
+−
+2
+)
+⇒
+3
+y
+−
+2
+=
+−
+3
+x
++
+2
+⇒
+3
+y
++
+3
+x
+=
+2
++
+2
+⇒
+3
+y
++
+3
+x
+=
+4.
+⇒y− 
+3
+2
+​
+ =−1(x− 
+3
+2
+​
+ )
+⇒ 
+3
+3y−2
+​
+ =−1× 
+3
+3x−2
+​
+ 
+⇒3y−2=−1(3x−2)
+⇒3y−2=−3x+2
+⇒3y+3x=2+2
+⇒3y+3x=4.
+
+Hence, required equation is 3x + 3y = 4.
+
+Question 6(ii)
+In the given figure PT is a tangent to the circle. Chord BA produced meets the tangent PT at P. Given PT = 20 cm and PA = 16 cm.
+
+(a) Prove △ PTB ~ △ PAT
+
+(b) Find the length of AB.
+
+In the given figure PT is a tangent to the circle. Chord BA produced meets the tangent PT at P. Given PT = 20 cm and PA = 16 cm. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) In △ PTB and △ PAT,
+
+⇒ ∠PTA = ∠PBT (Alternate segment theorem)
+
+⇒ ∠TPA = ∠BPT (Common angle)
+
+∴ △ PTB ~ △ PAT (By A.A. axiom)
+
+Hence, proved that △ PTB ~ △ PAT.
+
+(b) We know that,
+
+If a chord and a tangent intersect externally, then the product of the lengths of segments of the chord is equal to the square of the length of the tangent from the point of contact to the point of intersection.
+
+⇒ PA × PB = PT2
+
+⇒ PA × (PA + AB) = PT2
+
+⇒ 16 × (16 + AB) = 202
+
+⇒ 16 × (16 + AB) = 400
+
+⇒ 16 + AB = 25
+
+⇒ AB = 25 - 16 = 9 cm.
+
+Hence, AB = 9 cm.
+
+Question 6(iii)
+The following bill shows the GST rate and the marked price of articles :
+
+Rajdhani Departmental Store
+
+S.No.	Item	Marked price	Discount	Rate of GST
+(a)	Dry fruits (1 kg)	₹ 1200	₹ 100	12%
+(b)	Packed Wheat Flour (5 kg)	₹ 286	Nil	5%
+(c)	Bakery Products	₹ 500	10%	12%
+Find the total amount to be paid (including GST) for the above bill.
+
+Answer
+
+For Dry fruits :
+
+M.P. = ₹ 1200
+
+Discount = ₹ 100
+
+Discounted price = ₹ 1200 - ₹ 100 = ₹ 1100
+
+GST = 12%
+
+Tax = 
+12
+100
+×
+1100
+100
+12
+​
+ ×1100 = ₹ 132
+
+Price including tax = ₹ 1100 + ₹ 132 = ₹ 1232.
+
+For Wheat flour :
+
+M.P. = ₹ 286
+
+Discount = Nil
+
+GST = 5%
+
+Tax = 
+5
+100
+×
+286
+100
+5
+​
+ ×286 = ₹ 14.30
+
+Price including tax = ₹ 286 + ₹ 14.30 = 300.30
+
+For bakery products :
+
+M.P. = ₹ 500
+
+Discount = 10% = 
+10
+100
+×
+500
+100
+10
+​
+ ×500 = ₹ 50.
+
+Discounted price = ₹ 500 - ₹ 50 = ₹ 450
+
+GST = 12%
+
+Tax = 
+12
+100
+×
+450
+100
+12
+​
+ ×450 = ₹ 54
+
+Price including tax = ₹ 450 + ₹ 54 = ₹ 504.
+
+Total price = ₹ 1232 + ₹ 300.30 + ₹ 504 = ₹ 2036.30
+
+Hence, total amount to be paid = ₹ 2036.30
+
+Question 7(i)
+A vertical tower standing on a horizontal plane is surmounted by a vertical flagstaff. At a point 100 m away from the foot of the tower, the angle of elevation of the top and bottom of the flagstaff are 54° and 42° respectively. Find the height of the flagstaff. Give your answer correct to nearest metre.
+
+A vertical tower standing on a horizontal plane is surmounted by a vertical flagstaff. At a point 100 m away from the foot of the tower, the angle of elevation of the top and bottom of the flagstaff are 54° and 42° respectively. Find the height of the flagstaff. Give your answer correct to nearest metre. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+In △APB,
+
+⇒ tan 42° = 
+A
+B
+A
+P
+AP
+AB
+​
+ 
+
+⇒ 0.9004 = 
+A
+B
+100
+100
+AB
+​
+ 
+
+⇒ AB = 0.9004 × 100 = 90.04 m
+
+In △APF,
+
+⇒ tan 54° = 
+A
+F
+A
+P
+AP
+AF
+​
+ 
+
+⇒ 1.3764 = 
+A
+F
+100
+100
+AF
+​
+ 
+
+⇒ AF = 1.3764 × 100 = 137.64 m
+
+From figure,
+
+BF = AF - AB = 137.64 - 90.04 = 47.60 ≈ 48 m.
+
+Hence, height of flagstaff = 48 m.
+
+Question 7(ii)
+The marks of 200 students in a test were recorded as follows :
+
+Marks %	No. of students
+0-10	5
+10-20	7
+20-30	11
+30-40	20
+40-50	40
+50-60	52
+60-70	36
+70-80	15
+80-90	9
+90-100	5
+Using graph sheet draw ogive for the given data and use it to find the,
+
+(a) median
+
+(b) number of students who obtained more than 65% marks
+
+(c) number of students who did not pass, if the pass percentage was 35.
+
+Answer
+
+Marks %	No. of students (f)	CF
+0-10	5	5
+10-20	7	12
+20-30	11	23
+30-40	20	43
+40-50	40	83
+50-60	52	135
+60-70	36	171
+70-80	15	186
+80-90	9	195
+90-100	5	200
+Steps :
+
+Take 1 cm = 10 marks on x-axis.
+
+Take 1 cm = 20 students on y-axis.
+
+Plot the points (10, 5), (20, 12), (30, 23), (40, 43), (50, 83), (60, 135), (70, 171), (80, 186), (90, 195) and (100, 200).
+
+Join the points by free hand curve.
+
+The marks of 200 students in a test were recorded as follows : ICSE 2025 Maths Solved Question Paper.
+(a) n = 200, which is even
+
+Median = 
+n
+2
+=
+200
+2
+2
+n
+​
+ = 
+2
+200
+​
+  = 100th term.
+
+Through point L = 100 draw a horizontal line parallel to x-axis touching the graph at point M, through M draw a vertical line parallel to y-axis touching x-axis at point N = 53.
+
+Hence, median = 53.
+
+(b) Total marks = 100
+
+65% of 100 = 65
+
+Through point O = 65 draw a vertical line parallel to y-axis touching the graph at point P, through P draw a horizontal line parallel to x-axis touching y-axis at point Q = 154.
+
+∴ 154 students score less than or equal to 65%.
+
+∴ 46 (200 - 154) students score more than 65%.
+
+Hence, 46 students score more than 65%.
+
+(c) Total marks = 100
+
+35% of 100 = 35
+
+Through point R = 35 draw a vertical line parallel to y-axis touching the graph at point S, through S draw a horizontal line parallel to x-axis touching y-axis at point T = 33.
+
+Hence, 33 students did not pass the exam.
+
+Question 8(i)
+In a T.V. show, a contestant opt for video call a friend life line to get an answer from three of his friends, named Amar, Akbar and Anthony. The question which he asks from one of his friends has four options. Find the probability that :
+
+(a) Akbar is chosen for the call.
+
+(b) Akbar couldn't give the correct answer.
+
+Answer
+
+(a) Since, there are three people which can be called.
+
+Hence, probability that Akbar is chosen for the call = 
+1
+3
+3
+1
+​
+ .
+
+(b) Since, there are four options out of which one is correct.
+
+Hence, probability that Akbar couldn't give the correct answer = 
+3
+4
+4
+3
+​
+ .
+
+Question 8(ii)
+If x, y and z are in continued proportion, prove that :
+
+x
+y
+2
+.
+z
+2
++
+y
+z
+2
+.
+x
+2
++
+z
+x
+2
+.
+y
+2
+=
+1
+x
+3
++
+1
+y
+3
++
+1
+z
+3
+y 
+2
+ .z 
+2
+ 
+x
+​
+ + 
+z 
+2
+ .x 
+2
+ 
+y
+​
+ + 
+x 
+2
+ .y 
+2
+ 
+z
+​
+ = 
+x 
+3
+ 
+1
+​
+ + 
+y 
+3
+ 
+1
+​
+ + 
+z 
+3
+ 
+1
+​
+ 
+
+Answer
+
+Given,
+
+x, y and z are in continued proportion.
+
+∴
+x
+y
+=
+y
+z
+⇒
+y
+2
+=
+x
+z
+∴ 
+y
+x
+​
+ = 
+z
+y
+​
+ 
+⇒y 
+2
+ =xz
+
+To prove :
+
+x
+y
+2
+.
+z
+2
++
+y
+z
+2
+.
+x
+2
++
+z
+x
+2
+.
+y
+2
+=
+1
+x
+3
++
+1
+y
+3
++
+1
+z
+3
+y 
+2
+ .z 
+2
+ 
+x
+​
+ + 
+z 
+2
+ .x 
+2
+ 
+y
+​
+ + 
+x 
+2
+ .y 
+2
+ 
+z
+​
+ = 
+x 
+3
+ 
+1
+​
+ + 
+y 
+3
+ 
+1
+​
+ + 
+z 
+3
+ 
+1
+​
+ 
+
+Solving L.H.S.,
+
+⇒
+x
+y
+2
+.
+z
+2
++
+y
+z
+2
+.
+x
+2
++
+z
+x
+2
+.
+y
+2
+⇒
+x
+3
++
+y
+3
++
+z
+3
+x
+2
+.
+y
+2
+.
+z
+2
+⇒
+x
+3
++
+y
+3
++
+z
+3
+x
+2
+.
+x
+z
+.
+z
+2
+⇒
+x
+3
++
+y
+3
++
+z
+3
+x
+3
+.
+z
+3
+⇒
+x
+3
+x
+3
+.
+z
+3
++
+y
+3
+x
+3
+z
+3
++
+z
+3
+x
+3
+.
+z
+3
+⇒
+1
+z
+3
++
+y
+3
+(
+x
+z
+)
+3
++
+1
+x
+3
+⇒
+1
+z
+3
++
+y
+3
+(
+y
+2
+)
+3
++
+1
+x
+3
+⇒
+1
+z
+3
++
+y
+3
+y
+6
++
+1
+x
+3
+⇒
+1
+z
+3
++
+1
+y
+3
++
+1
+x
+3
+.
+⇒ 
+y 
+2
+ .z 
+2
+ 
+x
+​
+ + 
+z 
+2
+ .x 
+2
+ 
+y
+​
+ + 
+x 
+2
+ .y 
+2
+ 
+z
+​
+ 
+⇒ 
+x 
+2
+ .y 
+2
+ .z 
+2
+ 
+x 
+3
+ +y 
+3
+ +z 
+3
+ 
+​
+ 
+⇒ 
+x 
+2
+ .xz.z 
+2
+ 
+x 
+3
+ +y 
+3
+ +z 
+3
+ 
+​
+ 
+⇒ 
+x 
+3
+ .z 
+3
+ 
+x 
+3
+ +y 
+3
+ +z 
+3
+ 
+​
+ 
+⇒ 
+x 
+3
+ .z 
+3
+ 
+x 
+3
+ 
+​
+ + 
+x 
+3
+ z 
+3
+ 
+y 
+3
+ 
+​
+ + 
+x 
+3
+ .z 
+3
+ 
+z 
+3
+ 
+​
+ 
+⇒ 
+z 
+3
+ 
+1
+​
+ + 
+(xz) 
+3
+ 
+y 
+3
+ 
+​
+ + 
+x 
+3
+ 
+1
+​
+ 
+⇒ 
+z 
+3
+ 
+1
+​
+ + 
+(y 
+2
+ ) 
+3
+ 
+y 
+3
+ 
+​
+ + 
+x 
+3
+ 
+1
+​
+ 
+⇒ 
+z 
+3
+ 
+1
+​
+ + 
+y 
+6
+ 
+y 
+3
+ 
+​
+ + 
+x 
+3
+ 
+1
+​
+ 
+⇒ 
+z 
+3
+ 
+1
+​
+ + 
+y 
+3
+ 
+1
+​
+ + 
+x 
+3
+ 
+1
+​
+ .
+
+Since, L.H.S. = R.H.S.
+
+Hence, proved that 
+x
+y
+2
+.
+z
+2
++
+y
+z
+2
+.
+x
+2
++
+z
+x
+2
+.
+y
+2
+=
+1
+x
+3
++
+1
+y
+3
++
+1
+z
+3
+y 
+2
+ .z 
+2
+ 
+x
+​
+ + 
+z 
+2
+ .x 
+2
+ 
+y
+​
+ + 
+x 
+2
+ .y 
+2
+ 
+z
+​
+ = 
+x 
+3
+ 
+1
+​
+ + 
+y 
+3
+ 
+1
+​
+ + 
+z 
+3
+ 
+1
+​
+ .
+
+Question 8(iii)
+A manufacturing company prepares spherical ball bearings, each of radius 7 mm and mass 4 gm. These ball bearings are packed into boxes. Each box can have maximum of 2156 cm3 of ball bearings. Find the :
+
+(a) maximum number of ball bearings that each box can have.
+
+(b) mass of each box of ball bearings in kg.
+
+(
+use 
+π
+=
+22
+7
+)
+(use π= 
+7
+22
+​
+ )
+
+Answer
+
+(a) Given,
+
+Radius of ball bearings = 7 mm
+
+Volume of box = 2156 cm3 = 2156 × 103 mm3
+
+Number of ball bearings that each box can have (N)
+
+= 
+Volume of box
+Volume of each ball
+Volume of each ball
+Volume of box
+​
+ 
+
+Substituting values we get :
+
+N
+=
+2156
+×
+10
+3
+4
+3
+×
+22
+7
+×
+7
+3
+=
+2156
+×
+10
+3
+88
+3
+×
+7
+2
+=
+2156
+×
+3
+×
+1000
+88
+×
+49
+=
+6468000
+4312
+=
+1500.
+N= 
+3
+4
+​
+ × 
+7
+22
+​
+ ×7 
+3
+ 
+2156×10 
+3
+ 
+​
+ 
+= 
+3
+88
+​
+ ×7 
+2
+ 
+2156×10 
+3
+ 
+​
+ 
+= 
+88×49
+2156×3×1000
+​
+ 
+= 
+4312
+6468000
+​
+ 
+=1500.
+
+Hence, maximum no. of ball bearings in a box = 1500.
+
+(b) Mass of each box = No. of balls × Mass of each ball
+
+= 1500 × 4 gm
+
+= 6000 gm
+
+= 
+6000
+1000
+1000
+6000
+​
+  = 6 kg.
+
+Hence, mass of each box = 6 kg.
+
+Question 9(i)
+The table given below shows the runs scored by a cricket team during the overs of a match.
+
+Overs	Runs scored
+20-30	37
+30-40	45
+40-50	40
+50-60	60
+60-70	51
+70-80	35
+(a) Draw a histogram representing the above distribution.
+
+(b) Estimate the modal runs scored.
+
+Answer
+
+Steps :
+
+Take 2 cm along x-axis = 10 overs and 1 cm along y-axis = 10 runs.
+
+Since, the scale on x-axis starts at 20, a break (zig-zag curve) is shown near the origin along x-axis to indicate that the graph is drawn to scale beginning at 20 and not at origin itself.
+
+Construct rectangles corresponding to the given data.
+
+In highest rectangle, draw two st. lines KN and LI from corners of the rectangles on either side of the highest rectangle to the opposite corners of the highest rectangle. Let Z be the point of intersection of KN and LI.
+
+Through Z, draw a vertical line to meet the x-axis at A. The abscissa of the point A represents 57.
+
+The table given below shows the runs scored by a cricket team during the overs of a match. ICSE 2025 Maths Solved Question Paper.
+Hence, mode = 57.
+
+Question 9(ii)
+An arithmetic progression (A.P.) has 3 as its first term. The sum of the first 8 terms is twice the sum of the first 5 terms. Find the common difference of the A.P.
+
+Answer
+
+Let common difference be d.
+
+a = 3
+
+Sum of first n terms of an A.P. = 
+n
+2
+(
+a 
++
+ l
+)
+2
+n
+​
+ (a + l)
+
+Given,
+
+The sum of the first 8 terms is twice the sum of the first 5 terms.
+
+∴
+8
+2
+(
+a
++
+a
+8
+)
+=
+2
+×
+5
+2
+(
+a
++
+a
+5
+)
+⇒
+4
+[
+a
++
+a
++
+(
+8
+−
+1
+)
+d
+]
+=
+5
+[
+a
++
+a
++
+(
+5
+−
+1
+)
+d
+]
+⇒
+4
+[
+2
+a
++
+7
+d
+]
+=
+5
+[
+2
+a
++
+4
+d
+]
+⇒
+4
+[
+2
+×
+3
++
+7
+d
+]
+=
+5
+[
+2
+×
+3
++
+4
+d
+]
+⇒
+4
+[
+6
++
+7
+d
+]
+=
+5
+[
+6
++
+4
+d
+]
+⇒
+24
++
+28
+d
+=
+30
++
+20
+d
+⇒
+28
+d
+−
+20
+d
+=
+30
+−
+24
+⇒
+8
+d
+=
+6
+⇒
+d
+=
+6
+8
+=
+3
+4
+.
+∴ 
+2
+8
+​
+ (a+a 
+8
+​
+ )=2× 
+2
+5
+​
+ (a+a 
+5
+​
+ )
+⇒4[a+a+(8−1)d]=5[a+a+(5−1)d]
+⇒4[2a+7d]=5[2a+4d]
+⇒4[2×3+7d]=5[2×3+4d]
+⇒4[6+7d]=5[6+4d]
+⇒24+28d=30+20d
+⇒28d−20d=30−24
+⇒8d=6
+⇒d= 
+8
+6
+​
+ = 
+4
+3
+​
+ .
+
+Hence, common difference = 
+3
+4
+4
+3
+​
+ .
+
+Question 9(iii)
+The roots of the equation (q - r)x2 + (r - p)x + (p - q) = 0 are equal.
+
+Prove that : 2q = p + r, that is, p, q and r are in A.P.
+
+Answer
+
+Given,
+
+The roots of the equation (q - r)x2 + (r - p)x + (p - q) = 0 are equal.
+
+∴ Discriminant (D) = 0
+
+⇒ b2 - 4ac = 0
+
+⇒ (r - p)2 - 4 × (q - r) × (p - q) = 0
+
+⇒ r2 + p2 - 2pr - 4(qp - q2 - rp + qr) = 0
+
+⇒ r2 + p2 - 2pr - 4qp + 4q2 + 4rp - 4qr = 0
+
+⇒ r2 + p2 + 2pr - 4qp - 4qr + 4q2 = 0
+
+⇒ (p + r)2 - 4q(p + r) + 4q2 = 0
+
+Let p + r = y
+
+⇒ y2 - 4qy + 4q2 = 0
+
+⇒ (y - 2q)2 = 0
+
+⇒ y - 2q = 0
+
+⇒ y = 2q
+
+⇒ p + r = 2q.
+
+Hence, proved that p + r = 2q.
+
+Question 10(i)
+A car travels a distance of 72 km at a certain average speed of x km per hour and then travels a distance of 81 km at an average speed of 6 km per hour more than its original average speed. If it takes 3 hours to complete the total journey then form a quadratic equation and solve it to find its original average speed.
+
+Answer
+
+Given,
+
+A car travels a distance of 72 km at a certain average speed of x km per hour and then travels a distance of 81 km at an average speed of 6 km per hour more than its original average speed.
+
+Total time taken to complete the journey = 3 hours
+
+∴
+72
+x
++
+81
+x
++
+6
+=
+3
+⇒
+72
+(
+x
++
+6
+)
++
+81
+x
+x
+(
+x
++
+6
+)
+=
+3
+⇒
+72
+(
+x
++
+6
+)
++
+81
+x
+=
+3
+x
+(
+x
++
+6
+)
+⇒
+72
+x
++
+432
++
+81
+x
+=
+3
+x
+2
++
+18
+x
+⇒
+3
+x
+2
++
+18
+x
+−
+72
+x
+−
+81
+x
+−
+432
+=
+0
+⇒
+3
+x
+2
+−
+135
+x
+−
+432
+=
+0
+⇒
+3
+(
+x
+2
+−
+45
+x
+−
+144
+)
+=
+0
+⇒
+x
+2
+−
+45
+x
+−
+144
+=
+0
+⇒
+x
+2
+−
+48
+x
++
+3
+x
+−
+144
+=
+0
+⇒
+x
+(
+x
+−
+48
+)
++
+3
+(
+x
+−
+48
+)
+=
+0
+⇒
+(
+x
++
+3
+)
+(
+x
+−
+48
+)
+=
+0
+⇒
+x
++
+3
+=
+0
+ or 
+x
+−
+48
+=
+0
+⇒
+x
+=
+−
+3
+ or 
+x
+=
+48.
+∴ 
+x
+72
+​
+ + 
+x+6
+81
+​
+ =3
+⇒ 
+x(x+6)
+72(x+6)+81x
+​
+ =3
+⇒72(x+6)+81x=3x(x+6)
+⇒72x+432+81x=3x 
+2
+ +18x
+⇒3x 
+2
+ +18x−72x−81x−432=0
+⇒3x 
+2
+ −135x−432=0
+⇒3(x 
+2
+ −45x−144)=0
+⇒x 
+2
+ −45x−144=0
+⇒x 
+2
+ −48x+3x−144=0
+⇒x(x−48)+3(x−48)=0
+⇒(x+3)(x−48)=0
+⇒x+3=0 or x−48=0
+⇒x=−3 or x=48.
+
+As speed cannot be negative in this case,
+
+Hence, the original speed = 48 km/hr.
+
+Question 10(ii)
+Given matrix, X = 
+[
+1
+1
+8
+3
+]
+ and 
+I
+=
+[
+1
+0
+0
+1
+]
+,
+[ 
+1
+8
+​
+  
+1
+3
+​
+ ] and I=[ 
+1
+0
+​
+  
+0
+1
+​
+ ], prove that X2 = 4X + 5I.
+
+Answer
+
+Given,
+
+X2 = 4X + 5I
+
+Solving for L.H.S.,
+
+X
+2
+=
+[
+1
+1
+8
+3
+]
+[
+1
+1
+8
+3
+]
+=
+[
+1
+×
+1
++
+1
+×
+8
+1
+×
+1
++
+1
+×
+3
+8
+×
+1
++
+3
+×
+8
+8
+×
+1
++
+3
+×
+3
+]
+=
+[
+1
++
+8
+1
++
+3
+8
++
+24
+8
++
+9
+]
+=
+[
+9
+4
+32
+17
+]
+.
+X 
+2
+ =[ 
+1
+8
+​
+  
+1
+3
+​
+ ][ 
+1
+8
+​
+  
+1
+3
+​
+ ]
+=[ 
+1×1+1×8
+8×1+3×8
+​
+  
+1×1+1×3
+8×1+3×3
+​
+ ]
+=[ 
+1+8
+8+24
+​
+  
+1+3
+8+9
+​
+ ]
+=[ 
+9
+32
+​
+  
+4
+17
+​
+ ].
+
+Solving for R.H.S.,
+
+4
+X
++
+5
+I
+=
+4
+[
+1
+1
+8
+3
+]
++
+5
+[
+1
+0
+0
+1
+]
+=
+[
+4
+4
+32
+12
+]
++
+[
+5
+0
+0
+5
+]
+=
+[
+4
++
+5
+4
++
+0
+32
++
+0
+12
++
+5
+]
+=
+[
+9
+4
+32
+17
+]
+.
+4X+5I=4[ 
+1
+8
+​
+  
+1
+3
+​
+ ]+5[ 
+1
+0
+​
+  
+0
+1
+​
+ ]
+=[ 
+4
+32
+​
+  
+4
+12
+​
+ ]+[ 
+5
+0
+​
+  
+0
+5
+​
+ ]
+=[ 
+4+5
+32+0
+​
+  
+4+0
+12+5
+​
+ ]
+=[ 
+9
+32
+​
+  
+4
+17
+​
+ ].
+
+Since, L.H.S. = R.H.S.
+
+Hence, proved that X2 = 4X + 5I.
+
+Question 10(iii)
+Use ruler and compasses for the following question taking a scale of 10 m = 1 cm.
+
+A park in the city is bounded by straight fences AB, BC, CD and DA.
+
+Given that AB = 50 m, BC = 63 m, ∠ABC = 75°. D is a point equidistant from the fences AB and BC. If ∠BAD = 90°, construct the outline of the park ABCD.
+
+Also locate a point P on the line BD for the flag post which is equidistant from the corners of the park A and B.
+
+Answer
+
+We know that,
+
+The locus of a point equidistant from two intersecting lines is pair of bisectors of the angles between the two lines.
+
+The locus of a point which is equidistant from two given points is actually the perpendicular bisector of the segment that joins the two points.
+
+Given,
+
+Scale : 10 m = 1 cm
+
+BC = 63 m = 
+63
+10
+10
+63
+​
+  = 6.3 cm.
+
+AB = 50 m = 
+50
+10
+10
+50
+​
+  = 5 cm.
+
+Steps of construction :
+
+Draw a line BC = 6.3 cm.
+
+Draw ∠ABC = 75° such that AB = 5 cm.
+
+Draw BE, angle bisector of ∠ABC.
+
+Construct ∠BAF = 90°, intersecting BE at D.
+
+Join ABCD.
+
+Construct XY, the perpendicular bisector of AB, intersecting BE at P.
+
+Use ruler and compasses for the following question taking a scale of 10 m = 1 cm. ICSE 2025 Maths Solved Question Paper.

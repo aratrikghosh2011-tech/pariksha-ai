@@ -1,0 +1,420 @@
+INSTRUCTION: A body of mass 5 kg is acted upon by a force of 20 N. Calculate the acceleration produced and the velocity gained after 4 seconds, starting from rest.
+RESPONSE: Step 1: Use Newton's second law: Force = mass x acceleration
+Step 2: acceleration = Force / mass = 20 / 5 = 4 m/s^2
+Step 3: Use v = u + at where u = 0, a = 4 m/s^2, t = 4 s
+Step 4: v = 0 + 4 x 4 = 16 m/s
+Answer: Acceleration = 4 m/s^2, Velocity after 4 seconds = 16 m/s
+---
+INSTRUCTION: A cricket ball of mass 0.15 kg moving at 30 m/s is brought to rest by a fielder in 0.05 seconds. Calculate the force exerted by the fielder on the ball.
+RESPONSE: Step 1: Calculate initial momentum = mass x velocity = 0.15 x 30 = 4.5 kg m/s
+Step 2: Final momentum = 0 (ball comes to rest)
+Step 3: Change in momentum (impulse) = 0 - 4.5 = -4.5 kg m/s
+Step 4: Force = Change in momentum / time = -4.5 / 0.05 = -90 N (negative sign indicates opposing direction)
+Answer: Force exerted by fielder = 90 N (opposing motion)
+---
+INSTRUCTION: A bullet of mass 10 g is fired from a gun of mass 2 kg with a velocity of 400 m/s. Calculate the recoil velocity of the gun.
+RESPONSE: Step 1: Convert bullet mass to kg: 10 g = 0.01 kg
+Step 2: Apply conservation of momentum: total initial momentum = 0 (both at rest)
+Step 3: 0 = (mass of bullet x velocity of bullet) + (mass of gun x recoil velocity)
+Step 4: 0 = (0.01 x 400) + (2 x v), so 2v = -4, v = -2 m/s
+Answer: Recoil velocity of gun = 2 m/s (in opposite direction to bullet)
+---
+INSTRUCTION: A body of mass 8 kg is moving with a velocity of 15 m/s. A force acts on it for 5 seconds and reduces its velocity to 5 m/s. Calculate the magnitude of the force applied.
+RESPONSE: Step 1: Initial momentum = 8 x 15 = 120 kg m/s
+Step 2: Final momentum = 8 x 5 = 40 kg m/s
+Step 3: Change in momentum = 40 - 120 = -80 kg m/s
+Step 4: Force = Change in momentum / time = -80 / 5 = -16 N
+Answer: Magnitude of force = 16 N (retarding force)
+---
+INSTRUCTION: Two bodies of masses 4 kg and 6 kg are moving in the same direction with velocities 12 m/s and 6 m/s respectively. They collide and move together after collision. Calculate their common velocity.
+RESPONSE: Step 1: Initial momentum of body 1 = 4 x 12 = 48 kg m/s
+Step 2: Initial momentum of body 2 = 6 x 6 = 36 kg m/s
+Step 3: Total initial momentum = 48 + 36 = 84 kg m/s
+Step 4: By conservation of momentum: (4 + 6) x v = 84, so v = 84 / 10 = 8.4 m/s
+Answer: Common velocity after collision = 8.4 m/s
+---
+INSTRUCTION: Calculate the impulse experienced by a body of mass 12 kg when its velocity changes from 8 m/s to 20 m/s in 3 seconds. Also calculate the force responsible.
+RESPONSE: Step 1: Change in velocity = 20 - 8 = 12 m/s
+Step 2: Impulse = mass x change in velocity = 12 x 12 = 144 N s
+Step 3: Force = Impulse / time = 144 / 3 = 48 N
+Step 4: Verify: acceleration = 12/3 = 4 m/s^2, Force = 12 x 4 = 48 N (consistent)
+Answer: Impulse = 144 N s, Force = 48 N
+---
+INSTRUCTION: A force of 15 N acts on a body for 6 seconds. If the body starts from rest and has a mass of 5 kg, find the distance covered by the body in this time.
+RESPONSE: Step 1: acceleration = Force / mass = 15 / 5 = 3 m/s^2
+Step 2: Use s = ut + (1/2)at^2, where u = 0, a = 3, t = 6
+Step 3: s = 0 + (1/2) x 3 x 6^2 = (1/2) x 3 x 36 = 54 m
+Step 4: Final velocity = 0 + 3 x 6 = 18 m/s as a check
+Answer: Distance covered = 54 m
+---
+INSTRUCTION: A body of mass 3 kg moving at 10 m/s collides with a stationary body of mass 2 kg. After collision, the first body moves at 4 m/s in the same direction. Find the velocity of the second body after collision.
+RESPONSE: Step 1: Initial momentum = (3 x 10) + (2 x 0) = 30 kg m/s
+Step 2: Final momentum of first body = 3 x 4 = 12 kg m/s
+Step 3: By conservation of momentum: 30 = 12 + 2v
+Step 4: 2v = 30 - 12 = 18, so v = 9 m/s
+Answer: Velocity of second body after collision = 9 m/s
+---
+INSTRUCTION: A truck of mass 2000 kg and a car of mass 500 kg are moving with the same momentum. If the truck moves at 20 m/s, find the velocity of the car and the ratio of their kinetic energies.
+RESPONSE: Step 1: Momentum of truck = 2000 x 20 = 40000 kg m/s
+Step 2: Since car has same momentum: 500 x v = 40000, so v = 80 m/s
+Step 3: KE of truck = (1/2) x 2000 x 20^2 = 400000 J
+Step 4: KE of car = (1/2) x 500 x 80^2 = 1600000 J, ratio = 400000:1600000 = 1:4
+Answer: Velocity of car = 80 m/s, Ratio of KE (truck:car) = 1:4
+---
+INSTRUCTION: A body of mass 10 kg is moving with a momentum of 200 kg m/s. A retarding force of 20 N acts on it. How long will it take for the body to come to rest?
+RESPONSE: Step 1: Initial velocity = momentum / mass = 200 / 10 = 20 m/s
+Step 2: Retardation = Force / mass = 20 / 10 = 2 m/s^2
+Step 3: Use v = u - at where v = 0, u = 20, a = 2
+Step 4: 0 = 20 - 2t, so t = 20 / 2 = 10 s
+Answer: Time to come to rest = 10 seconds
+---
+INSTRUCTION: A man of mass 60 kg climbs a staircase of 50 steps, each step being 20 cm high, in 40 seconds. Calculate the power developed by the man. Take g = 10 m/s^2.
+RESPONSE: Step 1: Total height climbed = 50 x 20 cm = 1000 cm = 10 m
+Step 2: Work done against gravity = mass x g x height = 60 x 10 x 10 = 6000 J
+Step 3: Power = Work done / time = 6000 / 40 = 150 W
+Step 4: This represents the useful power output of the man
+Answer: Power developed = 150 W
+---
+INSTRUCTION: A body of mass 4 kg is thrown vertically upward with a velocity of 20 m/s. Calculate the kinetic energy at the start and the maximum height reached. Take g = 10 m/s^2.
+RESPONSE: Step 1: Initial kinetic energy = (1/2) x mass x velocity^2 = (1/2) x 4 x 20^2 = 800 J
+Step 2: At maximum height, all KE converts to PE, so PE at top = 800 J
+Step 3: mgh = 800, so h = 800 / (4 x 10) = 800 / 40 = 20 m
+Step 4: Verify: PE = 4 x 10 x 20 = 800 J (consistent)
+Answer: Initial KE = 800 J, Maximum height = 20 m
+---
+INSTRUCTION: A spring is compressed by 0.05 m by a force of 200 N. What is the potential energy stored in the spring?
+RESPONSE: Step 1: The spring constant k = Force / compression = 200 / 0.05 = 4000 N/m
+Step 2: Potential energy stored = (1/2) x k x x^2, where x = 0.05 m
+Step 3: PE = (1/2) x 4000 x (0.05)^2 = (1/2) x 4000 x 0.0025
+Step 4: PE = 2000 x 0.0025 = 5 J
+Answer: Potential energy stored in spring = 5 J
+---
+INSTRUCTION: A motor pumps water at a rate of 300 kg per minute to a height of 20 m. Calculate the power of the motor. Take g = 10 m/s^2.
+RESPONSE: Step 1: Mass pumped per second = 300 / 60 = 5 kg/s
+Step 2: Work done per second = mass per second x g x height = 5 x 10 x 20 = 1000 W
+Step 3: Power = Work done per second = 1000 W = 1 kW
+Step 4: This is the useful output power required by the motor
+Answer: Power of motor = 1000 W (1 kW)
+---
+INSTRUCTION: A force of 40 N moves a body through a distance of 12 m in the direction of the force, then through 8 m at 60 degrees to the force. Calculate the total work done.
+RESPONSE: Step 1: Work done in first part = Force x distance x cos(0) = 40 x 12 x 1 = 480 J
+Step 2: Work done in second part = Force x distance x cos(60) = 40 x 8 x 0.5
+Step 3: Work done in second part = 40 x 8 x 0.5 = 160 J
+Step 4: Total work done = 480 + 160 = 640 J
+Answer: Total work done = 640 J
+---
+INSTRUCTION: An electric motor of efficiency 80% consumes 5000 J of electrical energy. Calculate the useful work done and the energy wasted as heat.
+RESPONSE: Step 1: Efficiency = (useful work output / total energy input) x 100
+Step 2: 80 = (useful work / 5000) x 100
+Step 3: Useful work = (80 x 5000) / 100 = 4000 J
+Step 4: Energy wasted = Total input - Useful output = 5000 - 4000 = 1000 J
+Answer: Useful work done = 4000 J, Energy wasted as heat = 1000 J
+---
+INSTRUCTION: A body of mass 2 kg falls freely from a height of 45 m. Calculate its kinetic energy just before hitting the ground. Take g = 10 m/s^2.
+RESPONSE: Step 1: Using energy conservation, KE at bottom = PE at top = mgh
+Step 2: KE = mass x g x height = 2 x 10 x 45 = 900 J
+Step 3: Cross-check using velocity: v^2 = 2gh = 2 x 10 x 45 = 900, v = 30 m/s
+Step 4: KE = (1/2) x 2 x 30^2 = (1/2) x 2 x 900 = 900 J (confirmed)
+Answer: Kinetic energy just before hitting ground = 900 J
+---
+INSTRUCTION: A person of mass 70 kg runs up a flight of 30 stairs, each stair being 15 cm high, in 20 seconds. Calculate the power exerted. Take g = 10 m/s^2.
+RESPONSE: Step 1: Total height = 30 x 15 cm = 450 cm = 4.5 m
+Step 2: Work done = mass x g x height = 70 x 10 x 4.5 = 3150 J
+Step 3: Power = Work done / time = 3150 / 20 = 157.5 W
+Step 4: Power is approximately 157.5 W
+Answer: Power exerted = 157.5 W
+---
+INSTRUCTION: A single fixed pulley is used to lift a load of 200 N. If the efficiency of the pulley is 80%, find the effort required and the energy wasted when the load is raised by 5 m.
+RESPONSE: Step 1: For a single fixed pulley, Velocity Ratio (VR) = 1
+Step 2: Efficiency = (Mechanical Advantage / VR) x 100, so MA = (80/100) x 1 = 0.8
+Step 3: Effort = Load / MA = 200 / 0.8 = 250 N
+Step 4: Work input = Effort x distance = 250 x 5 = 1250 J, Work output = 200 x 5 = 1000 J, Energy wasted = 1250 - 1000 = 250 J
+Answer: Effort required = 250 N, Energy wasted = 250 J
+---
+INSTRUCTION: A movable pulley system has a velocity ratio of 2. If a load of 150 N is lifted using an effort of 90 N, calculate the mechanical advantage and efficiency of the pulley system.
+RESPONSE: Step 1: Mechanical Advantage = Load / Effort = 150 / 90 = 1.67 (approximately 5/3)
+Step 2: Velocity Ratio = 2 (given)
+Step 3: Efficiency = (MA / VR) x 100 = (1.67 / 2) x 100 = 83.5%
+Step 4: Efficiency can also be written as (150/90)/2 x 100 = (5/6) x 100 = 83.3%
+Answer: Mechanical Advantage = 5/3 (approximately 1.67), Efficiency = 83.3%
+---
+INSTRUCTION: A block and tackle system with 4 pulleys (2 fixed, 2 movable) is used to raise a load of 600 N. The system has an efficiency of 75%. Find the effort needed and the distance the effort must move when the load rises by 1 m.
+RESPONSE: Step 1: For a block and tackle with 4 pulleys total (2 movable), VR = 4
+Step 2: Efficiency = (Load x load distance) / (Effort x effort distance) x 100
+Step 3: 75 = (MA / VR) x 100, so MA = (75/100) x 4 = 3
+Step 4: Effort = Load / MA = 600 / 3 = 200 N, Effort distance = VR x load distance = 4 x 1 = 4 m
+Answer: Effort = 200 N, Effort must move = 4 m
+---
+INSTRUCTION: A single movable pulley is used to lift a load. If the effort applied is 60 N and the load lifted is 100 N, find the MA, VR, and efficiency of the system.
+RESPONSE: Step 1: Mechanical Advantage = Load / Effort = 100 / 60 = 5/3 approximately 1.67
+Step 2: For a single movable pulley, VR = 2 (the effort rope moves twice for every unit the load moves)
+Step 3: Efficiency = (MA / VR) x 100 = (1.67 / 2) x 100 = 83.5%
+Step 4: Alternatively, Efficiency = (Load x 1) / (Effort x 2) x 100 = (100)/(120) x 100 = 83.3%
+Answer: MA = 5/3, VR = 2, Efficiency = 83.3%
+---
+INSTRUCTION: An inclined plane of length 5 m and height 2 m is used to push a load of 500 N to the top. If the efficiency is 60%, find the effort required to push the load up the plane.
+RESPONSE: Step 1: Velocity Ratio for inclined plane = length / height = 5 / 2 = 2.5
+Step 2: Efficiency = (MA / VR) x 100, so 60 = (MA / 2.5) x 100
+Step 3: MA = (60 x 2.5) / 100 = 1.5
+Step 4: Effort = Load / MA = 500 / 1.5 = 333.3 N
+Answer: Effort required = 333.3 N (approximately)
+---
+INSTRUCTION: A wheel and axle has a wheel of radius 30 cm and an axle of radius 5 cm. A load of 240 N is lifted using this machine. Calculate the VR, MA if efficiency is 80%, and the effort applied.
+RESPONSE: Step 1: VR of wheel and axle = radius of wheel / radius of axle = 30 / 5 = 6
+Step 2: Efficiency = (MA / VR) x 100, so 80 = (MA / 6) x 100
+Step 3: MA = (80 x 6) / 100 = 4.8
+Step 4: Effort = Load / MA = 240 / 4.8 = 50 N
+Answer: VR = 6, MA = 4.8, Effort = 50 N
+---
+INSTRUCTION: A lever of the first class has the fulcrum between the effort and the load. The effort arm is 80 cm and the load arm is 20 cm. A load of 400 N is placed at one end. Find the effort needed and the MA, assuming 100% efficiency.
+RESPONSE: Step 1: Velocity Ratio = effort arm / load arm = 80 / 20 = 4
+Step 2: For 100% efficiency, MA = VR = 4
+Step 3: Effort = Load / MA = 400 / 4 = 100 N
+Step 4: Cross-check using principle of moments: Effort x 80 = 400 x 20 = 8000, Effort = 100 N
+Answer: Effort needed = 100 N, Mechanical Advantage = 4
+---
+INSTRUCTION: A pulley system has 3 movable pulleys and 3 fixed pulleys. A load of 720 N is raised with an efficiency of 90%. Find the VR, MA, and effort required.
+RESPONSE: Step 1: VR of a block and tackle = number of pulleys supporting the movable block = 6 (for 3 movable pulleys, VR = 2 x 3 = 6)
+Step 2: Efficiency = (MA / VR) x 100, so 90 = (MA / 6) x 100
+Step 3: MA = (90 x 6) / 100 = 5.4
+Step 4: Effort = Load / MA = 720 / 5.4 = 133.3 N
+Answer: VR = 6, MA = 5.4, Effort = 133.3 N
+---
+INSTRUCTION: Light travels from air into glass of refractive index 1.5. If the speed of light in air is 3 x 10^8 m/s, find the speed of light in glass.
+RESPONSE: Step 1: Refractive index = speed of light in air / speed of light in medium
+Step 2: 1.5 = (3 x 10^8) / speed in glass
+Step 3: Speed in glass = (3 x 10^8) / 1.5
+Step 4: Speed in glass = 2 x 10^8 m/s
+Answer: Speed of light in glass = 2 x 10^8 m/s
+---
+INSTRUCTION: A ray of light strikes a glass-air interface at an angle of incidence of 30 degrees inside the glass. The critical angle for this glass is 42 degrees. State whether total internal reflection occurs and calculate the refractive index of the glass.
+RESPONSE: Step 1: For total internal reflection, angle of incidence must be greater than critical angle
+Step 2: Angle of incidence = 30 degrees, critical angle = 42 degrees; since 30 < 42, TIR does NOT occur
+Step 3: Refractive index = 1 / sin(critical angle) = 1 / sin(42 degrees)
+Step 4: sin(42) = 0.669, so refractive index = 1 / 0.669 = 1.494 approximately 1.5
+Answer: Total internal reflection does not occur. Refractive index of glass = 1.5 (approximately)
+---
+INSTRUCTION: A convex lens has a focal length of 20 cm. An object is placed 30 cm in front of the lens. Find the image distance and state whether the image is real or virtual.
+RESPONSE: Step 1: Use lens formula: (1/v) - (1/u) = (1/f), with sign convention u = -30 cm, f = +20 cm
+Step 2: (1/v) = (1/f) + (1/u) = (1/20) + (1/-30) = (1/20) - (1/30)
+Step 3: (1/v) = (3 - 2) / 60 = 1/60
+Step 4: v = 60 cm (positive, so image is real and on the other side of the lens)
+Answer: Image distance = 60 cm, Image is real and inverted
+---
+INSTRUCTION: A concave lens of focal length 15 cm forms an image at a distance of 10 cm on the same side as the object. Find the object distance.
+RESPONSE: Step 1: For concave lens, f = -15 cm (negative), image is virtual so v = -10 cm
+Step 2: Use lens formula: (1/v) - (1/u) = (1/f)
+Step 3: (1/-10) - (1/u) = (1/-15)
+Step 4: (1/u) = (1/-10) - (1/-15) = -1/10 + 1/15 = (-3 + 2)/30 = -1/30, so u = -30 cm
+Answer: Object distance = 30 cm (in front of the lens)
+---
+INSTRUCTION: A ray of light passes from water (refractive index 1.33) to glass (refractive index 1.5). If the angle of incidence in water is 45 degrees, find the angle of refraction in glass. (sin 45 = 0.707)
+RESPONSE: Step 1: Apply Snell's law at the water-glass interface: n1 x sin(i) = n2 x sin(r)
+Step 2: 1.33 x sin(45) = 1.5 x sin(r)
+Step 3: 1.33 x 0.707 = 1.5 x sin(r), so 0.940 = 1.5 x sin(r)
+Step 4: sin(r) = 0.940 / 1.5 = 0.627, r = arcsin(0.627) = approximately 38.8 degrees
+Answer: Angle of refraction in glass = approximately 38.8 degrees
+---
+INSTRUCTION: The refractive index of a medium is 1.6. Find the critical angle for the medium-air interface. (sin 38.7 = 0.625)
+RESPONSE: Step 1: At critical angle C, the refracted ray grazes the surface (angle of refraction = 90 degrees)
+Step 2: Using Snell's law: n x sin(C) = 1 x sin(90) = 1
+Step 3: sin(C) = 1 / n = 1 / 1.6 = 0.625
+Step 4: C = arcsin(0.625) = approximately 38.7 degrees
+Answer: Critical angle = approximately 38.7 degrees
+---
+INSTRUCTION: A concave mirror has a focal length of 10 cm. An object is placed 25 cm in front of it. Find the image position using the mirror formula.
+RESPONSE: Step 1: For concave mirror, f = -10 cm, object distance u = -25 cm (using sign convention)
+Step 2: Mirror formula: (1/v) + (1/u) = (1/f)
+Step 3: (1/v) = (1/f) - (1/u) = (1/-10) - (1/-25) = -1/10 + 1/25
+Step 4: (1/v) = (-5 + 2)/50 = -3/50, so v = -50/3 = -16.7 cm (real image, in front of mirror)
+Answer: Image is formed 16.7 cm in front of the concave mirror (real and inverted)
+---
+INSTRUCTION: A convex lens forms an image of an object placed 40 cm away at a distance of 120 cm on the other side. Find the focal length of the lens.
+RESPONSE: Step 1: Using sign convention: u = -40 cm, v = +120 cm (real image, other side)
+Step 2: Apply lens formula: (1/f) = (1/v) - (1/u)
+Step 3: (1/f) = (1/120) - (1/-40) = 1/120 + 1/40
+Step 4: (1/f) = (1 + 3)/120 = 4/120 = 1/30, so f = 30 cm
+Answer: Focal length of the convex lens = 30 cm
+---
+INSTRUCTION: A sonar pulse is sent from a ship and the echo is received after 4 seconds. If the speed of sound in water is 1500 m/s, calculate the depth of the sea at that point.
+RESPONSE: Step 1: Total distance travelled by the sound pulse = speed x time = 1500 x 4 = 6000 m
+Step 2: The pulse travels to the bottom and back, so total distance = 2 x depth
+Step 3: Depth = 6000 / 2 = 3000 m
+Step 4: The echo time is the round-trip time, so depth is half the total distance
+Answer: Depth of the sea = 3000 m
+---
+INSTRUCTION: A person standing 340 m from a wall claps his hands. After how many seconds will he hear the echo? Take the speed of sound in air as 340 m/s.
+RESPONSE: Step 1: Sound travels from person to wall and back, total distance = 2 x 340 = 680 m
+Step 2: Time = distance / speed = 680 / 340 = 2 seconds
+Step 3: For an echo to be heard, the minimum time between clap and echo should be 0.1 s; here it is 2 s so echo is easily heard
+Step 4: The time interval is 2 seconds
+Answer: Echo will be heard after 2 seconds
+---
+INSTRUCTION: A tuning fork vibrates with a frequency of 512 Hz. Calculate the wavelength of the sound produced if the speed of sound in air is 340 m/s.
+RESPONSE: Step 1: Use the wave equation: speed = frequency x wavelength
+Step 2: wavelength = speed / frequency = 340 / 512
+Step 3: wavelength = 0.664 m
+Step 4: This wavelength is in the audible range, which is consistent
+Answer: Wavelength of sound = 0.664 m (approximately)
+---
+INSTRUCTION: An echo is heard 3 seconds after a gun is fired. The temperature of air is 0 degrees C and speed of sound at 0 degrees C is 332 m/s. Find the distance of the reflecting surface.
+RESPONSE: Step 1: Total time for echo = 3 seconds (sound goes to surface and comes back)
+Step 2: Total distance = speed x time = 332 x 3 = 996 m
+Step 3: Distance to reflecting surface = 996 / 2 = 498 m
+Step 4: Since the time is 3 s and minimum for echo is 0.1 s, this is a valid echo scenario
+Answer: Distance of reflecting surface = 498 m
+---
+INSTRUCTION: A sound wave has a wavelength of 0.5 m and a frequency of 680 Hz. Calculate the speed of sound. If the frequency is doubled, what is the new wavelength?
+RESPONSE: Step 1: Speed = frequency x wavelength = 680 x 0.5 = 340 m/s
+Step 2: When frequency is doubled, new frequency = 2 x 680 = 1360 Hz
+Step 3: Speed of sound remains the same = 340 m/s
+Step 4: New wavelength = speed / new frequency = 340 / 1360 = 0.25 m
+Answer: Speed of sound = 340 m/s, New wavelength = 0.25 m
+---
+INSTRUCTION: A bat emits ultrasonic sound of frequency 100000 Hz. If the speed of sound in air is 340 m/s, find the wavelength of the ultrasonic sound.
+RESPONSE: Step 1: Use wave equation: wavelength = speed / frequency
+Step 2: wavelength = 340 / 100000 = 0.0034 m
+Step 3: Convert to mm: 0.0034 m = 3.4 mm
+Step 4: This is an ultrasonic wave as frequency is above 20000 Hz (human hearing limit)
+Answer: Wavelength of ultrasonic sound = 0.0034 m (3.4 mm)
+---
+INSTRUCTION: 500 g of water is heated from 20 degrees C to 80 degrees C. Calculate the heat absorbed. Specific heat capacity of water = 4200 J/(kg degrees C).
+RESPONSE: Step 1: Convert mass to kg: 500 g = 0.5 kg
+Step 2: Temperature change = 80 - 20 = 60 degrees C
+Step 3: Heat absorbed = mass x specific heat capacity x temperature change
+Step 4: Q = 0.5 x 4200 x 60 = 126000 J = 126 kJ
+Answer: Heat absorbed = 126000 J (126 kJ)
+---
+INSTRUCTION: A piece of iron of mass 200 g is heated from 30 degrees C to 80 degrees C. Find the heat energy absorbed. Specific heat capacity of iron = 460 J/(kg degrees C).
+RESPONSE: Step 1: Convert mass to kg: 200 g = 0.2 kg
+Step 2: Temperature rise = 80 - 30 = 50 degrees C
+Step 3: Q = mass x specific heat capacity x temperature change
+Step 4: Q = 0.2 x 460 x 50 = 4600 J
+Answer: Heat energy absorbed by iron = 4600 J
+---
+INSTRUCTION: A 2 kg block of ice at 0 degrees C is completely melted into water at 0 degrees C. Calculate the heat required. Latent heat of fusion of ice = 336000 J/kg.
+RESPONSE: Step 1: Heat required for melting = mass x latent heat of fusion
+Step 2: Q = 2 x 336000 = 672000 J
+Step 3: This heat is used only to change the state, not to raise temperature
+Step 4: Q = 672000 J = 672 kJ
+Answer: Heat required to melt ice = 672000 J (672 kJ)
+---
+INSTRUCTION: 1.5 kg of steam at 100 degrees C condenses to water at 100 degrees C. How much heat is released? Latent heat of vaporization = 2260000 J/kg.
+RESPONSE: Step 1: Heat released during condensation = mass x latent heat of vaporization
+Step 2: Q = 1.5 x 2260000 = 3390000 J
+Step 3: During condensation, heat is released by the steam (not absorbed)
+Step 4: Q = 3390000 J = 3390 kJ = 3.39 MJ
+Answer: Heat released during condensation = 3390000 J (3.39 MJ)
+---
+INSTRUCTION: A calorimeter contains 100 g of water at 25 degrees C. 50 g of water at 85 degrees C is added to it. Find the final temperature of the mixture. Specific heat capacity of water = 4200 J/(kg degrees C). Ignore the heat capacity of the calorimeter.
+RESPONSE: Step 1: Let final temperature = T degrees C
+Step 2: Heat lost by hot water = 0.05 x 4200 x (85 - T)
+Step 3: Heat gained by cold water = 0.1 x 4200 x (T - 25)
+Step 4: Heat lost = Heat gained: 0.05 x (85 - T) = 0.1 x (T - 25), so 4.25 - 0.05T = 0.1T - 2.5, giving 6.75 = 0.15T, T = 45 degrees C
+Answer: Final temperature of the mixture = 45 degrees C
+---
+INSTRUCTION: How much heat is needed to convert 500 g of water at 100 degrees C entirely into steam at 100 degrees C? Latent heat of vaporization of water = 2260 J/g.
+RESPONSE: Step 1: Mass of water = 500 g
+Step 2: Heat required = mass x latent heat of vaporization
+Step 3: Q = 500 x 2260 = 1130000 J
+Step 4: Q = 1130000 J = 1130 kJ = 1.13 MJ
+Answer: Heat required = 1130000 J (1.13 MJ)
+---
+INSTRUCTION: A hot metal block of mass 300 g at 200 degrees C is placed in 400 g of water at 20 degrees C. If the final temperature is 35 degrees C, find the specific heat capacity of the metal. Specific heat capacity of water = 4200 J/(kg degrees C).
+RESPONSE: Step 1: Heat lost by metal = 0.3 x c x (200 - 35) = 0.3 x c x 165
+Step 2: Heat gained by water = 0.4 x 4200 x (35 - 20) = 0.4 x 4200 x 15 = 25200 J
+Step 3: Heat lost = Heat gained: 0.3 x c x 165 = 25200
+Step 4: c = 25200 / (0.3 x 165) = 25200 / 49.5 = 509 J/(kg degrees C) approximately
+Answer: Specific heat capacity of metal = approximately 509 J/(kg degrees C)
+---
+INSTRUCTION: Calculate the temperature rise when 8400 J of heat is supplied to 500 g of a liquid with specific heat capacity 2800 J/(kg degrees C).
+RESPONSE: Step 1: Convert mass to kg: 500 g = 0.5 kg
+Step 2: Use Q = mass x specific heat capacity x temperature change
+Step 3: 8400 = 0.5 x 2800 x delta T
+Step 4: delta T = 8400 / (0.5 x 2800) = 8400 / 1400 = 6 degrees C
+Answer: Temperature rise = 6 degrees C
+---
+INSTRUCTION: Three resistors of 4 ohm, 6 ohm, and 12 ohm are connected in parallel. A battery of 12 V is connected across them. Find the equivalent resistance and the total current drawn from the battery.
+RESPONSE: Step 1: For parallel combination: (1/R) = (1/4) + (1/6) + (1/12) = 3/12 + 2/12 + 1/12 = 6/12 = 1/2
+Step 2: Equivalent resistance R = 2 ohm
+Step 3: Total current = Voltage / Equivalent resistance = 12 / 2 = 6 A
+Step 4: Verify: currents are 12/4=3 A, 12/6=2 A, 12/12=1 A; total = 3+2+1 = 6 A (consistent)
+Answer: Equivalent resistance = 2 ohm, Total current = 6 A
+---
+INSTRUCTION: Two resistors of 6 ohm and 3 ohm are connected in series and the combination is connected to a 18 V battery. Find the current through the circuit and the voltage across each resistor.
+RESPONSE: Step 1: For series combination: total resistance = 6 + 3 = 9 ohm
+Step 2: Current = Voltage / Resistance = 18 / 9 = 2 A (same throughout series circuit)
+Step 3: Voltage across 6 ohm = 2 x 6 = 12 V
+Step 4: Voltage across 3 ohm = 2 x 3 = 6 V; check: 12 + 6 = 18 V (consistent)
+Answer: Current = 2 A, Voltage across 6 ohm = 12 V, Voltage across 3 ohm = 6 V
+---
+INSTRUCTION: A resistor of 10 ohm carries a current of 3 A for 5 minutes. Calculate the heat produced in the resistor.
+RESPONSE: Step 1: Use Joule's law: Heat = I^2 x R x t
+Step 2: Convert time to seconds: 5 minutes = 5 x 60 = 300 s
+Step 3: Heat = (3)^2 x 10 x 300 = 9 x 10 x 300
+Step 4: Heat = 27000 J = 27 kJ
+Answer: Heat produced = 27000 J (27 kJ)
+---
+INSTRUCTION: An electric iron rated at 1000 W, 250 V is used for 2 hours daily for 30 days. Calculate the total electrical energy consumed in kWh and the cost at Rs 5 per unit.
+RESPONSE: Step 1: Power = 1000 W = 1 kW
+Step 2: Total energy = Power x time = 1 kW x (2 x 30) hours = 1 x 60 = 60 kWh
+Step 3: Cost = units consumed x rate = 60 x 5 = Rs 300
+Step 4: Current drawn = Power / Voltage = 1000 / 250 = 4 A
+Answer: Total energy consumed = 60 kWh, Total cost = Rs 300
+---
+INSTRUCTION: A wire of resistance 20 ohm is stretched to double its length. Find the new resistance of the wire, assuming volume remains constant.
+RESPONSE: Step 1: Resistance = (resistivity x length) / area; when length doubles, volume = length x area is constant
+Step 2: If new length = 2L, new area = A/2 (since volume L x A = 2L x new area)
+Step 3: New resistance = resistivity x (2L) / (A/2) = resistivity x 4L / A = 4 x original resistance
+Step 4: New resistance = 4 x 20 = 80 ohm
+Answer: New resistance of the stretched wire = 80 ohm
+---
+INSTRUCTION: A parallel combination of two resistors, 8 ohm and 8 ohm, is connected in series with a 4 ohm resistor. The combination is connected to a 20 V supply. Find the total current and the current through each parallel resistor.
+RESPONSE: Step 1: Parallel combination of two 8 ohm resistors = (8 x 8) / (8 + 8) = 64/16 = 4 ohm
+Step 2: Total resistance = 4 (parallel) + 4 (series) = 8 ohm
+Step 3: Total current = 20 / 8 = 2.5 A
+Step 4: Voltage across parallel combination = 2.5 x 4 = 10 V; current through each 8 ohm = 10/8 = 1.25 A
+Answer: Total current = 2.5 A, Current through each parallel resistor = 1.25 A
+---
+INSTRUCTION: The power dissipated in a resistor is 36 W when connected to a 12 V supply. Find the resistance and the current flowing through it.
+RESPONSE: Step 1: Power = Voltage^2 / Resistance, so Resistance = Voltage^2 / Power
+Step 2: Resistance = (12)^2 / 36 = 144 / 36 = 4 ohm
+Step 3: Current = Voltage / Resistance = 12 / 4 = 3 A
+Step 4: Verify: Power = I^2 x R = 9 x 4 = 36 W (consistent)
+Answer: Resistance = 4 ohm, Current = 3 A
+---
+INSTRUCTION: A radioactive element has a half-life of 5 years. How much of a 100 g sample will remain after 20 years?
+RESPONSE: Step 1: Number of half-lives in 20 years = 20 / 5 = 4 half-lives
+Step 2: After 1st half-life: 100 / 2 = 50 g
+Step 3: After 2nd half-life: 50 / 2 = 25 g; after 3rd: 25 / 2 = 12.5 g; after 4th: 12.5 / 2 = 6.25 g
+Step 4: Alternatively, remaining mass = initial mass x (1/2)^n = 100 x (1/2)^4 = 100/16 = 6.25 g
+Answer: Mass remaining after 20 years = 6.25 g
+---
+INSTRUCTION: A radioactive substance has a half-life of 8 days. After how many days will (7/8) of the original sample have decayed?
+RESPONSE: Step 1: If (7/8) has decayed, then (1/8) of the original mass remains
+Step 2: Remaining fraction = (1/2)^n where n = number of half-lives
+Step 3: (1/2)^n = 1/8 = (1/2)^3, so n = 3 half-lives
+Step 4: Time = n x half-life = 3 x 8 = 24 days
+Answer: Time for 7/8 of the sample to decay = 24 days
+---
+INSTRUCTION: A radioactive nucleus has atomic number 92 and mass number 238. It emits one alpha particle and two beta particles successively. Find the atomic number and mass number of the resulting nucleus.
+RESPONSE: Step 1: Alpha decay: mass number decreases by 4, atomic number decreases by 2
+Step 2: After alpha emission: mass number = 238 - 4 = 234, atomic number = 92 - 2 = 90
+Step 3: Beta decay: mass number unchanged, atomic number increases by 1 (for each beta particle)
+Step 4: After 2 beta emissions: mass number = 234, atomic number = 90 + 2 = 92
+Answer: Resulting nucleus has mass number = 234 and atomic number = 92
+---
+INSTRUCTION: A sample of radioactive material has an initial activity and reduces to (1/4) of its original activity in 40 years. Calculate the half-life of the substance.
+RESPONSE: Step 1: Activity reduces to 1/4 means the quantity has reduced to 1/4 of original
+Step 2: (1/2)^n = 1/4 = (1/2)^2, so n = 2 half-lives have passed
+Step 3: Total time = n x half-life, so 40 = 2 x half-life
+Step 4: Half-life = 40 / 2 = 20 years
+Answer: Half-life of the substance = 20 years
+---
+INSTRUCTION: A radioactive nucleus X undergoes two successive alpha decays followed by one beta decay. If the original nucleus has atomic number 86 and mass number 220, find the atomic number and mass number of the final nucleus.
+RESPONSE: Step 1: First alpha decay: mass number = 220 - 4 = 216, atomic number = 86 - 2 = 84
+Step 2: Second alpha decay: mass number = 216 - 4 = 212, atomic number = 84 - 2 = 82
+Step 3: Beta decay: mass number unchanged = 212, atomic number = 82 + 1 = 83
+Step 4: Final nucleus has mass number 212 and atomic number 83
+Answer: Final nucleus has mass number = 212 and atomic number = 83
+---

@@ -1,0 +1,4105 @@
+SECTION A
+Question 1(i)
+If 
+[
+2
+0
+0
+4
+]
+[
+x
+y
+]
+=
+[
+2
+−
+8
+]
+[ 
+2
+0
+​
+  
+0
+4
+​
+ ][ 
+x
+y
+​
+ ]=[ 
+2
+−8
+​
+ ], the values of x and y respectively are :
+
+1, -2
+
+-2, 1
+
+1, 2
+
+-2, -1
+
+Answer
+
+Solving,
+
+⇒
+[
+2
+0
+0
+4
+]
+[
+x
+y
+]
+=
+[
+2
+−
+8
+]
+⇒
+[
+2.
+x
++
+0.
+y
+0.
+x
++
+4.
+y
+]
+=
+[
+2
+−
+8
+]
+⇒
+[
+2
+x
++
+0
+0
++
+4
+y
+]
+=
+[
+2
+−
+8
+]
+⇒
+[
+2
+x
+4
+y
+]
+=
+[
+2
+−
+8
+]
+⇒
+2
+x
+=
+2
+ and 
+4
+y
+=
+−
+8
+⇒
+x
+=
+2
+2
+ and 
+y
+=
+−
+8
+4
+⇒
+x
+=
+1
+ and 
+y
+=
+−
+2.
+⇒[ 
+2
+0
+​
+  
+0
+4
+​
+ ][ 
+x
+y
+​
+ ]=[ 
+2
+−8
+​
+ ]
+⇒[ 
+2.x+0.y
+0.x+4.y
+​
+ ]=[ 
+2
+−8
+​
+ ]
+⇒[ 
+2x+0
+0+4y
+​
+ ]=[ 
+2
+−8
+​
+ ]
+⇒[ 
+2x
+4y
+​
+ ]=[ 
+2
+−8
+​
+ ]
+⇒2x=2 and 4y=−8
+⇒x= 
+2
+2
+​
+  and y=− 
+4
+8
+​
+ 
+⇒x=1 and y=−2.
+
+Hence, Option 1 is the correct option.
+
+Question 1(ii)
+If x - 2 is a factor of x3 - kx - 12, then the value of k is :
+
+3
+
+2
+
+-2
+
+-3
+
+Answer
+
+By factor theorem,
+
+If x - a is a factor of f(x), then f(a) = 0.
+
+Given,
+
+x - 2 is a factor of x3 - kx - 12
+
+⇒ x - 2 = 0
+
+⇒ x = 2.
+
+∴ 23 - 2k - 12 = 0
+
+⇒ 8 - 2k - 12 = 0
+
+⇒ -2k - 4 = 0
+
+⇒ 2k = -4
+
+⇒ k = 
+−
+4
+2
+− 
+2
+4
+​
+  = -2.
+
+Hence, Option 3 is the correct option.
+
+Question 1(iii)
+In the given diagram, RT is a tangent touching the circle at S. If ∠PST = 30° and ∠SPQ = 60° then ∠PSQ is equal to :
+
+40°
+
+30°
+
+60°
+
+90°
+
+In the given diagram, RT is a tangent touching the circle at S. If ∠PST = 30° and ∠SPQ = 60° then ∠PSQ is equal to : ICSE 2023 Maths Solved Question Paper.
+Answer
+
+We know that,
+
+Angle between tangent and the chord at the point of contact is equal to angle of the alternate segment.
+
+∴ ∠PQS = ∠PST = 30°
+
+In the given diagram, RT is a tangent touching the circle at S. If ∠PST = 30° and ∠SPQ = 60° then ∠PSQ is equal to : ICSE 2023 Maths Solved Question Paper.
+In △ PQS,
+
+By angle sum property of triangle,
+
+⇒ ∠PQS + ∠QPS + ∠PSQ = 180°
+
+⇒ 30° + 60° + ∠PSQ = 180°
+
+⇒ ∠PSQ + 90° = 180°
+
+⇒ ∠PSQ = 180° - 90° = 90°.
+
+Hence, Option 4 is the correct option.
+
+Question 1(iv)
+A letter is chosen at random from all the letters of the English alphabets. The probability that the letter chosen is a vowel, is :
+
+4
+26
+26
+4
+​
+ 
+
+5
+26
+26
+5
+​
+ 
+
+21
+26
+26
+21
+​
+ 
+
+5
+24
+24
+5
+​
+ 
+
+Answer
+
+All the letters of English alphabets have 5 vowels (a, e, i, o and u) and total number of English alphabets = 26.
+
+Probability that letter chosen is a vowel = 
+No. of vowels
+No. of alphabets
+=
+5
+26
+No. of alphabets
+No. of vowels
+​
+ = 
+26
+5
+​
+ .
+
+Hence, Option 2 is the correct option.
+
+Question 1(v)
+If 3 is a root of the quadratic equation x2 - px + 3 = 0 then p is equal to :
+
+4
+
+3
+
+5
+
+2
+
+Answer
+
+Given,
+
+3 is a root of the quadratic equation x2 - px + 3 = 0
+
+∴ 32 - 3p + 3 = 0
+
+⇒ 9 - 3p + 3 = 0
+
+⇒ 12 - 3p = 0
+
+⇒ 3p = 12
+
+⇒ p = 
+12
+3
+3
+12
+​
+  = 4.
+
+Hence, Option 1 is the correct option.
+
+Question 1(vi)
+In the given figure ∠BAP = ∠DCP = 70°, PC = 6 cm and CA = 4 cm, then PD : DB is :
+
+5 : 3
+
+3 : 5
+
+3 : 2
+
+2 : 3
+
+In the given figure ∠BAP = ∠DCP = 70°, PC = 6 cm and CA = 4 cm, then PD : DB is : ICSE 2023 Maths Solved Question Paper.
+Answer
+
+Given,
+
+∠BAP = ∠DCP = 70°
+
+From figure,
+
+∠BAP and ∠DCP are corresponding angles and since they are equal.
+
+∴ AB // CD.
+
+From figure,
+
+PA = PC + AC = 6 + 4 = 10 cm.
+
+In △ PAB and △ PCD,
+
+⇒ ∠PAB = ∠PCD (Both equal to 70°)
+
+⇒ ∠BPA = ∠DPC (Both are equal)
+
+∴ △ PAB ~ △ PCD (By A.A. axiom)
+
+We know that,
+
+Corresponding sides of similar triangle are proportional to each other.
+
+⇒
+P
+B
+P
+D
+=
+P
+A
+P
+C
+⇒
+P
+B
+P
+D
+=
+10
+6
+⇒
+P
+B
+P
+D
+=
+5
+3
+.
+⇒ 
+PD
+PB
+​
+ = 
+PC
+PA
+​
+ 
+⇒ 
+PD
+PB
+​
+ = 
+6
+10
+​
+ 
+⇒ 
+PD
+PB
+​
+ = 
+3
+5
+​
+ .
+
+Let PB = 5x and PD = 3x.
+
+From figure,
+
+DB = PB - PD = 5x - 3x = 2x.
+
+⇒
+P
+D
+D
+B
+=
+3
+x
+2
+x
+=
+3
+2
+⇒ 
+DB
+PD
+​
+ = 
+2x
+3x
+​
+ = 
+2
+3
+​
+ 
+
+⇒ PD : DB = 3 : 2.
+
+Hence, Option 3 is the correct option.
+
+Question 1(vii)
+The printed price of an article is ₹ 3080. If the rate of GST is 10% then the GST charged is :
+
+₹ 154
+
+₹ 308
+
+₹ 30.80
+
+₹ 15.40
+
+Answer
+
+GST charged = GST (%) × M.P.
+
+= 
+10
+100
+×
+3080
+100
+10
+​
+ ×3080
+
+= ₹ 308.
+
+Hence, Option 2 is the correct option.
+
+Question 1(viii)
+(1 + sin A)(1 - sin A) is equal to :
+
+cosec2 A
+
+sin2 A
+
+sec2 A
+
+cos2 A
+
+Answer
+
+Solving,
+
+⇒ (1 + sin A)(1 - sin A)
+
+⇒ 1 - sin A + sin A - sin2 A
+
+⇒ 1 - sin2 A
+
+⇒ cos2 A.
+
+Hence, Option 4 is the correct option.
+
+Question 1(ix)
+The coordinates of the vertices of △ABC are respectively (-4, -2), (6, 2) and (4, 6). The centroid G of △ABC is :
+
+(2, 2)
+
+(2, 3)
+
+(3, 3)
+
+(0, -1)
+
+Answer
+
+By formula,
+
+Centroid of triangle = 
+(
+x
+1
++
+x
+2
++
+x
+3
+3
+,
+y
+1
++
+y
+2
++
+y
+3
+3
+)
+( 
+3
+x 
+1
+​
+ +x 
+2
+​
+ +x 
+3
+​
+ 
+​
+ , 
+3
+y 
+1
+​
+ +y 
+2
+​
+ +y 
+3
+​
+ 
+​
+ )
+
+Centroid of triangle ABC (G)
+
+=
+(
+−
+4
++
+6
++
+4
+3
+,
+−
+2
++
+2
++
+6
+3
+)
+=
+(
+6
+3
+,
+6
+3
+)
+=
+(
+2
+,
+2
+)
+.
+=( 
+3
+−4+6+4
+​
+ , 
+3
+−2+2+6
+​
+ )
+=( 
+3
+6
+​
+ , 
+3
+6
+​
+ )
+=(2,2).
+
+Hence, Option 1 is the correct option.
+
+Question 1(x)
+The nth term of an Arithmetic Progression (A.P.) is 2n + 5. The 10th term is :
+
+7
+
+15
+
+25
+
+45
+
+Answer
+
+Given,
+
+⇒ an = 2n + 5
+
+⇒ a10 = 2(10) + 5 = 20 + 5 = 25.
+
+Hence, Option 3 is the correct option.
+
+Question 1(xi)
+The mean proportional between 4 and 9 is :
+
+4
+
+6
+
+9
+
+36
+
+Answer
+
+Let x be the mean proportional between 4 and 9 then,
+
+⇒
+4
+x
+=
+x
+9
+⇒
+x
+2
+=
+4
+×
+9
+⇒
+x
+2
+=
+36
+⇒
+x
+=
+36
+=
+6.
+⇒ 
+x
+4
+​
+ = 
+9
+x
+​
+ 
+⇒x 
+2
+ =4×9
+⇒x 
+2
+ =36
+⇒x= 
+36
+​
+ =6.
+
+Hence, Option 2 is the correct option.
+
+Question 1(xii)
+Which of the following cannot be determined graphically for a grouped frequency distribution ?
+
+Median
+
+Mode
+
+Quartiles
+
+Mean
+
+Answer
+
+We know that,
+
+To determine mean we do not need any graphical method.
+
+Hence, Option 4 is the correct option.
+
+Question 1(xiii)
+Volume of a cylinder of height 3 cm is 48π. Radius of the cylinder is :
+
+48 cm
+
+16 cm
+
+4 cm
+
+24 cm
+
+Answer
+
+Let radius of cylinder be r cm.
+
+Given,
+
+Height of cylinder (h) = 3 cm
+
+By formula,
+
+⇒ Volume of cylinder = πr2h
+
+⇒ 3πr2 = 48π
+
+⇒ 3r2 = 48
+
+⇒ r2 = 
+48
+3
+3
+48
+​
+ 
+
+⇒ r2 = 
+48
+3
+3
+48
+​
+ 
+
+⇒ r2 = 16
+
+⇒ r = 
+16
+16
+​
+  = 4 cm.
+
+Hence, Option 3 is the correct option.
+
+Question 1(xiv)
+Naveen deposits ₹ 800 every month in a recurring deposit account for 6 months. If he receives ₹ 4884 at the time of maturity, then the interest he earns is :
+
+₹ 84
+
+₹ 42
+
+₹ 24
+
+₹ 284
+
+Answer
+
+By formula,
+
+Interest earned = Maturity value - Sum deposited
+
+= ₹ 4884 - ₹ (800 × 6)
+
+= ₹ 4884 - ₹ 4800
+
+= ₹ 84.
+
+Hence, Option 1 is the correct option.
+
+Question 1(xv)
+The solution set for the inequation 2x + 4 ≤ 14, x ∈ W is :
+
+{1, 2, 3, 4, 5}
+
+{0, 1, 2, 3, 4, 5}
+
+{1, 2, 3, 4}
+
+{0, 1, 2, 3, 4}
+
+Answer
+
+Solving,
+
+⇒ 2x + 4 ≤ 14
+
+⇒ 2x ≤ 14 - 4
+
+⇒ 2x ≤ 10
+
+⇒ x ≤ 
+10
+2
+2
+10
+​
+ 
+
+⇒ x ≤ 5.
+
+Since, x ∈ W,
+
+∴ x = {0, 1, 2, 3, 4, 5}.
+
+Hence, Option 2 is the correct option.
+
+Question 2(i)
+Find the value of 'a' if x - a is a factor of the polynomial 3x3 + x2 - ax - 81.
+
+Answer
+
+By factor theorem,
+
+If x - a is a factor of f(x), then f(a) = 0.
+
+Given,
+
+x - a is a factor of the polynomial 3x3 + x2 - ax - 81.
+
+⇒ x - a = 0
+
+⇒ x = a.
+
+∴ 3a3 + a2 - a.a - 81 = 0
+
+⇒ 3a3 + a2 - a2 - 81 = 0
+
+⇒ 3a3 - 81 = 0
+
+⇒ 3a3 = 81
+
+⇒ a3 = 
+81
+3
+3
+81
+​
+ 
+
+⇒ a3 = 27
+
+⇒ a3 = 33
+
+⇒ a = 3.
+
+Hence, value of a = 3.
+
+Question 2(ii)
+Salman deposits ₹ 1,000 every month in a recurring deposit account for 2 years. If he receives ₹ 26,000 on maturity, find :
+
+(a) total interest Salman earns
+
+(b) the rate of interest.
+
+Answer
+
+(a) Given,
+
+Salman deposits ₹ 1000 every month in a recurring deposit account for 2 years.
+
+Total deposit = ₹ 1,000 × 2 × 12 = ₹ 24,000.
+
+By formula,
+
+Total interest earned = Maturity value - Total deposit
+
+= ₹ 26,000 - ₹ 24,000
+
+= ₹ 2,000.
+
+Hence, interest earned = ₹ 2,000.
+
+(b) Let rate of interest be r%. Time (n) = 24 months
+
+By formula,
+
+Interest = 
+P
+×
+n
+×
+(
+n
++
+1
+)
+2
+×
+12
+×
+r
+100
+2×12
+P×n×(n+1)
+​
+ × 
+100
+r
+​
+ 
+
+Substituting values we get :
+
+⇒
+2000
+=
+1000
+×
+24
+×
+25
+2
+×
+12
+×
+r
+100
+⇒
+2000
+=
+1000
+×
+25
+×
+r
+100
+⇒
+2000
+=
+250
+r
+⇒
+r
+=
+2000
+250
+⇒
+r
+=
+8
+⇒2000=1000× 
+2×12
+24×25
+​
+ × 
+100
+r
+​
+ 
+⇒2000=1000×25× 
+100
+r
+​
+ 
+⇒2000=250r
+⇒r= 
+250
+2000
+​
+ 
+⇒r=8
+
+Hence, rate of interest earned = 8%.
+
+Question 2(iii)
+In the given figure O, is the center of the circle. CE is a tangent to the circle at A. If ∠ABD = 26°, then find :
+
+(a) ∠BDA
+
+(b) ∠BAD
+
+(c) ∠CAD
+
+(d) ∠ODB
+
+In the given figure O, is the center of the circle. CE is a tangent to the circle at A. If ∠ABD = 26°, then find : ICSE 2023 Maths Solved Question Paper.
+Answer
+
+(a) We know that,
+
+Angle in a semi-circle is a right angle.
+
+∴ ∠BDA = 90°.
+
+Hence, ∠BDA = 90°.
+
+(b) In △ BAD,
+
+By angle sum property of triangle,
+
+⇒ ∠BDA + ∠BAD + ∠ABD = 180°
+
+⇒ 90° + ∠BAD + 26° = 180°
+
+⇒ ∠BAD + 116° = 180°
+
+⇒ ∠BAD = 180° - 116° = 64°.
+
+Hence, ∠BAD = 64°.
+
+(c) From figure,
+
+CE is tangent to the circle.
+
+Angle between tangent and radius of the circle is 90°.
+
+From figure,
+
+⇒ ∠CAD + ∠BAD = 90°
+
+⇒ ∠CAD + 64° = 90°
+
+⇒ ∠CAD = 90° - 64° = 26°.
+
+Hence, ∠CAD = 26°.
+
+(d) Join OD.
+
+In the given figure O, is the center of the circle. CE is a tangent to the circle at A. If ∠ABD = 26°, then find : ICSE 2023 Maths Solved Question Paper.
+In △ OBD,
+
+⇒ OD = OB (Radius of same circle)
+
+We know that,
+
+Angles opposite to equal sides are equal.
+
+⇒ ∠ODB = ∠OBD = 26°.
+
+Hence, ∠ODB = 26°.
+
+Question 3(i)
+Solve the following quadratic equation :
+
+x2 + 4x - 8 = 0.
+
+Give your answer correct to one decimal place.
+
+Answer
+
+Comparing x2 + 4x - 8 = 0 with ax2 + bx + c, we get :
+
+a = 1, b = 4 and c = -8.
+
+By formula,
+
+⇒
+x
+=
+−
+b
+±
+b
+2
+−
+4
+a
+c
+2
+a
+=
+−
+4
+±
+4
+2
+−
+4
+×
+1
+×
+(
+−
+8
+)
+2
+×
+1
+=
+−
+4
+±
+16
++
+32
+2
+=
+−
+4
+±
+48
+2
+=
+−
+4
+±
+4
+3
+2
+=
+−
+2
+±
+2
+3
+=
+−
+2
+±
+2
+×
+1.732
+=
+−
+2
+±
+3.464
+=
+−
+2
++
+3.464
+ or 
+−
+2
+−
+3.464
+=
+1.464
+ or 
+−
+5.464
+=
+1.5
+ or 
+−
+5.5
+⇒x= 
+2a
+−b± 
+b 
+2
+ −4ac
+​
+ 
+​
+ 
+= 
+2×1
+−4± 
+4 
+2
+ −4×1×(−8)
+​
+ 
+​
+ 
+= 
+2
+−4± 
+16+32
+​
+ 
+​
+ 
+= 
+2
+−4± 
+48
+​
+ 
+​
+ 
+= 
+2
+−4±4 
+3
+​
+ 
+​
+ 
+=−2±2 
+3
+​
+ 
+=−2±2×1.732
+=−2±3.464
+=−2+3.464 or −2−3.464
+=1.464 or −5.464
+=1.5 or −5.5
+
+Hence, x = 1.5 or 5.5
+
+Question 3(ii)
+Prove the following identity :
+
+(sin2 θ - 1)(tan2 θ + 1) + 1 = 0
+
+Answer
+
+Solving L.H.S. of the given equation :
+
+⇒ (sin2 θ - 1)(tan2 θ + 1) + 1
+
+⇒ (1 - cos2 θ - 1).sec2 θ + 1
+
+⇒ -cos2 θ. sec2 θ + 1
+
+⇒ -cos2 θ 
+×
+1
+cos
+2
+θ
+× 
+cos 
+2
+ θ
+1
+​
+  + 1
+
+⇒ -1 + 1
+
+⇒ 0.
+
+Since, L.H.S. = R.H.S.
+
+Hence, proved that (sin2 θ - 1)(tan2 θ + 1) + 1 = 0.
+
+Question 3(iii)
+Use graph sheet to answer this question. Take 2 cm = 1 unit along both the axes.
+
+(a) Plot A, B, C where A(0, 4), B(1, 1) and C(4, 0).
+
+(b) Reflect A and B on the x-axis and name them as E and D respectively.
+
+(c) Reflect B through the origin and name it F. Write down the coordinates of F.
+
+(d) Reflect B and C on the y-axis and name them as H and G respectively.
+
+(e) Join points A, B, C, D, E, F, G, H and A in order and name the closed figure formed.
+
+Answer
+
+The points are shown in the graph below:
+
+Use graph sheet to answer this question. Take 2 cm = 1 unit along both the axes. ICSE 2023 Maths Solved Question Paper.
+(c) From graph,
+
+F = (-1, -1)
+
+Hence, co-ordinates of F = (-1, -1).
+
+(e) From graph,
+
+The closed figure formed is a star.
+
+SECTION B
+
+Question 4(i)
+If 
+A
+=
+[
+1
+3
+2
+4
+]
+,
+B
+=
+[
+1
+2
+2
+4
+]
+,
+C
+=
+[
+4
+1
+1
+5
+]
+ and 
+I
+=
+[
+1
+0
+0
+1
+]
+A=[ 
+1
+2
+​
+  
+3
+4
+​
+ ],B=[ 
+1
+2
+​
+  
+2
+4
+​
+ ],C=[ 
+4
+1
+​
+  
+1
+5
+​
+ ] and I=[ 
+1
+0
+​
+  
+0
+1
+​
+ ]. Find A(B + C) - 14I.
+
+Answer
+
+B + C = 
+[
+1
+2
+2
+4
+]
++
+[
+4
+1
+1
+5
+]
+=
+[
+5
+3
+3
+9
+]
+[ 
+1
+2
+​
+  
+2
+4
+​
+ ]+[ 
+4
+1
+​
+  
+1
+5
+​
+ ]=[ 
+5
+3
+​
+  
+3
+9
+​
+ ]
+
+Substituting values we get :
+
+A
+(
+B
++
+C
+)
+−
+14
+I
+=
+[
+1
+3
+2
+4
+]
+[
+5
+3
+3
+9
+]
+−
+14
+[
+1
+0
+0
+1
+]
+=
+[
+1
+×
+5
++
+3
+×
+3
+1
+×
+3
++
+3
+×
+9
+2
+×
+5
++
+4
+×
+3
+2
+×
+3
++
+4
+×
+9
+]
+−
+[
+14
+0
+0
+14
+]
+=
+[
+5
++
+9
+3
++
+27
+10
++
+12
+6
++
+36
+]
+−
+[
+14
+0
+0
+14
+]
+=
+[
+14
+30
+22
+42
+]
+−
+[
+14
+0
+0
+14
+]
+=
+[
+14
+−
+14
+30
+−
+0
+22
+−
+0
+42
+−
+14
+]
+=
+[
+0
+30
+22
+28
+]
+.
+A(B+C)−14I=[ 
+1
+2
+​
+  
+3
+4
+​
+ ][ 
+5
+3
+​
+  
+3
+9
+​
+ ]−14[ 
+1
+0
+​
+  
+0
+1
+​
+ ]
+=[ 
+1×5+3×3
+2×5+4×3
+​
+  
+1×3+3×9
+2×3+4×9
+​
+ ]−[ 
+14
+0
+​
+  
+0
+14
+​
+ ]
+=[ 
+5+9
+10+12
+​
+  
+3+27
+6+36
+​
+ ]−[ 
+14
+0
+​
+  
+0
+14
+​
+ ]
+=[ 
+14
+22
+​
+  
+30
+42
+​
+ ]−[ 
+14
+0
+​
+  
+0
+14
+​
+ ]
+=[ 
+14−14
+22−0
+​
+  
+30−0
+42−14
+​
+ ]
+=[ 
+0
+22
+​
+  
+30
+28
+​
+ ].
+
+Hence, A(B + C) - 14I = 
+[
+0
+30
+22
+28
+]
+.
+[ 
+0
+22
+​
+  
+30
+28
+​
+ ].
+
+Question 4(ii)
+ABC is a triangle whose vertices are A(1, -1), B(0, 4) and C(-6, 4), D is the mid-point of BC. Find the :
+
+(a) coordinates of D.
+
+(b) equation of the median AD.
+
+Answer
+
+(a) By formula,
+
+Mid-point (M) = 
+(
+x
+1
++
+x
+2
+2
+,
+y
+1
++
+y
+2
+2
+)
+( 
+2
+x 
+1
+​
+ +x 
+2
+​
+ 
+​
+ , 
+2
+y 
+1
+​
+ +y 
+2
+​
+ 
+​
+ )
+
+ABC is a triangle whose vertices are A(1, -1), B(0, 4) and C(-6, 4), D is the mid-point of BC. Find the : ICSE 2023 Maths Solved Question Paper.
+Given,
+
+D is the mid-point of BC.
+
+∴
+Co-ordinates of D
+=
+(
+0
++
+(
+−
+6
+)
+2
+,
+4
++
+4
+2
+)
+=
+(
+−
+6
+2
+,
+8
+2
+)
+=
+(
+−
+3
+,
+4
+)
+.
+∴Co-ordinates of D=( 
+2
+0+(−6)
+​
+ , 
+2
+4+4
+​
+ )
+=( 
+2
+−6
+​
+ , 
+2
+8
+​
+ )
+=(−3,4).
+
+Hence, co-ordinates of D = (-3, 4).
+
+(b) By two-point form :
+
+Equation of a line :
+
+y - y1 = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+(
+x
+−
+x
+1
+)
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ (x−x 
+1
+​
+ )
+
+Substituting values we get :
+
+Equation of AD :
+
+⇒ y - (-1) = 
+4
+−
+(
+−
+1
+)
+(
+−
+3
+)
+−
+1
+(
+x
+−
+1
+)
+(−3)−1
+4−(−1)
+​
+ (x−1)
+
+⇒ y + 1 = 
+5
+−
+4
+(
+x
+−
+1
+)
+−4
+5
+​
+ (x−1)
+
+⇒ -4(y + 1) = 5(x - 1)
+
+⇒ -4y - 4 = 5x - 5
+
+⇒ 5x + 4y = -4 + 5
+
+⇒ 5x + 4y = 1.
+
+Hence, equation of median AD is 5x + 4y = 1.
+
+Question 4(iii)
+In the given figure, O is the center of the circle. PQ is a tangent to the circle at T. Chord AB produced meets the tangent at P. AB = 9 cm, BP = 16 cm, ∠PTB = 50°, ∠OBA = 45°. Find :
+
+(a) length of PT
+
+(b) ∠BAT
+
+(c) ∠BOT
+
+(d) ∠ABT
+
+In the given figure, O is the center of the circle. PQ is a tangent to the circle at T. Chord AB produced meets the tangent at P. AB = 9 cm, BP = 16 cm, ∠PTB = 50°, ∠OBA = 45°. Find : ICSE 2023 Maths Solved Question Paper.
+Answer
+
+(a) We know that,
+
+If a chord and a tangent intersect externally, then the product of the lengths of the segments of the chord is equal to the square of the length of the tangent from the point of contact to the point of intersection.
+
+Since, PT is tangent from point P and PAB is secant.
+
+∴ PT2 = PA × PB
+
+⇒ PT2 = (9 + 16) × 16
+
+⇒ PT2 = 25 × 16
+
+⇒ PT2 = 400
+
+⇒ PT = 
+400
+400
+​
+  = 20 cm.
+
+Hence, PT = 20 cm.
+
+(b) Since, angle between tangent and chord at point of contact is equal to angle of alternative segment.
+
+∴ ∠BAT = ∠PTB = 50°.
+
+Hence, ∠BAT = 50°.
+
+(c) We know that,
+
+Angle subtended by an arc at the centre of the circle is twice the angle subtended by the same arc at some point on the remaining circumference.
+
+∴ ∠BOT = 2 × ∠BAT = 2 × 50° = 100°.
+
+Hence, ∠BOT = 100°.
+
+(d) From figure,
+
+⇒ OB = OT (Radii of same circle)
+
+⇒ ∠OBT = ∠OTB = x (let) (Angles opposite to equal sides are equal)
+
+In △ BOT,
+
+By angle sum property of triangle,
+
+⇒ ∠OBT + ∠OTB + ∠BOT = 180°
+
+⇒ x + x + 100° = 180°
+
+⇒ 2x = 180° - 100°
+
+⇒ 2x = 80°
+
+⇒ x = 
+80
+°
+2
+2
+80°
+​
+  = 40°.
+
+∴ ∠OBT = 40°
+
+From figure,
+
+⇒ ∠ABT = ∠ABO + ∠OBT = 45° + 40° = 85°.
+
+Hence, ∠ABT = 85°.
+
+Question 5(i)
+Mrs. Arora bought the following articles from a departmental store :
+
+S.No.	Item	Price	Rate of GST	Discount
+1	Hair oil	₹ 1200	18%	₹ 100
+2	Cashew nuts	₹ 600	12%	-
+Find the :
+
+(a) Total GST paid.
+
+(b) Total bill amount including GST.
+
+Answer
+
+(a) By formula,
+
+GST on an article = (Price of item - Discount) × Rate of GST
+
+GST on hair oil = (1200 - 100) × 18%
+
+= 1100 × 
+18
+100
+100
+18
+​
+ 
+
+= 11 × 18
+
+= ₹ 198.
+
+GST on cashew nuts = (600 - 0) × 12%
+
+= 600 × 
+12
+100
+100
+12
+​
+ 
+
+= 6 × 12
+
+= ₹ 72.
+
+Total GST paid = ₹ 198 + ₹ 72 = ₹ 270.
+
+Hence, total GST paid = ₹ 270.
+
+(b) Total bill amount including GST = Total cost price + Total GST paid
+
+= [(₹ 1200 - ₹ 100) + ₹ 600] + ₹ 270
+
+= ₹ 1100 + ₹ 600 + ₹ 270
+
+= ₹ 1970.
+
+Hence, total bill amount = ₹ 1970.
+
+Question 5(ii)
+Solve the following inequation. Write down the solution set and represent it on the real number line.
+
+-5(x - 9) ≥ 17 - 9x > x + 2, x ∈ R.
+
+Answer
+
+Given, equation :
+
+-5(x - 9) ≥ 17 - 9x > x + 2
+
+Solving L.H.S. of the given equation :
+
+⇒ -5(x - 9) ≥ 17 - 9x
+
+⇒ -5x + 45 ≥ 17 - 9x
+
+⇒ -5x + 9x ≥ 17 - 45
+
+⇒ 4x ≥ -28
+
+⇒ x ≥ 
+−
+28
+4
+− 
+4
+28
+​
+ 
+
+⇒ x ≥ -7 ............(1)
+
+Solving L.H.S. of the given equation :
+
+⇒ 17 - 9x > x + 2
+
+⇒ x + 9x < 17 - 2
+
+⇒ 10x < 15
+
+⇒ x < 
+15
+10
+10
+15
+​
+ 
+
+⇒ x < 
+3
+2
+2
+3
+​
+ 
+
+⇒ x < 1.5 .............(2)
+
+From equation (1) and (2), we get :
+
+Solution set : {x : -7 ≤ x < 1.5}
+
+Solution set on the number line :
+
+Solve the following inequation. Write down the solution set and represent it on the real number line. ICSE 2023 Maths Solved Question Paper.
+Question 5(iii)
+In the given figure, AC // DE // BF. If AC = 24 cm, EG = 8 cm, GB = 16 cm, BF = 30 cm.
+
+(a) Prove △ GED ~ △ GBF
+
+(b) Find DE
+
+(c) Find DB : AB.
+
+In the given figure, AC // DE // BF. If AC = 24 cm, EG = 8 cm, GB = 16 cm, BF = 30 cm. ICSE 2023 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+DE // BF
+
+∴ ∠DEG = ∠GBF (Alternate angles are equal)
+
+∠EDG = ∠GFB (Alternate angles are equal)
+
+⇒ △GED ~ △ GBF (By A.A. axiom)
+
+Hence, proved that △GED ~ △ GBF.
+
+(b) We know that,
+
+Corresponding sides of similar triangle are proportional.
+
+Since, △ GED ~ △ GBF
+
+⇒
+D
+E
+B
+F
+=
+E
+G
+B
+G
+⇒
+D
+E
+30
+=
+8
+16
+⇒
+D
+E
+=
+30
+×
+8
+16
+⇒
+D
+E
+=
+15
+ cm
+.
+⇒ 
+BF
+DE
+​
+ = 
+BG
+EG
+​
+ 
+⇒ 
+30
+DE
+​
+ = 
+16
+8
+​
+ 
+⇒DE=30× 
+16
+8
+​
+ 
+⇒DE=15 cm.
+
+Hence, DE = 15 cm.
+
+(c) In △ BAC and △ BDE,
+
+⇒ ∠BAC = ∠BDE (Corresponding angles are equal)
+
+⇒ ∠ABC = ∠DBE (Common angle)
+
+⇒ △ BAC ~ △ BDE (By A.A. axiom)
+
+We know that,
+
+Corresponding sides of similar triangle are proportional.
+
+Since, △ BAC ~ △ BDE
+
+⇒
+A
+B
+B
+D
+=
+A
+C
+D
+E
+⇒
+B
+D
+A
+B
+=
+D
+E
+A
+C
+⇒
+B
+D
+A
+B
+=
+15
+24
+⇒
+B
+D
+A
+B
+=
+5
+8
+⇒ 
+BD
+AB
+​
+ = 
+DE
+AC
+​
+ 
+⇒ 
+AB
+BD
+​
+ = 
+AC
+DE
+​
+ 
+⇒ 
+AB
+BD
+​
+ = 
+24
+15
+​
+ 
+⇒ 
+AB
+BD
+​
+ = 
+8
+5
+​
+ 
+
+⇒ BD : AB = 5 : 8.
+
+Hence, BD : AB = 5 : 8.
+
+Question 6(i)
+The following distribution gives the daily wages of 60 workers of a factory.
+
+Daily income in ₹	Number of workers
+200-300	6
+300-400	10
+400-500	14
+500-600	16
+600-700	10
+700-800	4
+Use graph paper to answer this question.
+
+Take 2 cm = ₹ 100 along one axis and 2 cm = 2 workers along the other axis. Draw a histogram and hence find the mode of the give distribution.
+
+Answer
+
+Steps of construction :
+
+Draw a histogram of the given distribution.
+
+Inside the highest rectangle, which represents the maximum frequency (or modal class), draw two lines AC and BD diagonally from the upper corners C and D of adjacent rectangles.
+
+Through the point K (the point of intersection of diagonals AC and BD), draw KL perpendicular to the horizontal axis.
+
+The value of point L on the horizontal axis represents the value of mode.
+
+The following distribution gives the daily wages of 60 workers of a factory. ICSE 2023 Maths Solved Question Paper.
+From graph,
+
+L = ₹ 530
+
+Hence, required mode = ₹ 530.
+
+Question 6(ii)
+The 5th and 9th term of an Arithmetic Progression are 4 and -12 respectively. Find :
+
+(a) the first term
+
+(b) common difference
+
+(c) sum of 16 terms of the A.P.
+
+Answer
+
+If first term is a and common difference is d of the A.P.
+
+By formula,
+
+nth term = an = a + (n - 1)d
+
+Given,
+
+⇒ 5th term = 4
+
+⇒ a5 = 4
+
+⇒ a + (5 - 1)d = 4
+
+⇒ a + 4d = 4 .........(1)
+
+⇒ 9th term = -12
+
+⇒ a9 = -12
+
+⇒ a + (9 - 1)d = -12
+
+⇒ a + 8d = -12 .........(2)
+
+Subtracting equation (1) from (2), we get :
+
+⇒ (a + 8d) - (a + 4d) = -12 - 4
+
+⇒ a - a + 8d - 4d = -16
+
+⇒ 4d = -16
+
+⇒ d = 
+−
+16
+4
+− 
+4
+16
+​
+ 
+
+⇒ d = -4.
+
+Substituting value of d in equation (1), we get :
+
+⇒ a + 4d = 4
+
+⇒ a + 4(-4) = 4
+
+⇒ a - 16 = 4
+
+⇒ a = 4 + 16 = 20.
+
+(a) Hence, first term of A.P. = 20.
+
+(b) Common difference of A.P. = -4.
+
+(c) By formula,
+
+Sum of n terms of A.P. = 
+n
+2
+(
+a
++
+l
+)
+2
+n
+​
+ (a+l)
+
+Sum of 16 terms of A.P. = 
+n
+2
+(
+a
++
+a
+16
+)
+2
+n
+​
+ (a+a 
+16
+​
+ )
+
+=
+16
+2
+[
+a
++
+a
++
+(
+16
+−
+1
+)
+d
+]
+=
+8
+(
+2
+a
++
+15
+d
+)
+=
+8
+×
+(
+2
+×
+20
++
+15
+×
+−
+4
+)
+=
+8
+×
+(
+40
+−
+60
+)
+=
+8
+×
+−
+20
+=
+−
+160.
+= 
+2
+16
+​
+ [a+a+(16−1)d]
+=8(2a+15d)
+=8×(2×20+15×−4)
+=8×(40−60)
+=8×−20
+=−160.
+
+Hence, sum of 16 terms of A.P. = -160.
+
+Question 6(iii)
+A and B are two points on the x-axis and y-axis respectively.
+
+A and B are two points on the x-axis and y-axis respectively. ICSE 2023 Maths Solved Question Paper.
+(a) Write down the co-ordinates of A and B.
+
+(b) P is a point on AB such that AP : PB = 3 : 1. Using section formula find the coordinates of point P.
+
+(c) Find the equation of a line passing through P and perpendicular to AB.
+
+Answer
+
+(a) From figure,
+
+A = (4, 0) and B = (0, 4).
+
+(b) Let coordinates of P be (x, y).
+
+By section formula,
+
+(x, y) = 
+(
+m
+1
+x
+2
++
+m
+2
+x
+1
+m
+1
++
+m
+2
+,
+m
+1
+y
+2
++
+m
+2
+y
+1
+m
+1
++
+m
+2
+)
+( 
+m 
+1
+​
+ +m 
+2
+​
+ 
+m 
+1
+​
+ x 
+2
+​
+ +m 
+2
+​
+ x 
+1
+​
+ 
+​
+ , 
+m 
+1
+​
+ +m 
+2
+​
+ 
+m 
+1
+​
+ y 
+2
+​
+ +m 
+2
+​
+ y 
+1
+​
+ 
+​
+ )
+
+Substituting values we get :
+
+⇒
+(
+x
+,
+y
+)
+=
+(
+3
+×
+0
++
+1
+×
+4
+3
++
+1
+,
+3
+×
+4
++
+1
+×
+0
+3
++
+1
+)
+=
+(
+0
++
+4
+4
+,
+12
++
+0
+4
+)
+=
+(
+4
+4
+,
+12
+4
+)
+=
+(
+1
+,
+3
+)
+.
+⇒(x,y)=( 
+3+1
+3×0+1×4
+​
+ , 
+3+1
+3×4+1×0
+​
+ )
+=( 
+4
+0+4
+​
+ , 
+4
+12+0
+​
+ )
+=( 
+4
+4
+​
+ , 
+4
+12
+​
+ )
+=(1,3).
+
+Hence, coordinates of P = (1, 3).
+
+(c) By formula,
+
+Slope = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+Slope of AB = 
+4
+−
+0
+0
+−
+4
+=
+4
+−
+4
+0−4
+4−0
+​
+ = 
+−4
+4
+​
+  = -1.
+
+We know that,
+
+Product of slope of perpendicular lines = -1.
+
+∴ Slope of AB × Slope of line perpendicular to AB = -1
+
+⇒ -1 × Slope of line perpendicular to AB = -1
+
+⇒ Slope of line perpendicular to AB = 
+−
+1
+−
+1
+−1
+−1
+​
+  = 1.
+
+Line passing through P and perpendicular to AB :
+
+⇒ y - y1 = m(x - x1)
+
+⇒ y - 3 = 1(x - 1)
+
+⇒ y - 3 = x - 1
+
+⇒ y = x - 1 + 3
+
+⇒ y = x + 2.
+
+Hence, required equation is y = x + 2.
+
+Question 7(i)
+A bag contains 25 cards, numbered through 1 to 25. A card is drawn at random. What is the probability that the number on the card drawn is :
+
+(a) a multiple of 5
+
+(b) a perfect square
+
+(c) a prime number ?
+
+Answer
+
+Total number of outcomes = 25
+
+(a) Number of multiples of 5 between 1 to 25 = 5 (5, 10, 15, 20, 25).
+
+P(that number on card is a multiples of 5)
+
+= 
+No. of multiples of 5
+Total number of outcomes
+=
+5
+25
+=
+1
+5
+Total number of outcomes
+No. of multiples of 5
+​
+ = 
+25
+5
+​
+ = 
+5
+1
+​
+ .
+
+Hence, the required probability is 
+1
+5
+5
+1
+​
+ .
+
+(b) Number of perfect squares between 1 to 25 = 5 (1, 4, 9, 16, 25).
+
+P(that number on card is a perfect square)
+
+= 
+No. of perfect squares
+Total number of outcomes
+=
+5
+25
+=
+1
+5
+Total number of outcomes
+No. of perfect squares
+​
+ = 
+25
+5
+​
+ = 
+5
+1
+​
+ .
+
+Hence, the required probability is 
+1
+5
+5
+1
+​
+ .
+
+(c) Number of prime numbers between 1 to 25 = 9 (2, 3, 5, 7, 11, 13, 17, 19, 23).
+
+P(that number is a prime number)
+
+= 
+No. of prime numbers
+Total number of outcomes
+=
+9
+25
+Total number of outcomes
+No. of prime numbers
+​
+ = 
+25
+9
+​
+ .
+
+Hence, the required probability is 
+9
+25
+25
+9
+​
+ .
+
+Question 7(ii)
+A man covers a distance of 100 km, travelling with a uniform speed of x km/hr. Had the speed been 5 km/hr more it would have taken 1 hour less. Find x the original speed.
+
+Answer
+
+In first case :
+
+Distance = 100 km
+
+Speed = x km/hr
+
+Time = 
+Distance
+Speed
+=
+100
+x
+Speed
+Distance
+​
+ = 
+x
+100
+​
+ 
+
+In second case :
+
+Distance = 100 km
+
+Speed = (x + 5) km/hr
+
+Time = 
+Distance
+Speed
+=
+100
+x
++
+5
+Speed
+Distance
+​
+ = 
+x+5
+100
+​
+ 
+
+According to question,
+
+The difference between the time taken between first and second case is 1 hour.
+
+∴
+100
+x
+−
+100
+x
++
+5
+=
+1
+⇒
+100
+(
+x
++
+5
+)
+−
+100
+x
+x
+(
+x
++
+5
+)
+=
+1
+⇒
+100
+x
++
+500
+−
+100
+x
+x
+2
++
+5
+x
+=
+1
+⇒
+500
+x
+2
++
+5
+x
+=
+1
+⇒
+500
+=
+x
+2
++
+5
+x
+⇒
+x
+2
++
+5
+x
+−
+500
+=
+0
+⇒
+x
+2
++
+25
+x
+−
+20
+x
+−
+500
+=
+0
+⇒
+x
+(
+x
++
+25
+)
+−
+20
+(
+x
++
+25
+)
+=
+0
+⇒
+(
+x
+−
+20
+)
+(
+x
++
+25
+)
+=
+0
+⇒
+x
+−
+20
+=
+0
+ or 
+x
++
+25
+=
+0
+⇒
+x
+=
+20
+ or 
+x
+=
+−
+25.
+∴ 
+x
+100
+​
+ − 
+x+5
+100
+​
+ =1
+⇒ 
+x(x+5)
+100(x+5)−100x
+​
+ =1
+⇒ 
+x 
+2
+ +5x
+100x+500−100x
+​
+ =1
+⇒ 
+x 
+2
+ +5x
+500
+​
+ =1
+⇒500=x 
+2
+ +5x
+⇒x 
+2
+ +5x−500=0
+⇒x 
+2
+ +25x−20x−500=0
+⇒x(x+25)−20(x+25)=0
+⇒(x−20)(x+25)=0
+⇒x−20=0 or x+25=0
+⇒x=20 or x=−25.
+
+Since, speed cannot be negative.
+
+∴ x = 20 km/hr.
+
+Hence, original speed = 20 km/hr.
+
+Question 7(iii)
+A solid is in the shape of a hemisphere of radius 7 cm, surmounted by a cone of height 4 cm. The solid is immersed completely in a cylindrical container filled with water to a certain height so that the solid is completely submerged in water. If the radius of the cylinder is 14 cm, find the rise in the water level.
+
+A solid is in the shape of a hemisphere of radius 7 cm, surmounted by a cone of height 4 cm. The solid is immersed completely in a cylindrical container filled with water to a certain height so that the solid is completely submerged in water. If the radius of the cylinder is 14 cm, find the rise in the water level. ICSE 2023 Maths Solved Question Paper.
+Answer
+
+Let the rise in water level be x cm.
+
+∴ Volume of water that rises by x cm in the cylindrical container = Volume of hemisphere submerged + Volume of cone submerged
+
+⇒ π × (14)2 × x = 
+2
+3
+×
+π
+×
+7
+3
++
+1
+3
+×
+π
+×
+7
+2
+×
+4
+3
+2
+​
+ ×π×7 
+3
+ + 
+3
+1
+​
+ ×π×7 
+2
+ ×4
+
+⇒ 196πx = 
+2
+3
+×
+π
+×
+343
++
+1
+3
+×
+π
+×
+196
+3
+2
+​
+ ×π×343+ 
+3
+1
+​
+ ×π×196
+
+⇒ 196x = 
+2
+3
+×
+343
++
+1
+3
+×
+196
+3
+2
+​
+ ×343+ 
+3
+1
+​
+ ×196
+
+⇒ 196x = 
+686
++
+196
+3
+3
+686+196
+​
+ 
+
+⇒ 196x = 
+882
+3
+3
+882
+​
+ 
+
+⇒ x = 
+882
+3
+×
+196
+=
+882
+588
+3×196
+882
+​
+ = 
+588
+882
+​
+  = 1.5 cm.
+
+Hence, rise in water level = 1.5 cm
+
+Question 8(i)
+The following table gives the marks scored by a set of students in an examination. Calculate the mean of the distribution by using the short cut method.
+
+Marks	Number of students (f)
+0-10	3
+10-20	8
+20-30	14
+30-40	9
+40-50	4
+50-60	2
+Answer
+
+Marks	Number of students (f)	Class marks (x)	Deviation from assumed mean (A) (d = x - A)	f × d
+0-10	3	5	-20	-60
+10-20	8	15	-10	-80
+20-30	14	A = 25	0	0
+30-40	9	35	10	90
+40-50	4	45	20	80
+50-60	2	55	30	60
+Total	Σf = 40			Σfd = 90
+By formula,
+
+Mean = A + 
+Σ
+f
+d
+Σ
+f
+=
+25
++
+90
+40
+Σf
+Σfd
+​
+ =25+ 
+40
+90
+​
+ 
+
+= 25 + 2.25
+
+= 27.25
+
+Hence, required mean = 27.25
+
+Question 8(ii)
+What number must be added to each of the number 4, 6, 8, 11 in order to get the four numbers in proportion ?
+
+Answer
+
+Let x be added to each number.
+
+So, 4 + x, 6 + x, 8 + x and 11 + x must be in proportion.
+
+∴
+4
++
+x
+6
++
+x
+=
+8
++
+x
+11
++
+x
+⇒
+(
+4
++
+x
+)
+×
+(
+11
++
+x
+)
+=
+(
+8
++
+x
+)
+×
+(
+6
++
+x
+)
+⇒
+44
++
+4
+x
++
+11
+x
++
+x
+2
+=
+48
++
+8
+x
++
+6
+x
++
+x
+2
+⇒
+44
++
+15
+x
++
+x
+2
+=
+48
++
+14
+x
++
+x
+2
+⇒
+15
+x
+−
+14
+x
+=
+48
+−
+44
+⇒
+x
+=
+4.
+∴ 
+6+x
+4+x
+​
+ = 
+11+x
+8+x
+​
+ 
+⇒(4+x)×(11+x)=(8+x)×(6+x)
+⇒44+4x+11x+x 
+2
+ =48+8x+6x+x 
+2
+ 
+⇒44+15x+x 
+2
+ =48+14x+x 
+2
+ 
+⇒15x−14x=48−44
+⇒x=4.
+
+Hence, required number is 4.
+
+Question 8(iii)
+Using ruler and compass construct a triangle ABC in which AB = 6 cm. ∠BAC = 120° and AC = 5 cm. Construct a circle passing through A, B and C. Measure and write down the radius of the circle.
+
+Answer
+
+Steps of construction :
+
+Draw AB = 6 cm.
+
+Draw AP so that angle BAP = 120°.
+
+From AP cut AC = 5 cm ⇒ ∠BAC = 120°.
+
+Join B and C to get triangle ABC.
+
+Draw perpendicular bisectors of AB and AC which cut each other at point O.
+
+With O as center and OA (or OB or OC) as radius draw circle which passes through points A, B and C.
+
+Using ruler and compass construct a triangle ABC in which AB = 6 cm. ∠BAC = 120° and AC = 5 cm. Construct a circle passing through A, B and C. Measure and write down the radius of the circle. ICSE 2023 Maths Solved Question Paper.
+Hence, radius of circle obtained = 5 cm.
+
+Question 9(i)
+Using componendo and dividendo solve for x : 
+2
+x
++
+2
++
+2
+x
+−
+1
+2
+x
++
+2
+−
+2
+x
+−
+1
+=
+3
+2x+2
+​
+ − 
+2x−1
+​
+ 
+2x+2
+​
+ + 
+2x−1
+​
+ 
+​
+ =3.
+
+Answer
+
+Given : 
+2
+x
++
+2
++
+2
+x
+−
+1
+2
+x
++
+2
+−
+2
+x
+−
+1
+=
+3
+2x+2
+​
+ − 
+2x−1
+​
+ 
+2x+2
+​
+ + 
+2x−1
+​
+ 
+​
+ =3
+
+Applying componendo and dividendo, we get :
+
+⇒
+2
+x
++
+2
++
+2
+x
+−
+1
++
+2
+x
++
+2
+−
+2
+x
+−
+1
+2
+x
++
+2
++
+2
+x
+−
+1
+−
+(
+2
+x
++
+2
+−
+2
+x
+−
+1
+)
+=
+3
++
+1
+3
+−
+1
+⇒
+2
+2
+x
++
+2
+2
+2
+x
+−
+1
+=
+4
+2
+⇒
+2
+x
++
+2
+2
+x
+−
+1
+=
+2
+⇒
+2
+x
++
+2
+=
+2
+2
+x
+−
+1
+⇒ 
+2x+2
+​
+ + 
+2x−1
+​
+ −( 
+2x+2
+​
+ − 
+2x−1
+​
+ )
+2x+2
+​
+ + 
+2x−1
+​
+ + 
+2x+2
+​
+ − 
+2x−1
+​
+ 
+​
+ = 
+3−1
+3+1
+​
+ 
+⇒ 
+2 
+2x−1
+​
+ 
+2 
+2x+2
+​
+ 
+​
+ = 
+2
+4
+​
+ 
+⇒ 
+2x−1
+​
+ 
+2x+2
+​
+ 
+​
+ =2
+⇒ 
+2x+2
+​
+ =2 
+2x−1
+​
+ 
+
+Squaring both sides we get :
+
+⇒ 2x + 2 = 4(2x - 1)
+
+⇒ 2x + 2 = 8x - 4
+
+⇒ 8x - 2x = 2 + 4
+
+⇒ 6x = 6
+
+⇒ x = 
+6
+6
+6
+6
+​
+  = 1.
+
+Hence, x = 1.
+
+Question 9(ii)
+Which term of the Arithmetic Progression (A.P.) 15, 30, 45, 60 ..... is 300 ? Hence find the sum of all terms of the Arithmetic Progression (A.P.).
+
+Answer
+
+Given,
+
+A.P. : 15, 30, 45, 60 .....
+
+First term (a) = 15
+
+Common difference (d) = 30 - 15 = 15
+
+Let nth term be 300.
+
+⇒ an = 300
+
+⇒ a + (n - 1)d = 300
+
+⇒ 15 + 15(n - 1) = 300
+
+⇒ 15 + 15n - 15 = 300
+
+⇒ 15n = 300
+
+⇒ n = 
+300
+15
+15
+300
+​
+  = 20.
+
+Sum of the terms of the given A.P. :
+
+⇒ Sn = 
+n
+2
+(
+a
++
+a
+n
+)
+2
+n
+​
+ (a+a 
+n
+​
+ )
+
+⇒ S20 = 
+20
+2
+(
+15
++
+300
+)
+2
+20
+​
+ (15+300)
+
+= 10 × 315
+
+= 3150.
+
+Hence, sum of all terms of the given A.P. = 3150.
+
+Question 9(iii)
+From the top of a tower 100 m high, a man observes the angle of depression of two ships A and B, on opposite sides of the tower as 45° and 38° respectively. If the foot of tower and the ships are in the same horizontal line, find the distance between two ships A and B to the nearest metre.
+
+From the top of a tower 100 m high, a man observes the angle of depression of two ships A and B, on opposite sides of the tower as 45° and 38° respectively. If the foot of tower and the ships are in the same horizontal line, find the distance between two ships A and B to the nearest metre. ICSE 2023 Maths Solved Question Paper.
+Answer
+
+Let CD be the tower.
+
+From the top of a tower 100 m high, a man observes the angle of depression of two ships A and B, on opposite sides of the tower as 45° and 38° respectively. If the foot of tower and the ships are in the same horizontal line, find the distance between two ships A and B to the nearest metre. ICSE 2023 Maths Solved Question Paper.
+From figure,
+
+⇒ ∠A = ∠EDA = 45° (Alternate angles are equal)
+
+⇒ ∠B = ∠FDB = 38° (Alternate angles are equal)
+
+In △ ACD,
+
+⇒ tan A = 
+C
+D
+A
+C
+AC
+CD
+​
+ 
+
+⇒ tan 45° = 
+100
+A
+C
+AC
+100
+​
+ 
+
+⇒ AC = 
+100
+tan 45°
+=
+100
+1
+tan 45°
+100
+​
+ = 
+1
+100
+​
+  = 100 m.
+
+In △ BCD,
+
+⇒ tan B = 
+C
+D
+B
+C
+BC
+CD
+​
+ 
+
+⇒ tan 38° = 
+100
+B
+C
+BC
+100
+​
+ 
+
+⇒ BC = 
+100
+tan 38°
+=
+100
+0.7813
+tan 38°
+100
+​
+ = 
+0.7813
+100
+​
+  = 127.99 m.
+
+From figure,
+
+The distance between ships A and B = AC + BC
+
+= 100 + 127.99
+
+= 227.99 m ≈ 228 m.
+
+Hence, the distance between the two ships A and B = 228 m.
+
+Question 10(i)
+Factorize completely using factor theorem : 2x3 - x2 - 13x - 6.
+
+Answer
+
+Substituting x = -2 in 2x3 - x2 - 13x - 6, we get :
+
+⇒ 2(-2)3 - (-2)2 - 13(-2) - 6
+
+⇒ 2(-8) - 4 + 26 - 6
+
+⇒ -16 - 4 + 20
+
+⇒ -20 + 20
+
+⇒ 0.
+
+∴ x + 2 is a factor of the polynomial 2x3 - x2 - 13x - 6.
+
+Dividing, 2x3 - x2 - 13x - 6 by x + 2, we get :
+
+x
++
+2
+)
+‾
++
+−
+2
+x
+3
++
+−
+4
+x
+2
+‾
+−
+5
+x
+2
+−
+13
+x
+−
++
+5
+x
+2
+−
++
+10
+x
+‾
+−
+3
+x
+−
+6
+−
++
+3
+x
+−
++
+6
+‾
+×
+x+2)2x 
+2
+ −5x−3
+x+2 
+)
+ 2x 
+3
+ −x 
+2
+ −13x−6
+​
+ 
+x+2)) 
+−
++
+​
+ 2x 
+3
+  
+−
++
+​
+ 4x 
+2
+ 
+​
+ 
+x+2x 
+3
+ −2−5x 
+2
+ −13x
+x+2)x 
+3
+ −2 
++
+−
+​
+ 5x 
+2
+  
++
+−
+​
+ 10x
+​
+ 
+x+2)x 
+3
+ −2x 
+2
+ (3)−3x−6
+x+2)x 
+3
+ −2x 
+2
+ (31) 
++
+−
+​
+ 3x 
++
+−
+​
+ 6
+​
+ 
+x+2)x 
+3
+ −2x 
+2
+ (31)−2x×
+​
+ 
+
+∴ 2x3 - x2 - 13x - 6 = (x + 2)(2x2 - 5x - 3)
+
+= (x + 2)(2x2 - 6x + x - 3)
+
+= (x + 2)[2x(x - 3) + 1(x - 3)]
+
+= (x + 2)(2x + 1)(x - 3).
+
+Hence, 2x3 - x2 - 13x - 6 = (x + 2)(2x + 1)(x - 3).
+
+Question 10(ii)
+Use graph paper to answer this question.
+
+During a medical checkup of 60 students in a school, weights were recorded as follows :
+
+Weight (in kg)	Number of students
+28-30	2
+30-32	4
+32-34	10
+34-36	13
+36-38	15
+38-40	9
+40-42	5
+42-44	2
+Taking 2 cm = 2 kg along one axis and 2 cm = 10 students along the other axis draw an ogive. Use your graph to find the :
+
+(a) median
+
+(b) upper quartile
+
+(c) number of students whose weight is above 37 kg.
+
+Answer
+
+(a)
+
+Weight (in kg)	Number of students (f)	Cumulative frequencies (c.f.)
+28-30	2	2
+30-32	4	6
+32-34	10	16
+34-36	13	29
+36-38	15	44
+38-40	9	53
+40-42	5	58
+42-44	2	60
+Total	Σf = 60	
+Here, n = 60, which is even.
+
+Median = 
+n
+2
+2
+n
+​
+  th term = 
+60
+2
+2
+60
+​
+  = 30th term.
+
+Steps of construction :
+
+Take 1 cm = 2 kg on x-axis.
+
+Take 1 cm = 10 students on y-axis.
+
+Since, x axis starts at 28 hence, a kink is drawn at the starting of x-axis. Plot the point (28, 0) as ogive starts on x-axis representing lower limit of first class.
+
+Plot the points (30, 2), (32, 6), (34, 16), (36, 29), (38, 44), (40, 53), (42, 58) and (44, 60).
+
+Join the points by a free-hand curve.
+
+Draw a line parallel to x-axis from point A (no. of students) = 30, touching the graph at point B. From point B draw a line parallel to y-axis touching x-axis at point C.
+
+Use graph paper to answer this question. ICSE 2023 Maths Solved Question Paper.
+From graph, C = 36.2
+
+Hence, median = 36.2 kg
+
+(ii) Here, n = 60, which is even.
+
+By formula,
+
+Upper quartile = 
+3
+n
+4
+=
+3
+×
+60
+4
+4
+3n
+​
+ = 
+4
+3×60
+​
+  = 45th term.
+
+Draw a line parallel to x-axis from point D (no. of students) = 45, touching the graph at point E. From point E draw a line parallel to y-axis touching x-axis at point F.
+
+From graph, F = 38.2 kg
+
+Hence, upper quartile = 38.2 kg.
+
+(iii) Draw a line parallel to y-axis from point G (weight) = 37 kg, touching the graph at point H. From point H draw a line parallel to x-axis touching y-axis at point I.
+
+From graph, I = 38.
+
+∴ 38 students have weight less than or equal to 37 kg.
+
+No. of students whose weight is more than 37 kg = 60 - 38 = 22.
+
+Hence, no. of students whose weight is more than 37 kg = 22.

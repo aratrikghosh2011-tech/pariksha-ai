@@ -1,0 +1,2092 @@
+Section A
+Question 1(i)
+A moment of couple has a tendency to rotate the body in an anticlockwise direction. The moment of couple is taken as :
+
+positive
+negative
+maximum
+zero
+Answer
+
+positive
+
+Reason — Conventionally, if the effect on the body is to turn it anticlockwise, the moment of couple is called anticlockwise moment and it is taken positive, while if the effect on the body is to turn it clockwise, the moment of couple is called clockwise moment and it is taken negative.
+
+Question 1(ii)
+The kinetic energy of a given body depends on the :
+
+position
+centre of gravity
+momentum
+displacement
+Answer
+
+momentum
+
+Reason — As,
+
+Kinetic Energy = 
+1
+2
+2
+1
+​
+  mv2
+
+And,
+
+Momentum (p) = mv
+
+Then,
+
+Kinetic Energy
+=
+1
+2
+m
+m
+2
+v
+2
+=
+1
+2
+m
+p
+2
+Kinetic Energy= 
+2m
+1
+​
+ m 
+2
+ v 
+2
+ 
+= 
+2m
+1
+​
+ p 
+2
+ 
+
+So, the kinetic energy of a given body depends on its momentum.
+
+Question 1(iii)
+During power production in a coal-based thermoelectric power plant, the correct sequence of energy conversions taking place is:
+
+heat → mechanical → chemical
+heat → mechanical → electrical
+chemical → heat → light
+heat → chemical → electrical
+Answer
+
+heat → mechanical → electrical
+
+Reason — Coal's chemical energy is first released as heat in the boiler (steam). During power production, that heat drives the turbine (mechanical energy), and the generator converts it to electrical energy. Hence the sequence shown is heat → mechanical → electrical.
+
+Question 1(iv)
+Anita used a single movable pulley to lift a bucket of water from a well. She lubricates the pulley.
+
+Which of the following statements is true regarding the performance of the pulley used?
+
+Mechanical Advantage decreases and efficiency increases.
+Velocity Ratio increases and efficiency decreases.
+Mechanical Advantage remains unchanged and efficiency increases.
+Velocity Ratio remains unchanged and efficiency increases.
+Answer
+
+Velocity Ratio remains unchanged and efficiency increases.
+
+Reason — For an actual single movable pulley, due to (i) friction in the pulley bearings or at the axle, and (ii) the weight of the pulley and string, the effort needed to lift up a load L will be more than 
+L
+2
+2
+L
+​
+ , so the mechanical advantage will be less than 2. Since the velocity ratio remains 2, hence the efficiency will always be less than 1 or 100%.
+
+As velocity ratio for a single movable pulley always remains constant (equal to 2) so on lubricating the pulley the frictional forces reduces which increases the mechanical advantage but velocity ratio remains the same and since efficiency is given by
+
+Efficiency
+=
+Mechanical Advantage
+Velocity Ratio
+Efficiency= 
+Velocity Ratio
+Mechanical Advantage
+​
+ 
+
+so it will also increases.
+
+So, on lubricating the pulley, mechanical advantage and efficiency increases but velocity ratio remains constant.
+
+Question 1(v)
+Inside the prism, during the dispersion of white light, compared to blue, red light
+
+slows down less and refracts more
+slows down more and refracts less
+slows down more and refracts more
+slows down less and refracts less
+Answer
+
+slows down less and refracts less
+
+Reason — In a prism, the refractive index of a given transparent medium decreases with the increase in the wavelength of light. Thus, for visible light the refractive index of the material of a prism is greater for blue colour and minimum for red colour i.e., speed of red colour is greater than speed of blue colour. Consequently, a given prism deviates blue light more as compared to red light.
+
+Question 1(vi)
+When objects are viewed through the rising heat of a campfire they appear to shimmer. The optical phenomenon responsible for this effect is:
+
+refraction
+reflection
+scattering
+total internal reflection
+Answer
+
+refraction
+
+Reason — The shimmering effect around a campfire is primarily caused by the refraction of light through varying temperature and density layers in the air.
+
+Question 1(vii)
+A convex lens with a focal length of 12 cm has an object at a distance of 20 cm in front of the lens. A blurred image is obtained on the screen placed at a distance of 23 cm in front of the lens. In order to obtain a clear image, the screen has to be moved:
+
+towards the lens.
+away from the lens.
+to a position very far away from the lens.
+either towards or away from the lens.
+Answer
+
+away from the lens.
+
+Reason —
+
+Given,
+
+Focal length (f) = +12 cm
+
+Object distance (u) = -20 cm
+
+Blurred image distance (v') = +23 cm
+
+From the given information we can conclude that the object is placed between F1 and 2F1 of the convex lens. So, the image will be formed beyond 2F2 i.e., the image distance will be greater than 24 cm.
+
+Hence, in order to obtain the clear image, the screen should be moved away from the lens.
+
+Question 1(viii)
+Assertion (A) : Soldiers avoid firing at a target in foggy weather conditions.
+
+Reason (R) : In foggy weather, light gets scattered by tiny water droplets, reducing visibility.
+
+(A) is true but (R) is false.
+(A) is false but (R) is true.
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+Answer
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Explanation
+
+Assertion (A) is true because poor visibility can cause misjudgment of target location, increasing the chance of accidental damage or friendly fire.
+
+Reason (R) is true because fog contains tiny water droplets that cause scattering of light which reduces visibility.
+
+Since, the reduced visibility caused by scattering is precisely why soldiers avoid firing as they can’t see the target clearly so here reason clearly explains the assertion.
+
+Question 1(ix)
+Two sound waves X and Y have the same amplitude and the same wave pattern but their frequencies are 60 Hz and 120 Hz respectively, then
+
+X will be shriller and Y will be grave
+X will be grave and Y will be shriller
+X will differ in quality than Y
+X is louder than Y
+Answer
+
+X will be grave and Y will be shriller
+
+Reason — The shrillness of a sound wave is directly proportional to its frequency, meaning that higher frequencies result in shriller sounds and lower frequencies result in grave sound.
+
+Question 1(x)
+In the circuit given below, identify the correct relation between the currents flowing through the 2 Ω, 3 Ω, and 5 Ω resistors:
+
+In the circuit given below, identify the correct relation between the currents flowing through the 2 Ω, 3 Ω, and 5 Ω resistors: ICSE 2026 Specimen Physics Solved Question Paper.
+current through 2Ω > current through 3Ω
+current through 5Ω < current through 3Ω
+current through 2Ω = current through 5Ω
+current through 5Ω > current through 3Ω
+Answer
+
+current through 2Ω = current through 5Ω
+
+Reason —
+
+Given,
+
+Emf of the cell (ε) = 12 V
+
+As, same current flows through 3 Ω and 2 Ω resistances so they are connected in series and their net resistance will be :
+
+RS = 2 + 3 = 5 Ω
+
+Since, RS and 5 Ω have same potential difference so they are in parallel combination.
+
+As resistance in both the arms is the same (5 Ω) so equal current flows through (3 Ω + 2 Ω) combination and 5 Ω.
+
+Hence, current through 2Ω = current through 5Ω.
+
+Question 1(xi)
+According to the old convention, the colour of the earth wire is :
+
+black
+green
+yellow
+red
+Answer
+
+green
+
+Reason — The colour coding is given below :
+
+Wire	Old Convention	New Convention
+Live	Red	Brown
+Neutral	Black	Light blue
+Earth	Green	Green or Yellow
+Question 1(xii)
+For an ideal step up transformer :
+
+Voltage
+primary
+Voltage
+secondary
+>
+1
+Voltage 
+secondary
+​
+ 
+Voltage 
+primary
+​
+ 
+​
+ >1
+Current
+primary
+Current
+secondary
+<
+1
+Current 
+secondary
+​
+ 
+Current 
+primary
+​
+ 
+​
+ <1
+number of turns
+primary
+number of turns
+secondary
+=
+1
+number of turns 
+secondary
+​
+ 
+number of turns 
+primary
+​
+ 
+​
+ =1
+power
+primary
+power
+secondary
+=
+1
+power 
+secondary
+​
+ 
+power 
+primary
+​
+ 
+​
+ =1
+Answer
+
+power
+primary
+power
+secondary
+=
+1
+power 
+secondary
+​
+ 
+power 
+primary
+​
+ 
+​
+ =1
+
+Reason — The step up transformer is used to change a low alternating voltage to a high alternating voltage (of same frequency) i.e.,
+
+VSecondary > VPrimary
+
+⟹ 
+Voltage
+secondary
+Voltage
+primary
+>
+1
+Voltage 
+primary
+​
+ 
+Voltage 
+secondary
+​
+ 
+​
+ >1
+
+Also,
+
+In a step up transformer, the number of turns in the secondary coil is more than the number of turns in the primary coil i.e.,
+
+number of turnsSecondary > number of turnsPrimary
+
+⟹ 
+number of turns
+secondary
+number of turns
+primary
+>
+1
+number of turns 
+primary
+​
+ 
+number of turns 
+secondary
+​
+ 
+​
+ >1
+
+And
+
+The current in primary coil is more than in the secondary coil i.e.,
+
+Currentprimary > Currentsecondary
+
+⟹ 
+Current
+primary
+Current
+secondary
+>
+1
+Current 
+secondary
+​
+ 
+Current 
+primary
+​
+ 
+​
+ >1
+
+As, for an ideal transformer, when there is no energy loss, the output power will be equal to the input power. i.e.,
+
+powerprimary = powersecondary
+
+⟹ 
+power
+primary
+power
+secondary
+=
+1
+power 
+secondary
+​
+ 
+power 
+primary
+​
+ 
+​
+ =1
+
+Question 1(xiii)
+Heat capacity of a body is the :
+
+energy needed to melt a body without change in its temperature
+energy needed to raise the temperature of a body by 1°C
+increase in volume of the body when its temperature increases by 1°C
+total amount of internal energy that is constant
+Answer
+
+energy needed to raise the temperature of a body by 1°C
+
+Reason — The heat capacity of a body is the amount of heat energy required to raise its temperature by 1°C (or 1 K).
+
+Question 1(xiv)
+The amount of heat energy required to melt a given mass of a substance at its melting point without any rise in its temperature is called as the :
+
+specific heat capacity
+specific latent heat of fusion
+latent heat of fusion
+specific latent heat of freezing
+Answer
+
+latent heat of fusion
+
+Reason — Heat energy absorbed in change of phase that is not externally manifested by any rise in temperature is called the latent heat of fusion.
+
+Question 1(xv)
+A nucleus of an atom consists of 146 neutrons and 95 protons. It decays after emitting an alpha particle. How many protons and neutrons are left in the nucleus after an alpha emission?
+
+protons = 93, neutrons = 142
+protons = 95, neutrons = 144
+protons = 93, neutrons = 144
+protons = 95, neutrons = 142
+Answer
+
+protons = 93, neutrons = 144
+
+Reason — An alpha particle consists of two protons and two neutrons. Emission of alpha particle reduces the number of protons by 2 and also the number of neutrons by 2. Hence, number of protons = 95 - 2 = 93 and number of neutrons = 146 - 2 = 144.
+
+Question 2(i)
+Complete the following by choosing the correct answers from the bracket :
+
+(a) A ............... [Class II / Class III] lever will always have M.A. > 1.
+
+(b) A boy uses a GPS device to locate his missing friend in a crowded area; the system primarily uses ............... [ultraviolet waves / microwaves] to track the location.
+
+(c) Unit of specific heat capacity is ............... . [kg2m2s-2K-1 / m2s-2K-1]
+
+(d) The threshold of hearing is ............... . [0 dB / 20 Hz]
+
+(e) Two copper wires can have different resistivity if they have different ............... . [lengths / temperatures]
+
+(f) The reaction responsible for the production of energy in the sun is ............... . [Nuclear Fusion / Nuclear Fission]
+
+Answer
+
+(a) A class II lever will always have M.A. > 1.
+
+(b) A boy uses a GPS device to locate his missing friend in a crowded area; the system primarily uses microwaves to track the location.
+
+(c) Unit of specific heat capacity is m2s-2K-1.
+
+(d) The threshold of hearing is 0 dB.
+
+(e) Two copper wires can have different resistivity if they have different temperatures.
+
+(f) The reaction responsible for the production of energy in the sun is Nuclear Fusion.
+
+Question 2(ii)
+Match the movement of the body part in Column A to the class of lever in Column B.
+
+Movement of the body part (Column A)	Class of lever (Column B)
+(a) Nodding head	• Class III
+(b) Lifting body weight on your toes	• Class II
+ 	• Class I
+Answer
+
+Movement of the body part (Column A)	Class of lever (Column B)
+(a) Nodding head	• Class I
+(b) Lifting body weight on your toes	• Class II
+Reason —
+
+(a) In class I lever, the fulcrum is in between the effort and the load so in the same manner in nodding head, the spine acts as the fulcrum, load is at its front part while effort is at its rear part as shown in below figure.
+
+In class I lever, the fulcrum is in between the effort and the load so in the same manner in nodding head, the spine acts as the fulcrum, load is at its front part while effort is at its rear part as shown in below figure.ICSE 2026 Specimen Physics Solved Question Paper.
+(b) In class II lever, the fulcrum and the effort are at the two ends of the lever and the load is somewhere in between the effort and the fulcrum so like class II, the weight of the body is raised on toes where the fulcrum is at the toes at one end, the load (i.e., weight of the body) is in the middle and effort by muscles is at the other end as shown in below figure.
+
+In class II lever, the fulcrum and the effort are at the two ends of the lever and the load is somewhere in between the effort and the fulcrum so like class II, the weight of the body is raised on toes where the fulcrum is at the toes at one end.ICSE 2026 Specimen Physics Solved Question Paper.
+Question 2(iii)
+(a) Name the waves used for echo depth sounding.
+
+(b) Give one reason why the waves mentioned in (a) is used for the above purpose.
+
+Answer
+
+(a) Ultrasonic waves.
+
+(b) Ultrasonic waves are used for echo depth sounding because they travel long distance without deviation and is not easily absorbed by the medium or can be confined to a narrow beam.
+
+Question 3(i)
+(a) Refer to the diagram given below. A lens is made of two materials of different refractive indices (µ1, µ2) as shown. If the rays are coming from a distant object, then how many images will be seen?
+
+Refer to the diagram. A lens with two different refractive indices is shown. If the rays are coming from a distant object, then how many images will be seen? ICSE 2026 Specimen Physics Solved Question Paper.
+(b) A glass lens always forms a virtual, erect and diminished image of an object kept in front of it. Identify the lens.
+
+Answer
+
+(a) According to the lens maker formula :
+
+1
+f
+=
+(
+μ
+−
+1
+)
+(
+1
+R
+1
+−
+1
+R
+2
+)
+f
+1
+​
+ =(μ−1)( 
+R 
+1
+​
+ 
+1
+​
+ − 
+R 
+2
+​
+ 
+1
+​
+ )
+
+Focal length is a function of refractive index, hence for two different refractive indices there will be two different focal lengths.
+
+Two different focal length implies two different images for same object.
+
+Hence, 2 images will be formed.
+
+(b) Concave lens because irrespective of the position of the object, the image formed by a thin concave (or divergent) lens is always virtual, upright, diminished, and it is situated on the side of the object between the focus and the lens.
+
+Question 3(ii)
+The image given below displays kilowatt-hour meter readings recorded at two distinct points in time.
+
+ABCDE is a regular pentagon with its centre of gravity at O. What will be the most probable position (W, X, Y, Z or O) of the new centre of gravity: ICSE 2026 Specimen Physics Solved Question Paper.
+Assuming a continuously running 2000 W air conditioner as the sole electrical device in use, calculate the time interval, in hours, between these two meter readings.
+
+Answer
+
+Given,
+
+Power rating of air conditioner (P) = 2000 W
+Initial meter reading = 856 KWh = 856 x 1000 Wh = 8,56,000 Wh
+Final meter reading = 1567 KWh = 1567 x 1000 Wh = 15,67,000 Wh
+Now,
+
+Total electrical energy consumed (E) = Final meter reading - Initial meter reading = 15,67,000 - 8,56,000 = 7,11,000 Wh
+
+Then
+
+Total time interval = 
+E
+P
+=
+711000
+2000
+=
+711
+2
+P
+E
+​
+ = 
+2000
+711000
+​
+ = 
+2
+711
+​
+  = 355.5 hours
+
+So, the air conditioner is running for 355.5 hours.
+
+Question 3(iii)
+ABCDE is a regular pentagon with its centre of gravity at O. What will be the most probable position (W, X, Y, Z or O) of the new centre of gravity:
+
+ABCDE is a regular pentagon with its centre of gravity at O. What will be the most probable position (W, X, Y, Z or O) of the new centre of gravity: ICSE 2026 Specimen Physics Solved Question Paper.
+(a) if a piece of clay is attached at point A?
+
+(b) if the pentagon is cut along the line PQ? (Of the remaining part DCBQPE)
+
+Answer
+
+(a) X
+
+(b) Z
+
+Reason —
+
+(a) If a piece of clay is attached at point A of the pentagon ABCDE then new centre of gravity will be shifted towards A to maintain stable equilibrium and hence, the most probable position will be X.
+
+(b) If the pentagon is cut along the line PQ then only DCBQPE remains which has equal mass distribution on left and right portions about the point O but has greater mass distributed on the upper portion than the lower portion about the point O. So, new centre of gravity will shift towards upper portion i.e. at a point above to the point O to maintain stable equilibrium and hence, the most probable position of new centre of gravity will be Z.
+
+Question 3(iv)
+A solid of mass 60 g at 100°C is placed in 150 g of water at 20°C. The final steady temperature is 25°C. Calculate the heat capacity of solid.
+
+[Specific heat capacity of water = 4.2 Jg-1K-1]
+
+Answer
+
+Given,
+
+Mass of solid (ms) = 60 g
+
+Mass of water (mw) = 150 g
+
+Fall in temperature of solid (△ts) = (100 - 25) = 75°C
+
+Rise in temperature of water (△tw) = (25 - 20) = 5°C
+
+Specific heat capacity of water (cw) = 4.2 Jg-1K-1
+
+Let specific heat capacity of solid be cs.
+
+Then,
+
+Heat energy given by solid = mscs△ts = 60 x cs x 75 = 4500 x cs ......(1)
+
+Heat energy taken by water = mwcw△tw = 150 × 4.2 × 5 = 3150 ......(2)
+
+Assuming that there is no loss of heat energy,
+
+Heat energy given by solid = Heat energy taken by water.
+
+Equating equations 1 & 2, we get,
+
+4500 × cs = 3150
+
+⇒
+c
+s
+=
+3150
+4500
+⇒c 
+s
+​
+ = 
+4500
+3150
+​
+ 
+
+⇒ cs = 0.7 J g-1 K-1
+
+Now,
+
+Heat capacity of solid = mass x specific heat capacity = 60 x 0.7 = 42 J K-1
+
+Hence, Heat capacity of solid = 42 J K-1.
+
+Question 3(v)
+The diagram given below shows a copper wire wound around a U-shape soft iron bar. An iron pin is brought near the arrangement. First Source P and then Source Q are connected across AB, each operating independently.
+
+The diagram given below shows a copper wire wound around a U-shape soft iron bar. An iron pin is brought near the arrangement. First Source P and then Source Q are connected across AB, each operating independently.. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) State True or False: Source P as well as Source Q, when connected across AB, can attract the iron pin.
+
+(b) Justify your answer to (a) with a suitable reason.
+
+Answer
+
+(a) True.
+
+(b) The coil on a soft-iron core acts as an electromagnet with either supply.
+
+With P (AC): an alternating magnetic field repeatedly magnetises the soft iron; a ferromagnetic pin is attracted in both half-cycles (polarity doesn't matter).
+With Q (DC): a steady field magnetises the core continuously, so the pin is attracted.
+Question 3(vi)
+(a) Name the radiation that is emitted during the decay of a nucleus that has the highest penetrating power.
+
+(b) Does the emission of the above-mentioned radiation result in a change in the mass number?
+
+Answer
+
+(a) Gamma (γ) radiation.
+
+(b) No, the emission of gamma radiation does not result in a change in the mass number as they are a form of electromagnetic radiation, essentially high-energy photons, and they have no mass or charge. Since they are massless, their emission does not affect the number of protons or neutrons in the nucleus, and therefore the mass number remains unchanged.
+
+Question 3(vii)
+Advanced optical sensors in air-to-air missiles use fiber optic cables to transmit light signals with minimal loss. This relies on a physical phenomenon that confines light within the fibers, making the system very dependable for guiding the missile precisely.
+
+(a) Name the optical phenomenon that allows light signals to remain confined within the fiber optic cables during transmission.
+
+(b) Explain the two main conditions necessary for this phenomenon to occur.
+
+Answer
+
+(a) Total internal reflection.
+
+(b) There are two necessary conditions for total internal reflection :
+
+The light must travel from a denser to a rarer medium.
+The angle of incidence must be greater than the critical angle for the pair of media.
+Section B
+
+Question 4(i)
+The diagram below shows a fish in the tank and its image seen in the surface of water.
+
+The diagram shows a fish in the tank and its image seen in the surface of water. Name the phenomenon responsible for the formation of this image. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) Name the phenomenon responsible for the formation of this image.
+
+(b) A double convex lens with refractive index μ1 inside two liquids of refractive indices μ2 and μ3 are shown in the diagrams below. The refractive indices are such that μ2 > μ1 and μ1 > μ3
+
+A double convex lens with refractive index μ1 inside two liquids of refractive indices μ2 and μ3 are shown in the diagrams below. ICSE 2026 Specimen Physics Solved Question Paper.
+How would a parallel incident beam of light refract when it comes out of the lens in each of the cases shown above?
+
+(1) in figure a.
+
+(2) in figure b.
+
+Answer
+
+(a) Total internal reflection.
+
+(b) According to the lens maker formula :
+
+1
+f
+∝
+(
+refractive index of 2nd medium
+refractive index of 1st medium
+−
+1
+)
+f
+1
+​
+ ∝( 
+refractive index of 1st medium
+refractive index of 2nd medium
+​
+ −1) ......(i)
+
+(1) In figure a :
+
+Refractive index of 1st medium = μ3
+
+Refractive index of 2nd medium = μ1
+
+Then, from relation (i)
+
+1
+f
+∝
+(
+μ
+1
+μ
+3
+−
+1
+)
+f
+1
+​
+ ∝( 
+μ 
+3
+​
+ 
+μ 
+1
+​
+ 
+​
+ −1)
+
+As,
+
+μ1 > μ3
+
+⇒
+μ
+1
+μ
+3
+>
+1
+⇒
+1
+f
+>
+0
+⇒
+f
+>
+0
+⇒ 
+μ 
+3
+​
+ 
+μ 
+1
+​
+ 
+​
+ >1
+⇒ 
+f
+1
+​
+ >0
+⇒f>0
+
+Since, the resulting focal length is positive so this lens behaves as a converging lens.
+
+Hence, a parallel incident beam of light converges when it comes out of the lens in figure a.
+
+(2) In figure b :
+
+Refractive index of 1st medium = μ2
+
+Refractive index of 2nd medium = μ1
+
+Then, from relation (i)
+
+1
+f
+∝
+(
+μ
+1
+μ
+2
+−
+1
+)
+f
+1
+​
+ ∝( 
+μ 
+2
+​
+ 
+μ 
+1
+​
+ 
+​
+ −1)
+
+As,
+
+μ1 < μ2
+
+⇒
+μ
+1
+μ
+2
+<
+1
+⇒
+1
+f
+<
+0
+⇒
+f
+<
+0
+⇒ 
+μ 
+2
+​
+ 
+μ 
+1
+​
+ 
+​
+ <1
+⇒ 
+f
+1
+​
+ <0
+⇒f<0
+
+Since, the resulting focal length is negative so this lens behaves as a diverging lens.
+
+Hence, a parallel incident beam of light diverges when it comes out of the lens in figure b.
+
+Question 4(ii)
+A scientist lowers a metallic ruler vertically into a transparent oil tank. The ruler touches an object placed at the bottom of the tank and gets wet up to the 25 cm mark. If the refractive index of the glycerin is 1.25:
+
+(a) up to which mark will the ruler get wet, if the scientist lowers it up to the image of the object?
+
+(b) how will this length in (a) change if another liquid of μ > 1.25 is used?
+
+Answer
+
+(a) Given,
+
+Actual depth of the object = 25 cm
+Refractive index of the glycerin = μ = 1.25
+The ruler is seen to be touching the object visually, so it is lowered up to the apparent position of the object (i.e., the image due to refraction)
+As,
+
+Apparent depth
+=
+Real depth
+μ
+=
+25
+1.25
+Apparent depth= 
+μ
+Real depth
+​
+ = 
+1.25
+25
+​
+  = 20 cm
+
+So, the ruler will get wet up to the 20 cm mark.
+
+(b) As,
+
+Apparent depth
+=
+Real depth
+μ
+Apparent depth= 
+μ
+Real depth
+​
+ 
+
+Here, apparent depth depends inversely on refractive index (μ) of the medium so if another liquid of μ > 1.25 is used then apparent depth decreases.
+
+Hence, the wet length of the ruler will be less than 20 cm.
+
+Question 4(iii)
+(a) A mixture of red, blue and green light rays is passed through a convex lens, as illustrated in the diagram below. State whether the ray passes through a single point or through different points on the principal axis after refraction.
+
+Mixture of red + blue + green is passed through a convex lens as shown in the diagram below. State whether the ray passes through a single point or through different points on the principal axis after refraction. ICSE 2026 Specimen Physics Solved Question Paper.
+(b) Name the invisible radiation which is studied using the quartz prism.
+
+(c) State one use of the radiation mentioned by you in (b) above.
+
+(d) Name one type of radiation with a wavelength greater than that of the radiation mentioned by you in (b) above.
+
+Answer
+
+(a) The ray will pass through different points on principal axis after refraction through the convex lens as the refractive index of a medium decreases with the increase in wavelength so red colour will deviate the least, followed by green and then blue will deviate the most.
+
+(b) Ultraviolet radiations.
+
+(c) Ultraviolet radiations are used for sterilizing air, surgical equipment, etc.
+
+(d) Infrared radiation.
+
+Question 5(i)
+An object is placed at a distance 24 cm in front of a convex lens of focal length 8 cm.
+
+(a) What is the nature of the image so formed?
+
+(b) Calculate the distance of the image from the lens.
+
+Answer
+
+(a) As, the object distance (= 24 cm) is greater than the focal length (= 8 cm) of the convex lens which means the object placed beyond it's focus so the lens will form a real and inverted image.
+
+(b)
+
+Given,
+
+Object distance (u) = -24 cm
+
+Focal length (f) = +8 cm
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+⇒
+1
+v
+=
+1
+f
++
+1
+u
+⇒
+1
+v
+=
+1
+8
++
+1
+(
+−
+24
+)
+⇒
+1
+8
+−
+1
+24
+=
+3
+−
+1
+24
+⇒
+1
+v
+=
+2
+24
+⇒
+v
+=
+24
+2
+=
+12
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+f
+1
+​
+ + 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+8
+1
+​
+ + 
+(−24)
+1
+​
+ 
+⇒ 
+8
+1
+​
+ − 
+24
+1
+​
+ = 
+24
+3−1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+24
+2
+​
+ 
+⇒v= 
+2
+24
+​
+ =12 cm
+
+∴ The image is formed at a distance of 12 cm behind the lens.
+
+Question 5(ii)
+The diagram below shows a cooling curve for a substance X :
+
+The diagram shows a cooling curve for a substance. State the temperatures at which the substance condenses. The temperature range in which the substance is in liquid state. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) State the temperatures at which the substance condenses.
+
+(b) Mention the temperature range in which the substance is in its liquid state.
+
+(c) State True or False: The amount of heat released when a substance is cooled by 10°C in its liquid state is greater than the heat released when it is cooled by the same amount in its solid state.
+
+Answer
+
+(a) Substance condenses at 150 °C.
+
+(b) 150 °C to 60 °C.
+
+(c) True.
+
+Reason — The amount of heat released when a substance is cooled depends on :
+
+Q = mcΔT
+
+Where:
+
+Q = heat released
+m = mass of the substance
+c = specific heat capacity
+ΔT = change in temperature
+Now, for the same mass and same temperature drop (10°C), the specific heat capacity (c) of a liquid is usually greater than that of its solid form.
+
+So,
+
+Qliquid > Qsolid
+
+Hence, more heat is released when cooling a substance by 10°C in its liquid state than in its solid state, due to higher specific heat capacity.
+
+Question 5(iii)
+In an experiment to measure the temperature of the flame of a Bunsen burner, a lump of copper of mass 0.12 kg is heated on the flame for a long time. The copper then is quickly transferred into a beaker of negligible heat capacity containing 0.84 kg of water and the temperature of the water rose from 15 °C to 35 °C. Calculate the temperature of the flame.
+[Given : Specific heat capacity of copper = 0.4 J g-1 °C-1, Specific heat capacity of water = 4.2 J g-1 °C-1]
+
+Answer
+
+Given,
+
+Mass of copper (mC) = 0.12 kg = 0.12 x 1000 g = 120 g
+Mass of water (mW) = 0.84 kg = 0.84 x 1000 = 840 g
+Initial Temperature of water (T1) = 15 °C
+Final Temperature of water = Final Temperature of copper = (T2) = 35 °C
+Specific heat capacity of copper (cC) = 0.4 J g-1 °C-1
+Specific heat capacity of water (cW) = 4.2 J g-1 °C-1
+Let,
+
+Temperature of the flame = Initial Temperature of copper = T
+
+Now,
+
+Heat lost by copper = mC x cC x (T - T2)
+
+= 120 x 0.4 x (T - 35)
+
+= 48 x (T - 35)
+
+And
+
+Heat gained by water = mW x cW x (T2 - T1)
+
+= 840 x 4.2 x (35 - 15)
+
+= 840 x 4.2 x 20
+
+= 70560 J
+
+As,
+
+Heat lost by copper = Heat gained by water
+
+⟹ 48 x (T - 35) = 70560
+
+⟹ T - 35 = 
+70560
+48
+48
+70560
+​
+  = 1470
+
+⟹ T = 1470 + 35 = 1505 °C
+
+Hence, temperature of the flame is 1505 °C.
+
+Question 6(i)
+A metal rod AB of length 80 cm is balanced at 45 cm from the end A with 100 gf weights suspended from the two ends.
+
+A metal rod AB of length 80 cm is balanced at 45 cm from the end A with 100 gf weights suspended from the two ends. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) If this rod is cut at the centre C, then compare the weight of AC to the weight of BC. (Use >, < or =)
+
+(b) Give a reason for your answer in (a)
+
+Answer
+
+(a) Given,
+
+Weight at the end A (WA) = 100 gf
+
+Weight at the end B (WB) = 100 gf
+
+Length of the rod (L) = 80 cm
+
+Distance of A from the fulcrum (lA) = 45 cm
+
+Distance of B from the fulcrum (lB) = 80 cm - 45 cm = 35 cm
+
+Let,
+
+Weight of the rod AC is (WAC) and distance of centre of gravity of the rod AC from the fulcrum is (lAC).
+
+And
+
+Weight of the rod BC is (WBC) and distance of centre of gravity of the rod BC from the fulcrum is (lBC).
+
+Here,
+
+(lAC) = 45 - 20 = 25 cm,
+
+(lBC) = 60 - 45 = 15 cm,
+
+Now,
+
+Anticlockwise moment (due to weight of 100 gf at end A and weight of rod AC) = lA x WA + lAC x WAC = 45 x 100 + 25 x WAC
+
+Clockwise moment (due to weight of 100 gf at end B and weight of rod BC) = lB x WB + lBC x WBC = 35 x 100 + 15 x WBC
+
+As system is balanced then for equilibrium,
+
+Anticlockwise moment of force about the fulcrum = Clockwise moment of force about the fulcrum
+
+45 x 100 + 25 x WAC = 35 x 100 + 15 x WBC
+
+⇒ 4500 + 25WAC = 3500 + 15WBC
+
+⇒ 15WBC - 25WAC = 4500 - 3500 = 1000
+
+⇒ 3WBC - 5WAC = 200
+
+⇒ 3WBC - 5WAC > 0
+
+⇒ 3WBC > 5WAC
+
+W
+BC
+W
+AC
+>
+5
+3
+>
+1
+W 
+AC
+​
+ 
+W 
+BC
+​
+ 
+​
+ > 
+3
+5
+​
+ >1
+
+⇒ WBC > WAC
+
+Hence, weight of AC < weight of BC.
+
+(b) Even though the weights present are the same at both ends and the torque arm of B is less than the torque arm of A. This means the moment of the weight of the rod acts from side B and the C.G. lies beyond 45. Thus, more weight is concentrated between C to B.
+
+Question 6(ii)
+For each of the following scenarios, state whether the work done by gravity is positive, negative, or zero.
+
+(a) a person walks on a levelled road.
+
+(b) a person climbs a ladder.
+
+(c) a car in neutral gear is coming down the slope.
+
+Answer
+
+(a) Zero
+
+(b) Negative
+
+(c) Positive
+
+Reason —
+
+(a) Zero because when a person walks on a levelled, no work is done against the force of gravity as the displacement of the person is normal to the direction of force of gravity which is vertically downwards.
+
+(b) Negative because when a person climbs a ladder (upward), the displacement covered by the person is opposite to the direction of force of gravity (downwards), so the work done on the person by the force of gravity is negative.
+
+(c) Positive because when a car in neutral gear is coming down the slope, the direction of displacement covered by it has some angle θ with the direction of force of gravity (downwards) such that such that 0° ≤ θ < 90°, so the work done on the car by the force of gravity is positive.
+
+Question 6(iii)
+A, B, C and D are four points on a hemispherical cup placed inverted on the ground. Diameter BC = 360 cm and AE = R/3 (R is the radius of the cup). A small spherical mass 500 g at rest at the point A, slides down along the smooth surface of the cup. Assuming that there is no loss of energy, calculate its:
+
+A, B, C and D are four points on a hemispherical cup placed inverted on the ground. Diameter BC = 360 cm and AE = R/3 (R is the radius of the cup). A small spherical mass 500 g at rest at the point A, slides down along the smooth surface of the cup. Assuming that there is no loss of energy, calculate its: ICSE 2026 Specimen Physics Solved Question Paper.
+(a) Potential Energy at A relative to B.
+
+(b) Speed at the point B (lowest point).
+
+(c) Kinetic Energy at D (g = 10 m s-2).
+
+Answer
+
+Given,
+
+Diameter (2R) = 360 cm = 3.6 m
+Radius (R) = 1.8 m
+Mass of the sphere (m) = 500 g = 0.5 kg
+AE = 
+R
+3
+=
+1.8
+3
+3
+R
+​
+ = 
+3
+1.8
+​
+  = 0.6 m
+Acceleration due to gravity (g) = 10 m s-2
+Condition : No energy loss so energy is conserved.
+
+(a) As, point B is on the ground then
+
+Height of point A relative to point B = radius of hemisphere (R) = 1.8 m
+
+Potential energy UA at A relative to B is given by
+
+UA = m x g x R
+
+Substituting the values we get,
+
+UA = 0.5 x 10 x 1.8
+
+⇒ UA = 9 J
+
+Hence, the potential energy at point A relative to point B is 9 J.
+
+(b) As there are no energy losses so total mechanical energy is same at all points of the path due to conservation of mechanical energy and all the potential energy at point A will be converted to kinetic energy at point B.
+
+Let, speed at point B be 'vB'.
+
+Then,
+
+Kinetic energy at B = UA
+
+⇒
+1
+2
+m
+v
+B
+2
+=
+9
+⇒
+1
+2
+×
+0.5
+×
+v
+B
+2
+=
+9
+⇒
+v
+B
+2
+=
+2
+×
+9
+0.5
+=
+36
+⇒
+v
+B
+=
+36
+=
+6
+ m s
+−
+1
+⇒ 
+2
+1
+​
+ mv 
+B
+​
+  
+2
+ =9
+⇒ 
+2
+1
+​
+ ×0.5×v 
+B
+​
+  
+2
+ =9
+⇒v 
+B
+​
+  
+2
+ = 
+0.5
+2×9
+​
+ =36
+⇒v 
+B
+​
+ = 
+36
+​
+ =6 m s 
+−1
+ 
+
+So, speed at point B is 6 m s-1.
+
+(c) As points D and E are on the same height so at these points their potential and kinetic energies are equal i.e.,
+
+Potential energy at point D = Potential energy at point E
+
+And
+
+Kinetic energy at point D = Kinetic energy at point E
+
+Now,
+
+Distance of point D from the ground = R - AE = 1.8 - 0.6 = 1.2 m
+
+Thus, potential energy at point D = mg x 1.2 = 0.5 x 10 x 1.2 = 6 J
+
+Mechanical energy at point D = Potential energy at point D + Kinetic energy at point D
+
+As, mechanical energy is conserved,
+
+Mechanical energy at point D = Potential energy at point A
+
+⇒ Potential energy at point D + Kinetic energy at point D = 9
+
+⇒ 6 + Kinetic energy at point D = 9
+
+⇒ Kinetic energy at point D = 9 - 6 = 3 J
+
+So, kinetic energy at point D is 3 J.
+
+Question 7(i)
+A block and tackle system of pulleys has velocity ratio 4.
+
+(a) Draw a labelled diagram of the system indicating clearly, the direction of the load and effort.
+
+(b) Calculate the potential energy of the load 100 kgf, lifted by this pulley to a height 5 m. (g = 10 m s-2)
+
+Answer
+
+(a) The labelled diagram of the system indicating clearly, the direction of the load and effort is shown below :
+
+The labelled diagram of the system indicating clearly, the direction of the load and effort is shown below. ICSE 2025 Specimen Physics Solved Question Paper.
+(b) Given,
+
+m = 100 kg
+
+h = 5 m
+
+g = 10 m s-2
+
+Then,
+
+Potential Energy (U) = mgh = 100 × 10 × 5 = 5000 J
+
+Question 7(ii)
+A person standing in front of a cliff fires a gun and hears its echo after 3s. Speed of sound in air is 336 m s-1.
+
+(a) Calculate the distance of the person from the cliff.
+
+(b) After moving a certain distance from the cliff, he fires the gun again and this time the echo is heard 1.5 s later than the first. Calculate the distance that the person has moved.
+
+Answer
+
+(a) Given,
+
+Time taken to hear the echo = 3s
+
+Speed of sound = 336 ms-1
+
+So,
+
+Distance of the person from the cliff
+=
+Speed of sound
+×
+Time taken
+2
+=
+336
+×
+3
+2
+=
+1008
+2
+=
+504
+ m
+Distance of the person from the cliff= 
+2
+Speed of sound×Time taken
+​
+ 
+= 
+2
+336×3
+​
+ = 
+2
+1008
+​
+ 
+=504 m
+
+So, distance of the person from the cliff is 504 m.
+
+(b) Given,
+
+Time taken to hear the new echo = 3 s + 1.5 s = 4.5 s
+
+So,
+
+New distance of the person from the cliff
+=
+Speed of sound
+×
+Time taken
+2
+=
+336
+×
+4.5
+2
+=
+1512
+2
+=
+756
+ m
+New distance of the person from the cliff= 
+2
+Speed of sound×Time taken
+​
+ 
+= 
+2
+336×4.5
+​
+ = 
+2
+1512
+​
+ 
+=756 m
+
+Distance moved by the person = 756 - 504 = 252 m
+
+So, distance moved by the person is 252 m.
+
+Question 7(iii)
+The below picture shows a mother pushing her daughter sitting on a swing. The swing is going through the positions A, B, C where A and C are extreme positions and B is the mean position.
+
+The below picture shows a mother pushing her daughter sitting on a swing. The swing is going through the positions A, B, C where A and C are extreme positions and B is the mean position. ICSE 2025 Specimen Physics Solved Question Paper.
+(a) Which is the right position i.e. at A, B or C, for the mother to give a constant periodic push to the swing, every time in the forward direction, to increase the amplitude of the swing?
+
+(b) Name the phenomenon involved in this.
+
+(c) On the basis of this example, explain how this phenomenon helps to increase the amplitude of the swing.
+
+Answer
+
+(a) At position A, the mother should give a constant periodic push to the swing every time in the forward direction to increase the amplitude of the swing because it is an extreme position where speed of the swing is zero and direction of motion changes from backward direction to forward so at this position direction of motion and direction of push are in parallel while for C it is opposite and B speed is maximum on either direction which can collide with mother and hurt her.
+
+(b) Resonance phenomenon.
+
+(c) The natural frequency of the swing will match the frequency of the force applied by mother this will increase the amplitude of the swing.
+
+Question 8(i)
+The circuit depicted in the figure is employed for studying Ohm's Law. Instead of using a standard resistor, a student opts for a glass tube filled with mercury (tube 1), connected to the circuit through two electrodes E1 & E2. He records the readings of the ammeter and voltmeter, thereby calculates the resistance. The student repeats the experiment by substituting tube 1 with tube 2, where the same amount of mercury fills the tube 2.
+
+The circuit depicted in the figure is employed for studying Ohm's Law. Instead of using a standard resistor, a student opts for a glass tube filled with mercury (tube 1), connected to the circuit through two electrodes E1 & E2. He records the readings of the ammeter and voltmeter, thereby calculates the resistance. ICSE 2026 Specimen Physics Solved Question Paper.
+Neglecting internal resistance of the cell, use (> or < or =) to compare the following:
+
+(a) Resistance in both cases.
+
+(b) Voltmeter readings in both cases.
+
+(c) Specific resistance in both cases.
+
+Answer
+
+(a) As the resistance depends directly on length and inversely on area of the resistor and since here tube 2 is thicker and shorter than tube 1 thus, resistance of the tube 2 < resistance of the tube 1.
+
+(b) The voltmeter reading for tube 1 is the same as the voltmeter reading for tube 2 because according to Ohm's law potential difference across a resistor depends only on the current applied not on the resistance of the resistor.
+
+(c) As the specific resistance of a resistor is independent of its dimensions but depends only on the contained material and since here both tubes contain only mercury thus, the specific resistance in both the cases is the same.
+
+Question 8(ii)
+An appliance with a metal covering, rated at 2 kW, 220 V, is to be connected in a circuit. Given below are four diagrams (P, Q, R & S) depicting different circuit configurations.
+
+An appliance with a metal covering, rated at 2 kW, 220 V, is to be connected in a circuit. Given below are four diagrams (P, Q, R & S) depicting different circuit configurations. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) Identify the safest circuit.
+
+(b) Write two reasons, supported by mathematical calculations, where applicable, to justify your choice.
+
+Answer
+
+Given,
+
+Power rating (P) = 2 KW = 2000 W
+Voltage rating (V) = 220 V
+(a) The safest circuit is S.
+
+(b) There are two criteria to choose the circuit S :
+
+It is earthed so that in the case short circuit all the excess current can flow to earth without harming the person.
+The current in the supply should be less than or equal to the current rating of the fuse.
+So, current in the circuit = 
+P
+V
+=
+2000
+220
+V
+P
+​
+ = 
+220
+2000
+​
+  = 9.09 A
+
+Circuit P
+
+As the circuit is not earthed so it is not safe.
+
+Circuit Q
+
+Circuit is earthed properly.
+Current in the circuit is 9.09 A but it has fuse which has current rating of 8 A so it will get damaged and hence someone can be hurt.
+Circuit R
+
+Circuit is not earthed properly so it is not safe.
+Current in the circuit is 9.09 A and it has fuse which has current rating of 10 A.
+Circuit S
+
+Circuit is earthed properly.
+Current in the circuit is 9.09 A and it has fuse which has current rating of 10 A.
+So circuit S satisfy all the necessary criteria for a safe circuit.
+
+Question 8(iii)
+A nichrome wire X with length (l) & cross-sectional area (A) is connected to a 10 V source and another nichrome wire Y with length (2l) & cross-sectional area (A/2), is connected to a 20 V source.
+
+(a) Compare the resistances of wires X and Y. [Given that the resistivity of nichrome is (ρ).]
+
+(b) Compare the electrical power consumed by each wire.
+
+(c) Compare the masses of these wires. (Given that the density of nichrome is d.)
+
+(d) State True or False : Wire X and wire Y both show the same rise in temperature in the same time.
+
+Answer
+
+Given,
+
+Length of nichrome wire X (lX) = l
+Cross-sectional area of nichrome wire X (AX) = A
+Potential difference across nichrome wire X (VX) = 10 V
+Length of nichrome wire Y (lY) = 2l
+Cross-sectional area of nichrome wire Y (AY) = A/2
+Potential difference across nichrome wire Y (VY) = 20 V
+resistivity of nichrome = ρ
+(a) Let 'RX' and 'RY' be the resistance of nichrome wire X and Y respectively.
+
+Now,
+
+R
+X
+=
+ρ
+l
+A
+R 
+X
+​
+ =ρ 
+A
+l
+​
+ 
+
+And
+
+R
+Y
+=
+ρ
+2
+l
+A
+2
+=
+ρ
+4
+l
+A
+=
+4
+R
+X
+R 
+Y
+​
+ =ρ 
+2
+A
+​
+ 
+2l
+​
+ =ρ 
+A
+4l
+​
+ =4R 
+X
+​
+ 
+
+As,
+
+R
+Y
+R
+X
+=
+4
+R 
+X
+​
+ 
+R 
+Y
+​
+ 
+​
+ =4
+
+So, RX : RY = 1 : 4
+
+(b) 
+P
+X
+=
+V
+X
+2
+R
+X
+=
+10
+2
+R
+X
+=
+100
+R
+X
+P 
+X
+​
+ = 
+R 
+X
+​
+ 
+V 
+X
+​
+  
+2
+ 
+​
+ = 
+R 
+X
+​
+ 
+10 
+2
+ 
+​
+ = 
+R 
+X
+​
+ 
+100
+​
+ 
+
+And
+
+P
+Y
+=
+V
+Y
+2
+R
+Y
+=
+20
+2
+4
+R
+X
+=
+400
+4
+R
+X
+=
+100
+R
+X
+=
+P
+X
+P 
+Y
+​
+ = 
+R 
+Y
+​
+ 
+V 
+Y
+​
+  
+2
+ 
+​
+ = 
+4R 
+X
+​
+ 
+20 
+2
+ 
+​
+ = 
+4R 
+X
+​
+ 
+400
+​
+ = 
+R 
+X
+​
+ 
+100
+​
+ =P 
+X
+​
+ 
+
+So, PX : PY = 1 : 1
+
+(c) Given,
+
+Mass density of nichrome = d
+
+Then,
+
+Mass of wire X (mX) = d x volume = d x Al
+
+And,
+
+Mass of wire Y (mY) = d x volume = d x 2l x 
+A
+2
+2
+A
+​
+  = d x Al = mX
+
+So, mX : mY = 1 : 1
+
+(d) True.
+
+Reason —
+
+Let, heat gained by the wire X be 'QX' and change in temperature be 'ΔTX'. Similarly, heat gained by the wire Y be 'QY' and change in temperature be 'ΔTY'.
+
+Again, let specific heat capacity of nichrome be 'c' and same time be 't'.
+
+Then,
+
+QX = PX x t = mXc x ΔTX
+
+and
+
+QY = PY x t = mYc x ΔTY
+
+As, PX = PY then QX = QY for same time t.
+
+⇒ mXc x ΔTX = mYc x ΔTY
+
+⇒ mX x ΔTX = mY x ΔTY
+
+So,
+
+ΔTX : ΔTY = mX : mY = 1 : 1
+
+Hence, wire X and wire Y both show the same rise in temperature in the same time.
+
+Question 9(i)
+Three bulbs of powers P1, P2 and P3 (P1 < P2 < P3) are connected in a certain way that P3 glows brightest.
+
+(a) What type of connection exists between these bulbs?
+
+(b) Compare the voltage across these bulbs. (Use >, < or =)
+
+(c) Will the circuit still function if one of the bulbs is fused?
+
+Answer
+
+(a) All bulbs are connected in parallel combination because in a parallel connection, voltage across each bulb is the same, and brightness depends directly on power rating. So, the bulb with the highest power rating (P3) will draw the most current and glow brightest.
+
+(b) In a parallel circuit, all components share the same voltage.
+
+So,
+
+V1 = V2 = V3
+
+(c) Yes because in a parallel circuit, each bulb has an independent path to the power supply and if one bulb fuses, the others continue to receive power and function normally.
+
+Question 9(ii)
+The given diagram shows the output of an AC generator. If the speed of the generator coil is doubled, then:
+
+The given diagram shows the output of an AC generator. If the speed of the generator coil is doubled, then: ICSE 2026 Specimen Physics Solved Question Paper.
+(a) what is the effect on the physical quantity indicated by ‘a’?
+
+(b) what is the effect on the physical quantity indicated as ‘b’?
+
+(c) give reason for your answer in (b).
+
+Answer
+
+(a) As, the physical quantity indicated by 'a' is induced emf or output voltage of the a.c. generator so on doubling the speed of the generator, the output voltage also gets doubled.
+
+(b) As, the physical quantity indicated by 'b' is time period of the generator so on doubling the speed, the period becomes half.
+
+(c) When in an a.c generator the speed at which the coil rotates is doubled the frequency of output voltage is also doubled and since time period is reciprocal of the frequency so it gets halved.
+
+Question 9(iii)
+The graph (Fig. A) illustrates the correlation between the number of protons (x-axis) and the number of neutrons (y-axis) for elements A, B, C, D, and E in the periodic table. These elements are denoted by the letters rather than their conventional symbols.
+
+The graph (Fig. A) illustrates the correlation between the number of protons (x-axis) and the number of neutrons (y-axis) for elements A, B, C, D, and E in the periodic table. These elements are denoted by the letters rather than their conventional symbols. ICSE 2026 Specimen Physics Solved Question Paper.
+(a) Identify the radioactive radiation emitted when element C decays into element E. Represent this using a nuclear reaction.
+
+(b) What is the special name given to elements D and E?
+
+(c) If element C transforms into element B by emitting a radioactive ray, how will this ray behave in an electric field?
+
+Answer
+
+(a) From the graph,
+
+Number of proton in C = 92
+
+Number of neutron in C = 146
+
+Mass number of C = Number of proton in C + Number of neutron in C = 92 + 146 = 238
+
+Number of proton in E = 93
+
+Number of neutron in E = 145
+
+Mass number of E = Number of proton in E + Number of neutron in E = 93 + 145 = 238
+
+Since element C has one excess proton and one neutron less than the element E so if C decays into E then it's proton number increases by one and neutron number decreases by one keeping the mass number same which is only in case of beta radiation.
+
+Thus, reaction will as follow :
+
+23892C → 23893E + 0-1β
+
+(b) As points D and E are situated on the same vertical line but on different horizontal lines it means they have same number of protons but different number of neutrons i.e., their atomic number is same but mass number is different so they are isotope of each other.
+
+(c) Number of protons in B = 90
+
+Number of neutron in B = 144
+
+Mass number of B = Number of proton in B + Number of neutron in B = 90 + 144 = 234
+
+As, element B has two protons less than element C and has mass number four less than C during a decay of C into B two protons and two neutrons emit which is nothing but an alpha particle.
+
+Alpha particles shift towards negative plate in an electric field.

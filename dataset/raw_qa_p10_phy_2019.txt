@@ -1,0 +1,1471 @@
+Section I (40 Marks)
+Question 1(a)
+The diagram below shows a claw hammer used to remove a nail: [2]
+
+The diagram below shows a claw hammer used to remove a nail. To which class of lever does it belong? Give one more example of the same class of lever mentioned by you in (i) for which the mechanical advantage is greater than one. ICSE 2019 Physics Solved Question Paper.
+(i) To which class of lever does it belong ?
+
+(ii) Give one more example of the same class of lever mentioned by you in (i) for which the mechanical advantage is greater than one.
+
+Answer
+
+(i) A claw hammer belongs to class I lever.
+
+(ii) Another example of class I lever is shears (used to cut metal sheets)
+
+Question 1(b)
+Two bodies A and B have masses in the ratio 5:1 and their kinetic energies are in the ratio 125:9. Find the ratio of their velocities. [2]
+
+Answer
+
+Given,
+
+m
+A
+m
+B
+=
+5
+1
+K
+A
+K
+B
+=
+125
+9
+m 
+B
+​
+ 
+m 
+A
+​
+ 
+​
+ = 
+1
+5
+​
+ 
+K 
+B
+​
+ 
+K 
+A
+​
+ 
+​
+ = 
+9
+125
+​
+ 
+
+Since,
+
+K
+A
+K
+B
+=
+1
+2
+m
+A
+v
+A
+2
+1
+2
+m
+B
+v
+B
+2
+=
+(
+m
+A
+m
+B
+)
+×
+(
+v
+A
+2
+v
+B
+2
+)
+K 
+B
+​
+ 
+K 
+A
+​
+ 
+​
+ = 
+2
+1
+​
+ m 
+B
+​
+ v 
+B
+2
+​
+ 
+2
+1
+​
+ m 
+A
+​
+ v 
+A
+2
+​
+ 
+​
+ 
+=( 
+m 
+B
+​
+ 
+m 
+A
+​
+ 
+​
+ )×( 
+v 
+B
+2
+​
+ 
+v 
+A
+2
+​
+ 
+​
+ )
+
+Substituting the values we get,
+
+125
+9
+=
+5
+1
+×
+v
+A
+2
+v
+B
+2
+⇒
+v
+A
+2
+v
+B
+2
+=
+125
+×
+1
+9
+×
+5
+⇒
+v
+A
+v
+B
+=
+25
+9
+=
+5
+3
+9
+125
+​
+ = 
+1
+5
+​
+ × 
+v 
+B
+2
+​
+ 
+v 
+A
+2
+​
+ 
+​
+ 
+⇒ 
+v 
+B
+2
+​
+ 
+v 
+A
+2
+​
+ 
+​
+ = 
+9×5
+125×1
+​
+ 
+⇒ 
+v 
+B
+​
+ 
+v 
+A
+​
+ 
+​
+ = 
+9
+25
+​
+ 
+​
+ = 
+3
+5
+​
+ 
+
+Hence, ratio between velocities of A and B is 5 : 3
+
+Question 1(c)
+(i) Name the physical quantity which is measured in calories.
+
+(ii) How is calorie related to the S.I. unit of that quantity? [2]
+
+Answer
+
+(i) Heat energy is measured in calories.
+
+(ii) 1 cal = 4.2 J where joule is the S.I. unit of heat energy.
+
+Question 1(d)
+(i) Define couple.
+
+(ii) State the S.I. unit of moment of couple. [2]
+
+Answer
+
+(i) Two equal and opposite parallel forces, not acting along the same line, form a couple.
+
+(ii) The S.I. unit of moment of couple is Newton x meter or Nm.
+
+Question 1(e)
+(i) Define critical angle.
+
+(ii) State one important factor which affects the critical angle of a given medium. [2]
+
+Answer
+
+(i) Critical angle is the angle of incidence in the denser medium corresponding to which the angle of refraction in the rarer medium is 90°.
+
+(ii) The refractive index of the medium affects the critical angle of a given medium.
+
+Question 2(a)
+An electromagnetic radiation is used for photography in fog.
+
+(i) Identify the radiation.
+
+(ii) Why is this radiation mentioned by you, ideal for this purpose? [2]
+
+Answer
+
+(i) Infra-Red radiation.
+
+(ii) Infra-Red radiation has larger wavelength hence, it is scattered least among visible radiations and thus have deep penetration even in fog.
+
+Question 2(b)
+(i) What is the relation between the refractive index of water with respect to air (aμw) and the refractive index of air with respect to water (wμa)
+
+(ii) If the refractive index of water with respect to air (aμw) is 
+5
+3
+3
+5
+​
+ . Calculate the refractive index of air with respect to water (wμa). [2]
+
+Answer
+
+(i) aμw = 
+1
+w
+μ
+a
+w
+​
+ μ 
+a
+​
+ 
+1
+​
+  i.e., they are inverse of each other.
+
+(ii) Given, aμw = 
+5
+3
+3
+5
+​
+ 
+
+Therefore, wμa = 
+3
+5
+5
+3
+​
+  = 0.6
+
+Question 2(c)
+The specific heat capacity of a substance A is 3,800 J kg-1K-1 and that of a substance B is 400 J kg-1K-1. Which of the two substances is a good conductor of heat? Give a reason for your answer. [2]
+
+Answer
+
+Substance B is a good conductor of heat energy. For the same heat energy and same mass, the rise in temperature of B will be more hence, B is a good conductor of heat.
+
+Question 2(d)
+A man playing a flute is able to produce notes of different frequencies. If he closes the holes near his mouth, will the pitch of the note produced, increase or decrease? Give a reason. [2]
+
+Answer
+
+When the holes near the mouth are closed, the effective length of air column increases so the pitch of sound decreases as the frequency of note produced is inversely proportional to the length of air column.
+
+Question 2(e)
+The diagram below shows a light source P embedded in a rectangular glass block ABCD of critical angle 42°. Complete the path of the ray PQ till it emerges out of the block. [Write necessary angles.] [2]
+
+The diagram below shows a light source P embedded in a rectangular glass block ABCD of critical angle 42°. Complete the path of the ray PQ till it emerges out of the block. [Write necessary angles.] ICSE 2019 Physics Solved Question Paper.
+Answer
+
+The path of ray is as shown:
+
+The diagram below shows a light source P embedded in a rectangular glass block ABCD of critical angle 42°. Complete the path of the ray PQ till it emerges out of the block. [Write necessary angles]. ICSE 2019 Physics Solved Question Paper.
+Question 3(a)
+(i) If the lens is placed in water instead of air, how does it's focal length change?
+
+(ii) Which lens, thick or thin has greater focal length? [2]
+
+Answer
+
+(i) Focal length of lens increases.
+
+(ii) A thin lens has greater focal length as compared to a thick lens.
+
+Question 3(b)
+Two waves of the same pitch have amplitudes in the ratio 1:3. What will be the ratio of their:
+
+(i) intensities and
+
+(ii) frequencies? [2]
+
+Answer
+
+(i) Intensity is the measure of loudness.
+Loudness ∝ (amplitude) 2
+
+∴
+L
+1
+L
+2
+=
+(
+a
+1
+a
+2
+)
+2
+⇒
+L
+1
+L
+2
+=
+(
+1
+3
+)
+2
+⇒
+L
+1
+L
+2
+=
+1
+9
+∴ 
+L 
+2
+​
+ 
+L 
+1
+​
+ 
+​
+ =( 
+a 
+2
+​
+ 
+a 
+1
+​
+ 
+​
+ ) 
+2
+ 
+⇒ 
+L 
+2
+​
+ 
+L 
+1
+​
+ 
+​
+ =( 
+3
+1
+​
+ ) 
+2
+ 
+⇒ 
+L 
+2
+​
+ 
+L 
+1
+​
+ 
+​
+ = 
+9
+1
+​
+ 
+
+Therefore, Ratio of intensities is 1:9
+
+(ii) Ratio of frequencies is 1:1 (same frequency as pitch is same for both waves).
+
+Question 3(c)
+How does an increase in the temperature affect the specific resistance of a :
+
+(i) Metal and
+
+(ii) Semiconductor? [2]
+
+Answer
+
+(i) On increasing the temperature of a metal it's specific resistance increases.
+
+(ii) On increasing the temperature of a semiconductor, it's specific resistance decreases.
+
+Question 3(d)
+(i) Define resonant vibrations.
+
+(ii) Which characteristic of sound, makes it possible to recognize a person by his voice without seeing him ? [2]
+
+Answer
+
+(i) Resonant vibrations are vibrations of high amplitude which are produced when the natural frequency of vibrations of the vibrating body is equal to the frequency of forced vibration imposed on it.
+
+(ii) Quality (or timbre) is the characteristic of sound that makes it possible to recognize a person by his voice without seeing him.
+
+Question 3(e)
+Is it possible for a hydrogen (
+1
+1
+H
+1
+1
+​
+ H) nucleus to emit an alpha particle? Give a reason for your answer. [2]
+
+Answer
+
+No, hydrogen nucleus is just a proton which obviously cannot give out an alpha particle made of two protons and two neutrons.
+
+Question 4(a)
+Calculate the effective resistance across AB : [2]
+
+Calculate the effective resistance across AB. ICSE 2019 Physics Solved Question Paper.
+Answer
+
+The given circuit consists of three parts.
+
+In the first part 5 Ω and 4 Ω are in series and if the equivalent resistance is given by Rs then,
+
+Rs = 5 + 4 = 9 Ω
+
+Then, in second part there is parallel combination of 3 Ω and Rs (9 Ω ), if equivalent resistance is Rp
+
+1
+R
+p
+=
+1
+3
++
+1
+9
+⇒
+1
+R
+p
+=
+3
++
+1
+9
+⇒
+1
+R
+p
+=
+4
+9
+⇒
+R
+p
+=
+9
+4
+⇒
+R
+p
+=
+2.25
+Ω
+R 
+p
+​
+ 
+1
+​
+ = 
+3
+1
+​
+ + 
+9
+1
+​
+ 
+⇒ 
+R 
+p
+​
+ 
+1
+​
+ = 
+9
+3+1
+​
+ 
+⇒ 
+R 
+p
+​
+ 
+1
+​
+ = 
+9
+4
+​
+ 
+⇒R 
+p
+​
+ = 
+4
+9
+​
+ 
+⇒R 
+p
+​
+ =2.25Ω
+
+In the third part, 8 Ω and Rp ( 2.25 Ω ) are in series. Therefore, the equivalent resistance between AB i.e., RAB is
+
+8 + 2.25 = 10.25 Ω .
+
+Hence, Total resistance between A and B is 10.25 Ω
+
+Question 4(b)
+(i) State whether the specific heat capacity of a substance remains the same when it's state changes from solid to liquid.
+
+(ii) Give one example to support your answer. [2]
+
+Answer
+
+(i) The specific heat capacity of a substance changes when it's state changes.
+
+(ii) The specific heat capacity of water is 4.2 J g-1°C-1 while that of ice (frozen water) is 2.1 J g-1°C-1
+
+Question 4(c)
+A magnet kept at the centre of two coils A and B is moved to and fro as shown in the diagram. The two galvanometers show deflection. [2]
+
+A magnet kept at the centre of two coils A and B is moved to and fro as shown in the diagram. The two galvanometers show deflection. State with a reason whether x > y or x < y [x and y are magnitudes of deflection]. ICSE 2019 Physics Solved Question Paper.
+State with a reason whether :
+
+x > y
+
+or
+
+x < y [x and y are magnitudes of deflection]
+
+Answer
+
+x < y
+
+Since, the coil A has less number of turns, therefore the e.m.f. generated in this coil will be less, hence the galvanometer x connected to this coil shows less deflection i.e., x < y.
+
+Question 4(d)
+(i) Why is a nuclear fusion reaction called a thermo nuclear reaction? [2]
+
+(ii) Complete the reaction:
+
+3He2 + 2H1 ⟶ 4He2 + .......... + Energy
+
+Answer
+
+(i) A nuclear fusion reaction is called a thermo nuclear reaction because it takes place at a temperature of nearly 107 K (10 million).
+
+(ii) 3He2 + 2H1 ⟶ 4He2 + 1H1 + Energy
+
+Question 4(e)
+State two ways to increase the speed of rotation of a D.C. motor. [2]
+
+Answer
+
+The two ways of increasing the speed of a D.C. motor are
+
+By increasing the strength of current through the coil.
+By increasing the number of turns in the coil.
+Section II (40 Marks)
+
+Question 5(a)
+A body of mass 10 kg is kept at a height of 5 m. It is allowed to fall and reach the ground. [3]
+
+(i) What is the total mechanical energy possessed by the body at the height of 2 m assuming it is a frictionless medium?
+
+(ii) What is the kinetic energy possessed by the body just before hitting the ground? Take g = 10 m s-2.
+
+Answer
+
+(i) The speed of the body when at a height of 2m above the ground i.e., after falling through 3 m is :
+
+V2 = U2 + 2gh = (0) + (2 x 10 x 3)
+= 60
+
+∴ V = √(60) m s-1
+
+Mechanical energy at 2m height = P.E. + K.E. = mgh + 
+1
+2
+2
+1
+​
+  mv2
+= (10 x 10 x 2) + (
+1
+2
+2
+1
+​
+  x 10 x 60)
+= 200 + 300
+= 500 J
+
+Hence, total mechanical energy possessed by the body at the height of 2 m = 500 J
+
+(ii) The kinetic energy on reaching the ground will be same as the potential energy at it's highest point from which it started falling.
+
+Mechanical energy = Initial potential energy
+
+= m x g x h = 10 x 10 x 5 = 500 J
+
+Hence, kinetic energy possessed by the body just before hitting the ground = 500 J
+
+Question 5(b)
+A uniform metre scale is in equilibrium as shown in the diagram : [3]
+
+A uniform metre scale is in equilibrium as shown in the diagram. Calculate the weight of the metre scale. Which of the following options is correct to keep the ruler in equilibrium when 40 gf wt is shifted to 0 cm mark? F is shifted towards 0 cm or F is shifted towards 100 cm. ICSE 2019 Physics Solved Question Paper.
+(i) Calculate the weight of the metre scale.
+
+(ii) Which of the following options is correct to keep the ruler in equilibrium when 40 gf wt is shifted to 0 cm mark?
+
+F is shifted towards 0 cm
+
+or
+
+F is shifted towards 100 cm.
+
+Answer
+
+(i) Let W gf be the weight of metre rule which acts downwards from 50 cm mark.
+
+In equilibrium position, taking moments about fulcrum.
+
+Anticlockwise moment = 40 x (30 - 5) = 1000 gf cm
+
+Clockwise moment = W (50 - 30) = 20 W gf cm
+
+∴ Using principle of moments:
+20 W = 1000
+
+⇒ W = 
+1000
+20
+20
+1000
+​
+  = 50 gf
+
+∴ Weight of the metre scale = 50 gf
+
+(ii) In order to keep the ruler in equilibrium, F is shifted towards 0 cm mark.
+
+Question 5(c)
+The diagram below shows a pulley arrangement : [4]
+
+The diagram below shows a pulley arrangement. Copy the diagram and mark the direction of tension on each strand of the string. What is the velocity ratio of the arrangement? If the tension acting on the string is T, then what is the relationship between T and effort E? If the free end of the string moves through a distance x, find the distance by which the load is raised. ICSE 2019 Physics Solved Question Paper.
+(i) Copy the diagram and mark the direction of tension on each strand of the string.
+
+(ii) What is the velocity ratio of the arrangement?
+
+(iii) If the tension acting on the string is T, then what is the relationship between T and effort E?
+
+(iv) If the free end of the string moves through a distance x, find the distance by which the load is raised.
+
+Answer
+
+(i) The direction of tension (T) is marked in the diagram:
+
+The diagram below shows a pulley arrangement. Copy the diagram and mark the direction of tension on each strand of the string. What is the velocity ratio of the arrangement? If the tension acting on the string is T, then what is the relationship between T and effort E? If the free end of the string moves through a distance x, find the distance by which the load is raised. ICSE 2019 Physics Solved Question Paper.
+(ii) V.R. = 
+Distance moved by effort
+Distance moved by load
+Distance moved by load
+Distance moved by effort
+​
+  = 2
+
+(iii) Effort E balances the tensions therefore, T = E
+
+(iv) From the relation,
+
+V.R. = 
+Distance moved by effort
+Distance moved by load
+Distance moved by load
+Distance moved by effort
+​
+  = 2
+
+If the free end of the string moves through a distance x then distance moved by load = ?
+
+Substituting the values we get,
+
+2
+=
+x
+Distance moved by load
+⇒
+Distance moved by load
+=
+x
+2
+2= 
+Distance moved by load
+x
+​
+ 
+⇒Distance moved by load= 
+2
+x
+​
+ 
+
+Question 6(a)
+How does the angle of deviation formed by a prism change with the increase in the angle of incidence? Draw a graph showing the variation in the angle of deviation with the angle of incidence at a prism surface. [3]
+
+Answer
+
+The angle of deviation (δ) produced by a prism first decreases with the increase in angle of incidence (i) and reaches to a minimum value at a certain angle of incidence. With further increase in angle of incidence, angle of deviation also increases.
+
+The graph below shows the variation of angle of deviation with the angle of incidence:
+
+How does the angle of deviation formed by a prism change with the increase in the angle of incidence? Draw a graph showing the variation in the angle of deviation with the angle of incidence at a prism surface. ICSE 2019 Physics Solved Question Paper.
+Question 6(b)
+A virtual, diminished image is formed when an object is placed between the optical centre and the principal focus of a lens. [3]
+
+(i) Name the type of lens which forms the above image.
+
+(ii) Draw a ray diagram to show the formation of the image with the above stated characteristics.
+
+Answer
+
+(i) The lens is concave in nature.
+
+(ii) Ray diagram showing the formation of the image is given below:
+
+A virtual, diminished image is formed when an object is placed between the optical centre and the principal focus of a lens. Name the type of lens which forms the above image. Draw a ray diagram to show the formation of the image with the above stated characteristics. ICSE 2019 Physics Solved Question Paper.
+Question 6(c)
+An object is placed at a distance 24 cm in front of a convex lens of focal length 8 cm. [4]
+
+(i) What is the nature of the image so formed ?
+
+(ii) Calculate the distance of the image from the lens.
+
+(iii) Calculate the magnification of the image.
+
+Answer
+
+Given u = 24 cm (-ve), f = 8 cm (+ve)
+
+(i) Image formed is real, inverted and diminished.
+
+(ii) Let v be the distance of image from optical centre. From the relation,
+
+1
+v
+−
+1
+u
+=
+1
+f
+v
+1
+​
+ − 
+u
+1
+​
+ = 
+f
+1
+​
+ 
+
+Substituting the values we get,
+
+1
+v
++
+1
+24
+=
+1
+8
+1
+v
+=
+1
+8
+−
+1
+24
+1
+v
+=
+3
+−
+1
+24
+1
+v
+=
+2
+24
+1
+v
+=
+1
+12
+⇒
+v
+=
+12
+cm
+v
+1
+​
+ + 
+24
+1
+​
+ = 
+8
+1
+​
+ 
+v
+1
+​
+ = 
+8
+1
+​
+ − 
+24
+1
+​
+ 
+v
+1
+​
+ = 
+24
+3−1
+​
+ 
+v
+1
+​
+ = 
+24
+2
+​
+ 
+v
+1
+​
+ = 
+12
+1
+​
+ 
+⇒v=12cm
+
+Hence, the distance of the image from the lens = 12 cm
+
+(iii) From relation, m = 
+v
+u
+u
+v
+​
+ 
+
+Substituting the values we get,
+
+m
+=
+12
+−
+24
+⇒
+m
+=
+−
+0.5
+m= 
+−24
+12
+​
+ 
+⇒m=−0.5
+
+-ve sign of magnification tells us that the image is inverted.
+
+Hence, magnification = -0.5
+
+Question 7(a)
+It is observed that during march-past we hear a base drum distinctly from a distance compared to the side drums. [3]
+
+(i) Name the characteristic of sound associated with the above observation.
+
+(ii) Give a reason for the above observation.
+
+Answer
+
+(i) Loudness
+
+(ii) Base drum has a greater surface area compared to the side drums so amplitude of vibration of base drum is greater than amplitude of vibration of side drums. Hence Loudness of base drum is increased compared to the side drums and it can be distinctly heard from a distance.
+
+Question 7(b)
+A pendulum has a frequency of 4 vibrations per second. An observer starts the pendulum and fires a gun simultaneously. He hears the echo from the cliff after 6 vibrations of the pendulum. If the velocity of sound in air is 340 m s-1, find the distance between the cliff and the observer. [3]
+
+Answer
+
+Echo is heard after 6 vibrations of pendulum. Since frequency of pendulum is 4 vib per sec, so the time taken for the echo to be heard is t = 
+6
+4
+4
+6
+​
+  = 1.5 s.
+
+If d is the distance between the cliff and the observer, then velocity of sound V = 
+2
+d
+t
+t
+2d
+​
+ 
+
+Substituting the values in the equation above:
+
+340
+=
+2
+d
+1.5
+⇒
+d
+=
+340
+×
+1.5
+2
+=
+255
+ cm
+340= 
+1.5
+2d
+​
+ 
+⇒d= 
+2
+340×1.5
+​
+ =255 cm
+
+Hence, distance between the cliff and the observer = 255 cm
+
+Question 7(c)
+Two pendulums C and D are suspended from a wire as shown in the given figure. Pendulum C is made to oscillate by displacing it from it's mean position. It is seen that D also starts oscillating. [4]
+
+Two pendulums C and D are suspended from a wire as shown in the given figure. Pendulum C is made to oscillate by displacing it from it's mean position. It is seen that D also starts oscillating. Name the type of oscillation, C will execute. Name the type of oscillation, D will execute. If the length of D is made equal to C, then what difference will you notice in the oscillations of D? What is the name of the phenomenon when the length of D is made equal to C? ICSE 2019 Physics Solved Question Paper.
+(i) Name the type of oscillation, C will execute.
+
+(ii) Name the type of oscillation, D will execute.
+
+(iii) If the length of D is made equal to C, then what difference will you notice in the oscillations of D?
+
+(iv) What is the name of the phenomenon when the length of D is made equal to C?
+
+Answer
+
+(i) C executes free vibrations (damped if medium is present).
+
+(ii) D executes forced oscillation.
+
+(iii) If the length of D is made equal to C, then the amplitude of vibration of pendulum D increases substantially.
+
+(iv) The phenomenon is called resonance.
+
+Question 8(a)
+(i) Write one advantage of connecting electrical appliances in parallel combination.
+
+(ii) What characteristics should a fuse wire have?
+
+(iii) Which wire in a power circuit is connected to the metallic body of the appliance? [3]
+
+Answer
+
+(i) The advantage of connecting electrical appliances in parallel combination is that each appliance works independently i.e., any change in one appliance does not affect the other appliance(s).
+
+(ii) The fuse wire should have high specific resistance and low melting point.
+
+(iii) The earth wire in a power circuit is connected to the metallic body of the appliance
+
+Question 8(b)
+The diagram below shows a dual control switch circuit connected to a bulb. [3]
+
+The diagram below shows a dual control switch circuit connected to a bulb. Copy the diagram and complete it so that the bulb is switched ON. Out of A & B which one is the live wire and which one is the neutral wire? ICSE 2019 Physics Solved Question Paper.
+(i) Copy the diagram and complete it so that the bulb is switched ON.
+
+(ii) Out of A & B which one is the live wire and which one is the neutral wire?
+
+Answer
+
+(i) The following figure shows the completed diagram:
+
+The diagram below shows a dual control switch circuit connected to a bulb. Copy the diagram and complete it so that the bulb is switched ON. Out of A & B which one is the live wire and which one is the neutral wire? ICSE 2019 Physics Solved Question Paper.
+(ii) Wire A is the live wire and wire B is the neutral wire.
+
+Question 8(c)
+The diagram shows a circuit with the key k open. Calculate: [4]
+
+The diagram shows a circuit with the key k open. Calculate the resistance of the circuit when the key k is open. the current drawn from the cell when the key k is open. the resistance of the circuit when the key k is closed. the current drawn from the cell when the key k is closed. ICSE 2019 Physics Solved Question Paper.
+(i) the resistance of the circuit when the key k is open.
+
+(ii) the current drawn from the cell when the key k is open.
+
+(iii) the resistance of the circuit when the key k is closed.
+
+(iv) the current drawn from the cell when the key k is closed.
+
+Answer
+
+(i) When k is open, resistance is 5 + 0.5 = 5.5 Ω
+
+(ii) From relation, V = IR
+
+Substituting the values in the formula we get,
+
+3.3
+=
+I
+×
+5.5
+⇒
+I
+=
+3.3
+5.5
+⇒
+I
+=
+0.6
+ A
+3.3=I×5.5
+⇒I= 
+5.5
+3.3
+​
+ 
+⇒I=0.6 A
+
+Hence, current drawn from the cell when the key k is open = 0.6 A.
+
+(iii) When k is closed, the resistance 2 Ω and 3 Ω are in series, therefore their total resistance is 2 Ω + 3 Ω = 5 Ω . Now since, 5 Ω resistance is in parallel to it,
+
+Therefore,
+
+1
+R
+p
+=
+1
+5
++
+1
+5
+1
+R
+p
+=
+1
++
+1
+5
+⇒
+1
+R
+p
+=
+2
+5
+⇒
+R
+p
+=
+2.5
+Ω
+R 
+p
+​
+ 
+1
+​
+ = 
+5
+1
+​
+ + 
+5
+1
+​
+ 
+R 
+p
+​
+ 
+1
+​
+ = 
+5
+1+1
+​
+ 
+⇒ 
+R 
+p
+​
+ 
+1
+​
+ = 
+5
+2
+​
+ 
+⇒R 
+p
+​
+ =2.5Ω
+
+So now the resistance of circuit is 2.5 + 0.5 = 3 Ω
+
+(iv) Current drawn I = 
+V
+R
+R
+V
+​
+ 
+
+Substituting the values we get,
+
+I
+=
+3.3
+3
+⇒
+I
+=
+1.1
+ A
+I= 
+3
+3.3
+​
+ 
+⇒I=1.1 A
+
+Question 9(a)
+(i) Define Calorimetry. [3]
+
+(ii) Name the material used for making a Calorimeter.
+
+(iii) Why is a Calorimeter made-up of thin sheets of the above material answered in (ii) ?
+
+Answer
+
+(i) The science of measuring the amount of heat exchanged by the system with it's surrounding is called calorimetry.
+
+(ii) A copper sheet is used to make a calorimeter.
+
+(iii) It is because Copper is a good conductor of heat so it soon acquires the temperature of it's contents and a thin Copper sheet has low heat capacity, so it takes only a small amount of heat from it's contents. Hence, a Calorimeter is made-up of thin sheets of Copper.
+
+Question 9(b)
+The melting point of naphthalene is 80°C and the room temperature is 30°C. A sample of liquid naphthalene at 100°C is cooled down to the room temperature. Draw a temperature time graph to represent this cooling. In the graph, mark the region which corresponds to the freezing process. [3]
+
+Answer
+
+The temperature-time graph representing the cooling of naphthalene is shown below:
+
+The melting point of naphthalene is 80°C and the room temperature is 30°C. A sample of liquid naphthalene at 100°C is cooled down to the room temperature. Draw a temperature time graph to represent this cooling. In the graph, mark the region which corresponds to the freezing process. ICSE 2019 Physics Solved Question Paper.
+Question 9(c)
+104 g of water at 30°C is taken in a calorimeter made of copper of mass 42 g. When a certain mass of ice at 0°C is added to it, the final steady temperature of the mixture after the ice has melted, was found to be 10°C. Find the mass of ice added.
+[Specific heat capacity of water = 4.2 J g-1 °C-1; Specific latent heat of fusion of ice = 336 J g-1; Specific heat capacity of copper = 0.4 J g-1 °C-1 ] [4]
+
+Answer
+
+Given,
+
+Mass of water = 104 g
+
+Temperature of water = 30°C
+
+Final temperature = 10°C
+
+Mass of calorimeter = 42 g
+
+Temperature of ice = 0°C
+
+The heat given by water = m x s x t
+
+Substituting the values we get,
+
+The heat given by water = 104 x 4.2 x (30 - 10) = 8736 J
+
+The heat given by calorimeter = m x s x t
+
+Substituting the values we get,
+
+The heat given by calorimeter = 42 x 0.4 x (30 - 10) = 336 J
+
+Let mass of ice added be m gm
+
+Heat taken by ice to melt = mL = 336m J
+
+Heat taken by ice-water to reach the mixture temperature = mst = m x 4.2 x (10 - 0) = 42m J
+
+Therefore, from principle of calorimetry, heat taken = heat given.
+
+i.e., 336 m + 42 m = 8736 + 336
+
+Therefore, m = 
+9072
+378
+378
+9072
+​
+  = 24 g
+
+Hence, mass of ice added = 24 g
+
+Question 10(a)
+Draw a neat labelled diagram of an AC generator. [3]
+
+Answer
+
+Labelled diagram of an AC generator is as shown:
+
+Draw a neat labelled diagram of an AC generator. ICSE 2019 Physics Solved Question Paper.
+Question 10(b)
+(i) Define nuclear fission. [3]
+
+(ii) Rewrite and complete the following nuclear reaction by filling in the atomic number of Ba and mass number of Kr :
+
+92
+235
+U
+92
+235
+​
+ U + 
+0
+1
+n
+0
+1
+​
+ n ⟶ 
+.
+.
+.
+144
+Ba
+...
+144
+​
+ Ba + 
+36
+.
+.
+.
+Kr
+36
+...
+​
+ Kr + 3 
+0
+1
+n
+0
+1
+​
+ n + Energy
+
+Answer
+
+(i) The process of splitting of a heavy nucleus into two lighter nuclei of nearly same mass, when bombarded with slow neutrons, is called nuclear fission.
+
+(ii) 
+92
+235
+U
+92
+235
+​
+ U + 
+0
+1
+n
+0
+1
+​
+ n ⟶ 
+56
+144
+Ba
+56
+144
+​
+ Ba + 
+36
+89
+Kr
+36
+89
+​
+ Kr + 3 
+0
+1
+n
+0
+1
+​
+ n + Energy
+
+Question 10(c)
+The diagram below shows a magnetic needle kept just below the conductor AB which is kept in North South direction. [4]
+
+The diagram below shows a magnetic needle kept just below the conductor AB which is kept in North South direction. In which direction does the needle deflect when the key is closed? Why is the deflection produced? What will be the change in the deflection if the magnetic needle is taken just above the conductor AB? Name one device which works on this principle. ICSE 2019 Physics Solved Question Paper.
+(i) In which direction does the needle deflect when the key is closed ?
+
+(ii) Why is the deflection produced?
+
+(iii) What will be the change in the deflection if the magnetic needle is taken just above the conductor AB ?
+
+(iv) Name one device which works on this principle.
+
+Answer
+
+(i) North pole of needle deflects towards east.
+
+(ii) On passing current through the wire AB, a magnetic field is produced around the wire which aligns the magnetic needle in it's direction.
+
+(iii) The direction of deflection gets reversed i.e., now it deflects towards west.
+
+(iv) An electric bell works on this principle.

@@ -1,0 +1,6571 @@
+SECTION A
+Question 1(i)
+The given quadratic equation 3x2 + 
+7
+7
+​
+  x + 2 = 0 has:
+
+two equal real roots.
+
+two distinct real roots.
+
+more than two real roots.
+
+no real roots.
+
+Answer
+
+Comparing the given quadratic equation with ax2 + bx + c = 0, we get :
+
+a = 3, b = 
+7
+7
+​
+  and c = 2
+
+Discriminant = b2 - 4ac
+
+= 
+(
+7
+)
+2
+( 
+7
+​
+ ) 
+2
+  - 4 x 3 x 2
+
+= 7 - 24
+
+= -17.
+
+Since, D < 0, there are no real roots.
+
+Hence, option 4 is the correct option.
+
+Question 1(ii)
+Mr. Anuj deposits ₹500 per month for 18 months in a recurring deposit account at a certain rate. If he earns ₹570 as interest at the time of maturity, then his matured amount is:
+
+₹(500 x 18 + 570)
+
+₹(500 x 19 + 570)
+
+₹(500 x 18 x 19 + 570)
+
+₹(500 x 9 x 19 + 570)
+
+Answer
+
+Given,
+
+Monthly deposit = ₹500
+
+Number of months = 18
+
+Interest earned = ₹570
+
+By formula,
+
+Matured amount = Total deposit + Interest
+
+= Monthly deposit x number of months + Interest
+
+= ₹(500 x 18 + 570)
+
+Hence, option 1 is the correct option.
+
+Question 1(iii)
+Which of the following cannot be the probability of any event:
+
+5
+4
+4
+5
+​
+ 
+
+0.25
+
+1
+33
+33
+1
+​
+ 
+
+67%.
+
+Answer
+
+Probability of any event is always between 0 and 1.
+
+5
+4
+4
+5
+​
+  = 1.25, which is greater than 1, which is not possible.
+
+Hence, option 1 is the correct option.
+
+Question 1(iv)
+The equation of the line passing through origin and parallel to the line 3x + 4y + 7 = 0 is:
+
+3x + 4y + 5 = 0
+
+4x - 3y - 5 = 0
+
+4x - 3y = 0
+
+3x + 4y = 0
+
+Answer
+
+Given,
+
+⇒ 3x + 4y + 7 = 0
+
+⇒ 4y = -3x - 7
+
+⇒ y = 
+−
+3
+4
+x
+−
+7
+4
+− 
+4
+3
+​
+ x− 
+4
+7
+​
+ 
+
+Comparing above equation with y = mx + c, we get :
+
+m = 
+−
+3
+4
+− 
+4
+3
+​
+ .
+
+By point-slope formula,
+
+Equation of line : y - y1 = m(x - x1)
+
+Thus, equation of line parallel to 3x + 4y + 7 = 0 and passing through origin (0, 0) is :
+
+⇒ y - 0 = 
+−
+3
+4
+− 
+4
+3
+​
+  (x - 0)
+
+⇒ y = 
+−
+3
+x
+4
+− 
+4
+3x
+​
+ 
+
+⇒ 4y = -3x
+
+⇒ 4y + 3x = 0.
+
+Hence, option 4 is the correct option.
+
+Question 1(v)
+If 
+A
+=
+[
+0
+1
+1
+0
+]
+A=[ 
+0
+1
+​
+  
+1
+0
+​
+ ], then A2 is equal to:
+
+[
+1
+1
+0
+0
+]
+[ 
+1
+0
+​
+  
+1
+0
+​
+ ]
+
+[
+0
+0
+1
+1
+]
+[ 
+0
+1
+​
+  
+0
+1
+​
+ ]
+
+[
+1
+0
+0
+1
+]
+[ 
+1
+0
+​
+  
+0
+1
+​
+ ]
+
+[
+0
+1
+1
+0
+]
+[ 
+0
+1
+​
+  
+1
+0
+​
+ ]
+
+Answer
+
+Given,
+
+A
+=
+[
+0
+1
+1
+0
+]
+A=[ 
+0
+1
+​
+  
+1
+0
+​
+ ]
+
+Substituting values we get :
+
+A
+2
+=
+[
+0
+1
+1
+0
+]
+.
+[
+0
+1
+1
+0
+]
+=
+[
+0
+×
+0
++
+1
+×
+1
+0
+×
+1
++
+1
+×
+0
+1
+×
+0
++
+0
+×
+1
+1
+×
+1
++
+0
+×
+0
+]
+=
+[
+0
++
+1
+0
++
+0
+0
++
+0
+1
++
+0
+]
+=
+[
+1
+0
+0
+1
+]
+.
+A 
+2
+ =[ 
+0
+1
+​
+  
+1
+0
+​
+ ].[ 
+0
+1
+​
+  
+1
+0
+​
+ ]
+=[ 
+0×0+1×1
+1×0+0×1
+​
+  
+0×1+1×0
+1×1+0×0
+​
+ ]
+=[ 
+0+1
+0+0
+​
+  
+0+0
+1+0
+​
+ ]
+=[ 
+1
+0
+​
+  
+0
+1
+​
+ ].
+
+Hence, option 3 is the correct option.
+
+Question 1(vi)
+In the given diagram, chords AC and BC are equal. If ∠ACD = 120°, then ∠AEC is:
+
+30°
+
+60°
+
+90°
+
+120°
+
+In the given diagram, chords AC and BC are equal. If ∠ACD = 120°, then ∠AEC is: ICSE 2025 Maths Solved Question Paper.
+Answer
+
+From figure,
+
+∠ACD and ∠ACB forms linear pairs [BD is a straight line].
+
+⇒ ∠ACD + ∠ACB = 180°
+
+⇒ 120° + ∠ACB = 180°
+
+⇒ ∠ACB = 180° - 120°
+
+⇒ ∠ACB = 60°.
+
+In ΔABC,
+
+⇒ BC = AC [Given]
+
+⇒ ∠ABC = ∠BAC = x° (let) [Angles opposite to equal sides in triangle are equal]
+
+According to angle sum property in ΔABC,
+
+⇒ ∠ACB + ∠ABC + ∠BAC = 180°
+
+⇒ 60° + x° + x° = 180°
+
+⇒ 2x° = 180° - 60°
+
+⇒ 2x° = 120°
+
+⇒ x° = 
+120
+°
+2
+2
+120°
+​
+  = 60°.
+
+From figure,
+
+ABCE is cyclic quadrilateral.
+
+We know that,
+
+Opposite angles of cyclic quadrilateral are supplementary.
+
+⇒ ∠ABC + ∠AEC = 180°
+
+⇒ 60° + ∠AEC = 180°
+
+⇒ ∠AEC = 180° - 60°
+
+⇒ ∠AEC = 120°.
+
+Hence, option 4 is the correct option.
+
+Question 1(vii)
+The factor common to the two polynomials x2 - 4 and x3 - x2 - 4x + 4
+
+(x + 1)
+
+(x - 1)
+
+(x - 2)
+
+(x - 4)
+
+Answer
+
+Factorize :
+
+⇒ x2 - 4
+
+⇒ (x - 2)(x + 2)
+
+Factorize :
+
+⇒ x3 - x2 - 4x + 4
+
+⇒ (x3 - x2) - (4x - 4)
+
+⇒ x2(x - 1) - 4(x - 1)
+
+⇒ (x - 1)(x2 - 4)
+
+⇒ (x - 1)(x2 - 22)
+
+⇒ (x - 1)(x - 2)(x + 2).
+
+Common factors between x2 - 4 and x3 - x2 - 4x + 4 = (x - 2) and (x + 2).
+
+Hence, option 3 is the correct option.
+
+Question 1(viii)
+A man invested in a company paying 12% dividend on its share. If the percentage return on his investment is 10%, then the shares are:
+
+at par
+
+below par
+
+above par
+
+cannot be determined
+
+Answer
+
+Given,
+
+Dividend rate = 12% of face value.
+
+So, if face value = ₹100, dividend = ₹12.
+
+Return = 10%
+
+By formula,
+
+Return % = 
+Dividend on one share
+Investment on one share
+×
+100
+Investment on one share
+Dividend on one share
+​
+ ×100
+
+Investment on one share equals to the market value of the share.
+
+Substituting values we get :
+
+⇒
+10
+=
+12
+Market value
+×
+100
+⇒
+Market value
+=
+12
+10
+×
+100
+⇒
+Market value
+=
+₹
+120.
+⇒10= 
+Market value
+12
+​
+ ×100
+⇒Market value= 
+10
+12
+​
+ ×100
+⇒Market value=₹120.
+
+Since market value > face value, the shares are said to be above par.
+
+Hence, option 3 is the correct option.
+
+Question 1(ix)
+Statement 1: The point which is equidistant from three non-collinear points D, E and F is the circumcenter of the ΔDEF.
+
+Statement 2: The incenter of a triangle is the point where the bisector of the angles intersects.
+
+Both the statements are true.
+
+Both the statements are false.
+
+Statement 1 is true, and Statement 2 is false.
+
+Statement 1 is false, and Statement 2 is true.
+
+Answer
+
+The circumcenter of a triangle is defined as the point where the perpendicular bisectors of the sides intersect. It is equidistant from the three vertices (D, E, and F) of the triangle.
+
+∴ Statement 1 is true.
+
+The incenter of a triangle is defined as the point of concurrency of the three angle bisectors of the triangle. This point is also the center of the inscribed circle and is equidistant from the three sides of the triangle.
+
+∴ Statement 2 is true.
+
+∴ Both statements are true.
+
+Hence, option 1 is the correct option.
+
+Question 1(x)
+Assertion (A): If sin2 A + sin A = 1 then cos4 A + cos2 A = 1.
+
+Statement 2: 1 - sin2 A = cos2 A
+
+(A) is true, (R) is false.
+
+(A) is false, (R) is true.
+
+Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+Answer
+
+Given,
+
+⇒ sin2 A + sin A = 1
+
+⇒ sin A = 1 - sin2 A
+
+⇒ sin A = cos2 A
+
+Squaring both the sides, we get :
+
+⇒ (sin A)2 = (cos2 A)2
+
+⇒ sin2 A = cos4 A ......................(1)
+
+Solving L.H.S. of cos4 A + cos2 A = 1, we get :
+
+⇒ cos4 A + cos2 A
+
+⇒ sin2 A + cos2 A [From equation (1)]
+
+⇒ 1.
+
+Since, L.H.S. = R.H.S.
+
+∴ Assertion (A) is true.
+
+As we know that, sin2 A + cos2 A = 1
+
+⇒ 1 - sin2 A = cos2 A
+
+∴ Reason (R) is true.
+
+∴ Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Hence, option 3 is the correct option.
+
+Question 1(xi)
+In the given diagram ΔABC ∼ ΔEFG. If ∠ABC = ∠EFG = 60°, then the length of the side FG is:
+
+In the given diagram ΔABC ∼ ΔEFG. If ∠ABC = ∠EFG = 60°, then the length of the side FG is: ICSE 2025 Maths Solved Question Paper.
+15 cm
+
+20 cm
+
+25 cm
+
+30 cm
+
+Answer
+
+Given, ΔABC ∼ ΔEFG
+
+So, the corresponding sides are in proportion.
+
+⇒
+A
+B
+E
+F
+=
+B
+C
+F
+G
+⇒
+15
+75
+=
+3
+F
+G
+⇒
+1
+5
+=
+3
+F
+G
+⇒
+F
+G
+=
+3
+×
+5
+⇒
+F
+G
+=
+15
+ cm
+⇒ 
+EF
+AB
+​
+ = 
+FG
+BC
+​
+ 
+⇒ 
+75
+15
+​
+ = 
+FG
+3
+​
+ 
+⇒ 
+5
+1
+​
+ = 
+FG
+3
+​
+ 
+⇒FG=3×5
+⇒FG=15 cm
+
+Hence, option 1 is the correct option.
+
+Question 1(xii)
+If the volume of two spheres is in the ratio 27: 64, then the ratio of their radii is:
+
+3 : 4
+
+4 : 3
+
+9 : 16
+
+16 : 9
+
+Answer
+
+Given, the volume of two spheres = 27: 64
+
+By formula, volume of a sphere = 
+4
+π
+r
+3
+3
+3
+4πr 
+3
+ 
+​
+ , where r is the radius of the sphere.
+
+Let r and R be the radii of the two spheres.
+
+⇒
+4
+π
+r
+3
+3
+4
+π
+R
+3
+3
+=
+27
+64
+⇒
+r
+3
+R
+3
+=
+27
+64
+⇒
+r
+R
+=
+27
+3
+64
+3
+⇒
+r
+R
+=
+3
+4
+.
+⇒ 
+3
+4πR 
+3
+ 
+​
+ 
+3
+4πr 
+3
+ 
+​
+ 
+​
+ = 
+64
+27
+​
+ 
+⇒ 
+R 
+3
+ 
+r 
+3
+ 
+​
+ = 
+64
+27
+​
+ 
+⇒ 
+R
+r
+​
+ = 
+3
+  
+64
+​
+ 
+3
+  
+27
+​
+ 
+​
+ 
+⇒ 
+R
+r
+​
+ = 
+4
+3
+​
+ .
+
+Hence, option 1 is the correct option.
+
+Question 1(xiii)
+The marked price of an article is ₹1,375. If the CGST is charged at a rate of 4%, then the price of the article including GST is:
+
+₹55
+
+₹110
+
+₹1,430
+
+₹1,485
+
+Answer
+
+Given,
+
+Marked price of the article = ₹1,375.
+
+The CGST (Central Goods and Services Tax) = 4%.
+
+As we know that the total GST is composed of CGST and SGST (State Goods and Services Tax) at equal rates, the total GST rate is 8% (4% CGST + 4% SGST).
+
+GST = 8% of marked price of the article
+
+= 
+8
+100
+×
+1375
+=
+8
+×
+1375
+100
+=
+11000
+100
+100
+8
+​
+ ×1375= 
+100
+8×1375
+​
+ = 
+100
+11000
+​
+  = ₹110
+
+Final Price = Marked Price + GST Amount
+
+= ₹1,375 + ₹110 = ₹1,485
+
+Hence, option 4 is the correct option.
+
+Question 1(xiv)
+The solution set for 0 < 
+−
+x
+3
+− 
+3
+x
+​
+  < 2, x ∈ Z is;
+
+{-5, -4, -3, -2, -1}
+
+{-6, -5, -4, -3, -2, -1}
+
+{-5, -4, -3, -2, -1, 0}
+
+{-6, -5, -4, -3, -2, -1, 0}
+
+Answer
+
+Given, 0 < 
+−
+x
+3
+− 
+3
+x
+​
+  < 2
+
+Solving L.H.S. of equation :
+
+⇒ 0 < 
+−
+x
+3
+− 
+3
+x
+​
+ 
+
+⇒ 
+x
+3
+3
+x
+​
+  < 0
+
+⇒ x < 0 × 3
+
+⇒ x < 0................... (1)
+
+Solving R.H.S. of equation :
+
+⇒ 
+−
+x
+3
+− 
+3
+x
+​
+  < 2
+
+⇒ -x < 2 × 3
+
+⇒ -x < 6
+
+⇒ x > -6 .................... (2)
+
+From, equation (1) and (2), we get
+
+-6 < x < 0 and x ∈ Z.
+
+Solution set for x = {-5, -4, -3, -2, -1}.
+
+Hence, option 1 is the correct option.
+
+Question 1(xv)
+Assertion (A): The mean of first 9 natural numbers is 4.5.
+
+Statement 2: Mean = 
+Sum of all observations
+Total number of observations
+Total number of observations
+Sum of all observations
+​
+ 
+
+(A) is true, (R) is false.
+
+(A) is false, (R) is true.
+
+Both (A) and (R) are true, and (R) is the correct reason for (A).
+
+Both (A) and (R) are true, and (R) is the incorrect reason for (A).
+
+Answer
+
+First 9 natural numbers = 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+By formula,
+
+⇒
+Mean 
+=
+Sum of all observations
+Total number of observations
+=
+1
++
+2
++
+3
++
+4
++
+5
++
+6
++
+7
++
+8
++
+9
+9
+=
+45
+9
+=
+5.
+⇒Mean = 
+Total number of observations
+Sum of all observations
+​
+ 
+= 
+9
+1+2+3+4+5+6+7+8+9
+​
+ 
+= 
+9
+45
+​
+ 
+=5.
+
+∴ (A) is false, (R) is true.
+
+Hence, option 2 is the correct option.
+
+Question 2(i)
+Solve the following quadratic equation 2x2 − 5x − 4 = 0. Give your answer correct to three significant figures.
+
+Answer
+
+Given,
+
+⇒ 2x2 − 5x − 4 = 0
+
+Comparing equation 2x2 − 5x − 4 = 0 with ax2 + bx + c = 0, we get :
+
+a = 2, b = -5 and c = -4.
+
+By formula,
+
+x = 
+−
+b
+±
+b
+2
+−
+4
+a
+c
+2
+a
+2a
+−b± 
+b 
+2
+ −4ac
+​
+ 
+​
+ 
+
+Substituting values we get :
+
+⇒
+x
+=
+−
+(
+−
+5
+)
+±
+(
+−
+5
+)
+2
+−
+4
+×
+(
+2
+)
+×
+(
+−
+4
+)
+2
+×
+(
+2
+)
+=
+5
+±
+25
+−
+(
+−
+32
+)
+4
+=
+5
+±
+25
++
+32
+4
+=
+5
+±
+57
+4
+=
+5
++
+57
+4
+ or 
+5
+−
+57
+4
+=
+5
++
+7.55
+4
+ or 
+5
+−
+7.55
+4
+=
+12.55
+4
+ or 
+−
+2.55
+4
+=
+3.14
+ or 
+−
+0.638
+⇒x= 
+2×(2)
+−(−5)± 
+(−5) 
+2
+ −4×(2)×(−4)
+​
+ 
+​
+ 
+= 
+4
+5± 
+25−(−32)
+​
+ 
+​
+ 
+= 
+4
+5± 
+25+32
+​
+ 
+​
+ 
+= 
+4
+5± 
+57
+​
+ 
+​
+ 
+= 
+4
+5+ 
+57
+​
+ 
+​
+  or  
+4
+5− 
+57
+​
+ 
+​
+ 
+= 
+4
+5+7.55
+​
+  or  
+4
+5−7.55
+​
+ 
+= 
+4
+12.55
+​
+  or  
+4
+−2.55
+​
+ 
+=3.14 or −0.638
+
+Hence, x = 3.14, -0.638.
+
+Question 2(ii)
+Mrs. Rao deposited ₹ 250 per month in a recurring deposit account for a period of 3 years. She received ₹ 10,110 at the time of maturity. Find:
+
+(a) the rate of interest.
+
+(b) how much more interest Mrs. Rao will receive if she had deposited ₹50 more per month at the same rate of interest and for the same time.
+
+Answer
+
+(a) Given,
+
+Mrs. Rao deposited ₹ 250 per month in a recurring deposit account for a period of 3 years.
+
+Total deposit = ₹ 250 × 3 × 12 = ₹ 9,000.
+
+By formula,
+
+Interest = Maturity value - Total deposit = ₹ 10,110 - ₹ 9,000 = ₹ 1,110.
+
+Let rate of interest be r%.
+
+Time (n) = 36 months
+
+By formula,
+
+Interest
+=
+P
+×
+n
+×
+(
+n
++
+1
+)
+2
+×
+12
+×
+r
+100
+Interest= 
+2×12
+P×n×(n+1)
+​
+ × 
+100
+r
+​
+ 
+
+Substituting values we get :
+
+⇒
+1110
+=
+250
+×
+36
+×
+(
+36
++
+1
+)
+2
+×
+12
+×
+r
+100
+⇒
+1110
+=
+9000
+×
+37
+24
+×
+r
+100
+⇒
+1110
+=
+333000
+24
+×
+r
+100
+⇒
+r
+=
+24
+×
+1110
+×
+100
+333000
+⇒
+r
+=
+2664000
+333000
+⇒
+r
+=
+8
+⇒1110= 
+2×12
+250×36×(36+1)
+​
+ × 
+100
+r
+​
+ 
+⇒1110= 
+24
+9000×37
+​
+ × 
+100
+r
+​
+ 
+⇒1110= 
+24
+333000
+​
+ × 
+100
+r
+​
+ 
+⇒r= 
+333000
+24×1110×100
+​
+ 
+⇒r= 
+333000
+2664000
+​
+ 
+⇒r=8
+
+Hence, rate of interest = 8%.
+
+(b) If per month ₹ 50 more is deposited, then :
+
+P = ₹ 250 + ₹ 50 = ₹ 300.
+
+P = ₹ 300, r = 8%, n = 36 months
+
+By formula,
+
+Interest
+=
+P
+×
+n
+×
+(
+n
++
+1
+)
+2
+×
+12
+×
+r
+100
+Interest= 
+2×12
+P×n×(n+1)
+​
+ × 
+100
+r
+​
+ 
+
+Substituting values we get :
+
+⇒
+Interest
+=
+300
+×
+36
+×
+(
+36
++
+1
+)
+2
+×
+12
+×
+8
+100
+⇒
+Interest
+=
+10800
+×
+37
+24
+×
+8
+100
+⇒
+Interest
+=
+399600
+24
+×
+8
+100
+⇒
+Interest
+=
+399600
+×
+8
+24
+×
+100
+⇒
+Interest
+=
+3996
+3
+⇒
+Interest
+=
+₹
+1
+,
+332
+⇒Interest= 
+2×12
+300×36×(36+1)
+​
+ × 
+100
+8
+​
+ 
+⇒Interest= 
+24
+10800×37
+​
+ × 
+100
+8
+​
+ 
+⇒Interest= 
+24
+399600
+​
+ × 
+100
+8
+​
+ 
+⇒Interest= 
+24×100
+399600×8
+​
+ 
+⇒Interest= 
+3
+3996
+​
+ 
+⇒Interest=₹1,332
+
+Additional Interest = New Interest - Old Interest
+
+= ₹1,332 - ₹1,110
+
+= ₹222.
+
+Hence, Mrs. Rao would receive ₹222 more as interest if she had deposited ₹50 more per month at the same rate of interest and for the same time.
+
+Question 2(iii)
+In ΔABC, ∠ABC = 90°, AB = 20 cm, AC = 25 cm, DE is perpendicular to AC such that ∠DEA = 90° and DE = 3 cm as shown in the given figure.
+
+In ΔABC, ∠ABC = 90°, AB = 20 cm, AC = 25 cm, DE is perpendicular to AC such that ∠DEA = 90° and DE = 3 cm as shown in the given figure. ICSE 2025 Maths Solved Question Paper.
+(a) Prove that ΔABC ~ ΔAED.
+
+(b) Find the lengths of BC, AD and AE.
+
+(c) If BCED represents a plot of land on a map whose actual area on ground is 576 m2, then find the scale factor of the map.
+
+Answer
+
+(a) In ΔABC and ΔAED,
+
+⇒ ∠ABC = ∠AED [Both = 90°]
+
+⇒ ∠BAC = ∠DAE [Common angles]
+
+∴ ΔABC ~ ΔAED (By AA similarity postulate)
+
+Hence, proved that ΔABC ~ ΔAED.
+
+(b) Given,
+
+AB = 20 cm, AC = 25 cm, DE = 3 cm
+
+In ΔABC,
+
+By pythagoras theorem,
+
+⇒ AB2 + BC2 = AC2
+
+⇒ (20)2 + BC2 = (25)2
+
+⇒ 400 + BC2 = 625
+
+⇒ BC2 = 625 - 400
+
+⇒ BC2 = 225
+
+⇒ BC = 
+225
+225
+​
+ 
+
+⇒ BC = 15 cm.
+
+We know that,
+
+Since, corresponding sides of similar triangles are proportional we have :
+
+A
+B
+A
+E
+=
+B
+C
+D
+E
+=
+A
+C
+A
+D
+AE
+AB
+​
+ = 
+DE
+BC
+​
+ = 
+AD
+AC
+​
+ 
+
+Solving,
+
+⇒
+A
+B
+A
+E
+=
+B
+C
+D
+E
+⇒
+20
+A
+E
+=
+15
+3
+⇒
+20
+×
+3
+15
+=
+A
+E
+⇒
+A
+E
+=
+20
+5
+⇒
+A
+E
+=
+4
+ cm
+.
+⇒ 
+AE
+AB
+​
+ = 
+DE
+BC
+​
+ 
+⇒ 
+AE
+20
+​
+ = 
+3
+15
+​
+ 
+⇒ 
+15
+20×3
+​
+ =AE
+⇒AE= 
+5
+20
+​
+ 
+⇒AE=4 cm.
+
+Substituting values in 
+B
+C
+D
+E
+=
+A
+C
+A
+D
+DE
+BC
+​
+ = 
+AD
+AC
+​
+  we get :
+
+⇒
+B
+C
+D
+E
+=
+A
+C
+A
+D
+⇒
+15
+3
+=
+25
+A
+D
+⇒
+5
+=
+25
+A
+D
+⇒
+A
+D
+=
+25
+5
+⇒
+A
+D
+=
+5
+ cm
+.
+⇒ 
+DE
+BC
+​
+ = 
+AD
+AC
+​
+ 
+⇒ 
+3
+15
+​
+ = 
+AD
+25
+​
+ 
+⇒5= 
+AD
+25
+​
+ 
+⇒AD= 
+5
+25
+​
+ 
+⇒AD=5 cm.
+
+Hence, BC = 15 cm, AE = 4 cm, AD = 5 cm.
+
+(c) Given,
+
+Area on ground = 576 m2
+
+By formula,
+
+Area of triangle = 
+1
+2
+2
+1
+​
+  × base × height
+
+Area of ΔABC = 
+1
+2
+2
+1
+​
+  × AB × BC
+
+= 
+1
+2
+×
+20
+×
+15
+2
+1
+​
+ ×20×15
+
+= 150 cm2.
+
+Area of ΔAED = 
+1
+2
+2
+1
+​
+  × AE × DE
+
+=
+1
+2
+×
+4
+×
+3
+= 
+2
+1
+​
+ ×4×3
+
+=
+1
+2
+×
+12
+= 
+2
+1
+​
+ ×12
+
+= 6 cm2.
+
+From figure,
+
+⇒ Area of Quadrilateral (BCED) = Area of ΔABC - Area of ΔAED
+
+= 150 - 6 = 144 cm2.
+
+⇒ Actual ground area = 576 m2
+
+= 576 × 10000 cm2 = 5760000 cm2
+
+Let scale factor be k.
+
+By formula,
+
+k2 = 
+Area of BCED
+Actual area of BCED on ground
+Actual area of BCED on ground
+Area of BCED
+​
+ 
+
+Substituting values we get :
+
+⇒
+k
+2
+=
+144
+5760000
+⇒
+k
+2
+=
+1
+40000
+⇒
+k
+=
+1
+40000
+⇒
+k
+=
+1
+200
+⇒k 
+2
+ = 
+5760000
+144
+​
+ 
+⇒k 
+2
+ = 
+40000
+1
+​
+ 
+⇒k= 
+40000
+1
+​
+ 
+​
+ 
+⇒k= 
+200
+1
+​
+ 
+
+Hence, scale factor equals 1 : 200.
+
+Question 3(i)
+Use ruler and compass for the following construction. Construct a ΔABC, where AB = 6 cm, AC = 4.5 cm and ∠BAC = 120°. Construct a circle circumscribing the ΔABC. Measure and write down the length of the radius of the circle.
+
+Answer
+
+Given,
+
+AB = 6 cm, AC = 4.5 cm and ∠BAC = 120°
+
+Steps of construction,
+
+Draw a line segment AB = 6 cm.
+
+Construct ∠BAY = 120°.
+
+With A as center and radius equal to 4.5 cm draw an arc intersecting AY at C.
+
+Join points B and C.
+
+Draw the perpendicular bisectors of AB and AC. The point where the two perpendicular bisectors intersect is the center of the circumscribing circle. Mark this point as O.
+
+Measure OC, with O as center and OC as radius, construct a circle passing through points A, B and C.
+
+Use ruler and compass for the following construction. Construct a ΔABC, where AB = 6 cm, AC = 4.5 cm and ∠BAC = 120°. Construct a circle circumscribing the ΔABC. ICSE 2025 Maths Solved Question Paper.
+On measuring, we get :
+
+OC = 5.2 cm
+
+Hence, radius of circle = 5.2 cm.
+
+Question 3(ii)
+ If 
+A
+=
+[
+1
+2
+3
+4
+]
+,
+B
+=
+[
+2
+1
+4
+2
+]
+,
+C
+=
+[
+−
+5
+1
+7
+−
+4
+]
+ If A=[ 
+1
+3
+​
+  
+2
+4
+​
+ ],B=[ 
+2
+4
+​
+  
+1
+2
+​
+ ],C=[ 
+−5
+7
+​
+  
+1
+−4
+​
+ ]
+
+Find:
+
+(a) A + C
+
+(b) B(A + C)
+
+(c) 5B
+
+(d) B(A + C) − 5B
+
+Answer
+
+(a) Given,
+
+⇒
+A
++
+C
+=
+[
+1
+2
+3
+4
+]
++
+[
+−
+5
+1
+7
+−
+4
+]
+=
+[
+1
++
+(
+−
+5
+)
+2
++
+1
+3
++
+7
+4
++
+(
+−
+4
+)
+]
+=
+[
+−
+4
+3
+10
+0
+]
+.
+⇒A+C=[ 
+1
+3
+​
+  
+2
+4
+​
+ ]+[ 
+−5
+7
+​
+  
+1
+−4
+​
+ ]
+=[ 
+1+(−5)
+3+7
+​
+  
+2+1
+4+(−4)
+​
+ ]
+=[ 
+−4
+10
+​
+  
+3
+0
+​
+ ].
+
+Hence, A + C = 
+[
+−
+4
+3
+10
+0
+]
+[ 
+−4
+10
+​
+  
+3
+0
+​
+ ].
+
+(b) From part (a), we get :
+
+A + C = 
+[
+−
+4
+3
+10
+0
+]
+[ 
+−4
+10
+​
+  
+3
+0
+​
+ ].
+
+⇒
+B
+(
+A
++
+C
+)
+=
+[
+2
+1
+4
+2
+]
+.
+[
+−
+4
+3
+10
+0
+]
+=
+[
+(
+2
+×
+−
+4
++
+1
+×
+10
+)
+(
+2
+×
+3
++
+1
+×
+0
+)
+(
+4
+×
+−
+4
++
+2
+×
+10
+)
+(
+4
+×
+3
++
+2
+×
+0
+)
+]
+=
+[
+−
+8
++
+10
+6
++
+0
+−
+16
++
+20
+12
++
+0
+]
+=
+[
+2
+6
+4
+12
+]
+.
+⇒B(A+C)=[ 
+2
+4
+​
+  
+1
+2
+​
+ ].[ 
+−4
+10
+​
+  
+3
+0
+​
+ ]
+=[ 
+(2×−4+1×10)
+(4×−4+2×10)
+​
+  
+(2×3+1×0)
+(4×3+2×0)
+​
+ ]
+=[ 
+−8+10
+−16+20
+​
+  
+6+0
+12+0
+​
+ ]
+=[ 
+2
+4
+​
+  
+6
+12
+​
+ ].
+
+Hence, B(A + C) = 
+[
+2
+6
+4
+12
+]
+[ 
+2
+4
+​
+  
+6
+12
+​
+ ].
+
+(c) Solving,
+
+5
+B
+=
+5.
+[
+2
+1
+4
+2
+]
+=
+[
+10
+5
+20
+10
+]
+.
+5B=5.[ 
+2
+4
+​
+  
+1
+2
+​
+ ]
+=[ 
+10
+20
+​
+  
+5
+10
+​
+ ].
+
+Hence, 5B = 
+[
+10
+5
+20
+10
+]
+[ 
+10
+20
+​
+  
+5
+10
+​
+ ].
+
+(d) From part b,
+
+B(A + C) = 
+[
+2
+6
+4
+12
+]
+[ 
+2
+4
+​
+  
+6
+12
+​
+ ].
+
+From part c,
+
+5B = 
+[
+10
+5
+20
+10
+]
+[ 
+10
+20
+​
+  
+5
+10
+​
+ ].
+
+Solving,
+
+⇒
+B
+(
+A
++
+C
+)
+−
+5
+B
+=
+[
+2
+6
+4
+12
+]
+−
+[
+10
+5
+20
+10
+]
+[
+2
+−
+10
+6
+−
+5
+4
+−
+20
+12
+−
+10
+]
+=
+[
+−
+8
+1
+−
+16
+2
+]
+.
+⇒B(A+C)−5B=[ 
+2
+4
+​
+  
+6
+12
+​
+ ]−[ 
+10
+20
+​
+  
+5
+10
+​
+ ]
+[ 
+2−10
+4−20
+​
+  
+6−5
+12−10
+​
+ ]
+=[ 
+−8
+−16
+​
+  
+1
+2
+​
+ ].
+
+Hence, B(A + C) − 5B = 
+[
+−
+8
+1
+−
+16
+2
+]
+[ 
+−8
+−16
+​
+  
+1
+2
+​
+ ].
+
+Question 3(iii)
+In the given graph ABCD is a parallelogram.
+
+In the given graph ABCD is a parallelogram. ICSE 2025 Maths Solved Question Paper.
+Using the graph, answer the following:
+
+(a) write down the coordinates of A, B, C and D.
+
+(b) calculate the coordinates of ‘P’, the point of intersection of the diagonals AC and BD.
+
+(c) find the slope of sides CB and DA and verify that they represent parallel lines.
+
+(d) find the equation of the diagonal AC.
+
+Answer
+
+(a) From graph,
+
+A(3, 3), B(0, −2), C(−4, −2), D(−1, 3).
+
+Hence, A(3, 3), B(0, −2), C(−4, −2), D(−1, 3).
+
+(b) Given,
+
+The diagonals of a parallelogram bisect each other.
+
+Hence, the intersection point P is the midpoint of both AC and BD.
+
+By mid-point formula,
+
+⇒
+M
+=
+(
+x
+1
++
+x
+2
+2
+,
+y
+1
++
+y
+2
+2
+)
+⇒M=( 
+2
+x 
+1
+​
+ +x 
+2
+​
+ 
+​
+ , 
+2
+y 
+1
+​
+ +y 
+2
+​
+ 
+​
+ )
+
+Mid-point of AC :
+
+⇒
+P
+=
+(
+3
++
+(
+−
+4
+)
+2
+ 
+,
+3
++
+(
+−
+2
+)
+2
+)
+⇒
+P
+=
+(
+−
+1
+2
+ 
+,
+1
+2
+)
+⇒
+P
+=
+(
+−
+0.5
+,
+0.5
+)
+.
+⇒P=( 
+2
+3+(−4)
+​
+  , 
+2
+3+(−2)
+​
+ )
+⇒P=( 
+2
+−1
+​
+  , 
+2
+1
+​
+ )
+⇒P=(−0.5,0.5).
+
+Hence, P = (-0.5, 0.5).
+
+(c) By formula,
+
+Slope (m)
+=
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+Slope (m)= 
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Substituting values for line CB,
+
+⇒
+m
+C
+B
+=
+−
+2
+−
+(
+−
+2
+)
+0
+−
+(
+−
+4
+)
+=
+0
+4
+=
+0.
+⇒m 
+CB
+​
+ = 
+0−(−4)
+−2−(−2)
+​
+ 
+= 
+4
+0
+​
+ 
+=0.
+
+Substituting values for line DA,
+
+⇒
+m
+D
+A
+=
+3
+−
+3
+3
+−
+(
+−
+1
+)
+=
+0
+4
+=
+0.
+⇒m 
+DA
+​
+ = 
+3−(−1)
+3−3
+​
+ 
+= 
+4
+0
+​
+ 
+=0.
+
+Since, slope of parallel lines are equal, thus CB || DA.
+
+Hence, proved that CB || DA.
+
+(d) By formula,
+
+Slope of line = 
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+Slope of AC = 
+−
+2
+−
+3
+−
+4
+−
+3
+=
+−
+5
+−
+7
+=
+5
+7
+−4−3
+−2−3
+​
+ = 
+−7
+−5
+​
+ = 
+7
+5
+​
+ .
+
+Using point-slope formula,
+
+y - y1 = m(x - x1)
+
+Equation of AC :
+
+⇒
+y
+−
+3
+=
+5
+7
+(
+x
+−
+3
+)
+⇒
+7
+(
+y
+−
+3
+)
+=
+5
+(
+x
+−
+3
+)
+⇒
+7
+y
+−
+21
+=
+5
+x
+−
+15
+⇒
+5
+x
+−
+7
+y
+−
+15
++
+21
+=
+0
+⇒
+5
+x
+−
+7
+y
++
+6
+=
+0.
+⇒y−3= 
+7
+5
+​
+ (x−3)
+⇒7(y−3)=5(x−3)
+⇒7y−21=5x−15
+⇒5x−7y−15+21=0
+⇒5x−7y+6=0.
+
+Hence, equation of the diagonal AC is 5x - 7y + 6 = 0.
+
+SECTION B
+
+Question 4(i)
+Solve the following inequation, write the solution set and represent it on the real number line.
+
+2
+x
+−
+5
+3
+<
+3
+x
+5
++
+10
+≤
+4
+x
+5
++
+11
+;
+ 
+x
+∈
+R
+2x− 
+3
+5
+​
+ < 
+5
+3x
+​
+ +10≤ 
+5
+4x
+​
+ +11; x∈R
+
+Answer
+
+Solving L.H.S of the equation 
+2
+x
+−
+5
+3
+<
+3
+x
+5
++
+10
+≤
+4
+x
+5
++
+11
+;
+ 
+x
+∈
+R
+2x− 
+3
+5
+​
+ < 
+5
+3x
+​
+ +10≤ 
+5
+4x
+​
+ +11; x∈R we get,
+
+⇒
+2
+x
+−
+5
+3
+<
+3
+x
+5
++
+10
+⇒
+6
+x
+−
+5
+3
+<
+3
+x
++
+50
+5
+Multiplying both side by 15, we get:
+⇒
+15
+(
+6
+x
+−
+5
+3
+)
+<
+15
+(
+3
+x
++
+50
+5
+)
+⇒
+5
+(
+6
+x
+−
+5
+)
+<
+3
+(
+3
+x
++
+50
+)
+⇒
+30
+x
+−
+25
+<
+9
+x
++
+150
+⇒
+30
+x
+−
+9
+x
+<
+25
++
+150
+⇒
+21
+x
+<
+175
+⇒
+x
+<
+175
+21
+⇒
+x
+<
+25
+3
+ ........(1)
+⇒2x− 
+3
+5
+​
+ < 
+5
+3x
+​
+ +10
+⇒ 
+3
+6x−5
+​
+ < 
+5
+3x+50
+​
+ 
+Multiplying both side by 15, we get:
+⇒15( 
+3
+6x−5
+​
+ )<15( 
+5
+3x+50
+​
+ )
+⇒5(6x−5)<3(3x+50)
+⇒30x−25<9x+150
+⇒30x−9x<25+150
+⇒21x<175
+⇒x< 
+21
+175
+​
+ 
+⇒x< 
+3
+25
+​
+  ........(1)
+
+Solving R.H.S of the equation 
+2
+x
+−
+5
+3
+<
+3
+x
+5
++
+10
+≤
+4
+x
+5
++
+11
+;
+ 
+x
+∈
+R
+2x− 
+3
+5
+​
+ < 
+5
+3x
+​
+ +10≤ 
+5
+4x
+​
+ +11; x∈R we get,
+
+⇒
+3
+x
+5
++
+10
+≤
+4
+x
+5
++
+11
+⇒
+3
+x
++
+50
+5
+≤
+4
+x
++
+55
+5
+Multiplying both side by 5, we get:
+⇒
+5
+(
+3
+x
++
+50
+5
+)
+≤
+5
+(
+4
+x
++
+55
+5
+)
+⇒
+3
+x
++
+50
+≤
+4
+x
++
+55
+⇒
+50
+−
+55
+≤
+4
+x
+−
+3
+x
+⇒
+−
+5
+≤
+x
+⇒
+x
+≥
+−
+5
+ ........(2)
+⇒ 
+5
+3x
+​
+ +10≤ 
+5
+4x
+​
+ +11
+⇒ 
+5
+3x+50
+​
+ ≤ 
+5
+4x+55
+​
+ 
+Multiplying both side by 5, we get:
+⇒5( 
+5
+3x+50
+​
+ )≤5( 
+5
+4x+55
+​
+ )
+⇒3x+50≤4x+55
+⇒50−55≤4x−3x
+⇒−5≤x
+⇒x≥−5 ........(2)
+
+From equation (1) and (2), we get :
+
+-5 ≤ x < 
+25
+3
+3
+25
+​
+ .
+
+Solve the following inequation, write the solution set and represent it on the real number line. ICSE 2025 Maths Solved Question Paper.
+Hence, solution set equals to -5 ≤ x < 
+25
+3
+3
+25
+​
+ , x ∈ R.
+
+Question 4(ii)
+The first term of an Arithmetic Progression (A.P.) is 5, the last term is 50 and their sum is 440. Find:
+
+(a) the number of terms
+
+(b) common difference
+
+Answer
+
+Given,
+
+First term a = 5, last term l = 50, and sum of terms Sn = 440
+
+(a) Let the Number of terms be (n),
+
+Formula for sum of an A.P.:
+
+S
+n
+=
+n
+2
+(
+a
++
+l
+)
+Substituting values:
+⇒
+440
+=
+n
+2
+(
+5
++
+50
+)
+⇒
+440
+=
+n
+2
+(
+55
+)
+⇒
+440
+=
+55
+n
+2
+⇒
+440
+×
+2
+=
+55
+n
+⇒
+n
+=
+880
+55
+⇒
+n
+=
+16.
+S 
+n
+​
+ = 
+2
+n
+​
+ (a+l)
+Substituting values:
+⇒440= 
+2
+n
+​
+ (5+50)
+⇒440= 
+2
+n
+​
+ (55)
+⇒440= 
+2
+55n
+​
+ 
+⇒440×2=55n
+⇒n= 
+55
+880
+​
+ 
+⇒n=16.
+
+Hence, the number of terms is 16.
+
+(b) Let the Common difference be (d),
+
+Formula for nth term:
+
+l = a + (n-1)d
+
+Substitute values:
+
+50 = 5 + (16-1)d
+
+50 = 5 + 15d
+
+50 - 5 = 15d
+
+15d = 45
+
+d = 
+45
+15
+15
+45
+​
+ 
+
+d = 3
+
+Hence, common difference = 3.
+
+Question 4(iii)
+Prove that:
+
+(
+cot
+⁡
+A
++
+tan
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+sin
+⁡
+3
+A
++
+cos
+⁡
+3
+A
+=
+sec
+⁡
+A
+×
+cosec
+⁡
+A
+sin 
+3
+ A+cos 
+3
+ A
+(cotA+tanA−1)(sinA+cosA)
+​
+ =secA×cosecA
+
+Answer
+
+Solving L.H.S.,
+
+⇒
+(
+cot
+⁡
+A
++
+tan
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+sin
+⁡
+3
+A
++
+cos
+⁡
+3
+A
+⇒
+(
+cos
+⁡
+A
+sin
+⁡
+A
++
+sin
+⁡
+A
+cos
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+sin
+⁡
+2
+A
+−
+sin
+⁡
+A
+cos
+⁡
+A
++
+cos
+⁡
+2
+A
+)
+⇒
+(
+cos
+⁡
+2
+A
++
+sin
+⁡
+2
+A
+sin
+⁡
+A
+cos
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+1
+−
+sin
+⁡
+A
+cos
+⁡
+A
+)
+⇒
+(
+1
+sin
+⁡
+A
+cos
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+1
+−
+sin
+⁡
+A
+cos
+⁡
+A
+)
+⇒
+1
+−
+sin
+⁡
+A
+cos
+⁡
+A
+sin
+⁡
+A
+cos
+⁡
+A
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+(
+1
+−
+sin
+⁡
+A
+cos
+⁡
+A
+)
+⇒
+(1 - sin A cos A)
+sin A cos A(1 - sin A cos A)
+⇒
+1
+sin
+⁡
+A
+cos
+⁡
+A
+⇒
+sec
+⁡
+A
+×
+cosec
+⁡
+A
+⇒ 
+sin 
+3
+ A+cos 
+3
+ A
+(cotA+tanA−1)(sinA+cosA)
+​
+ 
+⇒ 
+(sinA+cosA)(sin 
+2
+ A−sinAcosA+cos 
+2
+ A)
+( 
+sinA
+cosA
+​
+ + 
+cosA
+sinA
+​
+ −1)(sinA+cosA)
+​
+ 
+⇒ 
+(sinA+cosA)(1−sinAcosA)
+( 
+sinAcosA
+cos 
+2
+ A+sin 
+2
+ A
+​
+ −1)(sinA+cosA)
+​
+ 
+⇒ 
+(sinA+cosA)(1−sinAcosA)
+( 
+sinAcosA
+1
+​
+ −1)(sinA+cosA)
+​
+ 
+⇒ 
+(sinA+cosA)(1−sinAcosA)
+sinAcosA
+1−sinAcosA
+​
+ (sinA+cosA)
+​
+ 
+⇒ 
+sin A cos A(1 - sin A cos A)
+(1 - sin A cos A)
+​
+ 
+⇒ 
+sinAcosA
+1
+​
+ 
+⇒secA×cosecA
+
+Hence, 
+(
+cot
+⁡
+A
++
+tan
+⁡
+A
+−
+1
+)
+(
+sin
+⁡
+A
++
+cos
+⁡
+A
+)
+sin
+⁡
+3
+A
++
+cos
+⁡
+3
+A
+=
+sec
+⁡
+A
+×
+cosec
+⁡
+A
+sin 
+3
+ A+cos 
+3
+ A
+(cotA+tanA−1)(sinA+cosA)
+​
+ =secA×cosecA.
+
+Question 5(i)
+Using properties of proportion, find the value of ‘x’:
+
+6
+x
+2
++
+3
+x
+−
+5
+3
+x
+−
+5
+=
+9
+x
+2
++
+2
+x
++
+5
+2
+x
++
+5
+;
+x
+≠
+0
+3x−5
+6x 
+2
+ +3x−5
+​
+ = 
+2x+5
+9x 
+2
+ +2x+5
+​
+ ;x
+
+=0
+
+Answer
+
+Given,
+
+⇒
+6
+x
+2
++
+3
+x
+−
+5
+3
+x
+−
+5
+=
+9
+x
+2
++
+2
+x
++
+5
+2
+x
++
+5
+⇒ 
+3x−5
+6x 
+2
+ +3x−5
+​
+ = 
+2x+5
+9x 
+2
+ +2x+5
+​
+ 
+
+Applying componendo and dividendo,
+
+⇒
+6
+x
+2
++
+3
+x
+−
+5
++
+(
+3
+x
+−
+5
+)
+6
+x
+2
++
+3
+x
+−
+5
+−
+(
+3
+x
+−
+5
+)
+=
+9
+x
+2
++
+2
+x
++
+5
++
+(
+2
+x
++
+5
+)
+9
+x
+2
++
+2
+x
++
+5
+−
+(
+2
+x
++
+5
+)
+⇒
+6
+x
+2
++
+3
+x
+−
+5
++
+3
+x
+−
+5
+6
+x
+2
++
+3
+x
+−
+5
+−
+3
+x
++
+5
+=
+9
+x
+2
++
+2
+x
++
+5
++
+2
+x
++
+5
+9
+x
+2
++
+2
+x
++
+5
+−
+2
+x
+−
+5
+⇒
+6
+x
+2
++
+6
+x
+−
+10
+6
+x
+2
+=
+9
+x
+2
++
+4
+x
++
+10
+9
+x
+2
+⇒
+6
+x
+2
++
+6
+x
+−
+10
+6
+=
+9
+x
+2
++
+4
+x
++
+10
+9
+⇒
+9
+×
+(
+6
+x
+2
++
+6
+x
+−
+10
+)
+=
+6
+×
+(
+9
+x
+2
++
+4
+x
++
+10
+)
+⇒
+54
+x
+2
++
+54
+x
+−
+90
+=
+54
+x
+2
++
+24
+x
++
+60
+⇒
+54
+x
+2
++
+54
+x
+−
+90
+−
+54
+x
+2
+−
+24
+x
+−
+60
+=
+0
+⇒
+54
+x
+2
+−
+54
+x
+2
++
+54
+x
+−
+24
+x
+−
+90
+−
+60
+=
+0
+⇒
+30
+x
+−
+150
+=
+0
+⇒
+30
+x
+=
+150
+⇒
+x
+=
+150
+30
+⇒
+x
+=
+5.
+⇒ 
+6x 
+2
+ +3x−5−(3x−5)
+6x 
+2
+ +3x−5+(3x−5)
+​
+ = 
+9x 
+2
+ +2x+5−(2x+5)
+9x 
+2
+ +2x+5+(2x+5)
+​
+ 
+⇒ 
+6x 
+2
+ +3x−5−3x+5
+6x 
+2
+ +3x−5+3x−5
+​
+ = 
+9x 
+2
+ +2x+5−2x−5
+9x 
+2
+ +2x+5+2x+5
+​
+ 
+⇒ 
+6x 
+2
+ 
+6x 
+2
+ +6x−10
+​
+ = 
+9x 
+2
+ 
+9x 
+2
+ +4x+10
+​
+ 
+⇒ 
+6
+6x 
+2
+ +6x−10
+​
+ = 
+9
+9x 
+2
+ +4x+10
+​
+ 
+⇒9×(6x 
+2
+ +6x−10)=6×(9x 
+2
+ +4x+10)
+⇒54x 
+2
+ +54x−90=54x 
+2
+ +24x+60
+⇒54x 
+2
+ +54x−90−54x 
+2
+ −24x−60=0
+⇒54x 
+2
+ −54x 
+2
+ +54x−24x−90−60=0
+⇒30x−150=0
+⇒30x=150
+⇒x= 
+30
+150
+​
+ 
+⇒x=5.
+
+Hence, x = 5.
+
+Question 5(ii)
+It is given that (x − 2) is a factor of polynomial 2x3 − 7x2 + kx − 2.
+
+Find:
+
+(a) the value of ‘k’.
+
+(b) hence, factorise the resulting polynomial completely.
+
+Answer
+
+(a) Since (x − 2) is a factor of 2x3 − 7x2 + kx − 2.
+
+Thus, on substituting x = 2, in 2x3 − 7x2 + kx − 2, the remainder will be equal to zero.
+
+⇒ 2(2)3 − 7(2)2 + k(2) − 2 = 0
+
+⇒ 16 − 28 + 2k − 2 = 0
+
+⇒ −14 + 2k = 0
+
+⇒ 2k = 14
+
+⇒ k = 
+14
+2
+2
+14
+​
+ 
+
+⇒ k = 7.
+
+Hence, k = 7.
+
+(b) Substituting k = 7 in 2x3 − 7x2 + kx − 2, we get :
+
+Polynomial : 2x3 − 7x2 + 7x − 2.
+
+Dividing 2x3 − 7x2 + 7x − 2 by x - 2, we get :
+
+x
+−
+2
+)
+‾
++
+−
+2
+x
+3
+−
++
+4
+x
+2
+‾
+−
+3
+x
+2
++
+7
+x
+−
++
+3
+x
+2
++
+−
+6
+x
+‾
+x
+−
+2
++
+−
+x
+−
++
+2
+‾
+×
+x−312x 
+2
+ −3x+1
+x−2 
+)
+ 2x 
+3
+ −7x 
+2
+ +7x−2
+​
+ 
+x 
+2
+ +4( 
+−
++
+​
+ 2x 
+3
+  
++
+−
+​
+ 4x 
+2
+ 
+​
+ 
+x 
+2
+ +3x−7)−3x 
+2
+ +7x
+x 
+2
+ +3x−5)) 
++
+−
+​
+ 3x 
+2
+  
+−
++
+​
+ 6x
+​
+ 
+x 
+2
+ +3x−5)+24x())x−2
+x 
+2
+ +3x−5)+24+) 
+−
++
+​
+ x 
++
+−
+​
+ 2
+​
+ 
+x 
+2
+ +3x−54)+2x+7×
+​
+ 
+
+⇒ 2x3 − 7x2 + 7x − 2 = (x - 2)(2x2 - 3x + 1)
+
+⇒ 2x3 − 7x2 + 7x − 2 = (x - 2)[2x2 - 2x - x + 1]
+
+⇒ 2x3 − 7x2 + 7x − 2 = (x - 2)[2x(x - 1) - 1(x - 1)]
+
+⇒ 2x3 − 7x2 + 7x − 2 = (x - 2)(2x - 1)(x - 1).
+
+Hence, 2x3 − 7x2 + 7x − 2 = (x - 2)(2x - 1)(x - 1).
+
+Question 5(iii)
+A solid wooden capsule is shown in Figure 1. The capsule is formed of a cylindrical block and two hemispheres.
+
+Find the sum of total surface area of the three parts as shown in Figure 2. Given, the radius of the capsule is 3.5 cm and the length of the cylindrical block is 14 cm.
+(Use 
+π
+=
+22
+7
+π= 
+7
+22
+​
+ )
+
+A solid wooden capsule is shown in Figure 1. The capsule is formed of a cylindrical block and two hemispheres. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+From figure,
+
+Radius of cylindrical block = radius of hemispheres = r = 3.5 cm
+
+Height of cylindrical block = h = 14 cm.
+
+By formula,
+
+Total surface area of cylinder = 2πr(h + r)
+
+Total surface area of a hemisphere = 3πr2
+
+Total surface area = Total surface area of cylinder + Total surface area of 2 hemispheres
+
+= 2πr(h + r) + 2 × 3πr2
+
+= 2πrh + 2πr2 + 6πr2
+
+= 2πrh + 8πr2
+
+= 2πr(h + 4r).
+
+Substituting values, we get :
+
+Total surface area
+=
+2
+×
+22
+7
+×
+3.5
+×
+(
+14
++
+4
+×
+3.5
+)
+=
+2
+×
+22
+×
+0.5
+×
+(
+14
++
+14
+)
+=
+22
+×
+28
+=
+616
+ cm
+2
+.
+Total surface area=2× 
+7
+22
+​
+ ×3.5×(14+4×3.5)
+=2×22×0.5×(14+14)
+=22×28
+=616 cm 
+2
+ .
+
+Hence, the total surface area = 616 cm2.
+
+Question 6(i)
+Use a graph paper for this question taking 2 cm = 1 unit along both axes.
+
+(a) Plot A(1, 3), B(1, 2) and C(3, 0).
+
+(b) Reflect A and B on the x-axis and name their images as E and D respectively. Write down their coordinates.
+
+(c) Reflect A and B through the origin and name their images as F and G respectively.
+
+(d) Reflect A, B and C on the y-axis and name their images as J, I and H respectively.
+
+(e) Join all the points A, B, C, D, E, F, G, H, I and J in order and name the closed figure so formed.
+
+Answer
+
+Steps of Construction:
+
+Plot the given points: A(1, 3), B(1, 2) and C(3, 0).
+
+Reflect points A and B in x-axis.The image of A under reflection in x-axis is E(1, -3) and image of B under reflection in x-axis is D(1, -2).
+
+Reflect points A and B through the origin.The image of A under reflection through origin is F(-1, -3) and image of B under reflection through origin is G(-1, -2).
+
+Reflect points A, B, and C in y-axis. The image of A under reflection in y-axis is is J(-1, 3),the image of B under reflection in y-axis is I(-1, 2) and the image of C under reflection in y-axis is H(-3, 0).
+
+Join the points in order A, B, C, D, E, F, G, H, I, J and finally back to A to obtain the required closed figure ABCDEFGHIJ. The figure formed is a decagon.
+
+In the adjoining figure, AC is a diameter of the circle, AP = 3 cm and PB = 4 cm and QP ⊥ AB. If the area of △ APQ is 18 cm2, then the area of shaded portion QPBC is : ICSE 2025 Maths Solved Question Paper.
+Hence, the figure formed is a decagon.
+
+Question 6(ii)
+In the given diagram, AB is a vertical tower 100 m away from the foot of a 30 storied building CD. The angles of depression from the point C and E, (E being the mid-point of CD), are 35° and 14° respectively. (Use mathematical table for the required values rounded off correct to two places of decimals only.)
+
+Find the height of the:
+
+(a) tower AB
+
+(b) building CD
+
+In the given diagram, AB is a vertical tower 100 m away from the foot of a 30 storied building CD. The angles of depression from the point C and E, (E being the mid-point of CD), are 35° and 14° respectively. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+From figure,
+
+Let height of the building CD be H meters and height of tower AB be h meters.
+
+In the given diagram, AB is a vertical tower 100 m away from the foot of a 30 storied building CD. The angles of depression from the point C and E, (E being the mid-point of CD), are 35° and 14° respectively. ICSE 2025 Maths Solved Question Paper.
+Given,
+
+BD = 100 m
+
+E is the midpoint of CD
+
+∴ CE = 
+C
+D
+2
+=
+H
+2
+2
+CD
+​
+ = 
+2
+H
+​
+ 
+
+From figure,
+
+⇒ ∠CAP = ∠XCA = 35° [Alternate angles are equal]
+
+⇒ ∠EAP = ∠YEA = 14° [Alternate angles are equal]
+
+From figure,
+
+PD = AB = h
+
+AP = BD = 100 m
+
+In ΔACP,
+
+⇒
+tan 35°
+=
+Perpendicular
+Base
+⇒
+tan 35°
+=
+C
+P
+A
+P
+⇒
+tan 35°
+=
+C
+D
+−
+P
+D
+A
+P
+⇒
+0.70
+=
+H
+−
+h
+100
+⇒
+0.70
+×
+100
+=
+H
+−
+h
+⇒
+H
+−
+h
+=
+70.....
+(
+1
+)
+⇒tan 35°= 
+Base
+Perpendicular
+​
+ 
+⇒tan 35°= 
+AP
+CP
+​
+ 
+⇒tan 35°= 
+AP
+CD−PD
+​
+ 
+⇒0.70= 
+100
+H−h
+​
+ 
+⇒0.70×100=H−h
+⇒H−h=70.....(1)
+
+In ΔAEP,
+
+⇒
+tan 14°
+=
+Perpendicular
+Base
+⇒
+tan 14°
+=
+E
+P
+A
+P
+⇒
+tan 14°
+=
+E
+D
+−
+P
+D
+A
+P
+⇒
+0.25
+=
+H
+2
+−
+h
+100
+⇒
+H
+2
+−
+h
+=
+0.25
+×
+100
+⇒
+H
+2
+−
+h
+=
+25.....
+(
+2
+)
+⇒tan 14°= 
+Base
+Perpendicular
+​
+ 
+⇒tan 14°= 
+AP
+EP
+​
+ 
+⇒tan 14°= 
+AP
+ED−PD
+​
+ 
+⇒0.25= 
+100
+2
+H
+​
+ −h
+​
+ 
+⇒ 
+2
+H
+​
+ −h=0.25×100
+⇒ 
+2
+H
+​
+ −h=25.....(2)
+
+Subtracting equation (2) from (1), we get:
+
+⇒
+H
+−
+h
+−
+(
+H
+2
+−
+h
+)
+=
+70
+−
+25
+⇒
+H
+−
+h
+−
+H
+2
++
+h
+=
+45
+⇒
+H
+−
+H
+2
+=
+45
+⇒
+H
+2
+=
+45
+⇒
+H
+=
+45
+×
+2
+=
+90
+ m
+.
+⇒H−h−( 
+2
+H
+​
+ −h)=70−25
+⇒H−h− 
+2
+H
+​
+ +h=45
+⇒H− 
+2
+H
+​
+ =45
+⇒ 
+2
+H
+​
+ =45
+⇒H=45×2=90 m.
+
+⇒ H - h = 70
+
+⇒ 90 - h = 70
+
+⇒ h = 90 - 70
+
+⇒ h = 20 m.
+
+Hence, height of the tower AB = 20 m and height of the building CD = 90 m.
+
+Question 7(i)
+Use a graph paper for this question. (Take 2 cm = 10 Marks along one axis and 2 cm = 10 students along another axis). Draw a Histogram for the following distribution which gives the marks obtained by 164 students in a particular class and hence find the Mode.
+
+Marks	Number of students
+30 - 40	10
+40 - 50	26
+50 - 60	40
+60 - 70	54
+70 - 80	34
+Answer
+
+Steps of Construction:
+
+Draw a histogram of the given distribution.
+
+Inside the highest rectangle, which represents the maximum frequency (the modal class 60–70), draw two lines AC and BD diagonally from the upper corners C and D of the adjacent rectangles to the top corners of the modal rectangle.
+
+Through the point K (the point of intersection of diagonals AC and BD), draw KL perpendicular to the horizontal axis (Marks axis).
+
+The value of point L on the horizontal axis represents the value of the mode.
+
+Use a graph paper for this question. (Take 2 cm = 10 Marks along one axis and 2 cm = 10 students along another axis). Draw a Histogram for the following distribution which gives the marks obtained by 164 students in a particular class and hence find the Mode. ICSE 2025 Maths Solved Question Paper.
+From graph,
+
+The Mode = L = 64 marks (approx.)
+
+Hence, mode = 64.
+
+Question 7(ii)
+In the given graph, P and Q are points such that PQ cuts off intercepts of 5 units and 3 units along the x-axis and y-axis respectively. Line RS is perpendicular to PQ and passes through the origin. Find the:
+
+(a) coordinates of P and Q
+
+(b) equation of line RS
+
+In the given graph, P and Q are points such that PQ cuts off intercepts of 5 units and 3 units along the x-axis and y-axis respectively. Line RS is perpendicular to PQ and passes through the origin. Find the: ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+PQ cuts off intercepts of 5 units and 3 units along the x-axis and y-axis respectively.
+
+Thus,
+
+Coordinates of P = (5, 0) and coordinates of Q = (0, -3).
+
+Hence, coordinates of P = (5, 0) and coordinates of Q = (0, -3).
+
+(b) By formula,
+
+Slope (m) = 
+−
+y
+2
+−
+y
+1
+x
+2
+−
+x
+1
+− 
+x 
+2
+​
+ −x 
+1
+​
+ 
+y 
+2
+​
+ −y 
+1
+​
+ 
+​
+ 
+
+⇒ Slope of PQ = mPQ = 
+−
+3
+−
+0
+0
+−
+5
+=
+−
+3
+−
+5
+=
+3
+5
+0−5
+−3−0
+​
+ = 
+−5
+−3
+​
+ = 
+5
+3
+​
+ .
+
+We know that,
+
+Product of slopes of perpendicular lines = -1.
+
+⇒ Slope of RS × Slope of PQ = -1
+
+⇒ Slope of RS × 
+3
+5
+5
+3
+​
+  = -1
+
+⇒ Slope of RS = 
+−
+5
+3
+− 
+3
+5
+​
+ .
+
+By point-slope formula,
+
+Equation of line : 
+y
+−
+y
+1
+=
+m
+(
+x
+−
+x
+1
+)
+y−y 
+1
+​
+ =m(x−x 
+1
+​
+ )
+
+Since, slope of RS = 
+−
+5
+3
+− 
+3
+5
+​
+  and it passes through the origin.
+
+Equation of RS :
+
+⇒ 
+y
+−
+0
+=
+−
+5
+3
+(
+x
+−
+0
+)
+y−0=− 
+3
+5
+​
+ (x−0)
+
+⇒ y = 
+−
+5
+3
+x
+− 
+3
+5
+​
+ x
+
+⇒ 3y = -5x
+
+⇒ 5x + 3y = 0.
+
+Hence, the equation of line RS is 5x + 3y = 0.
+
+Question 7(iii)
+Refer to the given bill. A customer paid ₹2,000 (rounded off to the nearest ₹10) to clear the bill.
+
+Note: 5% discount is applicable on an article if 10 or more such articles are purchased.
+
+Article	M.P.(₹)	Quantity	G.S.T
+A	190	06	12%
+B	50	12	18%
+Check whether the total amount paid by the customer is correct or not. Justify your answer with necessary working.
+
+Answer
+
+For Article A,
+
+M.P. = ₹ 190, Quantity = 6
+
+Total M.P. = ₹ 190 × 6 = ₹ 1,140
+
+G.S.T. = 12%
+
+G.S.T. amount = 
+12
+12 of ₹ 1,140
+
+=
+12
+100
+×
+1140
+= 
+100
+12
+​
+ ×1140 = ₹ 136.80
+
+Total amount = ₹ 1,140 + ₹ 136.80 = ₹ 1,276.80
+
+For Article B,
+
+M.P. = ₹ 50, Quantity = 12
+
+(Discount 5% applicable as quantity > 10)
+
+Total M.P. = ₹ 50 × 12 = ₹ 600
+
+Discount = 5% of ₹ 600
+
+=
+5
+100
+×
+600
+= 
+100
+5
+​
+ ×600 = ₹ 30
+
+Taxable value = ₹ 600 - ₹ 30 = ₹ 570
+
+G.S.T. = 18%
+
+G.S.T. amount = 18% of ₹ 570
+
+=
+18
+100
+×
+570
+= 
+100
+18
+​
+ ×570 = ₹ 102.60
+
+Total amount = ₹ 570 + ₹ 102.60 = ₹ 672.60
+
+Total bill = ₹ 1,276.80 + ₹ 672.60 = ₹ 1,949.40
+
+Rounded off to the nearest ₹10 then bill= ₹ 1,950
+
+The customer paid ₹ 2,000, which is ₹ 50 extra (₹ 2,000 - ₹ 1,950).
+
+Hence, the customer paid ₹ 50 extra.
+
+Question 8(i)
+A man bought ₹200 shares of a company at 25% premium. If he received a return of 5% on his investment. Find the :
+
+(a) market value
+
+(b) dividend percent declared
+
+(c) number of shares purchased, if annual dividend is ₹1,000.
+
+Answer
+
+For one share:
+
+Face value = ₹200
+
+Premium = 25% of Face value
+
+= 
+25
+100
+×
+200
+100
+25
+​
+ ×200
+
+= ₹50
+
+(a) By formula,
+
+M.V. = Face value + Premium
+
+= ₹200 + ₹50
+
+= ₹250.
+
+Hence, market Value = ₹ 250.
+
+(b) Given,
+
+Return = 5%
+
+Return on 1 share = 
+5
+100
+×
+250
+100
+5
+​
+ ×250
+
+= ₹ 12.50
+
+By formula,
+
+Dividend earned = No. of shares × rate of dividend × F.V. of 1 share
+
+Let rate of dividend be r%.
+
+Substituting values we get :
+
+⇒ 12.50 = 1 × 
+r
+100
+100
+r
+​
+  × 200
+
+⇒ r = 
+12.50
+200
+×
+100
+200
+12.50
+​
+ ×100
+
+⇒ r = 6.25%
+
+Hence, dividend percent = 6.25%.
+
+(c) By formula,
+
+Annual dividend = Number of shares × Dividend% × Face value of 1 share
+
+⇒ 1000 = Number of shares × 
+6.25
+100
+100
+6.25
+​
+  × 200
+
+⇒ 1000 = Number of shares × 12.5
+
+⇒ Number of shares = 
+1000
+12.5
+12.5
+1000
+​
+  = 80.
+
+Hence, number of shares purchased = 80.
+
+Question 8(ii)
+For the given frequency distribution, find the:
+
+(a) mean, to the nearest whole number
+
+(b) median
+
+x	f
+10	3
+11	2
+12	2
+13	6
+14	3
+15	5
+16	3
+Answer
+
+x	f	fx
+10	3	30
+11	2	22
+12	2	24
+13	6	78
+14	3	42
+15	5	75
+16	3	48
+Total	Σf = 24	Σfx = 319
+(a) By formula,
+
+Mean
+=
+∑
+f
+x
+∑
+f
+=
+319
+24
+=
+13.291...
+≈
+13.
+Mean= 
+∑f
+∑fx
+​
+ = 
+24
+319
+​
+ =13.291...≈13.
+
+Hence, required mean = 13.
+
+(b) Cumulative frequency table :
+
+x	f	cf
+10	3	3
+11	2	5 (3 + 2)
+12	2	7 (5 + 2)
+13	6	13 (7 + 6)
+14	3	16 (13 + 3)
+15	5	21 (16 + 5)
+16	3	24 (21 + 3)
+Median
+
+Here, total frequency (N) = 24 and 
+N
+2
+=
+12
+2
+N
+​
+ =12.
+
+From the cumulative column,
+
+For 8th to 13th term, the value of x = 13.
+
+Hence, median = 13.
+
+Question 8(iii)
+Mr. and Mrs. Das were traveling by car from Delhi to Kasauli for a holiday. Distance between Delhi and Kasauli is approximately 350 km (via NH 152D). Due to heavy rain they had to slow down. The average speed of the car was reduced by 20 km/hr and time of the journey increased by 2 hours. Find:
+
+(a) the original speed of the car.
+
+(b) with the reduced speed, the number of hours they took to reach their destination.
+
+Answer
+
+(a) Let the original speed be x km/hr.
+
+Distance = 350 km
+
+In first case (original speed):
+
+Time 
+=
+Distance
+Speed
+=
+350
+x
+= 
+Speed
+Distance
+​
+ = 
+x
+350
+​
+  hrs
+
+In second case (reduced speed):
+
+Speed = (x - 20) km/hr
+
+Time 
+=
+350
+x
+−
+20
+= 
+x−20
+350
+​
+  hrs
+
+According to the question,
+
+Time taken to reach destination increases by 2 hours in the second case.
+
+∴
+350
+x
+−
+20
+−
+350
+x
+=
+2
+⇒
+350
+x
+−
+350
+(
+x
+−
+20
+)
+x
+(
+x
+−
+20
+)
+=
+2
+⇒
+350
+x
+−
+350
+x
++
+7000
+x
+(
+x
+−
+20
+)
+=
+2
+⇒
+7000
+x
+(
+x
+−
+20
+)
+=
+2
+⇒
+x
+(
+x
+−
+20
+)
+=
+7000
+2
+⇒
+x
+2
+−
+20
+x
+=
+3500
+⇒
+x
+2
+−
+20
+x
+−
+3500
+=
+0
+⇒
+x
+2
++
+50
+x
+−
+70
+x
+−
+3500
+=
+0
+⇒
+x
+(
+x
++
+50
+)
+−
+70
+(
+x
++
+50
+)
+=
+0
+⇒
+(
+x
++
+50
+)
+(
+x
+−
+70
+)
+=
+0
+⇒
+(
+x
++
+50
+)
+=
+0
+ or 
+(
+x
+−
+70
+)
+=
+0
+⇒
+x
+=
+−
+50
+ or 
+x
+=
+70.
+∴ 
+x−20
+350
+​
+ − 
+x
+350
+​
+ =2
+⇒ 
+x(x−20)
+350x−350(x−20)
+​
+ =2
+⇒ 
+x(x−20)
+350x−350x+7000
+​
+ =2
+⇒ 
+x(x−20)
+7000
+​
+ =2
+⇒x(x−20)= 
+2
+7000
+​
+ 
+⇒x 
+2
+ −20x=3500
+⇒x 
+2
+ −20x−3500=0
+⇒x 
+2
+ +50x−70x−3500=0
+⇒x(x+50)−70(x+50)=0
+⇒(x+50)(x−70)=0
+⇒(x+50)=0 or (x−70)=0
+⇒x=−50 or x=70.
+
+Since speed cannot be negative, x = 70 km/hr.
+
+Hence, original speed of the car = 70 km/hr.
+
+(b) Reduced Speed = x - 20 = 70 - 20 = 50 km/hr.
+
+Time taken with reduced speed 
+=
+350
+50
+= 
+50
+350
+​
+  = 7 hours.
+
+Hence, with reduced speed the time taken to reach destination = 7 hours.
+
+Question 9(i)
+A hollow sphere of external diameter 10 cm and internal diameter 6 cm is melted and made into a solid right circular cone of height 8 cm. Find the radius of the cone so formed.
+(Use 
+π
+=
+22
+7
+π= 
+7
+22
+​
+ )
+
+A hollow sphere of external diameter 10 cm and internal diameter 6 cm is melted and made into a solid right circular cone of height 8 cm. Find the radius of the cone so formed. ICSE 2025 Maths Solved Question Paper.
+Answer
+
+Given,
+
+External radius of hollow sphere (R) = 5 cm, internal radius of hollow sphere (r) = 3 cm, height of cone (h) = 8 cm.
+
+By formula,
+
+Volume of metal in the hollow sphere V = 
+4
+3
+π
+(
+R
+3
+−
+r
+3
+)
+3
+4
+​
+ π(R 
+3
+ −r 
+3
+ )
+
+Substituting values we get :
+
+⇒
+V
+sphere
+=
+4
+3
+×
+π
+×
+(
+5
+3
+−
+3
+3
+)
+⇒
+V
+sphere
+=
+4
+3
+×
+π
+×
+(
+125
+−
+27
+)
+⇒
+V
+sphere
+=
+4
+3
+×
+π
+×
+98
+⇒
+V
+sphere
+=
+392
+3
+π
+⇒V 
+sphere
+​
+ = 
+3
+4
+​
+ ×π×(5 
+3
+ −3 
+3
+ )
+⇒V 
+sphere
+​
+ = 
+3
+4
+​
+ ×π×(125−27)
+⇒V 
+sphere
+​
+ = 
+3
+4
+​
+ ×π×98
+⇒V 
+sphere
+​
+ = 
+3
+392
+​
+ π
+
+By formula,
+
+Volume of cone = 
+1
+3
+π
+×
+radius
+2
+h
+3
+1
+​
+ π×radius 
+2
+ h
+
+Let radius of cone formed be m cm.
+
+V
+cone
+=
+1
+3
+π
+m
+2
+×
+8
+=
+8
+3
+π
+m
+2
+V 
+cone
+​
+ = 
+3
+1
+​
+ πm 
+2
+ ×8= 
+3
+8
+​
+ πm 
+2
+ 
+
+Since, the sphere is melted to form, the cone the volume of both objects will be equal.
+
+⇒
+392
+3
+π
+=
+8
+3
+π
+m
+2
+⇒
+392
+=
+8
+m
+2
+⇒
+m
+2
+=
+392
+8
+⇒
+m
+2
+=
+49
+⇒
+m
+=
+7
+ cm
+.
+⇒ 
+3
+392
+​
+ π= 
+3
+8
+​
+ πm 
+2
+ 
+⇒392=8m 
+2
+ 
+⇒m 
+2
+ = 
+8
+392
+​
+ 
+⇒m 
+2
+ =49
+⇒m=7 cm.
+
+Hence, the radius of the cone formed = 7 cm.
+
+Question 9(ii)
+Ms. Sushmita went to a fair and participated in a game. The game consisted of a box having number cards with numbers from 01 to 30. The three prizes were as per the given table:
+
+Prize	Number on the card drawn at random is a
+Wall clock	perfect square
+Water bottle	even number which is also a multiple of 3
+Purse	prime number
+Find the probability of winning a:
+
+(a) Wall Clock
+
+(b) Water Bottle
+
+(c) Purse
+
+Answer
+
+Given,
+
+Total number of outcomes = 30
+
+(a) Given,
+
+Numbers that are perfect squares (between 1 to 30) are 1, 4, 9, 16, 25 (5 numbers).
+
+∴ No. of favourable outcomes = 5 perfect squares
+
+P(perfect square) 
+=
+No of favourable outcomes
+Total number of outcomes
+=
+5
+30
+=
+1
+6
+= 
+Total number of outcomes
+No of favourable outcomes
+​
+ = 
+30
+5
+​
+ = 
+6
+1
+​
+ .
+
+Hence, probability of numbers that are perfect squares = 
+1
+6
+6
+1
+​
+ .
+
+(b) Given,
+
+Even numbers that are also multiples of 3 (between 1 to 30) are 6, 12, 18, 24, 30 (5 numbers)
+
+∴ No. of favourable outcomes = 5 Even numbers that are also multiples of 3
+
+P(even and multiple of 3) 
+=
+No of favourable outcomes
+Total number of outcomes
+=
+5
+30
+=
+1
+6
+= 
+Total number of outcomes
+No of favourable outcomes
+​
+ = 
+30
+5
+​
+ = 
+6
+1
+​
+ 
+
+Hence, probability of numbers that are multiples of 3 and even number = 
+1
+6
+6
+1
+​
+ .
+
+(c) Given,
+
+Prime numbers (1 to 30) are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 (10 numbers)
+
+∴ No. of favourable outcomes = 10 Prime numbers
+
+P(prime)
+
+=
+No of favourable outcomes
+Total number of outcomes
+=
+10
+30
+=
+1
+3
+= 
+Total number of outcomes
+No of favourable outcomes
+​
+ = 
+30
+10
+​
+ = 
+3
+1
+​
+ 
+
+Hence, probability of prime numbers = 
+1
+3
+3
+1
+​
+ .
+
+Question 9(iii)
+X, Y, Z and C are the points on the circumference of a circle with centre O. AB is a tangent to the circle at X and ZY = XY. Given ∠OBX = 32° and ∠AXZ = 66°. Find:
+
+(a) ∠BOX
+
+(b) ∠CYX
+
+(c) ∠ZYX
+
+(d) ∠OXY
+
+X, Y, Z and C are the points on the circumference of a circle with centre O. AB is a tangent to the circle at X and ZY = XY. Given ∠OBX = 32° and ∠AXZ = 66°. Find: ICSE 2025 Maths Solved Question Paper.
+Answer
+
+(a) Given,
+
+In ΔBOX, OX ⟂ BX (radius ⟂ tangent at its point of contact)
+
+⇒ ∠OXB = 90°.
+
+By angle‑sum property of triangle,
+
+⇒ ∠BOX + ∠OBX + ∠OXB = 180°
+
+⇒ ∠BOX + 32° + 90° = 180°
+
+⇒ ∠BOX + 122° = 180°
+
+⇒ ∠BOX = 180° - 122°
+
+⇒ ∠BOX = 58°.
+
+Hence, ∠BOX = 58°.
+
+(b) From figure,
+
+∠COX = ∠BOX = 58°
+
+We know that,
+
+The angle which, an arc of a circle subtends at the centre is double that which it subtends at any point on the remaining part of the circumference.
+
+⇒
+∠
+C
+Y
+X
+=
+1
+2
+∠
+C
+O
+X
+⇒
+∠
+C
+Y
+X
+=
+58
+°
+2
+⇒
+∠
+C
+Y
+X
+=
+29
+°
+⇒∠CYX= 
+2
+1
+​
+ ∠COX
+⇒∠CYX= 
+2
+58°
+​
+ 
+⇒∠CYX=29°
+
+Hence, ∠CYX = 29°.
+
+(c) We know that,
+
+The angle between a tangent and a chord through the point of contact is equal to an angle in alternate segment.
+
+∠ZYX = ∠AXZ = 66°
+
+Hence, ∠ZYX = 66°.
+
+(d) From figure,
+
+In isosceles ΔZXY,
+
+ZY = XY
+
+We know that,
+
+The angles opposite to equal side of a triangle are equal.
+
+∠ZXY = ∠XZY
+
+By angle sum property in ΔXYZ,
+
+⇒
+∠
+X
+Z
+Y
++
+∠
+Z
+X
+Y
++
+∠
+Z
+Y
+X
+=
+180
+°
+⇒
+∠
+Z
+Y
+X
++
+2
+∠
+X
+Z
+Y
+=
+180
+°
+⇒
+2
+∠
+X
+Z
+Y
+=
+180
+°
+−
+∠
+Z
+Y
+X
+⇒
+∠
+X
+Z
+Y
+=
+180
+°
+−
+∠
+Z
+Y
+X
+2
+=
+180
+°
+−
+66
+°
+2
+=
+114
+°
+2
+=
+57
+°
+.
+⇒∠XZY+∠ZXY+∠ZYX=180°
+⇒∠ZYX+2∠XZY=180°
+⇒2∠XZY=180°−∠ZYX
+⇒∠XZY= 
+2
+180°−∠ZYX
+​
+ 
+= 
+2
+180°−66°
+​
+ 
+= 
+2
+114°
+​
+ 
+=57°.
+
+We know that,
+
+The angle between a tangent and a chord through the point of contact is equal to an angle in alternate segment.
+
+∠YXB = ∠XZY = 57°.
+
+Also,
+
+∠ZXY = ∠XZY = 57°.
+
+From figure,
+
+⇒ ∠OXY = ∠OXB - ∠YXB
+
+⇒ ∠OXY = 90° - 57° = 33°.
+
+Hence, ∠OXY = 33°.
+
+Question 10(i)
+If 1701 is the nth term of the Geometric Progression (G.P.) 7, 21, 63......, find :
+
+(a) the value of 'n'
+
+(b) hence find the sum of the 'n' terms of the G.P.
+
+Answer
+
+Given,
+
+G.P. : 7, 21, 63,.......
+
+First term (a) = 7
+
+Common ratio (r) = 
+21
+7
+=
+3
+7
+21
+​
+ =3
+
+(a) By formula,
+
+⇒ Tn = a × r(n-1)
+
+⇒ 1701 = 7 × 3(n-1)
+
+⇒
+3
+n
+−
+1
+=
+1701
+7
+⇒3 
+n−1
+ = 
+7
+1701
+​
+ 
+
+⇒ 3(n-1) = 243
+
+⇒ 3(n-1) = 35
+
+⇒ n - 1 = 5
+
+⇒ n = 6.
+
+Hence, n = 6.
+
+(b) By formula,
+
+S
+n
+=
+a
+×
+(
+r
+,
+n
+−
+1
+r
+−
+1
+)
+S 
+n
+​
+ =a×( 
+r−1
+r 
+,n
+ −1
+​
+ )
+
+Substituting values we get :
+
+⇒
+S
+6
+=
+7
+×
+(
+3
+6
+−
+1
+3
+−
+1
+)
+=
+7
+×
+(
+729
+−
+1
+2
+)
+=
+7
+×
+728
+2
+=
+7
+×
+364
+=
+2548.
+⇒S 
+6
+​
+ =7×( 
+3−1
+3 
+6
+ −1
+​
+ )
+=7×( 
+2
+729−1
+​
+ )
+=7× 
+2
+728
+​
+ 
+=7×364
+=2548.
+
+Hence, the sum of the n terms (here n = 6) of the G.P. is 2548.
+
+Question 10(ii)
+In the given diagram O is the centre of the circle. Chord SR produced meets the tangent XTP at P.
+
+In the given diagram O is the centre of the circle. Chord SR produced meets the tangent XTP at P.ICSE 2025 Maths Solved Question Paper.
+(a) Prove that ΔPTR ~ ΔPST
+
+(b) Prove that PT2 = PR × PS
+
+(c) If PR = 4 cm and PS = 16 cm, find the length of the tangent PT.
+
+Answer
+
+(a) We know that,
+
+The angle between a tangent and a chord through the point of contact is equal to the angle in the alternate segment of the circle.
+
+∴ ∠PTR = ∠PST
+
+⇒ ∠RPT = ∠TPS [Common angles]
+
+Therefore, by AA similarity, ΔPTR ~ ΔPST.
+
+Hence, proved that ΔPTR ~ ΔPST.
+
+(b) Since, corresponding sides of similar triangles are proportional we have :
+
+⇒ 
+P
+T
+P
+S
+=
+P
+R
+P
+T
+PS
+PT
+​
+ = 
+PT
+PR
+​
+ 
+
+⇒ PT2 = PR × PS.
+
+Hence, proved that PT2 = PR × PS.
+
+(c) Given,
+
+PR = 4 cm and PS = 16 cm.
+
+⇒
+P
+T
+2
+=
+P
+R
+×
+P
+S
+⇒
+P
+T
+=
+P
+R
+×
+P
+S
+⇒
+P
+T
+=
+4
+×
+16
+⇒
+P
+T
+=
+64
+⇒
+P
+T
+=
+8
+ cm
+.
+⇒PT 
+2
+ =PR×PS
+⇒PT= 
+PR×PS
+​
+ 
+⇒PT= 
+4×16
+​
+ 
+⇒PT= 
+64
+​
+ 
+⇒PT=8 cm.
+
+Hence, PT = 8 cm.
+
+Question 10(iii)
+The given graph represents the monthly salaries (in ₹) of workers of a factory.
+
+The given graph represents the monthly salaries (in ₹) of workers of a factory. ICSE 2025 Maths Solved Question Paper.
+Using graph answer the following:
+
+(a) the total number of workers.
+
+(b) the median class.
+
+(c) the lower-quartile class.
+
+(d) number of workers having monthly salary more than or equal to ₹6,000 but less than ₹10,000.
+
+Answer
+
+Monthly salary	cf
+0-2000	10
+2000 - 4000	20
+4000 - 6000	35
+6000 - 8000	55
+8000 - 10000	70
+10000 - 12000	75
+(a) From the graph, the cumulative frequency at ₹12,000 is 75.
+
+Hence, the total number of workers = 75.
+
+(b) By formula,
+
+Median = 
+N
++
+1
+2
+2
+N+1
+​
+ 
+
+Total workers = 75
+
+75
++
+1
+2
+=
+76
+2
+=
+38
+2
+75+1
+​
+ = 
+2
+76
+​
+ =38
+
+From table,
+
+36 to 55 worker lies in the class 6000 - 8000.
+
+Thus, 38th worker lies in the class 6000 - 8000.
+
+Hence, the median class = 6000 – 8000.
+
+(c) Lower quartile = 
+N
++
+1
+4
+=
+76
+4
+=
+19
+4
+N+1
+​
+ = 
+4
+76
+​
+ =19
+
+From table,
+
+11 to 20 worker lies in the class 2000 - 4000.
+
+Thus, 19th worker lies in the class 2000 - 4000.
+
+Hence, the lower-quartile class = 2000 – 4000.
+
+(d) From table,
+
+Number of workers having salary less than ₹ 10,000 = 70
+
+Number of workers having salary less than ₹ 6,000 = 35
+
+Number of workers in this range = 70 − 35 = 35 workers.
+
+Hence, the number of workers having monthly salary more than or equal to ₹ 6,000 but less than ₹ 10,000 = 35.

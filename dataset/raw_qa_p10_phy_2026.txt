@@ -1,0 +1,2727 @@
+Section A
+Question 1(i)
+For a body to be in dynamic equilibrium, its:
+
+momentum should be zero
+acceleration should be zero
+kinetic energy should be zero
+velocity should be zero
+Answer
+
+acceleration should be zero
+
+Reason — A body is said to be in dynamic equilibrium when it is moving with uniform velocity. It means that the body is not at rest, its velocity is constant and hence its acceleration is zero.
+
+Therefore, for dynamic equilibrium, acceleration should be zero.
+
+Question 1(ii)
+The energy transformation taking place during photosynthesis in plants is:
+
+heat to chemical
+chemical to light
+light to chemical
+chemical to heat
+Answer
+
+light to chemical
+
+Reason — During photosynthesis, green plants absorb light energy from sunlight using chlorophyll which is then converted into chemical energy, which is stored in the form of glucose produced during the process.
+
+Therefore, the energy transformation in photosynthesis is light energy to chemical energy.
+
+Question 1(iii)
+The Velocity Ratio (VR) of a block and tackle system of two pulleys with the effort in the upward direction is:
+
+1
+2
+3
+4
+Answer
+
+3
+
+Reason — In a block and tackle system, the velocity ratio (V.R.) is equal to the number of strands of the rope supporting the moving block. When the system has two pulleys and the effort is applied in the upward direction, there are 3 supporting strands.
+
+Therefore, the velocity ratio is 3.
+
+Question 1(iv)
+From the figure given below, the refractive index of medium B with respect to medium A (AμB) is:
+
+From the figure given below, the refractive index of medium B with respect to medium A. ICSE 2025 Physics Solved Question Paper.
+sin 
+45
+°
+sin 
+30
+°
+sin 30°
+sin 45°
+​
+ 
+sin 
+30
+°
+sin 
+45
+°
+sin 45°
+sin 30°
+​
+ 
+sin 
+45
+°
+sin 
+60
+°
+sin 60°
+sin 45°
+​
+ 
+sin 
+60
+°
+sin 
+45
+°
+sin 45°
+sin 60°
+​
+ 
+Answer
+
+sin 
+60
+°
+sin 
+45
+°
+sin 45°
+sin 60°
+​
+ 
+
+Reason — The angle given in medium A is 30° with the surface, so the angle with the normal is:
+
+i
+=
+90
+°
+−
+30
+°
+=
+60
+°
+i=90°−30°=60°
+
+The angle given in medium B is 45° with the surface, so the angle with the normal is:
+
+r
+=
+90
+°
+−
+45
+°
+=
+45
+°
+r=90°−45°=45°
+
+From the figure given below, the refractive index of medium B with respect to medium A. ICSE 2025 Physics Solved Question Paper.
+Now, refractive index of medium B with respect to medium A is:
+
+A
+μ
+B
+=
+sin
+⁡
+i
+sin
+⁡
+r
+⇒
+A
+μ
+B
+=
+sin
+⁡
+60
+∘
+sin
+⁡
+45
+∘
+A
+​
+ μ 
+B
+​
+ = 
+sinr
+sini
+​
+ 
+⇒ 
+A
+​
+ μ 
+B
+​
+ = 
+sin45 
+∘
+ 
+sin60 
+∘
+ 
+​
+ 
+
+Question 1(v)
+When a blackened bulb thermometer is moved beyond the red region of the visible spectrum, there is a rapid rise in the temperature. This is due to the presence of :
+
+Infrared radiations
+Ultraviolet radiations
+X-rays
+Radio waves
+Answer
+
+Infrared radiations
+
+Reason — When a blackened bulb thermometer is placed beyond the red end of the visible spectrum, the temperature rises rapidly because this region contains infrared radiations. Infrared rays are invisible but carry significant heat energy, which is absorbed by the blackened bulb, causing the temperature to increase.
+
+Therefore, the correct answer is Infrared radiations.
+
+Question 1(vi)
+A fast-moving cyclist stops pedalling on reaching a hilly track. If he continues to move with the acquired energy, then assuming no loss of energy:
+
+his kinetic energy remains constant at all times.
+his potential energy remains constant at all times.
+his total mechanical energy continuously increases.
+his total mechanical energy remains constant.
+Answer
+
+his total mechanical energy remains constant.
+
+Reason — When the cyclist stops pedalling and continues moving on a hilly track, his kinetic energy gradually converts into potential energy as he moves upward. If there is no loss of energy, the sum of kinetic and potential energy remains unchanged.
+
+Therefore, the total mechanical energy remains constant during the motion.
+
+Question 1(vii)
+The distance (V) of a virtual image formed by a lens of focal length 15 cm never exceeds a certain finite value, then this value will be:
+
+less than 15 cm
+between 15 cm to 30 cm
+less than or equal equal to 30 cm
+less than or equal to 15 cm
+Answer
+
+less than or equal to 15 cm
+
+Reason — A virtual image whose distance never exceeds a fixed finite value is formed by a concave lens. In a concave lens, the image is always virtual and is formed between the optical centre and the principal focus. Hence, the image distance can never be greater than the focal length of the lens.
+
+Therefore, for a lens of focal length 15 cm, the image distance is less than or equal to 15 cm.
+
+Question 1(viii)
+Assertion (A) : Tiny air molecules scatter blue light more than red light.
+
+Reason (R) : The refractive index of a medium is greater for blue light than red light.
+
+(A) is true but (R) is false.
+(A) is false but (R) is true.
+Both (A) and (R) are true and (R) is correct explanation of (A).
+Both (A) and (R) are true and (R) is not the correct explanation of (A).
+Answer
+
+Both (A) and (R) are true and (R) is not the correct explanation of (A).
+
+Explanation:
+Assertion is true because blue light has a shorter wavelength than red light, so it is scattered more by tiny air molecules. Reason is also true because the refractive index of a medium is greater for blue light than for red light. However, scattering depends mainly on wavelength and not on refractive index.
+
+Therefore, both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+Question 1(ix)
+In the circuit given below, identify the lamp (L1, L2, L3 and L4) whose failure would not interrupt the power supply to the other lamps.
+
+In the circuit given below, identify the lamp whose failure would not interrupt the power supply to the other lamps. ICSE 2025 Physics Solved Question Paper.
+L1
+L2
+L3
+L4
+Answer
+
+L2
+
+Reason — In the circuit, L1 and L3 are placed in the main vertical branch, so if either of them fails, the circuit path breaks and current cannot reach the other lamps.
+
+L4 is also part of the lower main path; its failure would interrupt the current in that branch.
+
+However, L2 is connected in a separate parallel branch between the two sides of the circuit so if L2 fails, only that branch becomes open while current can still flow through the rest of the circuit containing L1, L3, and L4.
+
+Therefore, the failure of L2 would not interrupt the power supply to the other lamps.
+
+Question 1(x)
+Equal volumes of water are added to three cylindrical jars A, B and C of same height and radii rA, rB and rC respectively with rB < rA < rC. If you blow air into the mouth of these jars, which tube will produce the shrillest note?
+
+A
+B
+C
+All will produce the notes of same shrillness
+Answer
+
+B
+
+Reason — When air is blown across the mouth of a jar, the pitch of the sound depends on the length of the air column above the water. A shorter air column produces a higher-pitched (shriller) sound, while a longer air column produces a lower pitch.
+
+As, volume of a cylindrical jar is given by,
+
+Volume = πr2h
+
+Where r is the radius and h is the height of the jar and since equal volumes of water are poured into jars with radii rB < rA < rC, the jar with the smallest radius (B) will have the greatest height of water, leaving the shortest air column.
+
+Therefore, jar B produces the shrillest note.
+
+Question 1(xi)
+A metallic wire is stretched in such a way that its new length becomes twice the original length. How does its specific heat capacity change?
+
+becomes double
+becomes 4 times
+becomes 1⁄4 times
+remains the same
+Answer
+
+remains the same
+
+Reason — Specific heat capacity is a property of the material and does not depend on the shape, length or size of the object. When the metallic wire is stretched so that its length becomes twice the original length, only its dimensions change, while the material remains the same.
+
+Therefore, the specific heat capacity remains unchanged.
+
+Question 1(xii)
+The correct formula to calculate the equivalent resistance of two resistors R1 and R2 when connected in parallel, is:
+
+R
+1
++
+R
+2
+R
+1
+R
+2
+R 
+1
+​
+ R 
+2
+​
+ 
+R 
+1
+​
+ +R 
+2
+​
+ 
+​
+ 
+R
+1
+R
+2
+R
+1
++
+R
+2
+R 
+1
+​
+ +R 
+2
+​
+ 
+R 
+1
+​
+ R 
+2
+​
+ 
+​
+ 
+R
+1
+−
+R
+2
+R
+1
+R
+2
+R 
+1
+​
+ R 
+2
+​
+ 
+R 
+1
+​
+ −R 
+2
+​
+ 
+​
+ 
+R
+1
+R
+2
+R
+1
+−
+R
+2
+R 
+1
+​
+ −R 
+2
+​
+ 
+R 
+1
+​
+ R 
+2
+​
+ 
+​
+ 
+Answer
+
+R
+1
+R
+2
+R
+1
++
+R
+2
+R 
+1
+​
+ +R 
+2
+​
+ 
+R 
+1
+​
+ R 
+2
+​
+ 
+​
+ 
+
+Reason — When two resistors are connected in parallel, the potential difference across each resistor is the same, while the current divides between the branches. For two resistors R1 and R2, the reciprocal of the equivalent resistance equals the sum of the reciprocals of the individual resistances i.e.,
+
+1
+R
+=
+1
+R
+1
++
+1
+R
+2
+⇒
+1
+R
+=
+R
+1
++
+R
+2
+R
+1
+R
+2
+⇒
+R
+=
+R
+1
+R
+2
+R
+1
++
+R
+2
+R
+1
+​
+ = 
+R 
+1
+​
+ 
+1
+​
+ + 
+R 
+2
+​
+ 
+1
+​
+ 
+⇒ 
+R
+1
+​
+ = 
+R 
+1
+​
+ R 
+2
+​
+ 
+R 
+1
+​
+ +R 
+2
+​
+ 
+​
+ 
+⇒R= 
+R 
+1
+​
+ +R 
+2
+​
+ 
+R 
+1
+​
+ R 
+2
+​
+ 
+​
+ 
+
+Question 1(xiii)
+The diagram below shows the top view of the Wire A shown by a cross (X), carrying current into the plane of the paper. Which of the compasses is correctly aligned with the magnetic field produced by the current carrying wire?
+
+The diagram below shows the top view of the Wire A shown by a cross (X), carrying current into the plane of the paper. Which of the compasses is correctly aligned with the magnetic field produced by the current carrying wire. ICSE 2025 Physics Solved Question Paper.
+Only 1 is aligned
+Only 2 is aligned
+Both 1 and 2 are aligned
+Both 1 and 2 are not aligned
+Answer
+
+Only 1 is aligned
+
+Reason — A straight current-carrying wire produces circular magnetic field lines around it so using the right-hand thumb rule, if the current is into the plane of the paper (shown by X), the magnetic field lines circulate clockwise.
+
+A compass needle aligns tangentially to these field lines and at the position of compass 1, the field direction is towards the right, so compass 1 is correctly aligned.
+
+At the position of compass 2, the magnetic field should point downward, but the compass is shown pointing upward, so it is not correctly aligned.
+
+Therefore, only compass 1 is aligned correctly.
+
+Question 1(xiv)
+Three substances A, B and C of same mass are present at their respective melting points. On heating, if they melt completely in 5 minutes, 7 minutes and 3 minutes respectively, then which substance has the highest specific latent heat?
+
+(Assume heat is absorbed at the same rate)
+
+Substance A
+Substance B
+Substance C
+All the substances have same specific latent heat
+Answer
+
+Substance B
+
+Reason — When substances are at their melting point, the heat supplied is used for melting and is given by Q = mL, where L is the specific latent heat.
+
+Since the masses are the same and heat is absorbed at the same rate, the substance that takes the longest time to melt requires more heat and therefore has a higher specific latent heat.
+
+Among A (5 min), B (7 min), and C (3 min), substance B takes the longest time.
+
+Hence, substance B has the highest specific latent heat.
+
+Question 1(xv)
+An atom of lithium contains 3 electrons, 3 protons and 4 neutrons. Its mass number is:
+
+3
+4
+7
+10
+Answer
+
+7
+
+Reason — The mass number of an atom is the total number of protons and neutrons present in its nucleus. In a lithium atom, there are 3 protons and 4 neutrons, so the mass number is 3 + 4 = 7.
+
+Therefore, the mass number of lithium is 7.
+
+Question 2(i)
+Complete the following by choosing the correct answers from the bracket:
+
+(a) A car is moving in uniform circular motion. The direction of friction between the tyres and the path is ............... [towards the centre / tangential to the path].
+
+(b) When a ray of light passes from a denser to a rarer medium, its wavelength ............... [decreases / increases].
+
+(c) The lid of a calorimeter minimises heat loss by ............... [convection / radiation].
+
+(d) Quality of sound depends on its ............... [amplitude / waveform].
+
+(e) A substance whose resistance becomes almost negligible at a temperature near absolute zero is called a ............... [semiconductor / superconductor].
+
+(f) ............... radiation deviates minimum in a magnetic field [Alpha / Beta].
+
+Answer
+
+(a) A car is moving in uniform circular motion. The direction of friction between the tyres and the path is tangential to the path.
+
+(b) When a ray of light passes from a denser to a rarer medium, its wavelength increases.
+
+(c) The lid of a calorimeter minimises heat loss by convection.
+
+(d) Quality of sound depends on its waveform.
+
+(e) A substance whose resistance becomes almost negligible at a temperature near absolute zero is called a superconductor.
+
+(f) Alpha radiation deviates minimum in a magnetic field.
+
+Question 2(ii)
+State two factors on which the position of Center of Gravity of a body depends.
+
+Answer
+
+The position of the centre of gravity of a body depends mainly on two factors:
+
+Shape of the body
+Distribution of mass in the body
+Explanation:
+
+The position of the centre of gravity depends on the shape of the body and on how its mass is distributed.
+For example, two rods may have the same shape and size, but if one rod is uniform and the other is heavier at one end, their centres of gravity will be at different positions.
+
+Question 2(iii)
+Case 1: Lata cuts a potato into two halves, using a cutter which belongs to a Class II lever. She needed effort E1.
+
+Case 2: Then she cuts one half of this potato again, but this time she needed effort E2. If E1 > E2 then:
+
+(a) In which case (1st or 2nd) was the potato closer to her hand applying the effort? (Assume normal reaction of the surface of the potato is same in both cases)
+
+(b) Give a reason for your answer in (a) above.
+
+Answer
+
+(a) The potato was closer to her hand in Case 1.
+
+(b) The cutter acts as a Class II lever, in which the load lies between the fulcrum and the effort. When the potato is placed closer to the hand applying effort, it is farther from the fulcrum, so the load arm becomes longer. For a fixed effort arm, a longer load arm requires greater effort to cut. Since E1 > E2, the potato must have been closer to her hand in the Case 1.
+
+Question 3(i)
+The graph below shows the variation of image distance (v) with the object distance (u) when an object is kept in front of a lens.
+
+The graph below shows the variation of image distance (v) with the object distance (u) when an object is kept in front of a lens. ICSE 2025 Physics Solved Question Paper.
+(a) Identify the type of lens used.
+
+(b) What would be the magnification (more than 1 / less than 1 / equal to 1) if the object is placed between F and 2F of the above lens?
+
+Answer
+
+(a) The lens used is a convex lens.
+
+(b) If the object is placed between F and 2F, the magnification will be more than 1.
+
+Explanation:
+
+(a) The graph shows that for an object placed in front of the lens, a real image is formed on the other side and the image distance changes according to the position of the object. This behaviour is shown by a convex lens.
+
+(b) For a convex lens, when the object is placed between F and 2F, the image is formed beyond 2F. The image is real, inverted and magnified. Therefore, the magnification is more than 1.
+
+Question 3(ii)
+A resistance R is connected across a cell with a switch and a rheostat in series. A voltmeter is connected parallel across the cell. Current in the circuit is increased using the rheostat.
+
+(a) How will the voltmeter reading change? (increase / decrease / remain the same)
+
+(b) Justify your answer stated in (a) above.
+
+Answer
+
+(a) The voltmeter reading decreases.
+
+(b) As, voltmeter reading is given by,
+
+V = ε - Ir
+
+where,
+
+I is the current flowing in the circuit,
+ε is the emf of the cell and
+r is the internal resistance of the cell.
+So, when the rheostat is adjusted to increase the current in the circuit, the current drawn from the cell becomes larger and due to the internal resistance of the cell, a greater potential drop occurs inside the cell.
+
+As a result, the terminal voltage of the cell decreases and since the voltmeter measures this terminal voltage across the cell, its reading decreases.
+
+Question 3(iii)
+(a) Define natural vibrations.
+
+(b) How is this vibration different from damped vibrations in terms of their amplitudes?
+
+Answer
+
+(a) The periodic vibrations of a body in the absence of any external force on it, are called natural (or free) vibrations.
+
+(b) In natural vibrations, the amplitude remains constant because there is no loss of energy while in damped vibrations, the amplitude gradually decreases with time due to energy loss caused by the presence of resistive force.
+
+Question 3(iv)
+A metal piece of thermal capacity 40 JK-1, absorbs 800 J of heat. Calculate the rise in the temperature of this metal piece.
+
+Answer
+
+Given,
+
+Thermal capacity of the metal piece = 40 JK-1
+Heat absorbed by the substance = 800 J
+Let, rise in temperature be T.
+
+As, thermal capacity of a substance is given by,
+
+Thermal capacity
+=
+Heat absorbed
+Temperature rise
+⇒
+Temperature rise
+=
+Heat absorbed
+Thermal capacity
+⇒
+T
+=
+800
+40
+⇒
+T
+=
+20
+ K
+Thermal capacity= 
+Temperature rise
+Heat absorbed
+​
+ 
+⇒Temperature rise= 
+Thermal capacity
+Heat absorbed
+​
+ 
+⇒T= 
+40
+800
+​
+ 
+⇒T=20 K
+
+Since a rise of 1 K = 1°C, the rise in temperature is also 20°C.
+
+Hence, the rise in the temperature of the metal piece is 20°C.
+
+Question 3(v)
+In an AC generator, name the part which has the following functions:
+
+(a) intensifies the magnetic field.
+
+(b) maintains electrical contact between the rotating parts and the external circuit.
+
+Answer
+
+(a) Soft iron core
+
+(b) Carbon brushes
+
+Question 3(vi)
+Give two differences between nuclear fission and nuclear fusion.
+
+Answer
+
+ 	Nuclear fission	Nuclear fusion
+(a)	Nuclear fission is the process of breaking of a heavy nucleus in two nearly equal fragments with the release of energy.	Nuclear fusion is the process of combining light nuclei to form a larger nuclei at a very high temperature and pressure with the release of energy.
+(b)	This reaction is possible at ordinary temperature and ordinary pressure.	This reaction is possible only at a very high temperature (≈ 107 K) and a very high pressure.
+Question 3(vii)
+A monochromatic ray strikes the surface of identical prisms (A, B and C) at different angles of incidence. The diagram below shows their refracted rays. Study the path of these refracted rays and identify in which of the diagrams:
+
+A monochromatic ray strikes the surface of identical prisms (A, B and C) at different angles of incidence. The diagram below shows their refracted rays. Study the path of these refracted rays and identify in which of the diagrams. ICSE 2025 Physics Solved Question Paper.
+(a) the angle of incidence is maximum.
+
+(b) the angle of incidence is minimum.
+
+(c) the angle of incidence is equal to the angle of emergence.
+
+Answer
+
+(a) The angle of incidence is maximum for prism B.
+
+(b) The angle of incidence is minimum for prism A.
+
+(c) The angle of incidence is equal to the angle of emergence for prism C.
+
+Explanation:
+
+For identical prisms, a larger angle of incidence produces a refracted ray inside the prism making a larger angle with the normal. Hence, diagram B corresponds to maximum incidence, while diagram A corresponds to minimum incidence.
+When the angle of incidence is equal to the angle of emergence, the path of the ray through the prism is symmetrical, and the refracted ray inside the prism becomes parallel to the base. This is shown in diagram C.
+
+Section B
+
+Question 4(i)
+A ray of light enters a glass block from air and comes out from the opposite surface. If the angle of refraction at the first surface is not the same as the angle of incidence at the second surface, then:
+
+(a) What is the product of the ratio 
+sin i
+sin r
+sin r
+sin i
+​
+  at the first surface and at the second surface?
+
+(b) State whether the opposite surfaces are parallel or not parallel.
+
+(c) How did you reach the conclusion in (b) above?
+
+Answer
+
+(a) At the first surface, from air to glass:
+
+sin i
+1
+sin r
+1
+=
+μ
+sin r 
+1
+​
+ 
+sin i 
+1
+​
+ 
+​
+ =μ
+
+where μ is the refractive index of glass with respect to air.
+
+At the second surface, from glass to air:
+
+sin i
+2
+sin r
+2
+=
+1
+μ
+sin r 
+2
+​
+ 
+sin i 
+2
+​
+ 
+​
+ = 
+μ
+1
+​
+  .
+
+Therefore, the product of the two ratios is given by,
+
+sin i
+1
+sin r
+1
+×
+sin i
+2
+sin r
+2
+=
+μ
+×
+1
+μ
+=
+1
+sin r 
+1
+​
+ 
+sin i 
+1
+​
+ 
+​
+ × 
+sin r 
+2
+​
+ 
+sin i 
+2
+​
+ 
+​
+ =μ× 
+μ
+1
+​
+ =1
+
+Hence, the product of the ratio is 1.
+
+(b) The opposite surfaces are not parallel.
+
+(c) If the opposite surfaces were parallel, the angle of refraction at the first surface would be equal to the angle of incidence at the second surface and since these angles are not equal, the surfaces cannot be parallel.
+
+Question 4(ii)
+A type of glass block has a refractive index of 1.8.
+
+(a) Calculate the speed of light in this glass. (Given speed of light in air 3 x 108 m s-1)
+
+(b) If the width of this block is doubled, then what will be the speed of light in the block?
+
+Answer
+
+(a) Given,
+
+Refractive index of the glass block = 1.8
+Speed of light in air = 3 x 108 m s-1
+As, refractive index (μ) of the glass block is given by,
+
+μ
+=
+Speed of light in vacuum or air
+Speed of light in the glass block
+⇒
+Speed of light in the glass block
+=
+Speed of light in vacuum or air
+μ
+=
+3
+×
+10
+8
+1.8
+=
+30
+×
+10
+8
+18
+=
+5
+×
+10
+8
+3
+≈
+1.67
+×
+10
+8
+ m s
+−
+1
+μ= 
+Speed of light in the glass block
+Speed of light in vacuum or air
+​
+ 
+⇒Speed of light in the glass block= 
+μ
+Speed of light in vacuum or air
+​
+ 
+= 
+1.8
+3×10 
+8
+ 
+​
+ 
+= 
+18
+30×10 
+8
+ 
+​
+ 
+= 
+3
+5×10 
+8
+ 
+​
+ 
+≈1.67×10 
+8
+  m s 
+−1
+ 
+
+Hence, speed of light in the glass block is approximately 1.67 x 108 m s-1.
+
+(b) If the width of the glass block is doubled, the speed of light does not change because the speed of light in a medium depends only on the refractive index of the material, not on its thickness or width.
+
+Therefore, the speed remains 1.67 x 108 m s-1.
+
+Question 4(iii)
+(a) Name the electromagnetic radiation used to detect fake currency.
+
+(b) Redraw the diagram given below and complete the path of the light ray AВ through the glass prism till it emerges out of the prism. Critical angle of the glass is 42°.
+
+Redraw the diagram given below and complete the path of the light ray AВ through the glass prism till it emerges out of the prism. Critical angle of the glass is 42°. ICSE 2025 Physics Solved Question Paper.
+Answer
+
+(a) Ultraviolet (UV) radiation
+
+(b) The completed diagram is shown below :
+
+Redraw the diagram given below and complete the path of the light ray AВ through the glass prism till it emerges out of the prism. Critical angle of the glass is 42°. ICSE 2025 Physics Solved Question Paper.
+Explanation:
+
+The ray AB enters the prism normally at point B, so it passes straight into the prism without bending.
+It then travels vertically upward and strikes the slant face of the prism.
+The angle between this face and the vertical side is 30°, so the angle of incidence at the slant face becomes 60°.
+Since this angle is greater than the critical angle (42°), the ray undergoes total internal reflection at the slant surface.
+After reflection, the ray travels at an angle of 60° with the normal of slant face and move towards opposite face.
+The ray incident on this face at an angle of 30° which is smaller than the critical angle (42°) so the ray refract at this face.
+Question 5(i)
+An object placed in front of a convex lens, forms an image of same size on a screen. Moving the object 12 cm closer to the lens results in the formation of a real image which is three times the size of the object. Calculate the focal length of the lens.
+
+Answer
+
+(a) Initially,
+
+Let, initial object distance be u, image distance be v and focal length be f.
+
+According to question,
+
+Since the image is formed on a screen so it is real and inverted and it is also of the same size as the object which means magnification produced by the lens is -1.
+
+Magnification (m) of a lens is given by,
+
+m
+=
+v
+u
+⇒
+−
+1
+=
+v
+u
+⇒
+u
+=
+−
+v
+m= 
+u
+v
+​
+ 
+⇒−1= 
+u
+v
+​
+ 
+⇒u=−v
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+1
+f
+=
+1
+v
+−
+1
+(
+−
+v
+)
+1
+f
+=
+1
+v
++
+1
+v
+1
+f
+=
+2
+v
+⇒
+f
+=
+v
+2
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+(−v)
+1
+​
+ 
+f
+1
+​
+ = 
+v
+1
+​
+ + 
+v
+1
+​
+ 
+f
+1
+​
+ = 
+v
+2
+​
+ 
+⇒f= 
+2
+v
+​
+ 
+
+Let, final object distance be u' and final image distance be v'.
+
+According to question,
+
+u' = u + 12 and m' = -3
+
+Magnification (m') of a lens is given by,
+
+m
+′
+=
+v’
+u’
+⇒
+−
+3
+=
+v’
+u’
+⇒
+u’
+=
+−
+v’
+3
+⇒
+u
++
+12
+=
+−
+v’
+3
+⇒
+−
+v
++
+12
+=
+−
+v’
+3
+⇒
+−
+3
+(
+v
+−
+12
+)
+=
+−
+v’
+⇒
+3
+(
+v
+−
+12
+)
+=
+v’
+⇒
+3
+v
+−
+36
+=
+v’
+m 
+′
+ = 
+u’
+v’
+​
+ 
+⇒−3= 
+u’
+v’
+​
+ 
+⇒u’=− 
+3
+v’
+​
+ 
+⇒u+12=− 
+3
+v’
+​
+ 
+⇒−v+12=− 
+3
+v’
+​
+ 
+⇒−3(v−12)=−v’
+⇒3(v−12)=v’
+⇒3v−36=v’
+
+From lens formula,
+
+1
+f
+=
+1
+v
+′
+−
+1
+u
+′
+1
+f
+=
+1
+v
+′
+−
+3
+−
+v
+′
+1
+f
+=
+1
+v
+′
++
+3
+v
+′
+1
+f
+=
+4
+v
+′
+⇒
+f
+=
+v
+′
+4
+⇒
+f
+=
+3
+v
+−
+36
+4
+⇒
+f
+=
+3
+v
+4
+−
+36
+4
+⇒
+f
+=
+3
+f
+2
+−
+9
+⇒
+3
+f
+2
+−
+f
+=
+9
+⇒
+3
+f
+2
+−
+2
+f
+2
+=
+9
+⇒
+f
+2
+=
+9
+⇒
+f
+=
+2
+×
+9
+⇒
+f
+=
+18
+ cm
+f
+1
+​
+ = 
+v 
+′
+ 
+1
+​
+ − 
+u 
+′
+ 
+1
+​
+ 
+f
+1
+​
+ = 
+v 
+′
+ 
+1
+​
+ − 
+−v 
+′
+ 
+3
+​
+ 
+f
+1
+​
+ = 
+v 
+′
+ 
+1
+​
+ + 
+v 
+′
+ 
+3
+​
+ 
+f
+1
+​
+ = 
+v 
+′
+ 
+4
+​
+ 
+⇒f= 
+4
+v 
+′
+ 
+​
+ 
+⇒f= 
+4
+3v−36
+​
+ 
+⇒f= 
+4
+3v
+​
+ − 
+4
+36
+​
+ 
+⇒f= 
+2
+3f
+​
+ −9
+⇒ 
+2
+3f
+​
+ −f=9
+⇒ 
+2
+3f
+​
+ − 
+2
+2f
+​
+ =9
+⇒ 
+2
+f
+​
+ =9
+⇒f=2×9
+⇒f=18 cm
+
+Hence, the focal length of the lens is 18 cm.
+
+Question 5(ii)
+(a) Atmospheric temperature after a hailstorm is greater than the temperature during the hailstorm. State True or False.
+
+(b) Which thermal physical quantity of a frying pan changes by making its base heavier?
+
+(c) State the principle of Calorimetry.
+
+Answer
+
+(a) False
+Reason — After the hail-strom, ice starts absorbing the heat energy required for its melting from the surroundings, so the temperature of the surroundings falls further down.
+
+(b) Making the base of a frying pan heavier increases its heat capacity because heat capacity depends on the mass of the object so that a heavier base requires more heat to raise its temperature.
+
+(c) The principle of calorimetry states that when a hot body is brought in contact with a cold body, then heat lost by the hot body is equal to the heat gained by the cold body, provided there is no heat loss in the environment.
+Heat energy lost by the hot body = Heat energy gained by the cold body
+
+Question 5(iii)
+The given graph represents the cooling curve of a liquid.
+
+The given graph represents the cooling curve of a liquid. ICSE 2025 Physics Solved Question Paper.
+(a) State the freezing temperature of the liquid.
+
+(b) Name the phase change happening at the region QR.
+
+(c) In which state (solid / liquid) does the above substance liberate heat at a faster rate? Justify.
+
+Answer
+
+(a) The freezing temperature of the liquid is 20 °C because at this temperature, the graph becomes horizontal, indicating that the temperature remains constant during the phase change.
+
+(b) In the region QR, the phase change taking place is freezing (liquid changing into solid).
+
+(c) The substance liberates heat at a faster rate in the solid state which is shown by the steeper slope of the graph after point R, indicating a faster decrease in temperature compared to the liquid state before point Q, where the slope is less steep.
+
+Question 6(i)
+The diagram shows a wheel with a handle. Two forces, F1 and F2 of equal magnitudes are acting on the handle as shown in the diagram.
+
+The diagram shows a wheel with a handle. Two forces of equal magnitudes are acting on the handle as shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+(a) Which force produces negative moment?
+
+(b) Is the wheel in equilibrium? (Yes or No)
+
+(c) Justify your answer stated in (b).
+
+Answer
+
+(a) The force F1 produces the negative moment because it tends to rotate the wheel in the clockwise direction, which is taken as negative.
+
+(b) No, the wheel is not in equilibrium.
+
+(c) For equilibrium, the sum of clockwise moments must be equal to the sum of anticlockwise moments about the centre O. Although F1 and F2 have equal magnitudes, their perpendicular distances from the centre (moment arms) are different. Hence, the moments produced by them are not equal and opposite, so the net moment is not zero and the wheel is not in equilibrium.
+
+Question 6(ii)
+(a) Name the unit of work done, used in subatomic scale.
+
+(b) To which class of lever does a pair of scissors belong?
+
+(c) A stone is tied to a string and displaced from A to B by application of constant force F in three different ways as shown in the diagram below.
+
+A stone is tied to a string and displaced from A to B by application of constant force F in three different ways as shown in the diagram below. ICSE 2025 Physics Solved Question Paper.
+Arrange the three cases in ascending order of the work done by the force. (Given AJB is a semi-circle, θ < 90° and AB = 20 m)
+
+Answer
+
+(a) electron volt (eV)
+
+(b) Class I lever
+
+(c) Given,
+
+AJB is a semi-circle.
+θ < 90°
+AB = 20 m
+Work done by a force is given by
+
+W = Force x Displacement x cos θ,
+
+where θ is the angle between force and displacement.
+
+Case 1 : The stone moves along a semicircular path, so the force is always perpendicular to the direction of displacement which makes θ = 90°.
+Hence, work done is zero.
+
+Case 2 : The force acts along the direction of displacement from A to B, so θ = 0°.
+Hence, work done is maximum.
+
+Case 3: The force acts at an angle θ < 90° to the displacement, so only the component Fcosθ does work.
+Hence, the work done is less than Case 2 but more than Case 1.
+
+Therefore, the ascending order of work done is Case 1 < Case 3 < Case 2
+
+Question 6(iii)
+A ball of mass 20 g falls from a height of 45 m. It rebounds from the ground to a height of 40 m. Calculate :
+
+(a) initial potential energy of the ball.
+
+(b) the speed of the ball at which it hits the ground.
+
+(c) the loss in kinetic energy on striking the ground.
+
+[g = 10 m s-2]
+
+Answer
+
+(a) Given,
+
+Mass of the ball (m) = 20 g = 0.02 kg
+Initial height (h1) = 45 m
+Final height (h2) = 40 m
+g = 10 m s-2
+(a) Initial potential energy of the ball is given by,
+
+PE = mgh1
+= 0.02 x 10 x 45
+= 9 J
+
+So, the initial potential energy is 9 J.
+
+(b) Due to law of conservation of mechanical energy, just before hitting the ground, the initial potential energy converts into kinetic energy.
+
+Let speed of the ball be v.
+
+So,
+
+Kinetic energy
+=
+9
+⇒
+1
+2
+mv
+2
+=
+9
+⇒
+1
+2
+×
+0.02
+×
+v
+2
+=
+9
+⇒
+0.01
+×
+v
+2
+=
+9
+⇒
+v
+2
+=
+9
+0.01
+⇒
+v
+2
+=
+900
+⇒
+v
+=
+900
+⇒
+v
+=
+30
+ m s
+−
+1
+Kinetic energy=9
+⇒ 
+2
+1
+​
+ mv 
+2
+ =9
+⇒ 
+2
+1
+​
+ ×0.02×v 
+2
+ =9
+⇒0.01×v 
+2
+ =9
+⇒v 
+2
+ = 
+0.01
+9
+​
+ 
+⇒v 
+2
+ =900
+⇒v= 
+900
+​
+ 
+⇒v=30 m s 
+−1
+ 
+
+So, the speed of the ball on hitting the ground = 30 m s-1.
+
+(c) Final kinetic energy after rebound is equal to potential energy at 40 m which is given by,
+
+Final kinetic energy = mgh2
+= 0.02 x 10 x 40
+= 8 J
+
+Loss in KE = Initial kinetic energy - Final kinetic energy = 9 − 8 = 1 J
+
+So, the loss in kinetic energy = 1 J.
+
+Question 7(i)
+To lift a load of 30 kgf, Suhas uses a single fixed pulley while Radha uses a single movable pulley. The displacement of efforts in both the cases are equal. In an ideal situation calculate the ratio of :
+
+(a) the efforts in the two cases.
+
+(b) the potential energy gained by the loads in the two cases.
+
+(c) the efficiencies in the two cases.
+
+Answer
+
+Given,
+
+Load = 30 kgf
+(a) As, mechanical advantage (MA) of a machine is given by,
+
+MA
+=
+Load
+Effort
+MA= 
+Effort
+Load
+​
+ 
+
+For a single fixed pulley, the mechanical advantage (MA) is 1.
+
+Then,
+
+MA
+=
+Load
+Effort
+(
+E
+1
+)
+⇒
+E
+1
+=
+Load
+MA
+⇒
+E
+1
+=
+30
+1
+⇒
+E
+1
+=
+30
+ kgf
+MA= 
+Effort(E 
+1
+​
+ )
+Load
+​
+ 
+⇒E 
+1
+​
+ = 
+MA
+Load
+​
+ 
+⇒E 
+1
+​
+ = 
+1
+30
+​
+ 
+⇒E 
+1
+​
+ =30 kgf
+
+For a single movable pulley, the mechanical advantage (MA) is 2.
+
+Then,
+
+MA
+=
+Load
+Effort
+(
+E
+2
+)
+⇒
+E
+2
+=
+Load
+MA
+⇒
+E
+2
+=
+30
+2
+⇒
+E
+2
+=
+15
+ kgf
+MA= 
+Effort(E 
+2
+​
+ )
+Load
+​
+ 
+⇒E 
+2
+​
+ = 
+MA
+Load
+​
+ 
+⇒E 
+2
+​
+ = 
+2
+30
+​
+ 
+⇒E 
+2
+​
+ =15 kgf
+
+Ratio of efforts = 
+E
+1
+:
+E
+2
+E 
+1
+​
+ :E 
+2
+​
+  = 30 : 15 = 2 : 1
+
+Hence, the ratio of the efforts in the two cases is 2 : 1.
+
+(b) Potential energy is given by,
+
+Potential energy gained = Load × Height raised
+
+If the effort displacement is the same:
+
+In a fixed pulley, load rises by the same distance as the effort.
+In a movable pulley, load rises by half the distance of the effort.
+Let, for the fixed pulley, height raised by the load be h.
+
+Therefore,
+
+Ratio of the potential energies in two cases is given by,
+
+Ratio of PE
+=
+PE gained by the load in fixed pulley
+PE gained by the load in movable pulley
+=
+30
+×
+h
+30
+×
+h
+2
+=
+30
+h
+×
+2
+30
+h
+=
+2
+1
+=
+2
+:
+1
+Ratio of PE= 
+PE gained by the load in movable pulley
+PE gained by the load in fixed pulley
+​
+ 
+= 
+30× 
+2
+h
+​
+ 
+30×h
+​
+ 
+= 
+30h
+30h×2
+​
+ 
+= 
+1
+2
+​
+ 
+=2:1
+
+Hence, the ratio of the potential energies in two cases is 2 : 1.
+
+(c) In an ideal machine, efficiency = 100 % for both pulleys.
+
+Then,
+
+Efficiency ratio = 1 : 1
+
+Hence, the ratio of the efficiencies in the two cases is 1 : 1.
+
+Question 7(ii)
+(a) One end of a plastic foot ruler is held tightly at the edge of a table and the other end is plucked. Name the vibrations produced in the ruler.
+
+(b) Now the ruler is pushed inside partially and plucked again from its freе end. State with a reason whether the frequency of vibration increases or decreases.
+
+Answer
+
+(a) When one end of the plastic ruler is held firmly at the edge of the table and the other end is plucked, the ruler vibrates on its own after being displaced and these vibrations are called natural vibrations.
+
+(b) The frequency of vibration increases because when the ruler is pushed further inside, the length of the free vibrating part decreases and since a shorter vibrating length oscillates more rapidly, so the frequency increases.
+
+Question 7(iii)
+Two persons A and B are standing in front of a cliff in the same line 170 m apart as shown in the diagram.
+
+Two persons A and B are standing in front of a cliff in the same line 170 m apart as shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+Person B fires the gun and hears the echo in 3 s. Then the person A standing in front of the person B fires the gun.
+
+(Speed of sound in air is 340 m s-1)
+
+(a) Calculate:
+
+the distance of the person B from the cliff.
+the minimum time in which B hears the gunshot fired by A.
+(b) Fill in the blank.
+
+The echo is softer (less loud) than the original sound due to the decrease in ............... [amplitude / frequency] of the wave.
+
+Answer
+
+Given,
+
+Distance between A and B = 170 m
+Time taken by the person B to hear the echo = 3 s
+Speed of sound in air = 340 ms-1
+(a)
+
+1. Let, the distance of the person B from the cliff be d.
+
+So,
+
+d
+=
+Speed of sound in air
+×
+Time taken
+2
+=
+340
+×
+3
+2
+=
+170
+×
+3
+=
+510
+ m
+d= 
+2
+Speed of sound in air×Time taken
+​
+ 
+= 
+2
+340×3
+​
+ 
+=170×3
+=510 m
+
+Hence, the distance of the person B from the cliff is 510 m.
+
+2. Person B first hears the direct sound of the gunshot and only afterwards hears its echo from the cliff. Therefore, the minimum time in which B hears the gunshot is the time taken by the sound to travel directly from person A to person B, who is 170 m away.
+
+Then, minimum time (t) is given by,
+
+t
+=
+Distance between A and B
+Speed of sound in air
+=
+170
+340
+=
+1
+2
+=
+0.5
+ s
+t= 
+Speed of sound in air
+Distance between A and B
+​
+ 
+= 
+340
+170
+​
+ 
+= 
+2
+1
+​
+ 
+=0.5 s
+
+Hence, the minimum time in which B hears the gunshot fired by A is 0.5 second.
+
+(b) The echo is softer (less loud) than the original sound due to the decrease in amplitude of the wave.
+
+Question 8(i)
+Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown in the diagram.
+
+Bulb A rated 160 W, 40 V and Bulb B rated 40 W, 40 V are connected as shown in the diagram. ICSE 2025 Physics Solved Question Paper.
+(a) Calculate the ratio V1 : V2.
+
+(b) If the bulb A fuses, the current in the circuit remains the same. State True or False.
+
+Answer
+
+Given,
+
+Power rating of the bulb A (
+P
+A
+P 
+A
+​
+ ) = 160 W
+Voltage rating of the bulb A (
+V
+A
+V 
+A
+​
+ ) = 40 V
+Power rating of the bulb B (
+P
+B
+P 
+B
+​
+ ) = 40 W
+Voltage rating of the bulb B (
+V
+B
+V 
+B
+​
+ ) = 40 V
+Supply voltage (
+V
+V) = 40 V
+(a) Resistance of bulb A is given by,
+
+R
+A
+=
+V
+A
+2
+P
+A
+=
+40
+2
+160
+=
+1600
+160
+=
+10
+ Ω
+R 
+A
+​
+ = 
+P 
+A
+​
+ 
+V 
+A
+2
+​
+ 
+​
+ 
+= 
+160
+40 
+2
+ 
+​
+ 
+= 
+160
+1600
+​
+ 
+=10 Ω
+
+Similarly,
+
+Resistance of bulb B is given by,
+
+R
+B
+=
+V
+B
+2
+P
+B
+=
+40
+2
+40
+=
+1600
+40
+=
+40
+ Ω
+R 
+B
+​
+ = 
+P 
+B
+​
+ 
+V 
+B
+2
+​
+ 
+​
+ 
+= 
+40
+40 
+2
+ 
+​
+ 
+= 
+40
+1600
+​
+ 
+=40 Ω
+
+From Ohm's law,
+
+Potential drop (V) = Current (I) x Resistance (R)
+
+Since the bulbs are in series, so the same current flows through both bulbs and the potential difference divides in the ratio of their resistances i.e.,
+
+V1 : V2 = 
+R
+A
+:
+R
+B
+R 
+A
+​
+ :R 
+B
+​
+  = 10 : 40 = 1 : 4
+
+Hence, the ratio V1 : V2 = 1 : 4.
+
+(b) False because if bulb A fuses, the circuit becomes open, so no current can flow through the circuit. Hence the current becomes zero, not the same.
+
+Question 8(ii)
+The reverse side of a three-pin plug with incorrect connection of wires is shown in the diagram below.
+
+The reverse side of a three-pin plug with incorrect connections of wires is shown in the diagram below. ICSE 2025 Physics Solved Question Paper.
+(a) Identify the fault in the above connection.
+
+(b) Mention a risk factor involved, if the user operates the appliance without correcting it.
+
+(c) Will the appliance function in the present situation? (Yes or No)
+
+Answer
+
+(a) Fault in the connection : The live (red) wire is incorrectly connected to the earth terminal (top thick pin) instead of the live terminal and the earth (green) wire is also wrongly connected to the live terminal. Thus, the live and earth wires should be interchanged.
+
+(b) If the appliance is used in this condition, the outer metallic body of the appliance may become live, creating a risk of electric shock to the user.
+
+(c) No, the appliance will not function because the wiring connections are incorrect.
+
+Question 8(iii)
+In the combinations of resistors shown below. calculate:
+
+In the combinations of resistors shown below. calculate. ICSE 2025 Physics Solved Question Paper.
+(a) the resistance across AB when the switch S is open.
+
+(b) the resistance across AB when the switch S is closed.
+
+Answer
+
+(a) When the switch is open, the middle connection does not join the two branches. So the circuit has two separate branches in parallel i.e., top and bottom branches where 12 Ω and 6 Ω resistances are in series.
+
+the resistance across AB when the switch S is open. ICSE 2025 Physics Solved Question Paper.
+Then net resistance of the top branch is given by,
+
+R
+1
+=
+12
++
+6
+=
+18
+Ω
+R 
+1
+​
+ =12+6=18Ω
+
+Similarly, net resistance of the bottom branch is given by,
+
+R
+2
+=
+12
++
+6
+=
+18
+Ω
+R 
+2
+​
+ =12+6=18Ω
+
+Now, 
+R
+1
+R 
+1
+​
+  and 
+R
+2
+R 
+2
+​
+  are in parallel connection and the net resistance is given by,
+
+the resistance across AB when the switch S is open. ICSE 2025 Physics Solved Question Paper.
+1
+R
+=
+1
+R
+1
++
+1
+R
+2
+=
+1
+18
++
+1
+18
+=
+2
+18
+⇒
+1
+R
+=
+1
+9
+⇒
+R
+=
+9
+ Ω
+R
+1
+​
+ = 
+R 
+1
+​
+ 
+1
+​
+ + 
+R 
+2
+​
+ 
+1
+​
+ 
+= 
+18
+1
+​
+ + 
+18
+1
+​
+ 
+= 
+18
+2
+​
+ 
+⇒ 
+R
+1
+​
+ = 
+9
+1
+​
+ 
+⇒R=9 Ω
+
+Hence, the resistance across AB when the switch S is open is 9 Ω.
+
+(b) When switch S is closed, the midpoints are connected which rearranges the circuit into two branches of parallel resistors that are connected in series as shown below.
+
+the resistance across AB when the switch S is closed. ICSE 2025 Physics Solved Question Paper.
+Then net resistance of the left branch (containing 12 Ω and 6 Ω resistances) is given by,
+
+1
+R
+1
+=
+1
+12
++
+1
+6
+=
+1
+12
++
+2
+12
+=
+3
+12
+⇒
+1
+R
+1
+=
+1
+4
+⇒
+R
+1
+=
+4
+ Ω
+R 
+1
+​
+ 
+1
+​
+ = 
+12
+1
+​
+ + 
+6
+1
+​
+ 
+= 
+12
+1
+​
+ + 
+12
+2
+​
+ 
+= 
+12
+3
+​
+ 
+⇒ 
+R 
+1
+​
+ 
+1
+​
+ = 
+4
+1
+​
+ 
+⇒R 
+1
+​
+ =4 Ω
+
+Similarly, net resistance of the right branch (containing 12 Ω and 6 Ω resistances) is given by,
+
+1
+R
+2
+=
+1
+12
++
+1
+6
+=
+1
+12
++
+2
+12
+=
+3
+12
+⇒
+1
+R
+2
+=
+1
+4
+⇒
+R
+2
+=
+4
+ Ω
+R 
+2
+​
+ 
+1
+​
+ = 
+12
+1
+​
+ + 
+6
+1
+​
+ 
+= 
+12
+1
+​
+ + 
+12
+2
+​
+ 
+= 
+12
+3
+​
+ 
+⇒ 
+R 
+2
+​
+ 
+1
+​
+ = 
+4
+1
+​
+ 
+⇒R 
+2
+​
+ =4 Ω
+
+Now, 
+R
+1
+R 
+1
+​
+  and 
+R
+2
+R 
+2
+​
+  are in series connection and the net resistance is given by,
+
+the resistance across AB when the switch S is closed. ICSE 2025 Physics Solved Question Paper.
+R
+=
+R
+1
++
+R
+2
+=
+4
++
+4
+=
+8
+ Ω
+R=R 
+1
+​
+ +R 
+2
+​
+ 
+=4+4
+=8 Ω
+
+Hence, the resistance across AB when the switch S is closed is 8 Ω.
+
+Question 9(i)
+An electric iron rated 1100 W, 220 V is operated for 5 hours.
+
+Calculate:
+
+(a) the minimum rating of the fuse required.
+
+(b) the energy consumed in kWh.
+
+(c) the cost of the energy consumed, if the rate is ₹ 10 per unit.
+
+Answer
+
+Given,
+
+Power rating of the iron (
+P
+P) = 1100 W
+Voltage rating of the iron (
+V
+V) = 220 V
+Operating time = 5 hours
+(a) Power consumed by an appliance is given by,
+
+P
+=
+VI
+⇒
+I
+=
+P
+V
+=
+1100
+220
+=
+5
+ A
+P=VI
+⇒I= 
+V
+P
+​
+ 
+= 
+220
+1100
+​
+ 
+=5 A
+
+Here, 
+I
+I is the operating current flowing through the appliance.
+
+Since the fuse rating should be slightly higher than the operating current, so the minimum suitable fuse rating is 6 A.
+
+Hence, 6 A is the minimum rating of the fuse required.
+
+(b) Energy consumed by the iron = Power consumed x Operating time
+
+= 1100 x 5
+
+= 5500 Wh
+
+= 5.5 x 103 Wh
+
+= 5.5 kWh
+
+Hence, the energy consumed by the iron is 5.5 kWh.
+
+(c) Given,
+
+Electricity rate = ₹ 10 per unit
+As, 1 unit = 1 kWh
+
+Then,
+
+The cost of energy consumed by the iron = Energy consumed x Electricity rate
+
+= 5.5 x 10
+
+= ₹ 55
+
+Hence, the cost of the energy consumed is ₹ 55.
+
+Question 9(ii)
+When the magnet as shown in the diagram, is moved towards the coil at a speed of 5 m s-1, the galvanometer shows a certain deflection to the right.
+
+When the magnet as shown in the diagram, is moved towards the coil at a speed of 5 m, the galvanometer shows a certain deflection to the right. ICSE 2025 Physics Solved Question Paper.
+How will the direction and magnitude of deflection change when the coil also moves with a speed of 5 m s-1:
+
+(a) in the direction of the motion of the magnet?
+
+(b) in the opposite direction of the motion of the magnet?
+
+Answer
+
+The deflection of the galvanometer depends on the rate of change of magnetic flux, which depends on the relative motion between the magnet and the coil.
+
+(a) Both the magnet and the coil move in the same direction with the same speed, so there is no relative motion between them and hence, the magnetic flux through the coil does not change.
+
+Therefore, no current is induced and the galvanometer shows no deflection.
+
+(b) Since the magnet and the coil are moving opposite to each other so now the relative speed between them is given by the sum of individual speeds and becomes 10 m s-1 (5 + 5) which increases the rate of change of magnetic flux.
+
+Therefore, the direction of deflection remains the same (to the right), but the magnitude of deflection increases.
+
+Question 9(iii)
+(a)
+
+Which element is used in the lining of the special aprons worn by workers in nuclear power plants?
+Why is this element preferred?
+(b) 
+11
+24
+Na
+11
+24
+​
+ Na emits a nuclear radiation which does not alter the mass number but is deflected by a magnetic field.
+
+Name the type of nuclear radiation emitted by 
+11
+24
+Na
+11
+24
+​
+ Na.
+Write the equation for this radioactive decay.
+Answer
+
+(a)
+
+Lead is used in the lining of the special aprons worn by workers in nuclear power plants.
+Lead is preferred because it is a dense metal and absorbs harmful nuclear radiations effectively.
+(b)
+
+The radiation that does not change the mass number but is deflected by a magnetic field is beta (β) radiation.
+Hence, beta (β) radiation is emitted by 
+11
+24
+Na
+11
+24
+​
+ Na.
+Radioactive decay equation:
+11
+24
+Na
+⟶
+12
+24
+Na
++
+−
+1
+0
+β
+11
+24
+​
+ Na⟶ 
+12
+24
+​
+ Na+ 
+−1
+0
+​
+ β
+In this decay, a beta particle (electron) is emitted, the atomic number increases by 1, while the mass number remains unchanged.

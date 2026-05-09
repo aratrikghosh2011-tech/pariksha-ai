@@ -1,0 +1,2058 @@
+Section A
+Question 1(i)
+When a bell fixed on a cycle rings, then the energy conversion that takes place is:
+
+gravitational potential energy to sound energy
+kinetic energy to sound energy
+sound energy to electrical energy
+sound energy to mechanical energy
+Answer
+
+kinetic energy to sound energy
+
+Reason — When you ring a cycle bell, you apply a force (mechanical/kinetic energy) by pressing or rotating the lever. This mechanical movement causes a metal striker to hit the bell, producing sound energy.
+
+Question 1(ii)
+A door lock is opened by turning the lever (handle) of length 0.2 m. If the moment of force produced is 1 Nm, then the minimum force required is:
+
+5 N
+10 N
+20 N
+0.2 N
+Answer
+
+5 N
+
+Reason —
+
+Given,
+
+Length of lever = Perpendicular distance of the line of action of the force = 0.2 m
+Moment of force = 1 Nm
+As, Moment of force = Force × Perpendicular distance of the line of action of the force
+
+1 = force x 0.2
+
+force = 
+1
+0.2
+=
+10
+2
+0.2
+1
+​
+ = 
+2
+10
+​
+  = 5 N
+
+Question 1(iii)
+A force ‘F’ moves a load from A to C as shown in the figure below. For the calculation of the work done, which of these lengths would you use as the displacement?
+
+A force ‘F’ moves a load from A to C as shown in the figure below. For the calculation of the work done, which of these lengths would you use as the displacement. ICSE 2024 Physics Solved Question Paper.
+3m
+4m
+5m
+7m
+Answer
+
+5m
+
+Reason — The amount of work done by a force is equal to the product of the force and the displacement of the point of application of the force in the direction of force. In the diagram, the object moves from point A to point C in the direction of force F. The straight-line path from A to C is 5 m, which is the magnitude of the displacement vector. Hence, the correct length to use as displacement is 5 m.
+
+Question 1(iv)
+A radioactive nucleus containing 128 nucleons emits a β – particle. After β – emission the number of nucleons present in the nucleus will be :
+
+128
+129
+124
+127
+Answer
+
+128
+
+Reason — In β – particle emission, number of nucleons (i.e., sum of number of protons and number of neutrons) remains the same.
+
+Question 1(v)
+Assertion (A) : Ultraviolet radiations are scattered more as compared to the microwave radiations.
+
+Reason (R) : Wavelength of ultraviolet radiation is more than the wavelength of microwave radiation.
+
+Both A and R are true.
+A is true but R is false.
+A is false but R is true.
+Both A and R are false.
+Answer
+
+A is true but R is false.
+
+Explanation
+
+Assertion (A) is true: Scattering of light is inversely proportional to the fourth power of its wavelength (Scattering ∝ 
+1
+λ
+4
+λ 
+4
+ 
+1
+​
+ )
+
+Since ultraviolet radiation has shorter wavelength than microwave radiation which implies ultraviolet radiations will be scattered more than microwave radiation.
+
+Reason (R) is false: Ultraviolet radiation has a much shorter wavelength (around 10–400 nm) than microwaves (which have wavelengths in the millimeter to centimeter range, i.e., 1 mm to 1 m).
+
+Question 1(vi)
+When the stem of vibrating tuning fork is pressed on a table, the tabletop starts vibrating. These vibrations are definitely an example of:
+
+resonance
+natural vibrations
+forced vibrations
+damped vibrations
+Answer
+
+forced vibrations
+
+Reason — When the stem of a vibrating tuning fork is pressed against the top of a table, the tuning fork produces forced vibrations in the table top as the table top has a much larger vibrating area than the tuning fork, so the forced vibrations of the table top send forth a greater energy and produces a louder (or more intense) sound than that produced by the tuning fork.
+
+Question 1(vii)
+Which of the following is a class III lever?
+
+Pair of scissors
+Wheelbarrow
+Crowbar
+Human forearm
+Answer
+
+Human forearm
+
+Reason — Human forearm is a class III lever because like class III lever, the elbow joint acts as fulcrum at one end, biceps exerts the effort in the middle and load on the palm is at the other end. Thus, this is an example of class III lever.
+
+Question 1(viii)
+The specific resistance of a conductor depends on its:
+
+length
+material
+area of cross section
+radius
+Answer
+
+material
+
+Reason — Specific resistance (also called resistivity, denoted by ρ) is a material property of a conductor and does not depend on its dimensions. It depends on :
+
+The type of material (like copper, aluminium, iron, etc.)
+Temperature (resistivity can change with temperature)
+But it does not depend on :
+
+Length
+Area of cross-section
+Radius
+Question 1(ix)
+Identify the option that displays the correct wiring with correct colour code :
+
+Identify the option that displays the correct wiring with correct colour code. ICSE 2024 Physics Solved Question Paper.
+Identify the option that displays the correct wiring with correct colour code. ICSE 2024 Physics Solved Question Paper.
+Identify the option that displays the correct wiring with correct colour code. ICSE 2024 Physics Solved Question Paper.
+Identify the option that displays the correct wiring with correct colour code. ICSE 2024 Physics Solved Question Paper.
+Answer
+
+Identify the option that displays the correct wiring with correct colour code. ICSE 2024 Physics Solved Question Paper.
+Reason — As colour coding for live wire is brown and for neutral wire it is blue so while connecting mains to an appliance a switch or a key must be connected with the live wire to ensure safety.
+
+Question 1(x)
+The potential difference between terminals of a cell in a closed electric circuit is:
+
+terminal voltage
+electro motive force
+voltage drop
+none of these
+Answer
+
+terminal voltage
+
+Reason — In a closed electric circuit (i.e., when current is drawn), the potential difference between the terminals of a cell is called the terminal voltage which is less than the electromotive force (emf) of the cell due to the voltage drop across the internal resistance of the cell.
+
+Question 1(xi)
+During melting of ice at 0°C the :
+
+energy is released and temperature remains constant.
+energy is absorbed and temperature remains constant.
+energy is released and temperature decreases.
+energy is absorbed and temperature increases.
+Answer
+
+energy is absorbed and temperature remains constant.
+
+Reason — When ice melts at 0°C, it absorbs heat energy from the surroundings which is used completely for phase change from solid (ice) to liquid (water) so this energy does not increase the temperature during the process.
+
+Question 1(xii)
+Linear magnification(m) produced by a concave lens is :
+
+m < 1
+m > 1
+m = 1
+m = 2
+Answer
+
+m < 1
+
+Reason — A concave lens always forms a virtual, erect, and diminished image of an object which means the size of the image is smaller than the size of the object and as magnification is the ratio of the length of image to the length of object so linear magnification of a concave lens is always less than 1.
+
+Question 1(xiii)
+A radioactive element is placed in an evacuated chamber. Then the rate of radioactive decay will:
+
+Decrease
+Increase
+Remain unchanged
+Depend on the surrounding temperature
+Answer
+
+Remain unchanged
+
+Reason — Radioactive decay is a nuclear process as it depends on the nucleus of the atom, not on external physical conditions like pressure, temperature, chemical state and presence of air or vacuum. So, placing a radioactive element in an evacuated chamber (a vacuum) will not affect the rate of its decay.
+
+Question 1(xiv)
+The graph given below shows heat energy supplied against change in temperature when no energy is lost to the surrounding. The slope of this graph will give :
+
+The graph given below shows heat energy supplied against change in temperature when no energy is lost to the surrounding. The slope of this graph will give. ICSE 2024 Physics Solved Question Paper.
+Specific heat capacity
+Latent heat of fusion
+Latent heat of vaporization
+Heat capacity
+Answer
+
+Heat capacity
+
+Reason — When no energy is lost to the surrounding, the amount of heat energy supplied is directly proportional to the change in temperature △t i.e.
+
+Q
+∝
+△t
+or
+Q
+=
+mc△t
+Q∝△t
+or
+Q=mc△t
+
+Where,
+
+m : mass of a substance
+
+c : specific heat capacity of the substance
+
+So,
+
+Q
+△t
+=
+mc
+Slope of Q vs △t graph
+=
+Q
+△t
+=
+mc
+△t
+Q
+​
+ =mc
+Slope of Q vs △t graph= 
+△t
+Q
+​
+ =mc
+
+And mc is the heat capacity (C) of the body
+
+Hence, slope of Q vs △t graph gives the value of the heat capacity.
+
+Question 1(xv)
+A block of glass is pushed into the path of the light as shown below. Then the converging point X will :
+
+A block of glass is pushed into the path of the light as shown below. Then the converging point X will. ICSE 2024 Physics Solved Question Paper.
+Move away from the slab
+Move towards the slab
+Not shift
+Move towards the left side of the lens
+Answer
+
+Move away from the slab
+
+Reason — When a converging beam of light enters a glass slab, the rays will bend towards the normal within the glass, and then bend away from the normal as they exit the glass back into air. This bending will cause the point of convergence (focus) to shift away from the glass slab.
+
+Question 2(i)
+(a) In the following atoms, which one is a radioisotope? Give one use of this isotope.
+
+O16, C14, N14, He4
+
+(b) Name the class of the lever shown in the picture below :
+
+Name the class of the lever shown in the picture below. ICSE 2024 Physics Solved Question Paper.
+Answer
+
+(a) C14 is radioisotope of C12 and C13 while O16, N14 and He4 are stable nuclei.
+
+C14 is used to determine the age of ancient biological materials, such as fossils, bones, or archaeological samples (up to about 50,000 years old).
+
+(b) CLass II lever.
+
+Question 2(ii)
+Fill in the blanks :
+
+(a) When a stone tied to a string is rotated in a horizontal plane, the tension in the string provides ............... force necessary for circular motion.
+
+(b) Work done by this force at any instant is ............... .
+
+Answer
+
+(a) When a stone tied to a string is rotated in a horizontal plane, the tension in the string provides centripetal force necessary for circular motion.
+
+(b) Work done by this force at any instant is zero .
+
+Question 2(iii)
+A non uniform beam of weight 120 N pivoted at one end is shown in the diagram below. Calculate the value of F to keep the beam in equilibrium.
+
+A non uniform beam of weight 120 N pivoted at one end is shown in the diagram below. Calculate the value of F to keep the beam in equilibrium. ICSE 2024 Physics Solved Question Paper.
+Answer
+
+Given,
+
+Weight (W) = 120 N
+
+From the figure,
+
+Distance of C.G. from the pivot point O = r = 0.20 m
+
+Distance of F from the pivot point O = R = 0.80 m
+
+Now,
+
+Moment of force about pivot point O due to C.G. = r x W = 0.20 x 120 = 24 Nm (clocKwise direction)
+
+and
+
+Moment of force about pivot point O due to F = R x F = 0.80 x F (anticlocKwise direction)
+
+For equilibrium,
+
+Anticlockwise moment of force due to F about pivot point O = Clockwise moment of force due to C.G. about pivot point O
+
+0.80
+×
+F
+=
+24
+⇒
+F
+=
+24
+0.80
+=
+240
+8
+=
+30
+ N
+0.80×F=24
+⇒F= 
+0.80
+24
+​
+ = 
+8
+240
+​
+ =30 N
+
+So, value of F = 30 N.
+
+Question 2(iv)
+Meera chose to use a block and tackle system of ‘9’ pulleys instead of a single movable pulley to lift a heavy load.
+
+(a) What is the advantage of using a block and tackle system over a single movable pulley?
+
+(b) Why should she connect more number of pulleys in the upper fixed block?
+
+Answer
+
+(a) A block and tackle system with multiple pulleys provides a higher mechanical advantage, which means less effort is required to lift a heavy load compared to a single movable pulley since in a single movable pulley, mechanical advantage (M.A.) is 2 but in a block and tackle system with 9 pulleys, the M.A. can go up to 9 (ideally), making it much easier to lift heavier loads with the same effort.
+
+(b) To ensure smooth and balanced operation, more pulleys should be in the upper fixed block because :
+
+It reduces the weight of the movable block, making it easier to lift.
+It helps in maintaining stability and reduces oscillation during lifting.
+It also makes arrangement and threading of ropes more efficient and manageable.
+Question 2(v)
+Sumit does 600 J of work in 10 min and Amit does 300 J of work in 20 min. Calculate the ratio of the powers delivered by them.
+
+Answer
+
+Given,
+
+Work done by Sumit (WS) = 600 J
+
+Time taken by Sumit (tS) = 10 min = 10 x 60 = 600 seconds
+
+Work done by Amit (WA) = 300 J
+
+Time taken by Amit (tA) = 20 min = 20 x 60 = 1200 seconds
+
+Then,
+
+Power delivered by Sumit (PS) = 
+Work done by Sumit 
+(
+W
+S
+)
+Time taken by Sumit 
+(
+t
+S
+)
+=
+600
+600
+=
+1
+ W
+Time taken by Sumit (t 
+S
+​
+ )
+Work done by Sumit (W 
+S
+​
+ )
+​
+ = 
+600
+600
+​
+ =1 W
+
+and
+
+Power delivered by Amit (PA) = 
+Work done by Amit 
+(
+W
+A
+)
+Time taken by Amit 
+(
+t
+A
+)
+=
+300
+1200
+=
+0.25
+ W
+Time taken by Amit (t 
+A
+​
+ )
+Work done by Amit (W 
+A
+​
+ )
+​
+ = 
+1200
+300
+​
+ =0.25 W
+
+So,
+
+P
+S
+P
+A
+=
+1
+0.25
+=
+4
+P 
+A
+​
+ 
+P 
+S
+​
+ 
+​
+ = 
+0.25
+1
+​
+ =4
+
+Question 2(vi)
+5 bulbs are connected in series in a room. One bulb is fused. It is removed and remaining 4 bulbs are again connected in series to the same circuit. What will be the effect on the following physical quantities? (Increases, Decreases, Remain Same)
+
+(a) Resistance
+
+(b) Intensity of light
+
+Answer
+
+(a) In a series connection, total resistance is the sum of individual resistances.
+
+Let resistance of each bulb be R.
+
+Initially :
+
+Rtotal = 5R
+
+After removing one bulb:
+
+Rtotal = 4R
+
+So, resistance will decrease.
+
+(b) When resistance decreases, total current in the circuit (assuming the same voltage supply) will increase :
+
+I
+=
+V
+R
+I= 
+R
+V
+​
+ 
+
+So, more current → more power delivered to each bulb.
+
+Since,
+
+Power (P) = I2R,
+
+Hence, intensity of light increases for each remaining bulb.
+
+Question 2(vii)
+Rohan conducted experiments on echo in different media. He observed that a minimum distance of ‘x’ meters is required for the echo to be heard in oxygen and ‘y’ meters in benzene. Compare ‘x’ and ‘y’. Justify your answer.
+
+Speed of sound in oxygen: 340 ms-1
+
+Speed of sound in benzene: 200 ms-1
+
+Answer
+
+Given,
+
+Speed of sound in oxygen = 340 ms-1
+
+Speed of sound in benzene = 200 ms-1
+
+Minimum distance required to hear an echo = distance sound travels in 0.1 s (since the human ear can distinguish sound if the reflected sound reaches after 0.1 s)
+
+So,
+
+Minimum distance for echo
+=
+Speed of sound
+×
+Minimum time to hear an echo
+2
+=
+v
+×
+t
+min
+2
+Minimum distance for echo= 
+2
+Speed of sound×Minimum time to hear an echo
+​
+ = 
+2
+v×t 
+min
+​
+ 
+​
+ 
+
+and
+
+tmin = 0.1 sec
+
+For medium containing oxygen :
+
+x
+=
+340
+×
+0.1
+2
+=
+34
+2
+=
+17
+ m
+x= 
+2
+340×0.1
+​
+ = 
+2
+34
+​
+ =17 m
+
+For medium containing benzene :
+
+y
+=
+200
+×
+0.1
+2
+=
+20
+2
+=
+10
+ m
+y= 
+2
+200×0.1
+​
+ = 
+2
+20
+​
+ =10 m
+
+So, from above calculations x > y.
+
+Question 3(i)
+(a) In a reading glass what is the position of the object with respect to the convex lens used?
+
+(b) Why can we not use concave lens for the same purpose?
+
+Answer
+
+(a) In a reading glass, the object is placed between the optical center and the principal focus of the convex lens to produce a virtual and enlarged image of the object so that a magnified view of the object can be seen.
+
+(b) A concave lens always forms a virtual, erect, but diminished (smaller) image of the object so it cannot magnify the object.
+
+Question 3(ii)
+A fuse is rated 5 A. Can it be used with a geyser rated 1540 W, 220 V. Write Yes or No. Give supporting calculations to justify your answer.
+
+Answer
+
+Given,
+
+Maximum current passing through the fuse (Imax) = 5 A
+
+Input voltage of the geyser (v) = 220 V
+
+Power rating of the geyser (P) = 1540 W
+
+Let, current passing through geyser be I.
+
+Then,
+
+P
+=
+IV
+I
+=
+P
+V
+=
+1540
+220
+=
+7
+ A
+P=IV
+I= 
+V
+P
+​
+ = 
+220
+1540
+​
+ =7 A
+
+As,
+
+Imax = 5 A < I = 7 A
+
+So if the fuse is used with the geyser then it will draw more current greater than the maximum current and in turn fuse will melt.
+
+No, the fuse can not be used with the geyser
+
+Question 3(iii)
+State two factors affecting the speed of rotation of the coil in a D.C. motor.
+
+Answer
+
+The speed of rotation of coil can be increased by the following two ways :
+
+by increasing the strength of current in the coil,
+by increasing the number of turns in the coil.
+Question 3(iv)
+How much heat is required to convert 500 g of ice at 0°C to water at 0°C? The latent heat of fusion of ice is 330 J g⁻¹.
+
+Answer
+
+Given,
+
+m = 500 g
+
+latent heat of fusion of ice (L) = 330 J g⁻¹
+
+Let, required heat be Q.
+
+Then,
+
+Q
+=
+mL
+=
+500
+×
+330
+=
+165000
+ J
+=
+165
+ kJ
+Q=mL=500×330=165000 J=165 kJ
+
+Question 3(v)
+Copy and complete the nuclear reaction by filling in the blanks.
+
+92
+U
+235
++
+0
+n
+1
+⟶
+56
+Ba
+⋯
++
+ 
+⋯
+Kr
+92
++
+3
+ 
+0
+n
+1
+92
+​
+ U 
+235
+ + 
+0
+​
+ n 
+1
+ ⟶ 
+56
+​
+ Ba 
+⋯
+ +  
+⋯
+​
+ Kr 
+92
+ +3  
+0
+​
+ n 
+1
+ 
+
+Answer
+
+As only neutrons are involved in the reaction which number of protons and total nucleon number (i.e., number of protons + neutrons) remain constant.
+
+Then,
+
+Initially,
+
+No. of protons (np) = Atomic number of 
+92
+U
+235
+92
+​
+ U 
+235
+  = 92
+
+No. of nucleons (n) = Mass number of 
+92
+U
+235
+92
+​
+ U 
+235
+  + mass number of 
+0
+n
+1
+0
+​
+ n 
+1
+  = 235 + 1 = 236
+
+Now,
+
+Finally,
+
+Let atomic number of Kr is Z and mass number of Ba is A.
+
+No. of protons (np) = Atomic number of 
+56
+Ba
+A
+56
+​
+ Ba 
+A
+  + Atomic number of 
+Z
+Kr
+92
+Z
+​
+ Kr 
+92
+  = 56 + Z
+
+and
+
+No. of nucleons (n) = mass number of 
+56
+Ba
+A
+56
+​
+ Ba 
+A
+  + mass number of 
+Z
+Kr
+92
+Z
+​
+ Kr 
+92
+  + 3 x mass number of 
+0
+n
+1
+0
+​
+ n 
+1
+  = A + 92 + 3 = A + 95
+
+As number of protons are constant :
+
+⇒ 92 = 56 + Z
+
+⇒ Z = 92 - 56 = 36
+
+Also, number of nucleons are constant :
+
+⇒ 236 = A + 95
+
+⇒ A = 236 - 95 = 141
+
+So reaction will be :
+
+92
+U
+235
++
+0
+n
+1
+⟶
+56
+Ba
+141
++
+ 
+36
+Kr
+92
++
+3
+ 
+0
+n
+1
+92
+​
+ U 
+235
+ + 
+0
+​
+ n 
+1
+ ⟶ 
+56
+​
+ Ba 
+141
+ +  
+36
+​
+ Kr 
+92
+ +3  
+0
+​
+ n 
+1
+ 
+
+Section B
+
+Question 4(i)
+The image of a candle flame placed at a distance of 36 cm from a spherical lens, is formed on a screen placed at a distance of 72 cm from the lens. Calculate the focal length of the lens and its power.
+
+Answer
+
+Given,
+
+Object distance (u) = - 36 cm
+
+As, image is formed on a screen then,
+
+Image distance (v) = + 72 cm
+
+Let, focal length be f.
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+1
+f
+=
+1
+72
+−
+1
+(
+−
+36
+)
+=
+1
+72
++
+1
+36
+=
+1
++
+2
+72
+1
+f
+=
+3
+72
+f
+=
+72
+3
+=
++
+24
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+f
+1
+​
+ = 
+72
+1
+​
+ − 
+(−36)
+1
+​
+ = 
+72
+1
+​
+ + 
+36
+1
+​
+ = 
+72
+1+2
+​
+ 
+f
+1
+​
+ = 
+72
+3
+​
+ 
+f= 
+3
+72
+​
+ =+24 cm
+
+Now,
+
+Power
+=
+1
+f (in metre)
+=
+1
+24
+×
+10
+−
+2
+=
+100
+24
+≈
+4.17
+ D
+Power= 
+f (in metre)
+1
+​
+ = 
+24×10 
+−2
+ 
+1
+​
+ = 
+24
+100
+​
+ ≈4.17 D
+
+Question 4(ii)
+Below is an incomplete table showing the arrangement of electromagnetic spectrum in the increasing order of their wavelength. Complete the table.
+
+Gamma ray	X – ray	U V rays	Visible rays	Infrared	A	Radio waves
+(a) Identify the radiation A.
+
+(b) Name the radiation used to detect fracture in bones.
+
+(c) Name one property common to both A and Radio waves.
+
+Answer
+
+Gamma ray	X – ray	U V rays	Visible rays	Infrared	Micro Waves	Radio waves
+(a) Radiation A : Micro Wave
+
+(b) X – rays are used to detect fracture in bones.
+
+(c) Micro waves and radio waves are part of electromagnetic waves.
+
+Question 4(iii)
+(a) Why do we use red colour as a danger signal on the top of a skyscraper?
+
+(b) The diagram below shows the path of a blue ray through the prism :
+
+The diagram below shows the path of a blue ray through the prism. ICSE 2024 Physics Solved Question Paper.
+Calculate the critical angle of the material of the prism for blue colour.
+What is the measure of the angle of this prism (A)?
+Which colour should replace the blue ray, for the ray to undergo Total Internal Reflection?
+Answer
+
+(a) Red colour is used as a danger signal on the top of a skyscraper because red light has the longest wavelength among visible light, so it is scattered the least by air molecules and dust and remains visible from a long distance and in low visibility, making it ideal for danger signals.
+
+(b)
+
+The diagram below shows the path of a blue ray through the prism. ICSE 2024 Physics Solved Question Paper.
+Here, the refracted ray PQ is normal to the surface AB of the prism (i.e., ∠r = 0°), so the incident ray at the point P should also be normal to the surface AB so that ∠i = 0°.
+
+At point Q, the angle of incidence for the ray PQ = 133° - 90° = 43°
+
+Now, this angle should be equal to the critical angle because ray PQ is refracted at 90°, i.e., it is refracted along QC. Hence, the critical angle of the prism is 43°.
+
+In △AРQ
+∠APQ + ∠PQA + ∠PAQ = 180°
+
+⇒ 90° + 47° + ∠PAQ = 180°
+
+⇒ ∠PAQ = 180° - 90° - 47°
+
+⇒ ∠ PAQ = 43°
+
+Hence, ∠A= 43°
+
+As the light used and its wavelength determine the angle of deviation since with a decrease in the light wavelength, the angle of deviation increases so the beam will experience total internal reflection if we swap out the blue light with lower wavelength i.e., indigo.
+Question 5(i)
+(a) Refractive index of glass with respect to water is 
+9
+8
+8
+9
+​
+ . Find the refractive index of water with respect to glass.
+
+(b) Name the principle used to find the value in part (a).
+
+(c) If we change the temperature of water,then will the ratio 
+9
+8
+8
+9
+​
+  remain the same? Write yes or no.
+
+Answer
+
+(a) Given,
+
+Refractive index of glass with respect to water = 
+9
+8
+8
+9
+​
+ 
+
+Then, according to the principle of reversibility of light
+
+Refractive index of water with respect to glass =
+1
+Refractive index of glass w.r.t water
+=
+1
+9
+8
+=
+8
+9
+Refractive index of glass w.r.t water
+1
+​
+ = 
+8
+9
+​
+ 
+1
+​
+ = 
+9
+8
+​
+ 
+
+(b) Principle of reversibility of light
+
+(c) If temperature is changed of water then the ratio 
+9
+8
+8
+9
+​
+  will also change as refractive index of medium is inversely proportional to the temperature i.e., on increasing temperature refractive index of a medium decreases and vice versa.
+
+So, If we change the temperature of water,then the ratio 
+9
+8
+8
+9
+​
+  will not remain the same.
+
+Question 5(ii)
+Light travels a distance of ‘10x’ units in time ‘t1’ in vacuum and it travels a distance of ‘x’ units in time ‘t2’ in a denser medium. Using this information answer the question that follows :
+
+(a) ‘Light covers a distance of ‘20x’ units in time ‘t1’ in diamond.’ State true or false.
+
+(b) Calculate the refractive index of the medium in terms of ‘t1’ and ‘t2’.
+
+Answer
+
+(a) False because speed of light in vacuum is highest and diamond is a denser medium so speed of light will be lower and hence, it can not travel a distance 20x in diamond which is two times of distance travelled by light in vacuum.
+
+(b) Given,
+
+Distance travelled by light in vacuum = 10x
+
+Time taken by light in vacuum = t1
+
+Distance travelled by light in the medium = x
+
+Time taken by light in diamond = t2
+
+As,
+
+Speed of light in vacuum (c)
+=
+Distance travelled by light in vacuum
+Time taken by light in vacuum
+=
+10
+x
+t
+1
+Speed of light in vacuum (c)= 
+Time taken by light in vacuum
+Distance travelled by light in vacuum
+​
+ = 
+t 
+1
+​
+ 
+10x
+​
+ 
+
+and
+
+Speed of light in diamond (v)
+=
+Distance travelled by light in diamond
+Time taken by light in diamond
+=
+x
+t
+2
+Speed of light in diamond (v)= 
+Time taken by light in diamond
+Distance travelled by light in diamond
+​
+ = 
+t 
+2
+​
+ 
+x
+​
+ 
+
+then,
+
+The refractive index of diamond
+=
+Speed of light in vacuum (c)
+speed of light in diamond (v)
+=
+10
+x
+t
+1
+x
+t
+2
+=
+10
+t
+2
+t
+1
+The refractive index of diamond= 
+speed of light in diamond (v)
+Speed of light in vacuum (c)
+​
+ = 
+t 
+2
+​
+ 
+x
+​
+ 
+t 
+1
+​
+ 
+10x
+​
+ 
+​
+ 
+= 
+t 
+1
+​
+ 
+10t 
+2
+​
+ 
+​
+ 
+
+Question 5(iii)
+A monochromatic ray of light is incident on an equilateral prism placed at minimum deviation position with an angle of incidence 45° as shown in the diagram.
+
+A monochromatic ray of light is incident on an equilateral prism placed at minimum deviation position with an angle of incidence 45° as shown in the diagram. ICSE 2024 Physics Solved Question Paper.
+(a) Copy the diagram and complete the path of the ray PQ.
+
+(b) State two factors on which the angle of deviation depends.
+
+Answer
+
+(a) In below figure, I is the position of source O when seen through the surface RS.
+
+In below figure, I is the position of source O when seen through the surface RS. ICSE 2024 Physics Solved Question Paper.
+(b) The angle of deviation depends on the following factors :
+
+the angle of incidence (i),
+the material of prism (i.e., on refractive index μ).
+Question 6(i)
+(a) Define Centre of Gravity.
+
+(b) A hollow ice cream cone has height 6 cm.
+
+Where is the position of its centre of gravity from the broad base?
+Will its position change when it is filled completely with honey? Write Yes or No.
+Answer
+
+(a) The centre of gravity (C.G.) of a body is the point about which the algebraic sum of moments of weights of all the particles constituting the body is zero and the entire weight of the body can be considered to act at this point, howsoever the body is placed.
+
+(b)
+
+As the centre of gravity of a hollow cone is at h/3 from its base on its axis where h is the height of the cone.
+Given,
+
+Height of the cone (h) = 6 cm
+
+Centre of gravity of cone = 
+h
+3
+=
+6
+3
+=
+2
+ cm
+3
+h
+​
+ = 
+3
+6
+​
+ =2 cm
+
+Yes, now cone is a solid cone. So, the position of the new center of gravity from the base will be h/4 сm i.e. 
+=
+6
+4
+=
+1.5
+  cm
+= 
+4
+6
+​
+ =1.5  cm from the base of the cone.
+Question 6(ii)
+Two identical marbles A and B are rolled down along Path 1 and Path 2 respectively. Path 1 is frictionless and Path 2 is rough.
+
+Two identical marbles A and B are rolled down along Path 1 and Path 2 respectively. Path 1 is frictionless and Path 2 is rough. ICSE 2024 Physics Solved Question Paper.
+(a) Which marble will surely reach the next peak?
+
+(b) Along which path/s the mechanical energy will be conserved?
+
+(c) Along which path/s is the law of conservation of energy obeyed?
+
+Answer
+
+(a) As Path 2 is rough and Path 1 is frictionless then marble A will surely reach the top because there will be no energy lost on the frictionless road while some energy will be degraded om rough path.
+
+(b) As total mechanical energy remains constant when there is no frictional force, hence, mechanical energy will be preserved along path 1.
+
+(c) Since energy cannot be created or destroyed, the law of conservation of energy applies to both scenarios.
+
+Question 6(iii)
+Given are two pulleys.
+
+Given are two pulleys. ICSE 2024 Physics Solved Question Paper.
+(a) Copy and complete the labelled diagram connecting the two pulleys with a tackle to obtain Velocity Ratio = 2.
+
+(b) If Load = 48 kgf and efficiency is 80% then calculate :
+
+Mechanical Advantage.
+Effort needed to lift the load
+Answer
+
+(a) The diagram is given below :
+
+The diagram is given below. ICSE 2024 Physics Solved Question Paper.
+(b)
+
+Given,
+Velocity Ratio = 2
+
+Load = 48 kgf
+
+Efficiency = 80% = 0.8
+
+As,
+
+Efficiency
+=
+Mechanical Advantage
+Velocity Ratio
+⇒
+Mechanical Advantage
+=
+Efficiency
+×
+Velocity Ratio
+=
+0.8
+×
+2
+=
+1.6
+Efficiency= 
+Velocity Ratio
+Mechanical Advantage
+​
+ 
+⇒Mechanical Advantage=Efficiency×Velocity Ratio=0.8×2=1.6
+
+As,
+Mechanical Advantage
+=
+Load
+Effort
+⇒
+Effort
+=
+Load
+Mechanical Advantage
+=
+48
+1.6
+=
+30
+ kgf
+Mechanical Advantage= 
+Effort
+Load
+​
+ 
+⇒Effort= 
+Mechanical Advantage
+Load
+​
+ = 
+1.6
+48
+​
+ =30 kgf
+
+Question 7(i)
+(a) Name the waves used in SONAR.
+
+(b) In the below diagram Lata stands between two cliffs and claps her hands. Determine the time taken by her to hear the first echo. Speed of sound in air = 320 ms-1.
+
+In the below diagram Lata stands between two cliffs and claps her hands. Determine the time taken by her to hear the first echo. Speed of sound in air = 320 ms 1p. ICSE 2024 Physics Solved Question Paper.
+Answer
+
+(a) Ultrasonic Waves.
+
+(b) The closest cliff produces the first echo. However, the first cliff, or cliff A, is only 10 meters away from the Lata, and a minimum of 17 meters is required between the cliff and the listener in order to hear an echo.
+
+Then, echo will be heard from Cliff B
+
+Given,
+
+Speed of sound in air (v) = 320 ms-1
+
+Distance of Lata from cliff B (d) = 160 m
+
+Total distance travelled = 2d = 2 × 160 = 320 m
+
+Time = 
+2
+d
+v
+=
+320
+320
+v
+2d
+​
+ = 
+320
+320
+​
+  = 1 sec.
+
+Hence, the first echo will be heard after 1 second.
+
+Question 7(ii)
+(a) Complete the following radioactive reaction :
+
+−
+−
+X
+→
+−
+−
+Y
++
+2
+4
+He
+→
+91
+234
+Z
++
+−
+1
+0
+e
+−
+−
+​
+ X→ 
+−
+−
+​
+ Y+ 
+2
+4
+​
+ He→ 
+91
+234
+​
+ Z+ 
+−1
+0
+​
+ e
+
+(b) Uranium is available in two forms U-235 and U-238. Which of the two isotopes of Uranium is more fissionable?
+
+Answer
+
+(a) 
+92
+238
+X
+→
+90
+234
+Y
++
+2
+4
+He
+→
+91
+234
+Z
++
+−
+1
+0
+e
+92
+238
+​
+ X→ 
+90
+234
+​
+ Y+ 
+2
+4
+​
+ He→ 
+91
+234
+​
+ Z+ 
+−1
+0
+​
+ e
+
+(b) Comparatively speaking, U-235 is easier to fission than U-238 because only fast neutrons can cause the fission of U-238, whereas slow neutrons can even trigger the fission of U-235.
+
+Question 7(iii)
+In the given diagram, a vibrating tuning fork is kept near the mouth of a burette filled with water. The length of the air column is adjusted by opening the tap of the burette. At a length of 5 cm of the air column, a loud sound is heard.
+
+In the given diagram, a vibrating tuning fork is kept near the mouth of a burette filled with water. The length of the air column is adjusted by opening the tap of the burette. At a length of 5 cm of the air column, a loud sound is heard. ICSE 2024 Physics Solved Question Paper.
+(a) Name the phenomenon illustrated by the above experiment.
+
+(b) Why is a loud sound heard at this particular length?
+
+(c) If the present tuning fork is replaced with a tuning fork of higher frequency, should the length of the air column increase or decrease to produce a loud sound? Give a reason.
+
+Answer
+
+(a) Resonance.
+
+(b) The loud sound is audible at this specific length because the tuning fork's frequency and the air column's frequency are equal at that particular length.
+
+(c) Since, frequency of the air column is inversely proportional to the length of the column therefore, in order to create a loud sound, the length of the air column should decrease as the frequency increases.
+
+Question 8(i)
+The voltage - current readings of a certain material are shown in the table given below :
+
+Voltage (V)	Current (I)
+10 V	2 A
+20 V	3 A
+30 V	4 A
+Study the table.
+
+(a) State whether the conductor used is ohmic or non-ohmic.
+
+(b) Justify your answer.
+
+(c) State Ohm’s law.
+
+Answer
+
+(a) The conductor is non-ohmic.
+
+(b) As, from Ohm's Law
+
+For V = 10 V and I = 2 A
+
+R
+=
+V
+I
+=
+10
+2
+=
+5
+ Ω
+R= 
+I
+V
+​
+ = 
+2
+10
+​
+ =5 Ω ....... Equation 1
+
+For V = 20 V and I = 3 A
+
+R
+=
+V
+I
+=
+20
+3
+=
+6.67
+ Ω
+R= 
+I
+V
+​
+ = 
+3
+20
+​
+ =6.67 Ω ....... Equation 2
+
+For V = 30 V and I = 4 A
+
+R
+=
+V
+I
+=
+30
+4
+=
+7.5
+ Ω
+R= 
+I
+V
+​
+ = 
+4
+30
+​
+ =7.5 Ω ....... Equation 3
+
+From equations 1, 2 and 3
+
+Here, the ratio V/I is not constant and plot of V vs I graph will not be linear but if a conductor is an ohmic conductor then V/I should be constant to follow Ohm's law and V vs I graph should be linear which is not the case here.
+
+Hence, the conductor does not follow Ohm's law and is a non-ohmic conductor.
+
+(iii) Ohm's law states that the current flowing through the conductor is directly proportional to the potential difference across it's ends provided that the physical conditions and the temperature of the conductor remain constant.
+
+Question 8(ii)
+Below is the diagram of a transformer :
+
+Below is the diagram of a transformer. ICSE 2024 Physics Solved Question Paper.
+(a) Identify the type of transformer.
+
+(b) In this type of transformer which of the wire is thicker, the primary or the secondary? Give a reason.
+
+Answer
+
+(a) As from the diagram, the number of turns at primary coil is greater than that at secondary coil so this is a step down transformer.
+
+(b) The secondary wire is more thicker than the primary since this is a step down transformer which reduces the voltage and increases the current at secondary coil so the use of a thicker wire reduces its resistance and therefore reduces the loss of energy as heat in that coil.
+
+Question 8(iii)
+Study the diagram :
+
+Study the diagram. ICSE 2024 Physics Solved Question Paper.
+(a) Calculate the total resistance of the circuit.
+
+(b) Calculate the current drawn from the cell.
+
+(c) State whether the current through 10 Ω resistor is greater than, less than or equal to the current through the 12 Ω resistor.
+
+Answer
+
+Given,
+
+V = 4 V
+
+Let,
+
+R1 = 10 Ω,
+
+R2 = 6 Ω,
+
+R3 = 12 Ω and
+
+R1 = 4 Ω
+
+(a) As, R1 and R2 are in series then
+
+RS = R1 + R2 = 10 + 6 = 16 Ω
+
+Similarly,
+
+R3 and R4 are also in series,
+
+RS' = R3 + R4 = 12 + 4 = 16 Ω
+
+Now, RS and RS' are in parallel combination then
+
+1
+R
+eq
+=
+1
+R
+S
++
+1
+R
+S’
+=
+1
+16
++
+1
+16
+=
+2
+16
+R 
+eq
+​
+ 
+1
+​
+ = 
+R 
+S
+​
+ 
+1
+​
+ + 
+R 
+S’
+​
+ 
+1
+​
+ = 
+16
+1
+​
+ + 
+16
+1
+​
+ = 
+16
+2
+​
+ 
+
+⟹ 
+R
+eq
+=
+16
+2
+=
+8
+ Ω
+R 
+eq
+​
+ = 
+2
+16
+​
+ =8 Ω
+
+So, total resistance of the circuit is 8 Ω.
+
+(b) From Ohm's law :
+
+Current (I)
+=
+V
+R
+eq
+=
+4
+8
+=
+0.5
+ A
+Current (I)= 
+R 
+eq
+​
+ 
+V
+​
+ = 
+8
+4
+​
+ =0.5 A
+
+Current drawn from the cell is 0.5 A.
+
+(c) As potential difference across 10 Ω and 6 Ω resistances is same as potential difference across 12 Ω and 4 Ω resistances which is V = 4 V.
+
+Now,
+
+Current through 10 Ω resistance
+=
+V
+R
+S
+=
+4
+16
+=
+0.25
+ A
+Current through 10 Ω resistance= 
+R 
+S
+​
+ 
+V
+​
+ = 
+16
+4
+​
+ =0.25 A .....equation 1
+
+and
+
+Current through 12 Ω resistance
+=
+V
+R
+S’
+=
+4
+16
+=
+0.25
+ A
+Current through 12 Ω resistance= 
+R 
+S’
+​
+ 
+V
+​
+ = 
+16
+4
+​
+ =0.25 A .....equation 2
+
+From equations 1 and 2
+
+Current through 10 Ω resistance = Current through 12 Ω resistance = 0.25 A
+
+So, the current through 10 Ω resistor is equal to the current through the 12 Ω resistor.
+
+Question 9(i)
+85 g of water at 30°C is cooled to 5°C by adding certain mass of ice. Find the mass of ice required.
+
+[Specific heat capacity of water = 4.2 J g⁻¹ °C⁻¹ , Specific latent heat of fusion = 336 J g⁻¹]
+
+Answer
+
+Given,
+
+For Water
+
+Mass of water (mw) = 85 g
+
+Initial temperature (Ti) = 30°C
+
+Final temperature (Tf) = 5°C
+
+Specific heat capacity of water (cw) = 4.2 J g⁻¹ °C⁻¹
+
+For ice
+
+Initial temperature (Ti) = 0°C
+
+Final temperature (Tf) = 5°C
+
+Specific latent heat of fusion (Li) = 336 J g⁻¹
+
+Let,
+
+Mass of ice = (mi)
+
+Now,
+
+Heat lost by water = mwcw△t
+
+= 85 × 4.2 × (30 - 5)
+
+= 85 × 4.2 × 25 = 8925 J
+
+Heat gained by ice = miLi + micw△t
+
+= mi × 336 + mi × 4.2 × (5-0)
+
+= 336mi + mi × 4.2 × 5
+
+= 336mi + 21mi = 357mi
+
+By principle of calorimetry,
+
+Heat lost by water = Heat gained by ice
+
+⟹ 8925 = 357 mi
+
+⟹ mi = 
+8925
+357
+357
+8925
+​
+  = 25 g
+
+So, the mass of required ice is 25 g.
+
+Question 9(ii)
+(a) Why does it become pleasantly warm when the lakes start freezing?
+
+(b) Water freezes to form ice. What change would you expect in the average kinetic energy of the molecules?
+
+(c) Which will contain more heat energy 1 g of ice at 0°C or 1 g water at 0°C ?
+
+Answer
+
+(a) The surroundings become pleasantly warm when water in a lake starts freezing because the specific latent heat of fusion of ice is very high, hence large quantity of heat is released when the water in the lake freezes. Therefore, the temperature of the surrounding becomes pleasantly warm.
+
+(b) The average kinetic energy of the molecules decreases as water freezes to produce ice because the temperature of the water molecules drops, and they hold to one another to form a crystal.
+
+(c) 1 g of water at 0° C has more heat energy because 1 g of water at 0° C liberates 80 cal heat to form 1 g of ice at 0° C.
+
+Question 9(iii)
+(a) State one factor that affects the magnitude of induced current in an AC generator.
+
+(b) Given below is a circuit to study the magnetic effect of electric current. ABCD is a cardboard kept perpendicular to the conductor XY. A magnetic compass is placed at the point P of the cardboard. P1 and P2 are the positions of the magnetic compass, before and after passing a current through XY respectively.
+
+Given below is a circuit to study the magnetic effect of electric current. ICSE 2024 Physics Solved Question Paper.
+Name the rule that is used to predict the direction of deflection of the magnetic compass.
+State the direction of current in the conductor (X to Y or Y to X) when the circuit is complete.
+If resistance R is increased, then what will be the effect on the magnetic lines of force around the conductor?
+Answer
+
+(a) Magnitude of magnetic field intensity affects the magnitude of induced current in an AC generator.
+
+(b)
+
+Right hand thumb rule.
+
+Since the compass is pointing west, the current will flow from X to Y in an anticlockwise direction.
+
+The amount of current flowing through the circuit will decrease if the resistance increases and the magnetic field then decreases as the magnetic lines of force surrounding the conductor is directly proportional to the current in the circuit.

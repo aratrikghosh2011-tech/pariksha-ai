@@ -1,0 +1,2040 @@
+Section A
+Question 1(i)
+Centre of gravity of the given square PQRO lies at:
+
+Centre of gravity of the given square PQRO lies at: ICSE 2025 Improvement Physics Solved Question Paper.
+(2, –2)
+(3, –2)
+(–2, 2)
+(–2, 1)
+Answer
+
+(2, –2)
+
+Reason — As given figure is a square with side length of 4 units which is a uniform shape so it's centre of gravity lies on the point of intersection of it's diagonals and since diagonals of a square are equal to each other then it's centre of gravity lies on it's geometrical centre.
+
+So,
+
+Coordinates of C.G. = Coordinates of geometrical centre of the square PQRO = (2,-2)
+
+Question 1(ii)
+An object is thrown vertically up. It reaches the highest point and then comes down. The work done by the force of gravity on the object is:
+
+positive for both the way up and way down
+negative for both the way up and way down
+negative for the way up and positive for the way down
+positive for the way up and negative for the way down
+Answer
+
+negative for the way up and positive for the way down
+
+Reason — As, work done by an object is given by
+
+W = FS cos θ
+
+where,
+
+F is magnitude of force,
+S is magnitude of displacement, and
+cos θ is cosine of the angle θ between the directions of force F and displacement S .
+Case 1 : When the object is thrown vertically up
+
+When an object is thrown upwards then the displacement (upward) is opposite to the direction of force of gravity (downwards) i.e., θ = 180° so the work done on the body by the force of gravity is negative.
+
+Case 2 : When the object is falling vertically down
+
+When the object comes down, the force of gravity (downwards) is in the direction of displacement (downwards) i.e., θ = 0° and the work done by the force of gravity is positive.
+
+Question 1(iii)
+10 eV is ............... .
+
+1.6 x 10-18 J
+1.6 x 10-19 J
+6.25 x 1019 J
+6.25 x 1018 J
+Answer
+
+1.6 x 10-18 J
+
+Reason — As,
+
+1 eV = 1.6 x 10-19 J
+
+Then,
+
+10 eV = 10 x 1 eV = 10 x 1.6 x 10-19 J = 1.6 x 10-18 J
+
+Question 1(iv)
+A crowbar of length 1.0 m has its fulcrum at a distance of 0.2 m from the load. The mechanical advantage of the crowbar is:
+
+5
+4
+3
+2
+Answer
+
+4
+
+Reason —
+
+Given,
+
+Total length of crowbar = 1.0 m
+Fulcrum distance from the load = Load arm = 0.2 m
+Crowbar is a class I lever shown below :
+
+A crowbar of length 1.0 m has its fulcrum at a distance of 0.2 m from the load. The mechanical advantage of the crowbar is: ICSE 2025 Improvement Physics Solved Question Paper.
+Now,
+
+Effort arm = Total length of crowbar - Load arm = 1.0 - 0.2 = 0.8 m
+
+As,
+
+Mechanical Advantage (MA)
+=
+Effort arm
+Load arm
+Mechanical Advantage (MA)= 
+Load arm
+Effort arm
+​
+ 
+
+=
+0.8
+0.2
+= 
+0.2
+0.8
+​
+  = 4
+
+So, mechanical advantage of the crowbar is 4.
+
+Question 1(v)
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism.
+
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Answer
+
+option (1)
+
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Reason — When light passes through a right-angled isosceles prism, and is incident perpendicularly on one of its sides, it can undergo total internal reflection (TIR) at the hypotenuse and finally emerge at 90° from the original direction.
+
+Such a situation occurs when :
+
+The light enters one perpendicular face,
+Reflects off the hypotenuse (TIR at 45°), and
+emerges from the other perpendicular face, making a 90° turn overall.
+So, a prism satisfying above conditions will definitely produce a ray deviated by 90°.
+
+Now,
+
+In option (1)
+
+Isosceles Right-angled triangle.
+Light enters perpendicularly to one of the perpendicular sides.
+Will reflect off the hypotenuse and exit from the other perpendicular side as shown in below figure.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Hence, it deviates the incident ray by 90°.
+
+In option (2)
+
+Isosceles triangle with the vertex angle at the top being 90°.
+Light enters symmetrically from one side.
+Due to symmetry, this setup generally leads to no net deviation as shown in below figure.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Hence, it can not deviate the incident ray by 90°.
+
+In option (3)
+
+Isosceles Right-angled triangle.
+Ray enters at the hypotenuse, perpendicularly.
+Emerges from the hypotenuse again and deviates the ray by 180° as shown in below figure.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Hence, it can not deviate the incident ray by 90°.
+
+In option (4)
+
+Triangle with 60°, 90°, and 30° angles.
+Light enters at the face opposite 60°.
+Not a right-angled isosceles prism.
+Path will not lead to 90° deviation as shown in below figure.
+Which of the following figures will depict deviation of a ray of light through 90° when it emerges out of the prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Hence, it can not deviate the incident ray by 90°.
+
+Question 1(vi)
+Which of the following values can represent the magnification of a simple microscope?
+
++1
+–1
++2
+–2
+Answer
+
++2
+
+Reason — In a simple microscope a convex lens is used to view close objects so it's magnification should be positive, because the image formed is virtual, erect, and magnified, typically greater than 1, since the purpose is to enlarge the image.
+
+So, from the given options +2 power is justified since it will produce virtual, erect and 2x magnified image of the object.
+
+Question 1(vii)
+An object placed at a distance 30 cm in front of a lens produces clear inverted image at a distance 60 cm from the lens. If the object is placed at 60 cm from the lens, then it produces a clear inverted image at a distance of ............... from the lens.
+
+20 cm
+30 cm
+60 cm
+90 cm
+Answer
+
+30 cm
+
+Reason
+
+Case 1 :
+
+Given,
+
+Object distance (u) = -30 cm
+Image distance (v) = +60 cm
+Let, focal length be 'f'.
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+⇒
+1
+f
+=
+1
+60
+−
+1
+(
+−
+30
+)
+⇒
+1
+f
+=
+1
+60
++
+1
+30
+⇒
+1
+f
+=
+1
++
+2
+60
+1
+f
+=
+3
+60
+⇒
+f
+=
+60
+3
+=
++
+20
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+⇒ 
+f
+1
+​
+ = 
+60
+1
+​
+ − 
+(−30)
+1
+​
+ 
+⇒ 
+f
+1
+​
+ = 
+60
+1
+​
+ + 
+30
+1
+​
+ 
+⇒ 
+f
+1
+​
+ = 
+60
+1+2
+​
+ 
+f
+1
+​
+ = 
+60
+3
+​
+ 
+⇒f= 
+3
+60
+​
+ =+20 cm
+
+Case 2 :
+
+Given,
+
+Object distance (u) = -60 cm
+Focal length (f) = +20 cm
+Let, image distance be 'v'.
+
+Again using lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+⇒
+1
+v
+=
+1
+f
++
+1
+u
+⇒
+1
+v
+=
+1
+20
++
+1
+(
+−
+60
+)
+⇒
+1
+v
+=
+1
+20
+−
+1
+60
+⇒
+1
+v
+=
+3
+−
+1
+60
+⇒
+1
+v
+=
+2
+60
+⇒
+v
+=
+60
+2
+=
++
+30
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+f
+1
+​
+ + 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+20
+1
+​
+ + 
+(−60)
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+20
+1
+​
+ − 
+60
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+60
+3−1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+60
+2
+​
+ 
+⇒v= 
+2
+60
+​
+ =+30 cm
+
+Question 1(viii)
+Assertion (A) : Quartz prism is used to study ultraviolet spectrum.
+
+Reason (R) : Quartz does not absorb ultraviolet radiations.
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+Both (A) and (R) are true and (R) is not the correct explanation of (A).
+(A) is true but (R) is false.
+(A) is false and (R) is true.
+Answer
+
+Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+Explanation
+
+Assertion (A) is true because glass absorbs ultraviolet (UV) radiation, so it cannot be used in prisms or lenses for UV studies whereas quartz, on the other hand, allows UV light to pass through, making it suitable for dispersing and studying the UV spectrum.
+
+Reason (R) is true because quartz is transparent to ultraviolet light down to wavelengths of about 200 nm (far UV) so it does not absorb UV radiation, which is why it's preferred for UV applications.
+
+Question 1(ix)
+The amplitude of a sound wave is reduced from 2 mm to 1 mm. The intensity of the sound will:
+
+become four times the initial
+remain the same
+become half of the initial
+become one fourth of the initial
+Answer
+
+become one fourth of the initial
+
+Reason —
+
+Given,
+
+Initial amplitude = 2 mm
+Final amplitude = 1 mm
+As,
+
+Intensity of a sound wave ∝ (Amplitude of vibrations)2
+
+Then,
+
+Final intensity
+Initial intensity
+=
+(
+Final amplitude
+Initial amplitude
+)
+2
+=
+(
+1
+2
+)
+2
+=
+1
+4
+Initial intensity
+Final intensity
+​
+ =( 
+Initial amplitude
+Final amplitude
+​
+ ) 
+2
+ =( 
+2
+1
+​
+ ) 
+2
+ = 
+4
+1
+​
+ 
+
+So,
+
+Final intensity = 
+1
+4
+4
+1
+​
+  x Initial intensity
+
+Question 1(x)
+According to the NEW international convention, what is the colour coding for the live, neutral and earth wires in household circuits?
+
+Live – red, Neutral – black, Earth – green
+Live – green, Neutral – yellow, Earth – black
+Live – brown, Neutral – blue, Earth – yellow
+Live – red, Neutral – blue, Earth – yellow
+Answer
+
+Live – brown, Neutral – blue, Earth – yellow
+
+Reason — The colour coding is given below :
+
+Wire	Old Convention	New Convention
+Live	Red	Brown
+Neutral	Black	Light blue
+Earth	Green	Green or Yellow
+Question 1(xi)
+An alloy constantan has resistivity 5 x 10-7 Ω m at 25°C. If the temperature of this alloy is increased to 50°C then its resistivity will be:
+
+2.5 x 10-7 Ω m
+5 x 10-7 Ω m
+10 x 10-6 Ω m
+20 x 10-6 Ω m
+Answer
+
+5 x 10-7 Ω m
+
+Reason — The specific resistance of a substance depends on its temperature but for an alloy of constantan, it remains practically unchanged or constant with change in temperature. So here on increasing the temperature of the alloy, its resistivity does not change much and hence it's final value will be same as initial value i.e., 5 x 10-7 Ω m.
+
+Question 1(xii)
+A current carrying circular loop is lying in a horizontal plane as shown in the diagram. Which of the following is the correct statement with respect to the direction of magnetic lines of force.
+
+A current carrying circular loop is lying in a horizontal plane as shown in the diagram. Which of the following is the correct statement with respect to the direction of magnetic lines of force. ICSE 2025 Improvement Physics Solved Question Paper.
+upward at X and downward at Y
+downward at X and upward at Y
+upward at both X and Y
+downward at both X and Y
+Answer
+
+upward at X and downward at Y
+
+Reason — The current in the loop is in clockwise direction. By the right-hand thumb rule, if we curl our fingers in the direction of current, our thumb points along the magnetic field through the loop. For a clockwise current, the field inside the loop (point Y) is downward (into the plane). Magnetic field lines must return outside the loop, so outside (point X) they are in the upward direction (out of the plane).
+
+Question 1(xiii)
+For a body of mass m the relationship between the heat capacity (C') and specific heat capacity (c) is:
+
+C' = mc
+C' = c/m
+C' = mc2
+C' = m/c
+Answer
+
+C' = mc
+
+Reason — The heat capacity (C') is given by the product of the mass (m) and the specific heat capacity (c).
+
+Question 1(xiv)
+A piece of a cake and a watermelon of the same mass are taken out of the freezer at the same time. Which of the following statement is correct?
+
+Cake and watermelon will attain the room temperature at the same time.
+Watermelon will attain the room temperature faster.
+Cake will attain the room temperature faster.
+Which one comes to the room temperature first, depends on the atmospheric pressure at that time.
+Answer
+
+Cake will attain the room temperature faster.
+
+Reason — The rate at which an object warms depends, among other factors, on its specific heat capacity. Watermelon consists mainly of water, whose specific heat capacity is high (about 4.2 J g-1 °C-1). Cake contains far less water and more fats and carbohydrates, whose specific heat capacities are roughly half that of water. Therefore, for the same mass and under identical external conditions, the cake requires less heat to raise its temperature by 1 °C and will reach room temperature sooner than the watermelon.
+
+Question 1(xv)
+During β emission the parent and daughter nuclei will be:
+
+isomers
+isotopes
+isotones
+isobars
+Answer
+
+isobars
+
+Reason — During emission of a β-particle, the number of nucleons in the nucleus (i.e., sum of protons and neutrons) remains the same, but the number of neutrons is decreased by one and the number of protons is increased by one i.e., the mass number A does not change, but the atomic number Z is increased by one. Therefore the parent and daughter nuclei have the same mass number but different atomic numbers. Hence, they form isobars.
+
+Question 2(i)
+Complete the following by choosing the correct answers from the bracket:
+
+(a) The ideal mechanical advantage of a single movable pulley is ............... [less than 1 / more than 1 / equal to 1].
+
+(b) If different colours of light strike a rectangular glass block at same angle of incidence, then maximum lateral displacement will be shown by ............... [Red / Green / Blue] colour.
+
+(c) 1 joule equals to ............... [0.24 / 0.48 / 4.2] calorie.
+
+(d) The hole in the right side of the socket is for connection to the ............... [live / neutral / earth] wire.
+
+(e) The direction of the induced current in the coil of an AC generator is determined by ............... [Fleming’s left-hand rule / Fleming’s right-hand rule / Clock Rule].
+
+(f) In a nuclear reactor, the fission reaction is initiated by bombardment with ............... [a proton / a neutron / an α particle].
+
+Answer
+
+(a) The ideal mechanical advantage of a single movable pulley is more than 1.
+
+(b) If different colours of light strike a rectangular glass block at same angle of incidence, then maximum lateral displacement will be shown by Blue colour.
+
+(c) 1 joule equals to 0.24 calorie.
+
+(d) The hole in the right side of the socket is for connection to the live wire.
+
+(e) The direction of the induced current in the coil of an AC generator is determined by Fleming’s right-hand rule.
+
+(f) In a nuclear reactor, the fission reaction is initiated by bombardment with a neutron.
+
+Question 2(ii)
+Will the position of the centre of gravity change if a hollow sphere is completely filled with mercury? Give a reason for your answer.
+
+Answer
+
+No, the position of the centre of gravity will not change because the mass remains symmetrically distributed about the centre in both the hollow and the filled sphere so the centre of gravity remains at the geometric centre.
+
+Question 2(iii)
+Calculate the minimum distance needed in water to hear the echo.
+
+(Speed of sound in water is 1500 m s-1. Persistence of hearing is 0.1 s.)
+
+Answer
+
+Given,
+
+Speed of sound in water (v) = 1500 m s-1
+Minimum time to hear an echo (t) = 0.1 s
+Let minimum distance to hear an echo be 'd'.
+
+Then,
+
+Speed of sound
+=
+2
+×
+Minimum distance to hear echo
+ Minimum time to hear an echo
+=
+2
+d
+t
+⇒
+2
+d
+=
+v
+×
+t
+=
+1500
+×
+0.1
+=
+150
+ m
+⇒
+d
+=
+150
+2
+=
+75
+ m
+Speed of sound= 
+ Minimum time to hear an echo
+2×Minimum distance to hear echo
+​
+ = 
+t
+2d
+​
+ 
+⇒2d=v×t=1500×0.1=150 m
+⇒d= 
+2
+150
+​
+ =75 m
+
+So, minimum distance to hear an echo is 75 m.
+
+Question 3(i)
+State the potential of the wire connected to the right hand side terminal of the three pin plug and also state its colour.
+
+Answer
+
+In three pin plug, the pin on the right is for neutral wire whose potential is same as the earth wire i.e., zero potential and colour of neutral wire according to new international convention is blue.
+
+Question 3(ii)
+State two properties of magnetic lines of force around a straight conductor carrying current.
+
+Answer
+
+Properties of magnetic lines of force around a straight conductor carrying current are following :
+
+The magnetic field lines form the concentric circles around the wire, with their plane perpendicular to the straight wire and with their centres lying on the wire.
+On increasing current in the wire, the magnetic field lines become denser and the iron filings get arranged in circles up to a larger distance from the wire, showing that the magnetic field strength has increased and it is effective up to а larger distance.
+Question 3(iii)
+The heat capacity of a milk cooker is 450 JK-1. Calculate the rise in the temperature when it absorbs 9000 J of heat.
+
+Answer
+
+Given,
+
+Heat capacity (C) = 450 J K-1
+Heat absorbed (Q) = 9000 J
+Let, rise in temperature be 'ΔT'.
+
+As,
+
+Q = C × ΔT
+
+⇒
+ΔT
+=
+Q
+C
+=
+9000
+450
+=
+20
+ K
+⇒ΔT= 
+C
+Q
+​
+ = 
+450
+9000
+​
+ =20 K
+
+Hence, rise in the temperature is 20 K or 20 °C.
+
+Question 3(iv)
+A ray of light PQ is incident normally on the face AB of an equilateral prism. The ray gets totally reflected from the surface AC.
+
+A ray of light PQ is incident normally on the face AB of an equilateral prism. The ray gets totally reflected from the surface AC. ICSE 2025 Improvement Physics Solved Question Paper.
+Calculate:
+
+(a) the angle of deviation at AC.
+
+(b) the angle of incidence at BC.
+
+Answer
+
+From the below diagram,
+
+A ray of light PQ is incident normally on the face AB of an equilateral prism. The ray gets totally reflected from the surface AC. Calculate (a) the angle of deviation at AC (b) the angle of incidence at BC. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) As, the incident ray and emergent ray makes an angle of 60° with each other.
+
+So, angle of deviation at AC is 60°.
+
+(b) Here, emergent ray is falling normally on face BC.
+
+So, angle of incidence at BC is 0°.
+
+Question 3(v)
+The figure below shows a bicycle dynamo which is fitted to the tyre. When the wheels of the bicycle rotate, the spindle of dynamo attached to magnets rotate and the bulb glows.
+
+The figure below shows a bicycle dynamo which is fitted to the tyre. When the wheels of the bicycle rotate, the spindle of dynamo attached to magnets rotate and the bulb glows. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Name the phenomenon that takes place when the bulb glows while the person rides the bicycle.
+
+(b) What will be the effect on the brightness of the bulb when the rider increases the speed of the bicycle?
+
+Answer
+
+(a) Electromagnetic Induction.
+
+(b) When the rider increases the speed of the bicycle then the speed of rotation of the spindle attached to magnets also increases which in turn increases the rate of change of magnetic flux through the coil and hence, induces a greater current.
+
+So, brightness of the bulb increases.
+
+Question 3(vi)
+Define background radiation. Give one internal source of this radiation.
+
+Answer
+
+Background radiations are the radioactive radiations (such as α, β and γ) to which we all are exposed, even in the absence of an actual visible radioactive source.
+
+Internal source — The radioactive substances present inside our body like potassium (K-40), carbon (C-14) and radium.
+
+Question 3(vii)
+Astatine (At) is a radioactive element. Study the graph given below showing the number of protons vs the number of neutrons of radioactive nuclei.
+
+Astatine (At) is a radioactive element. Study the graph given below showing the number of protons vs the number of neutrons of radioactive nuclei. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Identify the mass number of the nucleus Astatine (At).
+
+(b) Which line on the graph (l, m, n, or q) will never pass through the position of the daughter nuclei, regardless of any number of α, β, or γ emissions?
+
+(c) Give a reason for your choice in (b).
+
+Answer
+
+(a) From the graph,
+
+Number of protons in Astatine = 85
+
+Number of neutrons in Astatine = 126
+
+Then,
+
+Mass number of Astatine = Number of protons + Number of neutrons = 85 + 126 = 211
+
+(b) The line m on the graph will never pass through the position of the daughter nuclei, regardless of any number of α, β, or γ emissions.
+
+(c) As line m represents a daughter nucleus which has one excess neutron than Astatine and from α, β, or γ emissions, none has ability to increase the neutron number of Astatine and produce a daughter nucleus with one excess neutron so line m can not pass through any daughter nucleus of Astatine.
+
+Section B
+
+Question 4(i)
+(a) A coin lies at the bottom of a beaker. Water is poured into the beaker upto a height of 8 cm. Calculate the shift seen in the position of the coin.
+(The refractive index of water is 4/3. The width of the glass wall of the beaker is negligible.)
+
+(b) How will the apparent depth be affected if the temperature of water is increased?
+
+Answer
+
+(a) Given,
+
+Real Depth = 8 cm
+Refractive index of water = 
+4
+3
+3
+4
+​
+ 
+As we know,
+
+Shift
+=
+Real depth
+×
+(
+1
+−
+1
+a
+μ
+w
+)
+Shift=Real depth×(1− 
+a
+​
+ μ 
+w
+​
+ 
+1
+​
+ )
+
+where, aμw is the refractive index of the water with respect to air.
+
+So, substituting the values in the formula we get,
+
+Shift
+=
+8
+×
+(
+1
+−
+3
+4
+)
+Shift
+=
+8
+×
+1
+4
+Shift
+=
+8
+4
+⇒
+Shift
+=
+2
+ cm
+Shift=8×(1− 
+4
+3
+​
+ )
+Shift=8× 
+4
+1
+​
+ 
+Shift= 
+4
+8
+​
+ 
+⇒Shift=2 cm
+
+Hence, the coin appears to be raised by a height of 2 cm when seen from vertically above.
+
+(b) With increase in temperature, the refractive index of the medium decreases and lower the refractive index of the medium, less is the shift so on increasing the temperature of water, the coin will appear slightly deeper than before. Hence, the apparent depth increases.
+
+Question 4(ii)
+Draw a ray diagram to invert the image without deviation of light using right angle isosceles prism.
+
+Answer
+
+The ray diagram to invert the image without deviation of light using right angle isosceles prism is shown below :
+
+Draw a ray diagram to invert the image without deviation of light using right angle isosceles prism. ICSE 2025 Improvement Physics Solved Question Paper.
+Question 4(iii)
+Answer the following with respect to a concave lens (L).
+
+Answer the following with respect to a concave lens (L). ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Describe the path of the rays X and Y through the lens.
+
+(b) Give one use of this lens.
+
+(c) Calculate its power if the focal length of this lens is 20 cm.
+
+Answer
+
+(a) Ray X : As the ray is parallel to the principal axis of the concave lens then after refraction, it appears to come from the second focus F, as shown in below diagram.
+
+Ray Y : As the ray is incident at the optical centre of the lens then it passes undeviated through the lens because angle of incidence of the ray with the normal at optic centre is zero as shown in below diagram.
+
+Answer the following with respect to a concave lens (L). ICSE 2025 Improvement Physics Solved Question Paper.
+(b) A concave lens is used in spectacles for correcting short-sightedness (myopia).
+
+(c) Given,
+
+Focal length = -20 cm = -0.2 m
+Then,
+
+Power
+=
+1
+focal length (in metres)
+=
+1
+−
+0.2
+=
+−
+10
+2
+=
+−
+ 
+5
+⇒
+Power
+=
+−
+ 
+5
+ D
+Power= 
+focal length (in metres)
+1
+​
+ 
+= 
+−0.2
+1
+​
+ 
+=− 
+2
+10
+​
+ =− 5
+⇒Power=− 5 D
+
+Question 5(i)
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot at point X.
+
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot at point X. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Calculate the critical angle of the material of the prism for yellow colour.
+
+(b) To move the fluorescent spot towards Y, the value of θ should be ............... [> 50, < 50 or = 50].
+
+(c) Which direction will the florescent spot move if yellow light is replaced with indigo light? (towards Y or towards Z)
+
+Answer
+
+(a) As, the ray emerges via ST then it's angle of refraction with the normal is 90° and since, critical angle is the angle of incidence in the denser medium corresponding to which the angle of refraction in the rarer medium is 90° so here, angle of incidence is at critical angle.
+
+Now,
+
+From the diagram,
+
+θ = 50°
+
+Then,
+
+Angle of incidence of the yellow ray = 90° - 50° = 40°
+
+Hence, critical angle of the material of the prism for yellow colour is 40°.
+
+(b) To move the fluorescent spot towards Y, the value of θ should be > 50.
+
+Reason—
+
+Case 1 : When θ is equal to 50°, the ray strikes at X which is the present case.
+
+Case 2 : When θ is less than 50°, the incident angle becomes greater than the critical angle i.e., 40° so light will reflect at the surface ST and hence move toward Z depending upon the value of θ but will never move towards Y as shown below.
+
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot at point X. ICSE 2025 Improvement Physics Solved Question Paper.
+Case 3 : When θ is greater than 50°, the incident angle becomes less than the critical angle i.e., 40° so no total internal reflection takes place and light will suffer refraction at the surface ST and hence move toward Y depending upon the value of θ as shown below.
+
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot at point X. ICSE 2025 Improvement Physics Solved Question Paper.
+(c) Towards Z
+
+Reason— The critical angle increases with increase in the wavelength of light. Since indigo light has a shorter wavelength than yellow light, its critical angle is less than 40°. Here, the angle of incidence at ST is 50°, which is greater than the critical angle. Therefore, the indigo light will undergo total internal reflection at ST and travel towards Z, as shown below.
+
+The diagram given below shows a triangular prism of a certain material with fluorescent screen placed adjacent to it. The yellow light ray striking the surface ST of the prism shows a fluorescent spot at point X. ICSE 2025 Improvement Physics Solved Question Paper.
+Question 5(ii)
+An object is placed at a distance of 10 cm from a convex lens of focal length 20 cm.
+
+(a) Find the position of the image.
+
+(b) What is the nature of the image?
+
+Answer
+
+Given,
+
+Object distance (u) = - 10 cm
+Focal Length (f) = + 20 cm
+Let, image distance be 'v'.
+
+From lens formula,
+
+1
+f
+=
+1
+v
+−
+1
+u
+⇒
+1
+v
+=
+1
+f
++
+1
+u
+⇒
+1
+v
+=
+1
+20
++
+1
+(
+−
+10
+)
+=
+1
+20
+−
+1
+10
+=
+1
+−
+2
+20
+1
+v
+=
+−
+1
+20
+⇒
+v
+=
+−
+20
+1
+=
+−
+20
+ cm
+f
+1
+​
+ = 
+v
+1
+​
+ − 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+f
+1
+​
+ + 
+u
+1
+​
+ 
+⇒ 
+v
+1
+​
+ = 
+20
+1
+​
+ + 
+(−10)
+1
+​
+ = 
+20
+1
+​
+ − 
+10
+1
+​
+ = 
+20
+1−2
+​
+ 
+v
+1
+​
+ =− 
+20
+1
+​
+ 
+⇒v=− 
+1
+20
+​
+ =−20 cm
+
+So, the image will form at a distance of 20 cm in front of the convex lens.
+
+(b) As,
+
+magnification
+=
+v
+u
+=
+−
+20
+−
+10
+=
++
+ 
+2
+magnification= 
+u
+v
+​
+ = 
+−10
+−20
+​
+ =+ 2
+
+Here, sign of magnification is positive implying virtual and erect image formation and since magnification is 2 so size of the image is 2 times the size of the object.
+
+Hence, formed images is virtual, erect and 2 times the size of the object.
+
+Question 5(iii)
+(a) Name the electromagnetic radiations which are used for sterilising water in a water purifier.
+
+(b) State any one property of the radiations mentioned by you in part (a).
+
+(c) Why are the danger signals red in colour?
+
+Answer
+
+(a) Ultraviolet radiation.
+
+(b) Ultraviolet radiation produces fluorescence on striking a zinc-sulphide screen.
+
+(c) Red light has the longest wavelength among visible colours, so it is scattered the least by air molecules. This allows it to travel the farthest without losing intensity. That’s why red is used for danger signals, it stays visible from a long distance, even in fog or mist.
+
+Question 6(i)
+A uniform metre ruler is balanced horizontally on a knife edge placed at 60 cm mark when a mass m is suspended from 75 cm mark. Draw the diagram of the arrangement. State with reason (through mathematical steps) whether the mass of the scale is greater than, less than or equal to the mass m?
+
+Answer
+
+The diagram of the arrangement is shown below :
+
+A uniform metre ruler is balanced horizontally on a knife edge placed at 60 cm mark when a mass m is suspended from 75 cm mark. Draw the diagram of the arrangement. State with reason (through mathematical steps) whether the mass of the scale is greater than, less than or equal to the mass m? ICSE 2025 Improvement Physics Solved Question Paper.
+Given,
+
+Distance of the knife edge from zero mark = 60 cm
+Distance of mass m from zero mark = 75 cm
+Let,
+
+M = mass of the scale
+
+As,
+
+Distance of centre of gravity of the scale from zero mark = 50 cm
+
+Then,
+
+Distance of centre of gravity of the scale from the knife edge (r) = 60 - 50 = 10 cm
+
+Distance of mass m from the knife edge (R) = 75 - 60 = 15 cm
+
+Now,
+
+Anticlockwise moment (due to weight of the scale) = r x Mg = 10 × Mg
+
+Clockwise moment (due to m) = R x mg = 15 × mg
+
+For equilibrium,
+
+Anticlockwise moment of force about knife edge = Clockwise moment of force about knife edge
+
+⇒
+10
+×
+Mg
+=
+15
+×
+mg
+⇒
+10
+M
+=
+15
+m
+⇒
+M
+m
+=
+15
+10
+=
+1.5
+⇒10×Mg=15×mg
+⇒10M=15m
+⇒ 
+m
+M
+​
+ = 
+10
+15
+​
+ =1.5
+
+As,
+
+M
+m
+m
+M
+​
+  > 1
+
+⇒ M > m
+
+So, mass of the scale is greater than the mass m.
+
+Question 6(ii)
+State the energy conversions taking place:
+
+(a) during photosynthesis
+
+(b) in a thermocouple
+
+(c) during bursting a cracker
+
+Answer
+
+(a) Light energy → Chemical energy
+Reason : During photosynthesis, the light energy from the Sun is absorbed by the green plants and they change it in the form of chemical energy (food).
+
+(b) Heat energy → Electrical energy
+Reason : In a thermocouple, when two junctions of two different metals are kept at different temperatures (one junction is kept hot, while the other cold), a current flows in the thermocouple. Thus, a thermocouple changes the heat energy supplied at the hot junction into electrical energy.
+
+(c) Chemical energy → Heat energy + light energy + sound energy
+Reason : In a cracker different chemicals in the presence of heat react with each other and it's stored chemical energy is rapidly released as heat, light, and sound.
+
+Question 6(iii)
+An inclined plane makes an angle of 30° with the horizontal as shown in the figure. A box of mass 20 kg is taken from point A to point B along the inclined plane of length 2 m.
+
+An inclined plane makes an angle of 30° with the horizontal as shown in the figure. A box of mass 20 kg is taken from point A to point B along the inclined plane of length 2 m. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Calculate the potential energy gained by the box.
+
+(b) If 10 J of work is done against friction, in moving the box from A to B then calculate the force F needed to pull the block from A to B. [g = 10 m s-2]
+
+Answer
+
+Given,
+
+Mass of the box (m) = 20 kg
+Incline Length (AB) = 2 m
+Incline Angle = 30°
+Work done by friction (Wf) = 10 J
+Applied force = F
+Acceleration due to gravity (g) = 10 m s-2
+(a) In right angled △ ACB,
+
+sin 30° = 
+BC
+AB
+AB
+BC
+​
+ 
+
+⇒ BC = AB x sin 30° = 2 x 0.5 = 1 m
+
+So,
+
+Potential energy gained by the box (U) = weight of the box x height gained = mg x BC = 20 x 10 x 1 = 200 J
+
+So, potential energy gained by the box is 200 J.
+
+(b) Let, work done by applied force be 'W'.
+
+Then,
+
+W = F x AB = 2 x F
+
+Now,
+
+W = U + Wf
+
+= 200 + 10 = 210 J
+
+⇒ 2 x F = 210
+
+⇒ F = 
+210
+2
+2
+210
+​
+ 
+
+= 105 N
+
+So, the force needed to pull the block from A to B is 105 N.
+
+Question 7(i)
+The graph shows load against effort for a lever with load and effort on the same side of the fulcrum.
+
+The graph shows load against effort for a lever with load and effort on the same side of the fulcrum. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Which attribute of the load vs effort graph must be calculated to determine the mechanical advantage?
+
+(b) Which class does this lever belong to? How did you arrive at this conclusion?
+
+Answer
+
+(a) The slope of the load-effort graph is the key to finding mechanical advantage.
+
+(b) The lever belong to 2nd class because in a linear load-effort graph that passes through the origin, the slope represents the ratio of Load to Effort. So, we just need to calculate the slope of the line to get the mechanical advantage. Choose any point on the line — for instance, (Effort = 10 kgf, Load = 20 kgf) gives M.A. = 2.
+
+Since M.A. > 1, meaning effort arm > load arm. This is characteristic of a class II lever, where the load lies between the fulcrum and the effort.
+
+Question 7(ii)
+(a) A man fires a gun and hears its echo after 3 s. The man then moves 80 m towards the hill and fires his gun again. This time he hears the echo after 2.5 s. Calculate the speed of the sound.
+
+(b) State one reason of using ultrasonic waves in SONAR.
+
+Answer
+
+Given,
+
+Time to hear first echo (t1) = 3 s
+Time to hear second echo (t2) = 2.5 s
+Distance moved by the man towards the hill (d) = 80 m
+(a) Let original distance of the man from the cliff is 'D' and speed of sound be 'v'.
+
+Case 1 : When person hears first echo from initial position.
+
+Distance of man from cliff
+=
+Speed of sound
+×
+Time to hear first echo
+2
+⇒
+D
+=
+v
+×
+t
+1
+2
+=
+3
+v
+2
+Distance of man from cliff= 
+2
+Speed of sound×Time to hear first echo
+​
+ 
+⇒D= 
+2
+v×t 
+1
+​
+ 
+​
+ = 
+2
+3v
+​
+ 
+
+Case 2 : When person hears second echo after moving 80 m towards the cliff.
+
+New distance between the man and the cliff = D - d = 
+3
+v
+2
+2
+3v
+​
+  - 80
+
+Then,
+
+Distance of the man from the cliff
+=
+Speed of sound
+×
+Time to hear second echo
+2
+⇒
+3
+v
+2
+−
+80
+=
+v
+×
+t
+2
+2
+⇒
+3
+v
+2
+−
+80
+=
+2.5
+v
+2
+⇒
+3
+v
+2
+−
+80
+=
+25
+v
+20
+⇒
+3
+v
+2
+−
+80
+=
+5
+v
+4
+⇒
+3
+v
+2
+−
+5
+v
+4
+=
+80
+⇒
+6
+v
+−
+5
+v
+4
+=
+80
+⇒
+v
+4
+=
+80
+Distance of the man from the cliff= 
+2
+Speed of sound×Time to hear second echo
+​
+ 
+⇒ 
+2
+3v
+​
+ −80= 
+2
+v×t 
+2
+​
+ 
+​
+ 
+⇒ 
+2
+3v
+​
+ −80= 
+2
+2.5v
+​
+ 
+⇒ 
+2
+3v
+​
+ −80= 
+20
+25v
+​
+ 
+⇒ 
+2
+3v
+​
+ −80= 
+4
+5v
+​
+ 
+⇒ 
+2
+3v
+​
+ − 
+4
+5v
+​
+ =80
+⇒ 
+4
+6v−5v
+​
+ =80
+⇒ 
+4
+v
+​
+ =80
+
+⇒ v = 80 x 4 = 320 m s-1
+
+Hence, speed of the sound is 320 m s-1.
+
+(b) Ultrasonic waves can travel undeviated through a long distance and that's why they are used in SONAR.
+
+Question 7(iii)
+The diagram below displays four solid plastic balls attached to wires, all mounted on a wooden base. When a person shakes the wooden base back and forth at a steady pace, the balls begin to vibrate as well. It is noted that while all the balls vibrate, only one of them vibrates vigorously.
+
+The diagram below displays four solid plastic balls attached to wires, all mounted on a wooden base. When a person shakes the wooden base back and forth at a steady pace, the balls begin to vibrate as well. It is noted that while all the balls vibrate, only one of them vibrates vigorously. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Explain why only one ball vibrates vigorously.
+
+(b) If fA, fB, fC, and fD are the natural frequencies of vibration of the wires, then arrange them in the increasing order of their frequencies and justify.
+
+Answer
+
+(a) As the frequency of vibration of the wooden base matches with the natural frequency of only one ball, it starts to vibrate vigorously due to resonance which increases the amplitude of vibration of the ball.
+
+(b) Since frequency of vibration in a wire is inversely proportional to the vibrating length.
+
+Let,
+
+lA, lB, lC and lD are length of the wire A, B, C and D respectively.
+
+From the figure,
+
+lB < lC < lA < lD
+
+Then,
+
+fD < fA < fC < fB
+
+Question 8(i)
+The diagram given below shows a bulb connected by dual control switches. Observe the diagrams and answer the questions that follow.
+
+The diagram given below shows a bulb connected by dual control switches. Observe the diagrams and answer the questions that follow. ICSE 2025 Improvement Physics Solved Question Paper.
+The diagram given below shows a bulb connected by dual control switches. Observe the diagrams and answer the questions that follow. ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Which switch can successfully turn the bulbs ON or OFF? (Circuit A, Circuit B, or both)
+
+(b) At present, in which circuit is the bulb glowing?
+
+(c) If the L and N wires are swapped in the circuit (your answer to (b)), will the circuit still function?
+
+Answer
+
+(a) Both circuits will be able to switch ON and switch OFF the bulb using both switches.
+
+(b) In circuit B the bulb is glowing
+
+(c) Yes, the circuit will function properly.
+
+Question 8(ii)
+Study the diagram and answer the questions that follow:
+
+Study the diagram and answer the questions that follow: ICSE 2025 Improvement Physics Solved Question Paper.
+(a) Name the nuclear process displayed in the diagram.
+
+(b) Is it possible to conduct this process at room temperature?
+
+(c) Mass of reactants ............... mass of the products.
+
+[Fill in the blank using <, > or =]
+
+Answer
+
+(a) Nuclear fusion.
+
+(b) No, it is not possible to conduct nuclear fusion at room temperature because when two nuclei approach, each other, due to their positive charge, the electrostatic force of repulsion between them becomes so strong that they do not fuse. Hence to make the fusion possible, a high temperature (≈ 107 K) and high pressure is required.
+
+(c) Mass of reactants > mass of the products.
+Reason : The sum of masses of the product nuclei is less than the sum of mass of the parent nucleus because this loss in mass is converted into energy according to Einstein's mass-energy relation.
+
+Question 8(iii)
+A cell of e.m.f 1.5 V and internal resistance 1 Ω is connected to two resistors of resistances 6 Ω and 3 Ω in parallel and a resistor of resistance 2 Ω in series as shown in the diagram.
+
+A cell of e.m.f 1.5 V and internal resistance 1 Ω is connected to two resistors of resistances 6 Ω and 3 Ω in parallel and a resistor of resistance 2 Ω in series as shown in the diagram. ICSE 2025 Improvement Physics Solved Question Paper.
+Calculate the current through:
+
+(a) 2 Ω resistor
+
+(b) 6 Ω resistor
+
+Answer
+
+Given,
+
+Emf of the cell (ε) = 1.5 V
+Internal resistance (r) = 1 Ω
+Resistances in parallel = 6 Ω and 3 Ω
+Series resistance = 2 Ω
+As, 6 Ω and 3 Ω resistances are in parallel then let their net resistance be RP
+
+1
+R
+P
+=
+1
+R
+1
++
+1
+R
+2
+⇒
+1
+R
+P
+=
+1
+6
++
+1
+3
+⇒
+1
+R
+P
+=
+1
++
+2
+6
+⇒
+1
+R
+P
+=
+3
+6
+⇒
+1
+R
+P
+=
+1
+2
+⇒
+R
+P
+=
+2
+Ω
+R 
+P
+​
+ 
+1
+​
+ = 
+R 
+1
+​
+ 
+1
+​
+ + 
+R 
+2
+​
+ 
+1
+​
+ 
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+6
+1
+​
+ + 
+3
+1
+​
+ 
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+6
+1+2
+​
+ 
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+6
+3
+​
+ 
+⇒ 
+R 
+P
+​
+ 
+1
+​
+ = 
+2
+1
+​
+ 
+⇒R 
+P
+​
+ =2Ω
+
+Now, this RP is in series with 2 Ω and internal resistance of the cell.
+
+Then,
+
+Net series resistance (RS) = RP + 2 + r = 2 + 2 + 1 = 5 Ω
+
+(a) Current through 2 Ω resistor = 
+ε
+R
+S
+=
+1.5
+5
+R 
+S
+​
+ 
+ε
+​
+ = 
+5
+1.5
+​
+  = 0.3 A
+
+So, current through 2 Ω resistor is 0.3 A.
+
+(b) Now, 0.3 A current will split between 3 Ω and 6 Ω resistors.
+
+Let I1 is the current flowing through 6 Ω resistor and 0.3 - I1 is flowing through 3 Ω resistor.
+
+As, 6 Ω and 3 Ω are in parallel then the potential difference across them will be equal i.e.,
+
+Potential difference across 6 Ω = Potential difference across 3 Ω
+
+So, by using Ohm's law (V = IR)
+
+6 x I1 = 3 x (0.3 - I1)
+
+⇒ 6 x I1 = 0.9 - 3 x I1
+
+⇒ 6 x I1 + 3 x I1 = 0.9
+
+⇒ 9 x I1 = 0.9
+
+⇒ I1 = 
+0.9
+9
+9
+0.9
+​
+  = 0.1 A
+
+So, current through 6 Ω resistance is 0.1 A.
+
+Question 9(i)
+A spirit lamp supplying heat at a rate of 50 W is used to melt 0.025 kg of ice at 0 °C taken in a container. If all the ice in the container is melted in 168 s, then what is the specific latent heat of fusion of ice?
+
+(The heat capacity of the container is negligible.)
+
+Answer
+
+Given,
+
+Power of spirit lamp (P) = 50 W
+Mass of ice (m) = 0.025 kg
+Fixed temperature (Ti) = 0 °C
+Time Taken (t) = 168 s
+Let specific latent heat of ice be Li.
+
+Now,
+
+Heat gained by ice (Q) = P x t = 50 x 168 = 8400 J
+
+Also,
+
+Li = 
+Q
+m
+=
+8400
+0.025
+=
+8400000
+25
+m
+Q
+​
+ = 
+0.025
+8400
+​
+ = 
+25
+8400000
+​
+  = 336 x 103 J kg-1
+
+Hence, specific latent heat of fusion of ice is 336 x 103 J kg-1.
+
+Question 9(ii)
+(a) State the principle of calorimetry.
+
+(b) Why should the surface of the calorimeter be polished?
+
+(c) Why should the calorimeter be made of a material of low specific heat capacity?
+
+Answer
+
+(a) The principle of calorimetry states that when a hot body is brought in contact with a cold body, then heat lost by the hot body is equal to the heat gained by the cold body, provided there is no heat loss in the environment.
+Heat energy lost by the hot body = Heat energy gained by the cold body
+
+(b) The outer and inner surface of the calorimeter should be polished so as to reduce the loss of heat due to radiation.
+
+(c) The calorimeter should be made of a material of low specific heat capacity so that the amount of heat energy taken by the calorimeter from the contents to acquire it's temperature, is very small.
+
+Question 9(iii)
+A student wants to design a device to connect a bulb rated 10 W, 22 V, to the mains 220 V, so that the bulb operates at its rated voltage.
+
+(a) Name the device he uses.
+
+(b) State the principle involved in the working of this device.
+
+(c) When the bulb is connected to the output of the device, calculate:
+
+Current drawn
+Resistance of the bulb
+Answer
+
+(a) Step-down transformer.
+
+(b) Electromagnetic induction, according to this principle a changing current in the primary coil induces a voltage in the secondary coil of a transformer based on the turns ratio.
+
+(c) Given,
+
+Power of the bulb (P) = 10 W
+Voltage of the bulb (V) = 22 V
+Current drawn = 
+P
+V
+=
+10
+22
+V
+P
+​
+ = 
+22
+10
+​
+  = 0.45 A
+Resistance of the bulb = 
+V
+2
+P
+=
+22
+2
+10
+=
+484
+10
+P
+V 
+2
+ 
+​
+ = 
+10
+22 
+2
+ 
+​
+ = 
+10
+484
+​
+  = 48.4 Ω
