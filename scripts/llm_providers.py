@@ -53,7 +53,7 @@ class NemotronProvider(LLMProvider):
 
     BASE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 
-    def __init__(self, model_name: str = "nvidia/nemotron-3-super"):
+    def __init__(self, model_name: str = "nvidia/nemotron-3-super-120b-a12b"):
         api_key = os.getenv("NVIDIA_API_KEY")
         if not api_key:
             raise RuntimeError("NVIDIA_API_KEY not set in .env")
@@ -71,6 +71,7 @@ class NemotronProvider(LLMProvider):
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2,
             "max_tokens": 1024,
+            "chat_template_kwargs": {"enable_thinking": False},
         }
         resp = requests.post(self.BASE_URL, headers=headers, json=payload, timeout=60)
         resp.raise_for_status()
