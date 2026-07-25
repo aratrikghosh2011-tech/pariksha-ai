@@ -62,6 +62,10 @@ def build_prompt(query, retrieved):
             context_blocks.append(
                 f"Textbook excerpt (similarity {score:.2f}, {r['book']} p.{r['page']}):\n{r['text']}"
             )
+        elif r.get("type") == "pyq_pattern":
+            context_blocks.append(
+                f"Exam pattern note (similarity {score:.2f}): {r['text']}"
+            )
         else:
             context_blocks.append(
                 f"Example (similarity {score:.2f}):\nQ: {r['instruction']}\nA: {r['response']}"
@@ -101,6 +105,8 @@ def main():
     for score, r in retrieved:
         if r.get("type") == "textbook":
             label = f"{r['book']} p.{r['page']}"
+        elif r.get("type") == "pyq_pattern":
+            label = f"pattern: {r['subject']} ({r['repetition_count']}x)"
         else:
             label = r['instruction'][:70]
         print(f"  [{score:.3f}] {label}...")
