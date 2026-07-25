@@ -63,6 +63,48 @@ def retrieve(query, model, index, meta, top_k):
     return results
 
 
+def get_subject(r):
+    """
+    Returns the subject of a record. Textbook and pyq_pattern records
+    already have a "subject" field. Older Q&A pairs don't - their
+    subject is embedded as a "[Maths]" or "[Physics]" prefix in the
+    instruction text, so parse it out for those.
+    """
+    if r.get("subject"):
+        return r["subject"]
+    instr = r.get("instruction", "")
+    if instr.startswith("["):
+        end = instr.find("]")
+        if end != -1:
+            return instr[1:end]
+    return "unknown"
+
+
+def retrieve_filtered(query, model, index, meta, top_k, subject_filter=None, over_fetch=50):
+    """
+    Like retrieve(), but if subject_filter is set (not None and not "All"),
+    prefers matches from that subject. Fetches a larger candidate pool
+    first, then filters. If there aren't enough same-subject matches to
+    fill top_k, fills remaining slots with the next-best overall matches
+    - callers can check each result's subject via get_subject() to know
+    which slots were same-subject vs fallback.
+    """
+    if not subject_filter or subject_filter == "All":
+        return retrieve(query, model, index, meta, top_k)
+
+    candidates = retrieve(query, model, index, meta, over_fetch)
+
+    matching = [(score, r) for score, r in candidates
+                if get_subject(r).lower() == subject_filter.lower()]
+
+    if len(matching) >= top_k:
+        return matching[:top_k]
+
+    matching_ids = set(id(r) for _, r in matching)
+    fallback = [(score, r) for score, r in candidates if id(r) not in matching_ids]
+    return matching + fallback[:top_k - len(matching)]
+
+
 def build_prompt(query, retrieved):
     context_blocks = []
     for score, r in retrieved:
@@ -88,6 +130,69 @@ Reference material:
 Now answer this question:
 {query}
 """
+
+
+def list_available_subjects(vector_store_root="vector_store"):
+    """Returns subjects that have at least one index file, excluding legacy combined files."""
+    subjects = []
+    if not os.path.isdir(vector_store_root):
+        return subjects
+    for entry in os.listdir(vector_store_root):
+        full = os.path.join(vector_store_root, entry)
+        if os.path.isdir(full):
+            has_index = any(f.endswith(".index") for f in os.listdir(full))
+            if has_index:
+                subjects.append(entry)
+    return sorted(subjects)
+
+
+def load_subject_store(subject, vector_store_root="vector_store"):
+    """Loads every (index, meta) pair for one subject's folder."""
+    subject_dir = os.path.join(vector_store_root, subject)
+    indices = []
+    metas = []
+    if not os.path.isdir(subject_dir):
+        return indices, metas
+    for fname in sorted(os.listdir(subject_dir)):
+        if fname.endswith(".index"):
+            bucket = fname[:-len(".index")]
+            meta_path = os.path.join(subject_dir, f"{bucket}_meta.jsonl")
+            if os.path.exists(meta_path):
+                indices.append(faiss.read_index(os.path.join(subject_dir, fname)))
+                metas.append(load_meta(meta_path))
+    return indices, metas
+
+
+def retrieve_subject_aware(query, model, top_k, subject_filter=None, vector_store_root="vector_store"):
+    """
+    Searches only the chosen subject's index files if subject_filter is
+    set. If None or "All", searches every subject and merges by score.
+    This is TRUE isolation - a subject that isn't selected is never
+    touched, not just deprioritized.
+    """
+    q_emb = model.encode([query], convert_to_numpy=True, normalize_embeddings=True).astype(np.float32)
+
+    subjects_to_search = (
+        list_available_subjects(vector_store_root)
+        if not subject_filter or subject_filter == "All"
+        else [subject_filter.strip().lower()]
+    )
+
+    all_results = []
+    for subject in subjects_to_search:
+        indices, metas = load_subject_store(subject, vector_store_root)
+        for index, meta in zip(indices, metas):
+            k = min(top_k, index.ntotal)
+            if k == 0:
+                continue
+            scores, idxs = index.search(q_emb, k)
+            for score, idx in zip(scores[0], idxs[0]):
+                if idx == -1:
+                    continue
+                all_results.append((float(score), meta[idx]))
+
+    all_results.sort(key=lambda x: x[0], reverse=True)
+    return all_results[:top_k]
 
 
 def main():
