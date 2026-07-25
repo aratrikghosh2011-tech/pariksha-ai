@@ -1,24 +1,22 @@
 """
-ingest_pdfs.py (OCR version, incremental / dedup-safe)
+ingest_pdfs.py (OCR version, subject-folder aware, incremental / dedup-safe)
 
-Before OCR'ing anything, this reads vector_store/icse_meta.jsonl and
-builds a set of (book filename, page number) pairs already embedded.
-Any page matching one of those pairs is skipped without rendering or
-OCR. This means you can:
-  - drop new PDFs into textbooks/ and just re-run this script
-  - it will only process pages it hasn't seen before
-  - the existing 801 Q&A pairs and any already-ingested textbook pages
-    are never touched, re-embedded, or duplicated
+Expects textbooks/ to contain subject subfolders, e.g.:
+  textbooks/physics/Chapter 8 Current Electricity.pdf
+  textbooks/chemistry/...
+  textbooks/robotics/...
+  textbooks/literature/...
 
-If you ever need to force a re-ingestion of a book that's already in
-the index (for example, you replaced it with a better-quality scan),
-you need to manually remove its old lines from icse_meta.jsonl first
-and rebuild the index from the Q&A baseline before re-running this —
-ask before doing that, don't guess at it.
+Each chunk is tagged with "subject" (the subfolder name) and "book"
+(the PDF filename). PDFs left directly in textbooks/ with no subject
+folder are tagged subject="unsorted" and a warning is printed.
+
+Dedup key is (book, page) only - moving an already-ingested PDF into a
+subject folder does not cause it to be re-processed.
 
 Run:
   python scripts/ingest_pdfs.py
-  python scripts/ingest_pdfs.py --max_pages 5     # only look at first 5 pages of each PDF
+  python scripts/ingest_pdfs.py --max_pages 5
 """
 
 import argparse
@@ -54,6 +52,21 @@ def check_tesseract():
         print("Install it from https://github.com/UB-Mannheim/tesseract/wiki")
         print("or fix the tesseract_cmd path at the top of this script.")
         sys.exit(1)
+
+
+def find_pdfs(root):
+    """Returns list of (subject, filename, full_path). Loose PDFs in root get subject='unsorted'."""
+    found = []
+    for entry in os.listdir(root):
+        full = os.path.join(root, entry)
+        if os.path.isdir(full):
+            subject = entry
+            for fname in os.listdir(full):
+                if fname.lower().endswith(".pdf"):
+                    found.append((subject, fname, os.path.join(full, fname)))
+        elif entry.lower().endswith(".pdf"):
+            found.append(("unsorted", entry, full))
+    return found
 
 
 def load_already_ingested(meta_path):
@@ -142,13 +155,21 @@ def main():
     check_tesseract()
 
     if not os.path.isdir(TEXTBOOK_DIR):
-        print(f"ERROR: folder '{TEXTBOOK_DIR}' not found. Create it and put PDF files inside.")
+        print(f"ERROR: folder '{TEXTBOOK_DIR}' not found.")
         sys.exit(1)
 
-    pdf_files = [f for f in os.listdir(TEXTBOOK_DIR) if f.lower().endswith(".pdf")]
-    if not pdf_files:
-        print(f"ERROR: no PDF files found in '{TEXTBOOK_DIR}'.")
+    pdfs = find_pdfs(TEXTBOOK_DIR)
+    if not pdfs:
+        print(f"ERROR: no PDF files found anywhere under '{TEXTBOOK_DIR}'.")
         sys.exit(1)
+
+    unsorted = [p for p in pdfs if p[0] == "unsorted"]
+    if unsorted:
+        print(f"WARNING: {len(unsorted)} PDF(s) found directly in '{TEXTBOOK_DIR}' with no "
+              f"subject subfolder. Tagged subject='unsorted'. Move them into a subject folder "
+              f"before the next run:")
+        for _, fname, _ in unsorted:
+            print(f"    {fname}")
 
     if not os.path.exists(INDEX_PATH) or not os.path.exists(META_PATH):
         print("ERROR: existing index not found. Run build_vector_index.py first.")
@@ -168,9 +189,8 @@ def main():
     new_records = []
     all_chunks = []
 
-    for fname in pdf_files:
-        path = os.path.join(TEXTBOOK_DIR, fname)
-        print(f"Reading {fname}...")
+    for subject, fname, path in pdfs:
+        print(f"Reading [{subject}] {fname}...")
         pages, skipped_already = ocr_pdf(path, fname, already_ingested, max_pages=args.max_pages)
         print(f"  {len(pages)} new pages OCR'd, {skipped_already} pages already in the index (skipped)")
 
@@ -180,6 +200,7 @@ def main():
                 all_chunks.append(chunk)
                 new_records.append({
                     "type": "textbook",
+                    "subject": subject,
                     "book": fname,
                     "page": page_num,
                     "chunk_index": chunk_idx,
@@ -188,7 +209,7 @@ def main():
                 })
 
     if not all_chunks:
-        print("No new pages found. Everything in textbooks/ is already in the index. Nothing to add.")
+        print("No new pages found. Everything under textbooks/ is already in the index. Nothing to add.")
         sys.exit(0)
 
     print(f"Embedding {len(all_chunks)} new textbook chunks on CPU...")
