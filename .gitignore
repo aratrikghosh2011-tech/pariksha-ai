@@ -23,6 +23,10 @@ env/
 # Dataset raw PDFs (too large for GitHub)
 dataset/raw_pdfs/
 
+# Copyrighted content — textbook PDFs and OCR'd text chunks
+textbooks/
+vector_store/
+
 # Jupyter
 .ipynb_checkpoints/
 
