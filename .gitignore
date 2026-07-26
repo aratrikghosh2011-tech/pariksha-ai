@@ -36,3 +36,6 @@ Thumbs.db
 
 # HuggingFace cache
 .cache/
+
+# Chat history database (personal usage data, must never be public)
+chat_history.db
