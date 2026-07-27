@@ -98,7 +98,7 @@ def render_sidebar():
     """
     with st.sidebar:
         st.header("Settings")
-        provider_name = st.selectbox("AI provider", ["gemini", "nemotron"], index=0)
+        provider_name = st.selectbox("AI provider", ["gemini", "nemotron", "openai-oauth"], index=0)
         available = list_available_subjects()
         subject_options = ["All"] + [s.capitalize() for s in available]
         subject_filter = st.selectbox(

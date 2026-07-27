@@ -181,13 +181,71 @@ class NemotronProvider(LLMProvider):
         return data["choices"][0]["message"]["content"]
 
 
+class OpenAIOAuthProvider(LLMProvider):
+    """
+    Talks to the local openai-oauth proxy (npx openai-oauth), which exposes
+    an OpenAI-compatible /v1/chat/completions endpoint backed by a ChatGPT
+    OAuth session instead of a metered API key. The proxy must already be
+    running locally (default http://127.0.0.1:10531/v1) - this class does
+    not start it.
+
+    Image support is untested against the underlying Codex models exposed
+    by this proxy (gpt-5.4, gpt-5.3-codex, etc. - the exact list is account
+    dependent). It's sent in the standard OpenAI vision content-block
+    format; if the model/endpoint rejects it, that will surface as an
+    HTTPError from raise_for_status() rather than fail silently.
+    """
+
+    def __init__(self, model_name: str = None):
+        self.base_url = os.getenv("OPENAI_OAUTH_BASE_URL", "http://127.0.0.1:10531/v1")
+        self.model_name = model_name or os.getenv("OPENAI_OAUTH_MODEL", "gpt-5.4")
+        self.last_model_used = self.model_name
+
+    def generate(self, prompt: str, image_bytes: bytes = None, image_mime_type: str = None) -> str:
+        if image_bytes is not None:
+            if not image_mime_type:
+                raise ValueError("image_mime_type is required when image_bytes is provided")
+            import base64
+            b64 = base64.b64encode(image_bytes).decode("utf-8")
+            content = [
+                {"type": "text", "text": prompt},
+                {"type": "image_url", "image_url": {"url": f"data:{image_mime_type};base64,{b64}"}},
+            ]
+        else:
+            content = prompt
+
+        headers = {"Content-Type": "application/json"}
+        payload = {
+            "model": self.model_name,
+            "messages": [{"role": "user", "content": content}],
+        }
+        try:
+            resp = requests.post(
+                f"{self.base_url}/chat/completions",
+                headers=headers,
+                json=payload,
+                timeout=60,
+            )
+        except requests.exceptions.ConnectionError as e:
+            raise RuntimeError(
+                "Could not reach the openai-oauth proxy at "
+                f"{self.base_url}. Is `npx openai-oauth` running? "
+                f"Original error: {e}"
+            )
+        resp.raise_for_status()
+        data = resp.json()
+        return data["choices"][0]["message"]["content"]
+
+
 def get_provider(name: str = None, model_name: str = None) -> LLMProvider:
     """
     Factory. Pass a name explicitly, or omit it to read PROVIDER from .env.
     model_name: for gemini, optionally pin one specific model instead of
     using the automatic fallback chain (e.g. if the user explicitly picks
     a specific model from a CLI menu, that choice should stick rather
-    than silently falling back to the default chain).
+    than silently falling back to the default chain). For openai-oauth,
+    optionally pin one of the Codex models exposed by the local proxy
+    (e.g. "gpt-5.3-codex") instead of the default "gpt-5.4".
     """
     name = (name or os.getenv("PROVIDER", "gemini")).lower()
 
@@ -195,5 +253,9 @@ def get_provider(name: str = None, model_name: str = None) -> LLMProvider:
         return GeminiProvider(model_name=model_name)
     elif name == "nemotron":
         return NemotronProvider(model_name=model_name) if model_name else NemotronProvider()
+    elif name == "openai-oauth":
+        return OpenAIOAuthProvider(model_name=model_name)
     else:
-        raise ValueError(f"Unknown provider: {name}. Use 'gemini' or 'nemotron'.")
+        raise ValueError(
+            f"Unknown provider: {name}. Use 'gemini', 'nemotron', or 'openai-oauth'."
+        )
