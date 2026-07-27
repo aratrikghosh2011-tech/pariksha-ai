@@ -79,6 +79,7 @@ def print_help():
         "[bold]/switch <id>[/bold]      Switch to a past chat by number\n"
         "[bold]/search <text>[/bold]    Search all chats\n"
         "[bold]/subject <name>[/bold]   Set subject filter (or \"all\")\n"
+        "[bold]/provider[/bold]         Show/change the AI provider (gemini, nemotron, openai-oauth)\n"
         "[bold]/model[/bold]            Show/change the current model\n"
         "[bold]/image <path>[/bold]     Attach an image to your next question\n"
         "[bold]/calc <expr>[/bold]      Standalone calculator\n"
@@ -206,12 +207,37 @@ def handle_command(state: CliState, raw_input: str) -> bool:
             return True
         console.print(f"[green]Subject filter set to: {state.subject_filter}[/green]")
 
+    elif cmd == "/provider":
+        valid_providers = ("gemini", "nemotron", "openai-oauth")
+        if not arg.strip():
+            console.print(f"Current provider: [bold]{state.provider_name}[/bold]")
+            console.print(f"To change: /provider <name>, options: {', '.join(valid_providers)}")
+            return True
+        chosen = arg.strip().lower()
+        if chosen not in valid_providers:
+            console.print(f"[red]Unknown provider '{chosen}'. Use: {', '.join(valid_providers)}[/red]")
+            return True
+        state.provider_name = chosen
+        state.model_name = None
+        console.print(f"[green]Provider set to: {state.provider_name}[/green] (model reset to default for this provider)")
+        if chosen == "openai-oauth":
+            console.print("[dim]Make sure `npx openai-oauth` is running locally at http://127.0.0.1:10531/v1[/dim]")
+
     elif cmd == "/model":
         if not arg.strip():
-            current = state.model_name or f"auto ({' -> '.join(GEMINI_MODEL_FALLBACK_CHAIN)})"
-            console.print(f"Current: [bold]{current}[/bold]")
-            console.print("To change: /model <name>, or /model auto to use automatic fallback")
-            console.print(f"Free-tier options: {', '.join(GEMINI_MODEL_FALLBACK_CHAIN)}")
+            if state.provider_name == "gemini":
+                current = state.model_name or f"auto ({' -> '.join(GEMINI_MODEL_FALLBACK_CHAIN)})"
+                console.print(f"Current: [bold]{current}[/bold]")
+                console.print("To change: /model <name>, or /model auto to use automatic fallback")
+                console.print(f"Free-tier options: {', '.join(GEMINI_MODEL_FALLBACK_CHAIN)}")
+            elif state.provider_name == "openai-oauth":
+                default_model = os.getenv("OPENAI_OAUTH_MODEL", "gpt-5.4-mini")
+                current = state.model_name or f"{default_model} (from OPENAI_OAUTH_MODEL / default)"
+                console.print(f"Current: [bold]{current}[/bold]")
+                console.print("To change: /model <name> - must be one of the models your local openai-oauth proxy lists on startup")
+            else:
+                console.print(f"Current: [bold]{state.model_name or 'provider default'}[/bold]")
+                console.print("To change: /model <name>")
             return True
         chosen = arg.strip()
         state.model_name = None if chosen.lower() == "auto" else chosen
