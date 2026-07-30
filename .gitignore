@@ -39,3 +39,5 @@ Thumbs.db
 
 # Chat history database (personal usage data, must never be public)
 chat_history.db
+.openai_oauth_proxy.log
+openai_oauth_proxy.log

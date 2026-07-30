@@ -221,7 +221,7 @@ def handle_command(state: CliState, raw_input: str) -> bool:
         state.model_name = None
         console.print(f"[green]Provider set to: {state.provider_name}[/green] (model reset to default for this provider)")
         if chosen == "openai-oauth":
-            console.print("[dim]Make sure `npx openai-oauth` is running locally at http://127.0.0.1:10531/v1[/dim]")
+            console.print("[dim]The local openai-oauth proxy will auto-start on your next question if it isn't already running.[/dim]")
 
     elif cmd == "/model":
         if not arg.strip():

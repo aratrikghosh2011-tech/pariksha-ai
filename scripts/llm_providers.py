@@ -42,6 +42,9 @@ in July 2026) doesn't silently break the app.
 """
 
 import os
+import platform
+import subprocess
+import time
 from abc import ABC, abstractmethod
 
 import requests
@@ -181,13 +184,69 @@ class NemotronProvider(LLMProvider):
         return data["choices"][0]["message"]["content"]
 
 
+def _openai_oauth_proxy_is_up(base_url: str) -> bool:
+    try:
+        r = requests.get(f"{base_url}/models", timeout=2)
+        return r.status_code == 200
+    except requests.exceptions.RequestException:
+        return False
+
+
+def ensure_openai_oauth_proxy(base_url: str = None, timeout: int = 45) -> None:
+    """
+    Makes sure the openai-oauth local proxy (npx openai-oauth) is running,
+    starting it in the background if it isn't. Safe to call repeatedly -
+    it's a no-op if the proxy already responds. If no cached ChatGPT OAuth
+    credentials exist yet, the underlying `npx` process may open a browser
+    window for login on its own; that has to be completed by a human, this
+    function just waits for the proxy to report ready afterward.
+    """
+    base_url = base_url or os.getenv("OPENAI_OAUTH_BASE_URL", "http://127.0.0.1:10531/v1")
+
+    if _openai_oauth_proxy_is_up(base_url):
+        return
+
+    npx_cmd = ["cmd", "/c", "npx", "openai-oauth"] if platform.system() == "Windows" else ["npx", "openai-oauth"]
+    log_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "openai_oauth_proxy.log")
+
+    print(
+        f"[openai-oauth] Not running yet - starting it in the background "
+        f"(log: {log_path}). If this is the first run, a browser window "
+        f"may open for ChatGPT login - complete it promptly, the sign-in "
+        f"link expires quickly."
+    )
+    with open(log_path, "a") as log_file:
+        subprocess.Popen(
+            npx_cmd,
+            stdout=log_file,
+            stderr=subprocess.STDOUT,
+            stdin=subprocess.DEVNULL,
+        )
+
+    waited = 0
+    while waited < timeout:
+        if _openai_oauth_proxy_is_up(base_url):
+            print("[openai-oauth] Proxy is ready.")
+            return
+        time.sleep(1)
+        waited += 1
+
+    raise RuntimeError(
+        f"openai-oauth proxy did not become ready within {timeout}s. "
+        f"Check {log_path} for details (it may be waiting on a browser login, "
+        f"or port 1455/10531 may be blocked - see earlier troubleshooting)."
+    )
+
+
 class OpenAIOAuthProvider(LLMProvider):
     """
     Talks to the local openai-oauth proxy (npx openai-oauth), which exposes
     an OpenAI-compatible /v1/chat/completions endpoint backed by a ChatGPT
-    OAuth session instead of a metered API key. The proxy must already be
-    running locally (default http://127.0.0.1:10531/v1) - this class does
-    not start it.
+    OAuth session instead of a metered API key (default
+    http://127.0.0.1:10531/v1). The proxy is started lazily by
+    ensure_openai_oauth_proxy() the moment this provider is actually
+    instantiated; you never need to run `npx openai-oauth` in a separate
+    terminal yourself.
 
     Image support is untested against the underlying Codex models exposed
     by this proxy (gpt-5.4, gpt-5.3-codex, etc. - the exact list is account
@@ -198,8 +257,9 @@ class OpenAIOAuthProvider(LLMProvider):
 
     def __init__(self, model_name: str = None):
         self.base_url = os.getenv("OPENAI_OAUTH_BASE_URL", "http://127.0.0.1:10531/v1")
-        self.model_name = model_name or os.getenv("OPENAI_OAUTH_MODEL", "gpt-5.4")
+        self.model_name = model_name or os.getenv("OPENAI_OAUTH_MODEL", "gpt-5.4-mini")
         self.last_model_used = self.model_name
+        ensure_openai_oauth_proxy(self.base_url)
 
     def generate(self, prompt: str, image_bytes: bytes = None, image_mime_type: str = None) -> str:
         if image_bytes is not None:
@@ -254,6 +314,8 @@ def get_provider(name: str = None, model_name: str = None) -> LLMProvider:
     elif name == "nemotron":
         return NemotronProvider(model_name=model_name) if model_name else NemotronProvider()
     elif name == "openai-oauth":
+        import oauth_proxy
+        oauth_proxy.ensure_running()
         return OpenAIOAuthProvider(model_name=model_name)
     else:
         raise ValueError(
