@@ -23,6 +23,7 @@ need to call directly). It's safe to call on every request:
 
 import atexit
 import os
+import platform
 import shlex
 import shutil
 import subprocess
@@ -31,8 +32,10 @@ import time
 
 import requests
 
-# Overridable by tests so they don't have to shell out to a real `npx`.
-_SPAWN_CMD = ["npx", "openai-oauth"]
+# On Windows, `npx` is actually `npx.cmd`; subprocess.Popen's CreateProcess
+# call does not search PATHEXT for that the way cmd.exe's own command
+# resolution does, so it must be routed through `cmd /c` there.
+_SPAWN_CMD = ["cmd", "/c", "npx", "openai-oauth"] if platform.system() == "Windows" else ["npx", "openai-oauth"]
 
 _STARTUP_TIMEOUT_S = 45  # generous - first-ever `npx` run has to fetch the package
 _POLL_INTERVAL_S = 0.5
@@ -71,12 +74,35 @@ def _tail_log(n_chars: int = 800) -> str:
 def _cleanup():
     """atexit hook - only touches a process this module spawned itself."""
     global _process
-    if _process is not None and _process.poll() is None:
-        _process.terminate()
+    if _process is None or _process.poll() is not None:
+        return
+    try:
+        import psutil
         try:
-            _process.wait(timeout=5)
-        except subprocess.TimeoutExpired:
-            _process.kill()
+            parent = psutil.Process(_process.pid)
+            children = parent.children(recursive=True)
+        except psutil.NoSuchProcess:
+            children = []
+        for child in children:
+            try:
+                child.terminate()
+            except psutil.NoSuchProcess:
+                pass
+        gone, alive = psutil.wait_procs(children, timeout=5)
+        for p in alive:
+            try:
+                p.kill()
+            except psutil.NoSuchProcess:
+                pass
+    except Exception:
+        pass  # best-effort - fall through to killing the direct child regardless
+    try:
+        _process.terminate()
+        _process.wait(timeout=5)
+    except subprocess.TimeoutExpired:
+        _process.kill()
+    except Exception:
+        pass
 
 
 atexit.register(_cleanup)
