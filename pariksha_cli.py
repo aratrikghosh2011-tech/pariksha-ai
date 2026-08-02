@@ -18,6 +18,9 @@ Commands inside the chat (type any of these instead of a question):
   /image <path>     Attach a local image file to your NEXT question
   /calc <expr>      Standalone calculator, e.g. /calc 2^10 + sqrt(144)
   /edit <n>         Edit message number n in the current chat and resubmit
+  /flashcards <subject> [topic]   Generate flashcards grounded in that subject's content
+  /quiz <subject> [topic]         Generate multiple-choice quiz questions
+  /review <subject>               Go through saved flashcards/quiz for a subject
   /help             Show this list again
   /quit             Exit
 """
@@ -36,7 +39,9 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "scripts"))
 from rag_query import get_subject, build_prompt, MODEL_NAME, list_available_subjects, retrieve_subject_aware
 from llm_providers import get_provider, GEMINI_MODEL_FALLBACK_CHAIN
 from calculator import verify_arithmetic, calculate
+from latex_render import render_latex_for_terminal
 import chat_store
+import flashcards as flashcards_module
 
 console = Console()
 
@@ -84,6 +89,9 @@ def print_help():
         "[bold]/image <path>[/bold]     Attach an image to your next question\n"
         "[bold]/calc <expr>[/bold]      Standalone calculator\n"
         "[bold]/edit <n>[/bold]         Edit message n and resubmit\n"
+        "[bold]/flashcards <subject> [topic][/bold]  Generate flashcards\n"
+        "[bold]/quiz <subject> [topic][/bold]        Generate a quiz\n"
+        "[bold]/review <subject>[/bold] Review saved flashcards/quiz for a subject\n"
         "[bold]/help[/bold]             Show this again\n"
         "[bold]/quit[/bold]             Exit",
         title="Commands", border_style="cyan",
@@ -100,7 +108,7 @@ def print_chat_history(state: CliState):
             console.print(f"\n[bold cyan]#{i} You:[/bold cyan] {msg['content']}")
         else:
             console.print(f"\n[bold green]Pariksha AI:[/bold green]")
-            console.print(Markdown(msg["content"]))
+            console.print(Markdown(render_latex_for_terminal(msg["content"])))
             if msg.get("sources"):
                 console.print("[dim]Sources:[/dim]")
                 for s in msg["sources"]:
@@ -130,6 +138,107 @@ def run_rag(state: CliState, question: str, image_bytes=None, image_mime_type=No
         return annotated_answer, sources, model_used
     except Exception as e:
         return f"Something went wrong: {e}", [], None
+
+
+def handle_flashcards_command(state: CliState, arg: str, card_type: str):
+    """
+    Handles /flashcards and /quiz. arg is "<subject>" or
+    "<subject> <topic keyword>". Generates cards grounded in the
+    subject's actual retrieved content, saves them to the database,
+    then prints them immediately.
+    """
+    if not arg.strip():
+        command_name = "flashcards" if card_type == "flashcard" else "quiz"
+        console.print(f"[red]Usage: /{command_name} <subject> [topic][/red]")
+        return
+
+    parts = arg.strip().split(maxsplit=1)
+    subject = parts[0].lower()
+    topic = parts[1] if len(parts) > 1 else None
+
+    available = list_available_subjects()
+    if subject not in available:
+        console.print(f"[red]Unknown subject '{subject}'. Available: {', '.join(available)}[/red]")
+        return
+
+    def retrieve_fn(query, top_k, subject_filter):
+        return retrieve_subject_aware(query, state.model, top_k, subject_filter)
+
+    provider = get_provider(state.provider_name, model_name=state.model_name)
+
+    label = "flashcards" if card_type == "flashcard" else "quiz questions"
+    with console.status(f"Generating {label} for {subject}{f' ({topic})' if topic else ''}..."):
+        cards, error = flashcards_module.generate_flashcards(
+            subject, provider, retrieve_fn, top_k=8, topic=topic, count=8, card_type=card_type,
+        )
+
+    if error:
+        console.print(f"[red]{error}[/red]")
+        return
+
+    saved_count = flashcards_module.save_cards(cards)
+    console.print(f"[green]Generated and saved {saved_count} {label}.[/green]\n")
+
+    for i, card in enumerate(cards, start=1):
+        if card_type == "flashcard":
+            console.print(f"[bold cyan]{i}. {render_latex_for_terminal(card['front'])}[/bold cyan]")
+            console.print(f"   {render_latex_for_terminal(card['back'])}\n")
+        else:
+            console.print(f"[bold cyan]{i}. {render_latex_for_terminal(card['question'])}[/bold cyan]")
+            for j, opt in enumerate(card["options"]):
+                marker = "✓" if j == card["correct_index"] else " "
+                console.print(f"   [{marker}] {render_latex_for_terminal(opt)}")
+            console.print(f"   [dim]{render_latex_for_terminal(card['explanation'])}[/dim]\n")
+
+    console.print(f"[dim]Run /review {subject} anytime to go through saved cards again.[/dim]")
+
+
+def handle_review_command(state: CliState, arg: str):
+    """
+    Handles /review <subject>. Walks through every saved flashcard and
+    quiz question for that subject, one at a time, prompting the user
+    to self-grade (for flashcards) or pick an answer (for quiz), and
+    records the result via flashcards_module.record_review() - this is
+    the raw signal a future weak-topic feature would aggregate over.
+    """
+    subject = arg.strip().lower()
+    if not subject:
+        console.print("[red]Usage: /review <subject>[/red]")
+        return
+
+    cards = flashcards_module.get_cards(subject=subject)
+    if not cards:
+        console.print(f"[dim]No saved flashcards/quiz for '{subject}' yet. Try /flashcards {subject} or /quiz {subject} first.[/dim]")
+        return
+
+    console.print(f"[bold]Reviewing {len(cards)} card(s) for {subject}.[/bold] Press Ctrl+C at any point to stop early.\n")
+
+    try:
+        for i, card in enumerate(cards, start=1):
+            if card["card_type"] == "flashcard":
+                console.print(f"[bold cyan]{i}/{len(cards)}: {render_latex_for_terminal(card['front'])}[/bold cyan]")
+                Prompt.ask("[dim](press enter to reveal the answer)[/dim]", default="", show_default=False)
+                console.print(f"   {render_latex_for_terminal(card['back'])}")
+                got_it = Prompt.ask("Did you get it right?", choices=["y", "n"], default="y")
+                flashcards_module.record_review(card["id"], was_correct=(got_it == "y"))
+            else:
+                console.print(f"[bold cyan]{i}/{len(cards)}: {render_latex_for_terminal(card['question'])}[/bold cyan]")
+                for j, opt in enumerate(card["options"]):
+                    console.print(f"   {j}) {render_latex_for_terminal(opt)}")
+                answer = Prompt.ask("Your answer (0-3)", choices=["0", "1", "2", "3"])
+                was_correct = int(answer) == card["correct_index"]
+                if was_correct:
+                    console.print("[green]Correct![/green]")
+                else:
+                    correct_option = card["options"][card["correct_index"]]
+                    console.print(f"[red]Not quite - the correct answer was: {render_latex_for_terminal(correct_option)}[/red]")
+                console.print(f"[dim]{render_latex_for_terminal(card['explanation'])}[/dim]")
+                flashcards_module.record_review(card["id"], was_correct=was_correct)
+            console.print()
+    except (KeyboardInterrupt, EOFError):
+        console.print("\n[dim]Review stopped early.[/dim]")
+
+    console.print("[green]Review session complete.[/green]")
 
 
 def handle_command(state: CliState, raw_input: str) -> bool:
@@ -296,11 +405,20 @@ def handle_command(state: CliState, raw_input: str) -> bool:
             answer, sources, model_used = run_rag(state, new_content)
         chat_store.add_message(state.chat_id, "assistant", answer, sources)
         console.print(f"\n[bold green]Pariksha AI[/bold green] [dim](via {model_used})[/dim]:")
-        console.print(Markdown(answer))
+        console.print(Markdown(render_latex_for_terminal(answer)))
         if sources:
             console.print("[dim]Sources:[/dim]")
             for s in sources:
                 console.print(f"[dim]  - {s}[/dim]")
+
+    elif cmd == "/flashcards":
+        handle_flashcards_command(state, arg, card_type="flashcard")
+
+    elif cmd == "/quiz":
+        handle_flashcards_command(state, arg, card_type="quiz")
+
+    elif cmd == "/review":
+        handle_review_command(state, arg)
 
     else:
         console.print(f"[red]Unknown command: {cmd}. Type /help for the list.[/red]")
@@ -316,6 +434,7 @@ def main():
     ))
 
     chat_store.init_db()
+    flashcards_module.init_db()
 
     state = CliState()
     chats = chat_store.list_chats()
@@ -367,7 +486,7 @@ def main():
         chat_store.add_message(state.chat_id, "assistant", answer, sources)
 
         console.print(f"\n[bold green]Pariksha AI[/bold green] [dim](via {model_used})[/dim]:")
-        console.print(Markdown(answer))
+        console.print(Markdown(render_latex_for_terminal(answer)))
         if sources:
             console.print("[dim]Sources:[/dim]")
             for s in sources:
