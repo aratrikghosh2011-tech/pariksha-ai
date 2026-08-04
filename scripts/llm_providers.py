@@ -7,7 +7,8 @@ Swap backends by changing PROVIDER in your .env, no other code changes.
 Requires a .env file in the repo root with:
   GEMINI_API_KEY=your_key_here
   NVIDIA_API_KEY=your_key_here      # from build.nvidia.com, for Nemotron 3
-  PROVIDER=gemini                   # or: nemotron
+  GROQ_API_KEY=your_key_here        # from console.groq.com, for Groq
+  PROVIDER=gemini                   # or: nemotron, groq
 
 --- Free-tier model choice (as of July 26, 2026) ---
 
@@ -181,6 +182,60 @@ class NemotronProvider(LLMProvider):
         return data["choices"][0]["message"]["content"]
 
 
+class GroqProvider(LLMProvider):
+    """
+    Uses Groq's OpenAI-compatible endpoint (https://api.groq.com/openai/v1).
+    Groq's free tier is per-model, not one shared bucket - as of the
+    numbers checked when this was written, llama-3.3-70b-versatile
+    sits around 1,000 requests/day and 30 requests/minute on the free
+    tier. These numbers change; check https://console.groq.com/settings/limits
+    on your own account before assuming a figure, same lesson already
+    learned twice with the Gemini/Gemma quotas in this file - do not
+    trust a blog post's published number over your own dashboard.
+
+    Does not support image input on this text-first default model.
+    Raises NotImplementedError if an image is passed so the caller
+    finds out immediately rather than the image silently being
+    dropped. (Groq does have vision-capable models on some accounts -
+    if you want image support later, that's a different model_name
+    and a different content-block format, not a change to this class
+    as written.)
+    """
+
+    BASE_URL = "https://api.groq.com/openai/v1/chat/completions"
+
+    def __init__(self, model_name: str = "llama-3.3-70b-versatile"):
+        api_key = os.getenv("GROQ_API_KEY")
+        if not api_key:
+            raise RuntimeError("GROQ_API_KEY not set in .env")
+
+        self.api_key = api_key
+        self.model_name = model_name
+        self.last_model_used = model_name
+
+    def generate(self, prompt: str, image_bytes: bytes = None, image_mime_type: str = None) -> str:
+        if image_bytes is not None:
+            raise NotImplementedError(
+                "GroqProvider (default model) does not support image input. "
+                "Switch to the gemini provider for questions with an attached image."
+            )
+
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+        payload = {
+            "model": self.model_name,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.2,
+            "max_tokens": 1024,
+        }
+        resp = requests.post(self.BASE_URL, headers=headers, json=payload, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        return data["choices"][0]["message"]["content"]
+
+
 class OpenAIOAuthProvider(LLMProvider):
     """
     Talks to the local openai-oauth proxy (npx openai-oauth), which exposes
@@ -255,11 +310,13 @@ def get_provider(name: str = None, model_name: str = None) -> LLMProvider:
         return GeminiProvider(model_name=model_name)
     elif name == "nemotron":
         return NemotronProvider(model_name=model_name) if model_name else NemotronProvider()
+    elif name == "groq":
+        return GroqProvider(model_name=model_name) if model_name else GroqProvider()
     elif name == "openai-oauth":
         import oauth_proxy
         oauth_proxy.ensure_running()
         return OpenAIOAuthProvider(model_name=model_name)
     else:
         raise ValueError(
-            f"Unknown provider: {name}. Use 'gemini', 'nemotron', or 'openai-oauth'."
+            f"Unknown provider: {name}. Use 'gemini', 'nemotron', 'groq', or 'openai-oauth'."
         )

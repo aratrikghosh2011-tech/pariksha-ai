@@ -21,6 +21,7 @@ Commands inside the chat (type any of these instead of a question):
   /flashcards <subject> [topic]   Generate flashcards grounded in that subject's content
   /quiz <subject> [topic]         Generate multiple-choice quiz questions
   /review <subject>               Go through saved flashcards/quiz for a subject
+  /weak [subject]                 Show your weakest topics, ranked by accuracy
   /help             Show this list again
   /quit             Exit
 """
@@ -31,7 +32,7 @@ import sys
 from rich.console import Console
 from rich.markdown import Markdown
 from rich.panel import Panel
-from rich.prompt import Prompt
+from rich.prompt import Prompt, Confirm
 from rich.table import Table
 from sentence_transformers import SentenceTransformer
 
@@ -84,7 +85,7 @@ def print_help():
         "[bold]/switch <id>[/bold]      Switch to a past chat by number\n"
         "[bold]/search <text>[/bold]    Search all chats\n"
         "[bold]/subject <name>[/bold]   Set subject filter (or \"all\")\n"
-        "[bold]/provider[/bold]         Show/change the AI provider (gemini, nemotron, openai-oauth)\n"
+        "[bold]/provider[/bold]         Show/change the AI provider (gemini, nemotron, groq, openai-oauth)\n"
         "[bold]/model[/bold]            Show/change the current model\n"
         "[bold]/image <path>[/bold]     Attach an image to your next question\n"
         "[bold]/calc <expr>[/bold]      Standalone calculator\n"
@@ -92,6 +93,7 @@ def print_help():
         "[bold]/flashcards <subject> [topic][/bold]  Generate flashcards\n"
         "[bold]/quiz <subject> [topic][/bold]        Generate a quiz\n"
         "[bold]/review <subject>[/bold] Review saved flashcards/quiz for a subject\n"
+        "[bold]/weak [subject][/bold]  Show your weakest topics, ranked by accuracy\n"
         "[bold]/help[/bold]             Show this again\n"
         "[bold]/quit[/bold]             Exit",
         title="Commands", border_style="cyan",
@@ -161,6 +163,22 @@ def handle_flashcards_command(state: CliState, arg: str, card_type: str):
         console.print(f"[red]Unknown subject '{subject}'. Available: {', '.join(available)}[/red]")
         return
 
+    # No topic given: check if this subject has a weak topic worth
+    # focusing on instead of the generic "important concepts" query.
+    # Only ever a suggestion - never silent, always asks first, and
+    # a "no" just proceeds with the old generic behavior.
+    if topic is None:
+        weak_topics = flashcards_module.get_weak_topics(subject=subject)
+        suggested = flashcards_module.pick_weak_topic_for_generation(subject, weak_topics)
+        if suggested:
+            use_weak = Confirm.ask(
+                f"[yellow]No topic given. Your weakest area in {subject} is "
+                f"'{suggested}' - focus this on that?[/yellow]",
+                default=True,
+            )
+            if use_weak:
+                topic = suggested
+
     def retrieve_fn(query, top_k, subject_filter):
         return retrieve_subject_aware(query, state.model, top_k, subject_filter)
 
@@ -191,6 +209,50 @@ def handle_flashcards_command(state: CliState, arg: str, card_type: str):
             console.print(f"   [dim]{render_latex_for_terminal(card['explanation'])}[/dim]\n")
 
     console.print(f"[dim]Run /review {subject} anytime to go through saved cards again.[/dim]")
+
+
+def handle_weak_command(state: CliState, arg: str):
+    """
+    Handles /weak [subject]. Prints a ranked table of weak topics
+    (lowest accuracy first), each requiring at least 5 total reviews
+    to appear, so a single wrong answer on a new card doesn't show up
+    as a "weak topic" on no real evidence. Pure DB read, no API calls.
+    """
+    subject = arg.strip().lower() or None
+    if subject:
+        available = list_available_subjects()
+        if subject not in available:
+            console.print(f"[red]Unknown subject '{subject}'. Available: {', '.join(available)}[/red]")
+            return
+
+    weak_topics = flashcards_module.get_weak_topics(subject=subject)
+    if not weak_topics:
+        scope = f" for '{subject}'" if subject else ""
+        console.print(
+            f"[dim]No weak topics{scope} yet - either no cards have 5+ reviews "
+            f"yet, or you're doing fine everywhere. Keep reviewing with /review.[/dim]"
+        )
+        return
+
+    table = Table(title=f"Weakest topics{f' - {subject}' if subject else ''}")
+    table.add_column("Subject")
+    table.add_column("Topic")
+    table.add_column("Accuracy", justify="right")
+    table.add_column("Reviews", justify="right")
+    for t in weak_topics:
+        acc_pct = f"{t['accuracy']:.0%}"
+        style = "red" if t["accuracy"] < 0.5 else ("yellow" if t["accuracy"] < 0.75 else "green")
+        table.add_row(
+            t["subject"], t["topic"],
+            f"[{style}]{acc_pct}[/{style}]",
+            f"{t['total_correct']}/{t['total_reviews']}",
+        )
+    console.print(table)
+    console.print(
+        "[dim]'general' = cards generated without a specific topic. "
+        "Run /flashcards <subject> or /quiz <subject> with no topic to get "
+        "an auto-focus suggestion on your weakest real topic.[/dim]"
+    )
 
 
 def handle_review_command(state: CliState, arg: str):
@@ -317,7 +379,7 @@ def handle_command(state: CliState, raw_input: str) -> bool:
         console.print(f"[green]Subject filter set to: {state.subject_filter}[/green]")
 
     elif cmd == "/provider":
-        valid_providers = ("gemini", "nemotron", "openai-oauth")
+        valid_providers = ("gemini", "nemotron", "groq", "openai-oauth")
         if not arg.strip():
             console.print(f"Current provider: [bold]{state.provider_name}[/bold]")
             console.print(f"To change: /provider <name>, options: {', '.join(valid_providers)}")
@@ -419,6 +481,9 @@ def handle_command(state: CliState, raw_input: str) -> bool:
 
     elif cmd == "/review":
         handle_review_command(state, arg)
+
+    elif cmd == "/weak":
+        handle_weak_command(state, arg)
 
     else:
         console.print(f"[red]Unknown command: {cmd}. Type /help for the list.[/red]")

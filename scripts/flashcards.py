@@ -296,3 +296,96 @@ def delete_cards(subject=None, card_type=None, db_path=DB_PATH):
         return cur.rowcount
     finally:
         conn.close()
+
+
+def get_weak_topics(subject=None, min_reviews=5, db_path=DB_PATH):
+    """
+    Aggregates review stats by (subject, topic) and ranks weakest
+    first (lowest accuracy). Only includes groups with at least
+    min_reviews total attempts, to avoid one unlucky answer on a
+    brand-new card making a topic look "weak" on no evidence.
+
+    Cards with topic=NULL (generated without a topic keyword) are
+    bucketed together as 'general' rather than dropped, so untagged
+    review history still counts toward something visible - but note
+    'general' is not a real topic name and should not be used as a
+    retrieval query (see pick_weak_topic_for_generation below, which
+    skips it).
+
+    Returns a list of dicts: subject, topic, total_reviews,
+    total_correct, accuracy (0.0-1.0), sorted weakest-first.
+    """
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    try:
+        query = """
+            SELECT
+                subject,
+                COALESCE(topic, 'general') AS topic,
+                SUM(times_reviewed) AS total_reviews,
+                SUM(times_correct) AS total_correct,
+                CAST(SUM(times_correct) AS FLOAT) / SUM(times_reviewed) AS accuracy
+            FROM flashcards
+            WHERE times_reviewed > 0
+        """
+        params = []
+        if subject:
+            query += " AND subject = ?"
+            params.append(subject)
+        query += """
+            GROUP BY subject, COALESCE(topic, 'general')
+            HAVING SUM(times_reviewed) >= ?
+            ORDER BY accuracy ASC
+        """
+        params.append(min_reviews)
+        rows = conn.execute(query, params).fetchall()
+        return [dict(r) for r in rows]
+    finally:
+        conn.close()
+
+
+def get_weak_cards(subject=None, min_reviews=1, limit=10, db_path=DB_PATH):
+    """
+    Individual cards ranked by accuracy ascending (weakest first).
+    Card-level view for drilling into a specific weak topic - lower
+    default min_reviews than get_weak_topics since this is a detail
+    view, not a claim that a whole topic is weak. Cards never
+    reviewed (times_reviewed=0) are excluded since accuracy is
+    undefined for them, not because they're strong.
+    """
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    try:
+        query = "SELECT * FROM flashcards WHERE times_reviewed >= ?"
+        params = [min_reviews]
+        if subject:
+            query += " AND subject = ?"
+            params.append(subject)
+        query += " ORDER BY (CAST(times_correct AS FLOAT) / times_reviewed) ASC LIMIT ?"
+        params.append(limit)
+        rows = conn.execute(query, params).fetchall()
+        results = []
+        for row in rows:
+            d = dict(row)
+            if d.get("options_json"):
+                d["options"] = json.loads(d.pop("options_json"))
+            results.append(d)
+        return results
+    finally:
+        conn.close()
+
+
+def pick_weak_topic_for_generation(subject, weak_topics):
+    """
+    Given the output of get_weak_topics(), picks the single weakest
+    real topic for a given subject to suggest as an auto-generation
+    target. Skips the 'general' bucket deliberately - it's not a real
+    topic string and would be useless as a retrieval query (you can't
+    ask the retriever for "general"). Returns None if there is no
+    qualifying weak topic for this subject, so the caller can fall
+    back to its existing generic behavior unchanged.
+    """
+    candidates = [t for t in weak_topics if t["subject"] == subject and t["topic"] != "general"]
+    if not candidates:
+        return None
+    return candidates[0]["topic"]
